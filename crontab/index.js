@@ -1,20 +1,27 @@
 const schedule = require('../tools/schedule');
 const config = require('../config');
 const shell = require("shelljs");  // 执行shell操作
+const moment = require('moment');
 // 定时获取新闻热搜
 const apiArr = require('../api');
+const { readFileSync, writeFileSync } = require('../tools/common');
 
 schedule.setSchedule(config.autoGetDate, async function () {
-  console.log('====================开始执行获取数据====================', new Date());
+  console.log('====================开始执行获取数据====================', moment().format('YYYY-MM-DD'));
   // 获取新闻热搜
   for (const key in apiArr) {
     await apiArr[key]();
   }
-  console.log('====================结束执行获取数据====================', new Date());
+
+  let readmeStr = await readFileSync('./README.md');
+  readmeStr = readmeStr.substring(0, readmeStr.length-13);
+  readmeStr = readmeStr + moment().format('YYYY-MM-DD') +'已更新';
+  writeFileSync('./README.md', readmeStr);
+  console.log('====================结束执行获取数据====================', moment().format('YYYY-MM-DD'));
 });
 
 schedule.setSchedule(config.autoPushDate, async function () {
-  let commit = new Date();
+  let commit = moment().format('YYYY-MM-DD');
   console.log('====================开始执行自动push代码====================', commit);
   
   // // 执行git拉取命令
