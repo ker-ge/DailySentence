@@ -38,7 +38,9 @@ async function main() {
         //     if (error) { return new Error(error); }
         // })
     } catch (error) {
-        console.log('main error===', error);
+        console.log('iciba error===', error);
+    } finally {
+        console.log('get iciba end===');
     }
 }
 

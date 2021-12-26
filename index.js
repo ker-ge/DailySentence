@@ -7,6 +7,8 @@ const routes = require('./routes'); //导入自定义路由文件，创建模块
 const app = express();
 const port = process.env.PORT || 3000;
 
+require('./crontab'); // 引入定时任务
+
 app.use('/', routes);
 // app.listen(port, '0.0.0.0', () => { // 监听3000端口
 app.listen(port, () => { // 监听3000端口

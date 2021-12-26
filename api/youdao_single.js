@@ -43,7 +43,9 @@ async function main() {
             }
         }
     } catch (error) {
-        console.log('main error===', error);
+        console.log('youdao error===', error);
+    } finally {
+        console.log('get youdao end===');
     }
 }
 

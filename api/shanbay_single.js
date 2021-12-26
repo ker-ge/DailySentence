@@ -40,7 +40,9 @@ async function main() {
         //     if (error) { return new Error(error); }
         // })
     } catch (error) {
-        console.log('main error===', error);
+        console.log('shanbay error===', error);
+    } finally {
+        console.log('get shanbay end===');
     }
 }
 
