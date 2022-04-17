@@ -19,4 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-22022-04-16已更新
+2022-04-17已更新 
+```
+* 金山词霸
+  > He who laughs last laughs best. 
+  > 笑到最后才笑得最好。
+
+* 扇贝单词
+  > It is not beauty that endears, it's love that makes us see beauty.
+  > 并非美丽招人爱，而是爱让我们看到了美丽。
+
+* 有道词典
+  > The only person standing in your way is you.
+  > 唯一能够阻碍你的人是你自己。
+
+```
