@@ -19,19 +19,4 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-16已更新 
-```
-* 金山词霸
-  > The more we study, the more we discover our ignorance.
-  > 学然后知不足。
-
-* 扇贝单词
-  > Life's most persistent and urgent question is "What are you doing for others?"
-  > 生命中最永恒和急迫的问题便是：你能为别人做些什么？
-
-* 有道词典
-  > You can't let the mistakes of the past determine your future.
-  > 不要让过去的错误决定你的未来。
-
-```
-![今日诗词](https://v2.jinrishici.com/one.svg)
+22022-04-16已更新
