@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-17已更新 
+2022-04-18已更新 
 ```
 * 金山词霸
-  > He who laughs last laughs best. 
-  > 笑到最后才笑得最好。
+  > Perseverance can make miracles happen. 
+  > 坚持就有奇迹。
 
 * 扇贝单词
-  > It is not beauty that endears, it's love that makes us see beauty.
-  > 并非美丽招人爱，而是爱让我们看到了美丽。
+  > I think of a hero as someone who understands the degree of responsibility that comes with his freedom.
+  > 我认为，英雄是懂得责任和自由同在的人。
 
 * 有道词典
-  > The only person standing in your way is you.
-  > 唯一能够阻碍你的人是你自己。
+  > What makes life valuable is that it doesn't last forever.
+  > 正因岁月短暂，人生才弥足珍贵。
 
 ```
