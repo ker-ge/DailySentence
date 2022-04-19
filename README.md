@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-18已更新 
+2022-04-19已更新 
 ```
 * 金山词霸
-  > Perseverance can make miracles happen. 
-  > 坚持就有奇迹。
+  > Rainbow comes after a storm. 
+  > 风雨过后总见彩虹。
 
 * 扇贝单词
-  > I think of a hero as someone who understands the degree of responsibility that comes with his freedom.
-  > 我认为，英雄是懂得责任和自由同在的人。
+  > You can't use up creativity. The more you use, the more you have.
+  > 创新取之不尽用之不竭，越用越多。
 
 * 有道词典
-  > What makes life valuable is that it doesn't last forever.
-  > 正因岁月短暂，人生才弥足珍贵。
+  > The more difficult something became, the more rewarding it was in the end.
+  > 事情越难，最终的收获也越大。
 
 ```
