@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-19已更新 
+2022-04-20已更新 
 ```
 * 金山词霸
-  > Rainbow comes after a storm. 
-  > 风雨过后总见彩虹。
+  > Youth means limitless possibilities. 
+  > 年轻就是无限的可能。
 
 * 扇贝单词
-  > You can't use up creativity. The more you use, the more you have.
-  > 创新取之不尽用之不竭，越用越多。
+  > Every day brings new choices.
+  > 每一天都会有新的选择。
 
 * 有道词典
-  > The more difficult something became, the more rewarding it was in the end.
-  > 事情越难，最终的收获也越大。
+  > The rain brings life. So does the sun.
+  > 雨水带来生机，阳光亦如此。
 
 ```
