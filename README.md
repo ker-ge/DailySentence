@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-20已更新 
+2022-04-21已更新 
 ```
 * 金山词霸
-  > Youth means limitless possibilities. 
-  > 年轻就是无限的可能。
+  > Pursue breakthroughs in your life. 
+  > 追求你生活中的突破。
 
 * 扇贝单词
-  > Every day brings new choices.
-  > 每一天都会有新的选择。
+  > It seems the harder I work, the more luck I have.
+  > 我工作愈加努力，似乎就越幸运。
 
 * 有道词典
-  > The rain brings life. So does the sun.
-  > 雨水带来生机，阳光亦如此。
+  > Change begins with persistence and commitment.
+  > 改变始于坚持和付出。
 
 ```
