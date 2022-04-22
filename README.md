@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-21已更新 
+2022-04-22已更新 
 ```
 * 金山词霸
-  > Pursue breakthroughs in your life. 
-  > 追求你生活中的突破。
+  > Everyday and in every way I'm getting better. 
+  > 每天每个方面我的生活都在逐渐好转。
 
 * 扇贝单词
-  > It seems the harder I work, the more luck I have.
-  > 我工作愈加努力，似乎就越幸运。
+  > Alone we can do so little; together we can do so much.
+  > 独自一人，我们能做的很少；团结一心，我们能成就很多。
 
 * 有道词典
-  > Change begins with persistence and commitment.
-  > 改变始于坚持和付出。
+  > We're not put on this Earth to think of only ourselves.
+  > 人生在世，不能只考虑自己。
 
 ```
