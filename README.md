@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-22已更新 
+2022-04-24已更新 
 ```
 * 金山词霸
-  > Everyday and in every way I'm getting better. 
-  > 每天每个方面我的生活都在逐渐好转。
+  > All things come to those who wait.
+  > 坚持到底，就是胜利。
 
 * 扇贝单词
-  > Alone we can do so little; together we can do so much.
-  > 独自一人，我们能做的很少；团结一心，我们能成就很多。
+  > We become what we think about.
+  > 我们思考什么，就会变成什么。
 
 * 有道词典
-  > We're not put on this Earth to think of only ourselves.
-  > 人生在世，不能只考虑自己。
+  > It takes guts to make change.
+  > 做出改变需要勇气。
 
 ```
