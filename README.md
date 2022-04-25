@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-24已更新 
+2022-04-25已更新 
 ```
 * 金山词霸
-  > All things come to those who wait.
-  > 坚持到底，就是胜利。
+  > A fool will fool himself, but time will not fool anyone.
+  > 愚人终会愚己，时间却不会愚弄任何人。
 
 * 扇贝单词
-  > We become what we think about.
-  > 我们思考什么，就会变成什么。
+  > Failure is success if you learn from it.
+  > 只要能吸取教训，失败也是成功。
 
 * 有道词典
-  > It takes guts to make change.
-  > 做出改变需要勇气。
+  > One has to adapt to survive.
+  > 要想生存，就要学会适应。
 
 ```
