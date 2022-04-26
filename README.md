@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-25已更新 
+2022-04-26已更新 
 ```
 * 金山词霸
-  > A fool will fool himself, but time will not fool anyone.
-  > 愚人终会愚己，时间却不会愚弄任何人。
+  > Every obstacle is an opportunity.
+  > 每个障碍也是一个机会。
 
 * 扇贝单词
-  > Failure is success if you learn from it.
-  > 只要能吸取教训，失败也是成功。
+  > Look back, and smile on perils past. 
+  > 回首往事，向过去的苦难微笑。
 
 * 有道词典
-  > One has to adapt to survive.
-  > 要想生存，就要学会适应。
+  > There is no fate but what we make for ourselves.
+  > 一切尚未定局，未来由我们自己创造。
 
 ```
