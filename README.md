@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-26已更新 
+2022-04-27已更新 
 ```
 * 金山词霸
-  > Every obstacle is an opportunity.
-  > 每个障碍也是一个机会。
+  > You mustn't be afraid to dream a little bigger!
+  > 怕什么？做梦就做的大一点儿！
 
 * 扇贝单词
-  > Look back, and smile on perils past. 
-  > 回首往事，向过去的苦难微笑。
+  > When you reach the end of your rope, tie a knot in it and hang on.
+  > 哪怕希望快要破灭，也要努力挣扎，坚持下去。
 
 * 有道词典
-  > There is no fate but what we make for ourselves.
-  > 一切尚未定局，未来由我们自己创造。
+  > What matters is what you do, not what you think.
+  > 行动比空想更重要。
 
 ```
