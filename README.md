@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-27已更新 
+2022-04-28已更新 
 ```
 * 金山词霸
-  > You mustn't be afraid to dream a little bigger!
-  > 怕什么？做梦就做的大一点儿！
+  > Out with the old, in with the new.
+  > 旧的不去，新的不来。
 
 * 扇贝单词
-  > When you reach the end of your rope, tie a knot in it and hang on.
-  > 哪怕希望快要破灭，也要努力挣扎，坚持下去。
+  > Success is going from failure to failure without losing enthusiasm.
+  > 成功是从一次失败走向另一次失败，却从不丧失热情。
 
 * 有道词典
-  > What matters is what you do, not what you think.
-  > 行动比空想更重要。
+  > My courage always rises with every attempt to intimidate me.
+  > 凡试图打败我的，皆让我勇气倍增。
 
 ```
