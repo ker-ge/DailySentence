@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-28已更新 
+2022-04-29已更新 
 ```
 * 金山词霸
-  > Out with the old, in with the new.
-  > 旧的不去，新的不来。
+  > Compromise where you can. Where you can't, don't.
+  > 能迁就处可妥协，该坚守时不退让
 
 * 扇贝单词
-  > Success is going from failure to failure without losing enthusiasm.
-  > 成功是从一次失败走向另一次失败，却从不丧失热情。
+  > No one can make you feel inferior without your consent.
+  > 未经你的许可，没人能让你妄自菲薄。
 
 * 有道词典
-  > My courage always rises with every attempt to intimidate me.
-  > 凡试图打败我的，皆让我勇气倍增。
+  > You have a chance to write your own story.
+  > 你的故事由你书写。
 
 ```
