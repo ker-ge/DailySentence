@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-29已更新 
+2022-04-30已更新 
 ```
 * 金山词霸
-  > Compromise where you can. Where you can't, don't.
-  > 能迁就处可妥协，该坚守时不退让
+  > Winner makes the rules, and losers live by them.
+  > 成王败寇。
 
 * 扇贝单词
-  > No one can make you feel inferior without your consent.
-  > 未经你的许可，没人能让你妄自菲薄。
+  > Without a struggle, there can be no progress.
+  > 没有奋斗，就没有进步。
 
 * 有道词典
-  > You have a chance to write your own story.
-  > 你的故事由你书写。
+  > The greatest thing you'll ever learn is just to love and be loved in return.
+  > 最美好的事，莫过于彼此相爱。
 
 ```
