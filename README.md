@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-04-30已更新 
+2022-05-01已更新 
 ```
 * 金山词霸
-  > Winner makes the rules, and losers live by them.
-  > 成王败寇。
+  > Few words, many deeds.
+  > 少说话，多做事。
 
 * 扇贝单词
-  > Without a struggle, there can be no progress.
-  > 没有奋斗，就没有进步。
+  > The fruit derived from labor is the sweetest of pleasures.
+  > 劳动所得的果实是最甜美的。
 
 * 有道词典
-  > The greatest thing you'll ever learn is just to love and be loved in return.
-  > 最美好的事，莫过于彼此相爱。
+  > Happiness is the real sense of fulfillment that comes from hard work.
+  > 幸福是努力工作带来的成就感。
 
 ```
