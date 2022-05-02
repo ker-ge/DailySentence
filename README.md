@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-01已更新 
+2022-05-02已更新 
 ```
 * 金山词霸
-  > Few words, many deeds.
-  > 少说话，多做事。
+  > My philosophy is if you worry, you suffer twice.
+  > 我的人生信条是：遇事发愁，火上浇油。
 
 * 扇贝单词
-  > The fruit derived from labor is the sweetest of pleasures.
-  > 劳动所得的果实是最甜美的。
+  > In the depth of winter I finally learned that there was in me an invincible summer.
+  > 在隆冬，我终于知道，在我的身体里面，藏着一个无法战胜的夏天。
 
 * 有道词典
-  > Happiness is the real sense of fulfillment that comes from hard work.
-  > 幸福是努力工作带来的成就感。
+  > Everyone deserves to be happy.
+  > 快乐属于每一个人。
 
 ```
