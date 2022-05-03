@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-02已更新 
+2022-05-03已更新 
 ```
 * 金山词霸
-  > My philosophy is if you worry, you suffer twice.
-  > 我的人生信条是：遇事发愁，火上浇油。
+  > Great men are not born great, they grow great.
+  > 伟大的人不是生来伟大，而是在成长的过程中渐渐变得伟大。
 
 * 扇贝单词
-  > In the depth of winter I finally learned that there was in me an invincible summer.
-  > 在隆冬，我终于知道，在我的身体里面，藏着一个无法战胜的夏天。
+  > Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don't belong.
+  > 成长很痛苦，改变很痛苦，但是最痛苦的是卡在你本不应该在的地方。
 
 * 有道词典
-  > Everyone deserves to be happy.
-  > 快乐属于每一个人。
+  > People shouldn’t brood around their past.
+  > 不要沉溺于过往之中。
 
 ```
