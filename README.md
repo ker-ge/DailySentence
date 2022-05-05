@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-04已更新 
+2022-05-05已更新 
 ```
 * 金山词霸
-  > Youth is not a time of life; it is a state of mind.
-  > 青春不是年华，而是心境。
+  > I love summer because it is full of life and hope. 
+  > 我爱夏天，因其充满生机与希望。
 
 * 扇贝单词
-  > Integrity is the most valuable and respected quality of leadership. Always keep your word.
-  > 诚信是最宝贵和最受尊重的领导品质。永远要信守诺言。
+  > One benefit of Summer was that each day we had more light to read by.
+  > 夏天的好处之一便是我们有更多的阳光来阅读。
 
 * 有道词典
-  > The youth is the hope of our future.
-  > 青年是未来的希望。
+  > It's summer! We're supposed to be having fun!
+  > 夏天来了，一起开启快乐！
 
 ```
