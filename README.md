@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-05已更新 
+2022-05-06已更新 
 ```
 * 金山词霸
-  > I love summer because it is full of life and hope. 
-  > 我爱夏天，因其充满生机与希望。
+  > If you look the right way, you can see that the whole world is a garden.
+  > 如果欣赏的角度对了，整个世界都是花园。
 
 * 扇贝单词
-  > One benefit of Summer was that each day we had more light to read by.
-  > 夏天的好处之一便是我们有更多的阳光来阅读。
+  > We are no longer happy so soon as we wish to be happier.
+  > 在祈求更快乐的那一刻，我们便不再真正快乐。
 
 * 有道词典
-  > It's summer! We're supposed to be having fun!
-  > 夏天来了，一起开启快乐！
+  > People change and things work out.
+  > 成功在于变通。
 
 ```
