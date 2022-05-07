@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-06已更新 
+2022-05-07已更新 
 ```
 * 金山词霸
-  > If you look the right way, you can see that the whole world is a garden.
-  > 如果欣赏的角度对了，整个世界都是花园。
+  > The hard thing to do and the right thing to do are usually the same thing. 
+  > 难做的事和该做的事往往是同一件事。
 
 * 扇贝单词
-  > We are no longer happy so soon as we wish to be happier.
-  > 在祈求更快乐的那一刻，我们便不再真正快乐。
+  > Never deprive someone of hope; it might be all they have.
+  > 千万不要剥夺别人的希望，那可能是他们所拥有的全部。
 
 * 有道词典
-  > People change and things work out.
-  > 成功在于变通。
+  > Where there's pain, there's life.
+  > 有苦有痛，才叫人生。
 
 ```
