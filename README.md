@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-07已更新 
+2022-05-08已更新 
 ```
 * 金山词霸
-  > The hard thing to do and the right thing to do are usually the same thing. 
-  > 难做的事和该做的事往往是同一件事。
+  > To Mothers: Happy Mother's Day! Love yourself to gain more happiness!
+  > 致母亲：母亲节快乐！爱自己，更快乐！
 
 * 扇贝单词
-  > Never deprive someone of hope; it might be all they have.
-  > 千万不要剥夺别人的希望，那可能是他们所拥有的全部。
+  > In fair weather prepare for foul.
+  > 宜未雨绸缪。
 
 * 有道词典
-  > Where there's pain, there's life.
-  > 有苦有痛，才叫人生。
+  > Nothing's more powerful than a mother's love.
+  > 没有什么比母爱更强大。
 
 ```
