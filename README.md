@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-08已更新 
+2022-05-09已更新 
 ```
 * 金山词霸
-  > To Mothers: Happy Mother's Day! Love yourself to gain more happiness!
-  > 致母亲：母亲节快乐！爱自己，更快乐！
+  > What's life without a little risk？
+  > 生活怎么能没有点儿小冒险呢？
 
 * 扇贝单词
-  > In fair weather prepare for foul.
-  > 宜未雨绸缪。
+  > There are no limits to what you can accomplish, except the limits you place on your own thinking.
+  > 你所能完成的事情没有限制，除非你限制了自己的想法。
 
 * 有道词典
-  > Nothing's more powerful than a mother's love.
-  > 没有什么比母爱更强大。
+  > You never know what you're capable of until you try.
+  > 如果不勇于尝试，你永远不知道自己有多强大。
 
 ```
