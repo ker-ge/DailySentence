@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-10已更新 
+2022-05-11已更新 
 ```
 * 金山词霸
-  > You can like the life you're living. You can live the life you like.
-  > 你可以热爱已有的生活，也可以去追求想要的生活。
+  > No man is an island.
+  > 没有人是一座孤岛。
 
 * 扇贝单词
-  > You may not control all the events that happen to you, but you can decide not to be reduced by them.
-  > 你可能无法控制所有发生在你身上的事，但是你可以决定不被它们所累。
+  > If you change the way you look at things, the things you look at change.
+  > 如果你改变看事物的方式，事物也会因此而改变。
 
 * 有道词典
-  > There's more honor in defeat than there is in unused potential.
-  > 潜龙无用，虽败犹荣。
+  > Who we were does not dictate who we will be.
+  > 过去都已过去，未来由我们自己决定。
 
 ```
