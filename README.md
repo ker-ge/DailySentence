@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-11已更新 
+2022-05-12已更新 
 ```
 * 金山词霸
-  > No man is an island.
-  > 没有人是一座孤岛。
+  > Disaster is more painful for survivors because it's hard to forget.
+  > 灾难对于幸存者来说更痛苦，因为它难以忘却。
 
 * 扇贝单词
-  > If you change the way you look at things, the things you look at change.
-  > 如果你改变看事物的方式，事物也会因此而改变。
+  > We do not remember days, we remember moments.
+  > 我们往往记住的不是某一天，而是某个时刻。
 
 * 有道词典
-  > Who we were does not dictate who we will be.
-  > 过去都已过去，未来由我们自己决定。
+  > There is so much beauty in the world.
+  > 大千世界，无限美好。
 
 ```
