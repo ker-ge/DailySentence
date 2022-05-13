@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-12已更新 
+2022-05-13已更新 
 ```
 * 金山词霸
-  > Disaster is more painful for survivors because it's hard to forget.
-  > 灾难对于幸存者来说更痛苦，因为它难以忘却。
+  > Don't let anyone ever make you feel like you don't deserve what you want.
+  > 别让任何人让你觉得自己不配拥有梦想。
 
 * 扇贝单词
-  > We do not remember days, we remember moments.
-  > 我们往往记住的不是某一天，而是某个时刻。
+  > Nothing is impossible, the word itself says "I'm possible"!
+  > 没有不可能，连“不可能”这个词自己都说：“不，可能！”
 
 * 有道词典
-  > There is so much beauty in the world.
-  > 大千世界，无限美好。
+  > We will find hope in the impossible.
+  > 无望之中也能发现希望。
 
 ```
