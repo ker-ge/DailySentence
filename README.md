@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-13已更新 
+2022-05-14已更新 
 ```
 * 金山词霸
-  > Don't let anyone ever make you feel like you don't deserve what you want.
-  > 别让任何人让你觉得自己不配拥有梦想。
+  > Saving the world requires sacrifice.
+  > 拯救世界需要付出代价。
 
 * 扇贝单词
-  > Nothing is impossible, the word itself says "I'm possible"!
-  > 没有不可能，连“不可能”这个词自己都说：“不，可能！”
+  > The true secret of happiness lies in taking a genuine interest in all the details of daily life.
+  > 快乐的真谛在于对日常生活的点滴都发自内心地感兴趣。
 
 * 有道词典
-  > We will find hope in the impossible.
-  > 无望之中也能发现希望。
+  > The beauty of life can spring forth from even the harshest of climates.
+  > 艰难之境亦见生活之美。
 
 ```
