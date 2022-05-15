@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-14已更新 
+2022-05-15已更新 
 ```
 * 金山词霸
-  > Saving the world requires sacrifice.
-  > 拯救世界需要付出代价。
+  > The real danger is that if we hear enough lies, then we no longer recognize the truth at all.
+  > 真正的危险是，我们听多了谎言，便不再能分辨出真相。
 
 * 扇贝单词
-  > The true secret of happiness lies in taking a genuine interest in all the details of daily life.
-  > 快乐的真谛在于对日常生活的点滴都发自内心地感兴趣。
+  > Optimism is the one quality more associated with success and happiness than any other.
+  > 与其他品质相比，乐观更能让你获得成功和幸福。
 
 * 有道词典
-  > The beauty of life can spring forth from even the harshest of climates.
-  > 艰难之境亦见生活之美。
+  > The more you get hit, the harder you fight.
+  > 经历的击打越多，你的勇气越盛。
 
 ```
