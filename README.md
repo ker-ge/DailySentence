@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-15已更新 
+2022-05-16已更新 
 ```
 * 金山词霸
-  > The real danger is that if we hear enough lies, then we no longer recognize the truth at all.
-  > 真正的危险是，我们听多了谎言，便不再能分辨出真相。
+  > Take a break from worrying about what you can't control. Live a little.
+  > 别杞人忧天了，活在当下。
 
 * 扇贝单词
-  > Optimism is the one quality more associated with success and happiness than any other.
-  > 与其他品质相比，乐观更能让你获得成功和幸福。
+  > Kindness is a language which the deaf can hear and the blind can see.
+  > 友善是一种语言，失聪的人和失明的人也能感受。
 
 * 有道词典
-  > The more you get hit, the harder you fight.
-  > 经历的击打越多，你的勇气越盛。
+  > Learn from loss and your day will come.
+  > 要想成功，就要学会从失去中汲取经验。
 
 ```
