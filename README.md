@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-16已更新 
+2022-05-17已更新 
 ```
 * 金山词霸
-  > Take a break from worrying about what you can't control. Live a little.
-  > 别杞人忧天了，活在当下。
+  > Do not let your emotions override your judgment.
+  > 不要被情绪影响了你的判断力。
 
 * 扇贝单词
-  > Kindness is a language which the deaf can hear and the blind can see.
-  > 友善是一种语言，失聪的人和失明的人也能感受。
+  > What you get by achieving your goals is not as important as what you become by achieving your goals.
+  > 你通过达成目标所得到的并不重要，重要的是你通过达成目标而成为什么样的人。
 
 * 有道词典
-  > Learn from loss and your day will come.
-  > 要想成功，就要学会从失去中汲取经验。
+  > Helping others makes our own lives better and makes us better people.
+  > 赠人玫瑰，手有余香。
 
 ```
