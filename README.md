@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-17已更新 
+2022-05-18已更新 
 ```
 * 金山词霸
-  > Do not let your emotions override your judgment.
-  > 不要被情绪影响了你的判断力。
+  > If we just open the door a crack, the light comes pouring in.
+  > 只要把门打开一丝缝隙，光就会倾泻而入。
 
 * 扇贝单词
-  > What you get by achieving your goals is not as important as what you become by achieving your goals.
-  > 你通过达成目标所得到的并不重要，重要的是你通过达成目标而成为什么样的人。
+  > Life isn't about finding yourself. Life is about creating yourself.
+  > 生命的意义不在于发现你自己，而在于创造你自己。
 
 * 有道词典
-  > Helping others makes our own lives better and makes us better people.
-  > 赠人玫瑰，手有余香。
+  > You don't always have to fight to win.
+  > 输赢并不总是那么重要。
 
 ```
