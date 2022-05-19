@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-18已更新 
+2022-05-19已更新 
 ```
 * 金山词霸
-  > If we just open the door a crack, the light comes pouring in.
-  > 只要把门打开一丝缝隙，光就会倾泻而入。
+  > It's okay to be scared. In order to be brave, we got to be a little scared.
+  > 害怕是正常的，感到害怕才能学会勇敢。
 
 * 扇贝单词
-  > Life isn't about finding yourself. Life is about creating yourself.
-  > 生命的意义不在于发现你自己，而在于创造你自己。
+  > Never limit yourself because of others’ limited imagination; never limit others because of your own limited imagination.
+  > 不要被他人有限的想象力所限制，也不要用自己有限的想象力限制他人。
 
 * 有道词典
-  > You don't always have to fight to win.
-  > 输赢并不总是那么重要。
+  > Every ending is a new beginning.
+  > 每次结束都意味着一个新的开始。
 
 ```
