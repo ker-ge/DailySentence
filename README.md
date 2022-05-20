@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-19已更新 
+2022-05-20已更新 
 ```
 * 金山词霸
-  > It's okay to be scared. In order to be brave, we got to be a little scared.
-  > 害怕是正常的，感到害怕才能学会勇敢。
+  > The greatest thing I've ever known is to love and be loved in return.
+  > 我所知道的最美好的事莫过于双向奔赴的爱。
 
 * 扇贝单词
-  > Never limit yourself because of others’ limited imagination; never limit others because of your own limited imagination.
-  > 不要被他人有限的想象力所限制，也不要用自己有限的想象力限制他人。
+  > Today’s accomplishments were yesterday’s impossibilities.
+  > 今日的成就都是在昨日被认为不可能的事。
 
 * 有道词典
-  > Every ending is a new beginning.
-  > 每次结束都意味着一个新的开始。
+  > I'll always love you, no matter where I am.
+  > 无论身处何地，我将永远爱你。
 
 ```
