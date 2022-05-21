@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-20已更新 
+2022-05-21已更新 
 ```
 * 金山词霸
-  > The greatest thing I've ever known is to love and be loved in return.
-  > 我所知道的最美好的事莫过于双向奔赴的爱。
+  > There's no rhyme or reason to this life.
+  > 世事无常。
 
 * 扇贝单词
-  > Today’s accomplishments were yesterday’s impossibilities.
-  > 今日的成就都是在昨日被认为不可能的事。
+  > Speak less than you know; have more than you show.
+  > 怀璧慎显，博识谨言。
 
 * 有道词典
-  > I'll always love you, no matter where I am.
-  > 无论身处何地，我将永远爱你。
+  > The only way to keep going is to take control of your life.
+  > 掌控自我人生，不断砥砺前行。
 
 ```
