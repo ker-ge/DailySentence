@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-21已更新 
+2022-05-22已更新 
 ```
 * 金山词霸
-  > There's no rhyme or reason to this life.
-  > 世事无常。
+  > It is much more difficult to judge oneself than to judge others.
+  > 审判自己比审判别人要难得多。
 
 * 扇贝单词
-  > Speak less than you know; have more than you show.
-  > 怀璧慎显，博识谨言。
+  > Our lives begin to end the day we become silent about things that matter.
+  > 当我们对重要的事保持沉默时，我们人生便开始失去价值。
 
 * 有道词典
-  > The only way to keep going is to take control of your life.
-  > 掌控自我人生，不断砥砺前行。
+  > You steer ahead. You are the captain now.
+  > 你的人生航向由你做主。
 
 ```
