@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-22已更新 
+2022-05-23已更新 
 ```
 * 金山词霸
-  > It is much more difficult to judge oneself than to judge others.
-  > 审判自己比审判别人要难得多。
+  > Happiness is a way station between too much and too little.
+  > 幸福是太多和太少之间的一站。
 
 * 扇贝单词
-  > Our lives begin to end the day we become silent about things that matter.
-  > 当我们对重要的事保持沉默时，我们人生便开始失去价值。
+  > There’s nothing more inspiring than the complexity and beauty of the human heart.
+  > 没有什么比人类心灵的复杂与美丽更能鼓舞人心的了。
 
 * 有道词典
-  > You steer ahead. You are the captain now.
-  > 你的人生航向由你做主。
+  > Let your heart guide you.
+  > 跟随心的方向。
 
 ```
