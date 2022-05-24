@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-23已更新 
+2022-05-24已更新 
 ```
 * 金山词霸
-  > Happiness is a way station between too much and too little.
-  > 幸福是太多和太少之间的一站。
+  > If you are good at something, never do it for free.
+  > 擅长的事情，绝不能白干。
 
 * 扇贝单词
-  > There’s nothing more inspiring than the complexity and beauty of the human heart.
-  > 没有什么比人类心灵的复杂与美丽更能鼓舞人心的了。
+  > I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.
+  > 我发现，爱一个人的最好方法不是去改变他们，而是帮助他们呈现最好的自己。
 
 * 有道词典
-  > Let your heart guide you.
-  > 跟随心的方向。
+  > Problems are just opportunities that haven't presented themselves.
+  > 困难亦是潜在的机会。
 
 ```
