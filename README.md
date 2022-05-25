@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-24已更新 
+2022-05-25已更新 
 ```
 * 金山词霸
-  > If you are good at something, never do it for free.
-  > 擅长的事情，绝不能白干。
+  > People are afraid of what they don't understand.
+  > 人们害怕他们不理解的东西。
 
 * 扇贝单词
-  > I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.
-  > 我发现，爱一个人的最好方法不是去改变他们，而是帮助他们呈现最好的自己。
+  > To succeed, work hard, never give up and above all, cherish a magnificent obsession.
+  > 要成功，就要努力工作，永不放弃，最重要的是，要怀有强烈的痴迷。
 
 * 有道词典
-  > Problems are just opportunities that haven't presented themselves.
-  > 困难亦是潜在的机会。
+  > Even the best make mistakes sometimes.
+  > 人非圣贤，孰能无过。
 
 ```
