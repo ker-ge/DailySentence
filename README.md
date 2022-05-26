@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-25已更新 
+2022-05-26已更新 
 ```
 * 金山词霸
-  > People are afraid of what they don't understand.
-  > 人们害怕他们不理解的东西。
+  > I see an opportunity, and I make it happen.
+  > 只要有机会，我就绝不让它溜走。
 
 * 扇贝单词
-  > To succeed, work hard, never give up and above all, cherish a magnificent obsession.
-  > 要成功，就要努力工作，永不放弃，最重要的是，要怀有强烈的痴迷。
+  > There are many ways of going forward, but only one way of standing still.
+  > 前进的方式有很多种，但停滞不前的方式却只有一种。
 
 * 有道词典
-  > Even the best make mistakes sometimes.
-  > 人非圣贤，孰能无过。
+  > Never regret yesterday. Life is in you today.
+  > 不为昨日遗憾，把握当下人生。
 
 ```
