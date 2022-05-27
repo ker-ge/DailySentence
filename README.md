@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-26已更新 
+2022-05-27已更新 
 ```
 * 金山词霸
-  > I see an opportunity, and I make it happen.
-  > 只要有机会，我就绝不让它溜走。
+  > You don't have to let the result of one mistake be the thing that defines you.
+  > 别被区区一个过失定义了自己。
 
 * 扇贝单词
-  > There are many ways of going forward, but only one way of standing still.
-  > 前进的方式有很多种，但停滞不前的方式却只有一种。
+  > Happiness is a by-product of an effort to make someone else happy.
+  > 幸福是努力使他人快乐的副产品。
 
 * 有道词典
-  > Never regret yesterday. Life is in you today.
-  > 不为昨日遗憾，把握当下人生。
+  > Learning is always a painful process.
+  > 学习的过程中总要经历一些痛苦。
 
 ```
