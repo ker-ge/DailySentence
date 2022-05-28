@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-27已更新 
+2022-05-28已更新 
 ```
 * 金山词霸
-  > You don't have to let the result of one mistake be the thing that defines you.
-  > 别被区区一个过失定义了自己。
+  > Don't waste your time looking back. You're not going that way.
+  > 不要浪费时间回头看，你要走的不是回头路。
 
 * 扇贝单词
-  > Happiness is a by-product of an effort to make someone else happy.
-  > 幸福是努力使他人快乐的副产品。
+  > Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.
+  > 有些人总是抱怨玫瑰有尖刺，我却要感激尖刺上长出了玫瑰。
 
 * 有道词典
-  > Learning is always a painful process.
-  > 学习的过程中总要经历一些痛苦。
+  > Life is good, but it can be better.
+  > 生活可以更美好。
 
 ```
