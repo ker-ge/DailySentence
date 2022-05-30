@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-29已更新 
+2022-05-30已更新 
 ```
 * 金山词霸
-  > Possessions are generally diminished by possession.
-  > 越想占有，越会失去。
+  > A person often meets his destiny on the road he took to avoid it.
+  > 逃避命运之人，终将直面命运。
 
 * 扇贝单词
-  > It is difficult to free fools from the chains they revere.
-  > 很难使傻瓜摆脱他们所崇尚的束缚。
+  > Honest disagreement is often a good sign of progress.
+  > 坦诚的分歧往往是进步的好迹象。
 
 * 有道词典
-  > A mistake today stops you making it tomorrow.
-  > 吃一堑，长一智。
+  > We will rise.
+  > 我们终将会奋起向上。
 
 ```
