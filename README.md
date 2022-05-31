@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-30已更新 
+2022-05-31已更新 
 ```
 * 金山词霸
-  > A person often meets his destiny on the road he took to avoid it.
-  > 逃避命运之人，终将直面命运。
+  > To live would be an awfully big adventure.
+  > 生活是一场大冒险。
 
 * 扇贝单词
-  > Honest disagreement is often a good sign of progress.
-  > 坦诚的分歧往往是进步的好迹象。
+  > You must take life the way it comes at you and make the best of it.
+  > 要接受生活本来的样子，而后尽力而为。
 
 * 有道词典
-  > We will rise.
-  > 我们终将会奋起向上。
+  > Absence makes the heart grow fonder.
+  > 距离产生美。
 
 ```
