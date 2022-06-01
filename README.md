@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-05-31已更新 
+2022-06-01已更新 
 ```
 * 金山词霸
-  > To live would be an awfully big adventure.
-  > 生活是一场大冒险。
+  > Have a childlike innocence in life, and your days will always be accompanied by happiness.
+  > 生活中拥有童心，你的日子将时时与快乐相伴。
 
 * 扇贝单词
-  > You must take life the way it comes at you and make the best of it.
-  > 要接受生活本来的样子，而后尽力而为。
+  > "There are no seven wonders of the world in the eyes of a child. There are seven million. "
+  > 在孩子们眼中，这世上不是只有七大奇迹，而是有七百万种奇迹。
 
 * 有道词典
-  > Absence makes the heart grow fonder.
-  > 距离产生美。
+  > Childhood is truly a time of wonder.
+  > 童年处处是美好。
 
 ```
