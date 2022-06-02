@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-01已更新 
+2022-06-02已更新 
 ```
 * 金山词霸
-  > Have a childlike innocence in life, and your days will always be accompanied by happiness.
-  > 生活中拥有童心，你的日子将时时与快乐相伴。
+  > After all the difficult times, you will embrace a bright future.
+  > 熬过所有的艰难时刻，你将前程似锦。
 
 * 扇贝单词
-  > "There are no seven wonders of the world in the eyes of a child. There are seven million. "
-  > 在孩子们眼中，这世上不是只有七大奇迹，而是有七百万种奇迹。
+  > A great obstacle to happiness is to expect too much happiness.
+  > 获得幸福的一大障碍是对幸福期望太高。
 
 * 有道词典
-  > Childhood is truly a time of wonder.
-  > 童年处处是美好。
+  > Life is short. Go where you feel love.
+  > 人生苦短，就大胆去爱。
 
 ```
