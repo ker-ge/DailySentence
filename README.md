@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-02已更新 
+2022-06-03已更新 
 ```
 * 金山词霸
-  > After all the difficult times, you will embrace a bright future.
-  > 熬过所有的艰难时刻，你将前程似锦。
+  > After drinking realgar wine, all diseases are far away.
+  > 喝了雄黄酒，百病远远丢。
 
 * 扇贝单词
-  > A great obstacle to happiness is to expect too much happiness.
-  > 获得幸福的一大障碍是对幸福期望太高。
+  > The verse of Qu Ping shines as bright as sun and moon, while palaces of Chu vanish like dreams at noon.
+  > 屈平辞赋悬日月，楚王台榭空山丘。
 
 * 有道词典
-  > Life is short. Go where you feel love.
-  > 人生苦短，就大胆去爱。
+  > Everyone deserves happiness.
+  > 每一个人都值得幸福。
 
 ```
