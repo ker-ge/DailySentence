@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-03已更新 
+2022-06-04已更新 
 ```
 * 金山词霸
-  > After drinking realgar wine, all diseases are far away.
-  > 喝了雄黄酒，百病远远丢。
+  > All your efforts will be paid off one day.
+  > 你所有的努力终会有所回报。
 
 * 扇贝单词
-  > The verse of Qu Ping shines as bright as sun and moon, while palaces of Chu vanish like dreams at noon.
-  > 屈平辞赋悬日月，楚王台榭空山丘。
+  > The two things in life you are in total control over are your attitude and your effort.
+  > 生活中你可以全权掌控的两件事：你的态度和你付出的努力。
 
 * 有道词典
-  > Everyone deserves happiness.
-  > 每一个人都值得幸福。
+  > Love is a many-splendored thing.
+  > 爱，万般精彩。
 
 ```
