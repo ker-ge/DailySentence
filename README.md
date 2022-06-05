@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-04已更新 
+2022-06-05已更新 
 ```
 * 金山词霸
-  > All your efforts will be paid off one day.
-  > 你所有的努力终会有所回报。
+  > The road is tortuous, but the future is bright.
+  > 前路虽有崎岖坎坷，未来却会光明万丈。
 
 * 扇贝单词
-  > The two things in life you are in total control over are your attitude and your effort.
-  > 生活中你可以全权掌控的两件事：你的态度和你付出的努力。
+  > True happiness is not attained through self-gratification, but through fidelity to a worthy purpose.
+  > 真正的幸福不是通过自我满足获得的，而是来自于对有价值目标的忠诚。
 
 * 有道词典
-  > Love is a many-splendored thing.
-  > 爱，万般精彩。
+  > The only thing that matters is what you choose to be now.
+  > 你当下所做的选择才最为重要。
 
 ```
