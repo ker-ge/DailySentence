@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-05已更新 
+2022-06-06已更新 
 ```
 * 金山词霸
-  > The road is tortuous, but the future is bright.
-  > 前路虽有崎岖坎坷，未来却会光明万丈。
+  > The day is short but the work is much. 
+  > 工作多，光阴迫。
 
 * 扇贝单词
-  > True happiness is not attained through self-gratification, but through fidelity to a worthy purpose.
-  > 真正的幸福不是通过自我满足获得的，而是来自于对有价值目标的忠诚。
+  > Love is just a word until someone comes along and gives it meaning.
+  > 爱不过是一个词而已，直到有一个人来到你面前，赋予它意义。
 
 * 有道词典
-  > The only thing that matters is what you choose to be now.
-  > 你当下所做的选择才最为重要。
+  > It's easy to quit, but don't. Don't quit. Don't stop.
+  > 永不轻言放弃，永不停止脚步。
 
 ```
