@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-06已更新 
+2022-06-07已更新 
 ```
 * 金山词霸
-  > The day is short but the work is much. 
-  > 工作多，光阴迫。
+  > Let's seize the day and live it to the fullest.
+  > 只争朝夕，不负韶华。
 
 * 扇贝单词
-  > Love is just a word until someone comes along and gives it meaning.
-  > 爱不过是一个词而已，直到有一个人来到你面前，赋予它意义。
+  > Green was the silence, wet was the light, the month of June trembled like a butterfly.
+  > 寂静生碧色，黎明露华浓，六月似蝴蝶在颤动。
 
 * 有道词典
-  > It's easy to quit, but don't. Don't quit. Don't stop.
-  > 永不轻言放弃，永不停止脚步。
+  > You should be very proud of what you've done with it.
+  > 你应该为自己的努力而感到骄傲。
 
 ```
