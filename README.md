@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-07已更新 
+2022-06-08已更新 
 ```
 * 金山词霸
-  > Let's seize the day and live it to the fullest.
-  > 只争朝夕，不负韶华。
+  > The fact that you are beaten by darkness proves that you are light itself.
+  > 你被黑暗敲打，恰恰证明你是光明本身。
 
 * 扇贝单词
-  > Green was the silence, wet was the light, the month of June trembled like a butterfly.
-  > 寂静生碧色，黎明露华浓，六月似蝴蝶在颤动。
+  > Storms make trees take deeper roots.
+  > 暴风雨使得树木的根扎得更深。
 
 * 有道词典
-  > You should be very proud of what you've done with it.
-  > 你应该为自己的努力而感到骄傲。
+  > It's time for you to start living your life.
+  > 是时候开始为你自己而活。
 
 ```
