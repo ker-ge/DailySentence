@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-08已更新 
+2022-06-09已更新 
 ```
 * 金山词霸
-  > The fact that you are beaten by darkness proves that you are light itself.
-  > 你被黑暗敲打，恰恰证明你是光明本身。
+  > That which does not defeat us makes us stronger.
+  > 那些不能打败我们的，终将使我们更强大。
 
 * 扇贝单词
-  > Storms make trees take deeper roots.
-  > 暴风雨使得树木的根扎得更深。
+  > Passion makes the world go round. Love just makes it a safer place.
+  > 热情使世界转动。爱让它成为一个更安全的地方。
 
 * 有道词典
-  > It's time for you to start living your life.
-  > 是时候开始为你自己而活。
+  > When we let go of something, it opens up a little space to grow.
+  > 学会放手的同时也学会成长。
 
 ```
