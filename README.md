@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-09已更新 
+2022-06-10已更新 
 ```
 * 金山词霸
-  > That which does not defeat us makes us stronger.
-  > 那些不能打败我们的，终将使我们更强大。
+  > When you start to live the life you have been wanting, all the scars of the past wil become medals.
+  > 当你过上了想要的生活，过往的一切伤疤都会成为勋章。
 
 * 扇贝单词
-  > Passion makes the world go round. Love just makes it a safer place.
-  > 热情使世界转动。爱让它成为一个更安全的地方。
+  > It is very simple to be happy, but it is very difficult to be simple.
+  > 快乐很简单，但要做到简单却很困难。
 
 * 有道词典
-  > When we let go of something, it opens up a little space to grow.
-  > 学会放手的同时也学会成长。
+  > If our world's gonna survive, what matters is what we do now.
+  > 世界的存亡与人类的行动息息相关。
 
 ```
