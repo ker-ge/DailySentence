@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-10已更新 
+2022-06-11已更新 
 ```
 * 金山词霸
-  > When you start to live the life you have been wanting, all the scars of the past wil become medals.
-  > 当你过上了想要的生活，过往的一切伤疤都会成为勋章。
+  > Eternity is not a distance but a decision.
+  > 永远不是一种距离，而是一种决定。
 
 * 扇贝单词
-  > It is very simple to be happy, but it is very difficult to be simple.
-  > 快乐很简单，但要做到简单却很困难。
+  > If you spend your whole life waiting for the storm, you’ll never enjoy the sunshine.
+  > 如果你一生都在等待暴风雨，你就永远不会享受阳光。
 
 * 有道词典
-  > If our world's gonna survive, what matters is what we do now.
-  > 世界的存亡与人类的行动息息相关。
+  > Every day is a chance to be better.
+  > 日日皆有新成长。
 
 ```
