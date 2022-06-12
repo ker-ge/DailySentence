@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-11已更新 
+2022-06-12已更新 
 ```
 * 金山词霸
-  > Eternity is not a distance but a decision.
-  > 永远不是一种距离，而是一种决定。
+  > To sin by silence when we should protest makes cowards out of men.
+  > 应该抗议时却保持沉默，这种罪过使人成为懦夫。
 
 * 扇贝单词
-  > If you spend your whole life waiting for the storm, you’ll never enjoy the sunshine.
-  > 如果你一生都在等待暴风雨，你就永远不会享受阳光。
+  > It is one thing to be clever and another to be wise.
+  > 聪明和智慧是两码事。
 
 * 有道词典
-  > Every day is a chance to be better.
-  > 日日皆有新成长。
+  > You have to get lost before you find yourself.
+  > 发现自我的路上必然会经历迷惘。
 
 ```
