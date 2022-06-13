@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-12已更新 
+2022-06-13已更新 
 ```
 * 金山词霸
-  > To sin by silence when we should protest makes cowards out of men.
-  > 应该抗议时却保持沉默，这种罪过使人成为懦夫。
+  > Miracles sometimes occur, but one has to work terribly for them.
+  > 奇迹有时候是会发生的,但是你得为之拼命地努力。
 
 * 扇贝单词
-  > It is one thing to be clever and another to be wise.
-  > 聪明和智慧是两码事。
+  > We are never really happy until we try to brighten the lives of others.
+  > 除非我们努力照亮别人的生活，否则我们永远不会真正快乐。
 
 * 有道词典
-  > You have to get lost before you find yourself.
-  > 发现自我的路上必然会经历迷惘。
+  > Don't settle for average. Bring the best to your moment.
+  > 不要甘于平庸，竭力活出当下精彩。
 
 ```
