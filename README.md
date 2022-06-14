@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-13已更新 
+2022-06-14已更新 
 ```
 * 金山词霸
-  > Miracles sometimes occur, but one has to work terribly for them.
-  > 奇迹有时候是会发生的,但是你得为之拼命地努力。
+  > Great things never came from comfort zones.
+  > 伟大的事物从不来自于舒适圈。
 
 * 扇贝单词
-  > We are never really happy until we try to brighten the lives of others.
-  > 除非我们努力照亮别人的生活，否则我们永远不会真正快乐。
+  > Wherever there is a human being, there is an opportunity for a kindness.     
+  > 哪里有人，哪里就有良善的机会。
 
 * 有道词典
-  > Don't settle for average. Bring the best to your moment.
-  > 不要甘于平庸，竭力活出当下精彩。
+  > The center of bringing any dream into fruition is self-discipline.
+  > 实现梦想的关键是懂得自律。
 
 ```
