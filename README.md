@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-14已更新 
+2022-06-15已更新 
 ```
 * 金山词霸
-  > Great things never came from comfort zones.
-  > 伟大的事物从不来自于舒适圈。
+  > May you be loyal to yourself, live like yourself. 
+  > 愿你忠于自我，活出自我。
 
 * 扇贝单词
-  > Wherever there is a human being, there is an opportunity for a kindness.     
-  > 哪里有人，哪里就有良善的机会。
+  > The real difficulty is to overcome how you think about yourself.
+  > 真正的困难是克服你对自己的看法。
 
 * 有道词典
-  > The center of bringing any dream into fruition is self-discipline.
-  > 实现梦想的关键是懂得自律。
+  > Everything in life happens according to our time, our clock.
+  > 万事皆有自己的节奏。
 
 ```
