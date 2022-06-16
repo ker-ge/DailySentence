@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-15已更新 
+2022-06-16已更新 
 ```
 * 金山词霸
-  > May you be loyal to yourself, live like yourself. 
-  > 愿你忠于自我，活出自我。
+  > The sun is always shining, and hope is always with you.
+  > 阳光永远普照大地，希望永远与你同在。
 
 * 扇贝单词
-  > The real difficulty is to overcome how you think about yourself.
-  > 真正的困难是克服你对自己的看法。
+  > The only limit to the height of your achievements is the reach of your dreams and your willingness to work hard for them.
+  > 唯一限制你成就高度的，是你梦想的限度，以及为之努力的意愿。
 
 * 有道词典
-  > Everything in life happens according to our time, our clock.
-  > 万事皆有自己的节奏。
+  > The only failure there is is the failure to try.
+  > 勇于尝试，便不叫失败。
 
 ```
