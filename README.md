@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-16已更新 
+2022-06-17已更新 
 ```
 * 金山词霸
-  > The sun is always shining, and hope is always with you.
-  > 阳光永远普照大地，希望永远与你同在。
+  > No road of flowers leads to glory.
+  > 没有一条通往光荣的道路是铺满鲜花的。
 
 * 扇贝单词
-  > The only limit to the height of your achievements is the reach of your dreams and your willingness to work hard for them.
-  > 唯一限制你成就高度的，是你梦想的限度，以及为之努力的意愿。
+  > A loving heart is the beginning of all knowledge.
+  > 一颗充满热爱的心是一切知识的起源。
 
 * 有道词典
-  > The only failure there is is the failure to try.
-  > 勇于尝试，便不叫失败。
+  > Take a leap. Take a chance.
+  > 人生要敢于尝试。
 
 ```
