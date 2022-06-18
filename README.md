@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-17已更新 
+2022-06-18已更新 
 ```
 * 金山词霸
-  > No road of flowers leads to glory.
-  > 没有一条通往光荣的道路是铺满鲜花的。
+  > Loving you is the most grand and joyful secret in my youth.
+  > 爱你是我青春里最盛大且欢愉的秘密。
 
 * 扇贝单词
-  > A loving heart is the beginning of all knowledge.
-  > 一颗充满热爱的心是一切知识的起源。
+  > Neutral men are the devil's allies.
+  > 中立的人是魔鬼的盟友。
 
 * 有道词典
-  > Take a leap. Take a chance.
-  > 人生要敢于尝试。
+  > The future is yours. Have fun with it.
+  > 尽情享受属于你的未来。
 
 ```
