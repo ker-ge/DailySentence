@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-18已更新 
+2022-06-19已更新 
 ```
 * 金山词霸
-  > Loving you is the most grand and joyful secret in my youth.
-  > 爱你是我青春里最盛大且欢愉的秘密。
+  > The first time I hugged the sky was when you held me above your head. 
+  > 我第一次拥抱天空是您将我举过头顶。
 
 * 扇贝单词
-  > Neutral men are the devil's allies.
-  > 中立的人是魔鬼的盟友。
+  > Culture makes all men gentle.
+  > 文化使人温文尔雅。
 
 * 有道词典
-  > The future is yours. Have fun with it.
-  > 尽情享受属于你的未来。
+  > A father's love is something to cherish and respect.
+  > 父爱永远值得珍惜和尊敬。
 
 ```
