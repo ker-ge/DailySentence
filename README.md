@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-19已更新 
+2022-06-20已更新 
 ```
 * 金山词霸
-  > The first time I hugged the sky was when you held me above your head. 
-  > 我第一次拥抱天空是您将我举过头顶。
+  > You fail to recognize that it matters not what someone is born, but what they grow to be.
+  > 你要意识到：一个人的出身并不重要，重要的是他会成长为什么。
 
 * 扇贝单词
-  > Culture makes all men gentle.
-  > 文化使人温文尔雅。
+  > Good judgment comes from experience, and a lot of that comes from bad judgment.
+  > 正确的决断源自经验，而大部分经验源自错误的决断。
 
 * 有道词典
-  > A father's love is something to cherish and respect.
-  > 父爱永远值得珍惜和尊敬。
+  > Don't let anyone rush you with their timelines.
+  > 不要让他人打断你的生活节奏。
 
 ```
