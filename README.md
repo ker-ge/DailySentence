@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-20已更新 
+2022-06-21已更新 
 ```
 * 金山词霸
-  > You fail to recognize that it matters not what someone is born, but what they grow to be.
-  > 你要意识到：一个人的出身并不重要，重要的是他会成长为什么。
+  > A great ship asks for deep waters.
+  > 大船寻深水而航行。
 
 * 扇贝单词
-  > Good judgment comes from experience, and a lot of that comes from bad judgment.
-  > 正确的决断源自经验，而大部分经验源自错误的决断。
+  > One benefit of Summer was that each day we had more light to read by.
+  > 夏天的好处之一便是我们有更多的阳光来阅读。
 
 * 有道词典
-  > Don't let anyone rush you with their timelines.
-  > 不要让他人打断你的生活节奏。
+  > Summer is the time of plenty.
+  > 夏日时光，丰富多彩。
 
 ```
