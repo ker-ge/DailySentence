@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-21已更新 
+2022-06-22已更新 
 ```
 * 金山词霸
-  > A great ship asks for deep waters.
-  > 大船寻深水而航行。
+  > The good seaman is known in bad weather.
+  > 惊涛骇浪，方显英雄本色。
 
 * 扇贝单词
-  > One benefit of Summer was that each day we had more light to read by.
-  > 夏天的好处之一便是我们有更多的阳光来阅读。
+  > Don't go through life, grow through life.
+  > 不要此生匆匆过，但求每日都成长。
 
 * 有道词典
-  > Summer is the time of plenty.
-  > 夏日时光，丰富多彩。
+  > Love has no boundaries!
+  > 爱无止境！
 
 ```
