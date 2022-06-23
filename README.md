@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-22已更新 
+2022-06-23已更新 
 ```
 * 金山词霸
-  > The good seaman is known in bad weather.
-  > 惊涛骇浪，方显英雄本色。
+  > Not pleased by external gains, not saddened by personal losses.
+  > 不以物喜，不以己悲。
 
 * 扇贝单词
-  > Don't go through life, grow through life.
-  > 不要此生匆匆过，但求每日都成长。
+  > Conformity is the jailer of freedom and the enemy of growth.
+  > 从众是羁押自由的狱卒，是阻碍进步的敌人。
 
 * 有道词典
-  > Love has no boundaries!
-  > 爱无止境！
+  > If you want it, you gotta go get it.
+  > 想要什么，就去尽力争取。
 
 ```
