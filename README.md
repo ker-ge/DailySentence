@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-23已更新 
+2022-06-24已更新 
 ```
 * 金山词霸
-  > Not pleased by external gains, not saddened by personal losses.
-  > 不以物喜，不以己悲。
+  > Try to accept differences instead of making judgements.
+  > 试着去接受差异，而不是妄下断语。
 
 * 扇贝单词
-  > Conformity is the jailer of freedom and the enemy of growth.
-  > 从众是羁押自由的狱卒，是阻碍进步的敌人。
+  > Music is well said to be the speech of angels.
+  > 音乐被赞为天使的语言。
 
 * 有道词典
-  > If you want it, you gotta go get it.
-  > 想要什么，就去尽力争取。
+  > We're defined by our actions, not our words.
+  > 个人的价值在于你做了什么，而非你说了什么。
 
 ```
