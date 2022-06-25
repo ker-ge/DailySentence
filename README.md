@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-24已更新 
+2022-06-25已更新 
 ```
 * 金山词霸
-  > Try to accept differences instead of making judgements.
-  > 试着去接受差异，而不是妄下断语。
+  > Fortune favors the bold.
+  > 好运眷顾勇者。
 
 * 扇贝单词
-  > Music is well said to be the speech of angels.
-  > 音乐被赞为天使的语言。
+  > Weaknesses are just strengths in the wrong environment.
+  > 弱点不过是优点处在了错误的环境中。
 
 * 有道词典
-  > We're defined by our actions, not our words.
-  > 个人的价值在于你做了什么，而非你说了什么。
+  > The greatest pleasure of life is love.
+  > 正是爱，承载着人生极致的美好。
 
 ```
