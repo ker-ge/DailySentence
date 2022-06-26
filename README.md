@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-25已更新 
+2022-06-26已更新 
 ```
 * 金山词霸
-  > Fortune favors the bold.
-  > 好运眷顾勇者。
+  > Those who follow the light will eventually be radiant.
+  > 追光者终将光芒万丈。
 
 * 扇贝单词
-  > Weaknesses are just strengths in the wrong environment.
-  > 弱点不过是优点处在了错误的环境中。
+  > If you try to be anyone but yourself, you will fail; if you are not true to your own heart, you will fail.
+  > 如果你试图成为别人而不是你自己，你将会失败；如果你不忠于自己的内心，你也会失败。
 
 * 有道词典
-  > The greatest pleasure of life is love.
-  > 正是爱，承载着人生极致的美好。
+  > Good intentions are worthless unless they lead to good actions.
+  > 再好的愿景，不付出行动也只是空谈。
 
 ```
