@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-26已更新 
+2022-06-27已更新 
 ```
 * 金山词霸
-  > Those who follow the light will eventually be radiant.
-  > 追光者终将光芒万丈。
+  > If you think the road is difficult, it must be uphill.
+  > 如果你觉得路难走，那它一定是上坡路。
 
 * 扇贝单词
-  > If you try to be anyone but yourself, you will fail; if you are not true to your own heart, you will fail.
-  > 如果你试图成为别人而不是你自己，你将会失败；如果你不忠于自己的内心，你也会失败。
+  > How you love yourself is how you teach others to love you.
+  > 你爱自己的方式教会了别人如何爱你。
 
 * 有道词典
-  > Good intentions are worthless unless they lead to good actions.
-  > 再好的愿景，不付出行动也只是空谈。
+  > If you can dream it, you can do it.
+  > 敢梦就要敢为。
 
 ```
