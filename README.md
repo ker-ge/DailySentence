@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-27已更新 
+2022-06-28已更新 
 ```
 * 金山词霸
-  > If you think the road is difficult, it must be uphill.
-  > 如果你觉得路难走，那它一定是上坡路。
+  > When we let go of something, it opens up a little space to grow.
+  > 当我们放手时，也得到了成长。
 
 * 扇贝单词
-  > How you love yourself is how you teach others to love you.
-  > 你爱自己的方式教会了别人如何爱你。
+  > That it will never come again is what makes life sweet.
+  > 生活不会重来，这正是它美好的原因。
 
 * 有道词典
-  > If you can dream it, you can do it.
-  > 敢梦就要敢为。
+  > Stay hungry. Stay foolish.
+  > 求知若饥，虚心若愚。
 
 ```
