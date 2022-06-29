@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-28已更新 
+2022-06-29已更新 
 ```
 * 金山词霸
-  > When we let go of something, it opens up a little space to grow.
-  > 当我们放手时，也得到了成长。
+  > The result may joke with you, but the process won't.
+  > 结果可能会和你开玩笑，但过程不会。
 
 * 扇贝单词
-  > That it will never come again is what makes life sweet.
-  > 生活不会重来，这正是它美好的原因。
+  > Respect for ourselves guides our morals, respect for others guides our manners.
+  > 对自己的尊重引导着我们的品德，对他人的尊重指导着我们的礼仪。
 
 * 有道词典
-  > Stay hungry. Stay foolish.
-  > 求知若饥，虚心若愚。
+  > Time waits for no man.
+  > 时不我待。
 
 ```
