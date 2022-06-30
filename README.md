@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-29已更新 
+2022-06-30已更新 
 ```
 * 金山词霸
-  > The result may joke with you, but the process won't.
-  > 结果可能会和你开玩笑，但过程不会。
+  > The perfection of personality is the foundation, and the establishment of wealth is the end.
+  > 人格的完善是本，财富的确立是末。
 
 * 扇贝单词
-  > Respect for ourselves guides our morals, respect for others guides our manners.
-  > 对自己的尊重引导着我们的品德，对他人的尊重指导着我们的礼仪。
+  > Knowledge will give you power, but character respect.
+  > 知识会带给你力量，而品格会带给你他人的尊重。
 
 * 有道词典
-  > Time waits for no man.
-  > 时不我待。
+  > We are who we choose to be.
+  > 每一次选择，都在定义自我。
 
 ```
