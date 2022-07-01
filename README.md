@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-06-30已更新 
+2022-07-01已更新 
 ```
 * 金山词霸
-  > The perfection of personality is the foundation, and the establishment of wealth is the end.
-  > 人格的完善是本，财富的确立是末。
+  > Without a great party, there will be no prosperity and well-being.
+  > 没有一个伟大的政党，就没有繁荣和幸福。
 
 * 扇贝单词
-  > Knowledge will give you power, but character respect.
-  > 知识会带给你力量，而品格会带给你他人的尊重。
+  > If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.
+  > 你若思想美好，面容就会如阳光般灿烂，看上去永远可爱迷人。
 
 * 有道词典
-  > We are who we choose to be.
-  > 每一次选择，都在定义自我。
+  > True love lasts a lifetime.
+  > 唯有真爱，一生永恒。
 
 ```
