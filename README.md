@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-01已更新 
+2022-07-02已更新 
 ```
 * 金山词霸
-  > Without a great party, there will be no prosperity and well-being.
-  > 没有一个伟大的政党，就没有繁荣和幸福。
+  > Self-discipline is the first condition of freedom.
+  > 自律是自由的首要条件。
 
 * 扇贝单词
-  > If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.
-  > 你若思想美好，面容就会如阳光般灿烂，看上去永远可爱迷人。
+  > One of the most sincere forms of respect is actually listening to what another has to say.
+  > 表达尊重最真诚的方式之一就是真正倾听别人说的话。
 
 * 有道词典
-  > True love lasts a lifetime.
-  > 唯有真爱，一生永恒。
+  > Every once in a while, you find someone who's iridescent.
+  > 斯人若彩虹，遇上方知有。
 
 ```
