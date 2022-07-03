@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-02已更新 
+2022-07-03已更新 
 ```
 * 金山词霸
-  > Self-discipline is the first condition of freedom.
-  > 自律是自由的首要条件。
+  > Don't rush to deny yourself before you get the result.
+  > 在你还没得到结果之前，不要急于否定自己。
 
 * 扇贝单词
-  > One of the most sincere forms of respect is actually listening to what another has to say.
-  > 表达尊重最真诚的方式之一就是真正倾听别人说的话。
+  > Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+  > 感恩之心赋予过去意义，为当下带来平静，为未来创造愿景。
 
 * 有道词典
-  > Every once in a while, you find someone who's iridescent.
-  > 斯人若彩虹，遇上方知有。
+  > Sacrifice leads and gains follow.
+  > 一分耕耘一分收获。
 
 ```
