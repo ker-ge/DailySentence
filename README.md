@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-03已更新 
+2022-07-04已更新 
 ```
 * 金山词霸
-  > Don't rush to deny yourself before you get the result.
-  > 在你还没得到结果之前，不要急于否定自己。
+  > The darker the sky, the brighter the stars. 
+  > 天空越黑，星星越亮。
 
 * 扇贝单词
-  > Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
-  > 感恩之心赋予过去意义，为当下带来平静，为未来创造愿景。
+  > There is more treasure in books than in all the pirate's loot on Treasure Island.
+  > 书中的宝藏比海盗在金银岛上的所有战利品还要多。
 
 * 有道词典
-  > Sacrifice leads and gains follow.
-  > 一分耕耘一分收获。
+  > Adversity is a great teacher.
+  > 逆境教人成长。
 
 ```
