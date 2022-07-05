@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-04已更新 
+2022-07-05已更新 
 ```
 * 金山词霸
-  > The darker the sky, the brighter the stars. 
-  > 天空越黑，星星越亮。
+  > Every effort is the foreshadowing of luck.
+  > 每一次努力都是幸运的伏笔。
 
 * 扇贝单词
-  > There is more treasure in books than in all the pirate's loot on Treasure Island.
-  > 书中的宝藏比海盗在金银岛上的所有战利品还要多。
+  > The only thing I knew how to do was to keep on keeping on like a bird that flew.
+  > 我唯一会的事情就是像只飞鸟一样继续前进。
 
 * 有道词典
-  > Adversity is a great teacher.
-  > 逆境教人成长。
+  > Home represents belonging.
+  > 家是永远的港湾。
 
 ```
