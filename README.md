@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-05已更新 
+2022-07-06已更新 
 ```
 * 金山词霸
-  > Every effort is the foreshadowing of luck.
-  > 每一次努力都是幸运的伏笔。
+  > Our greatest glory consists not in never falling, but in rising every time.
+  > 我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来。
 
 * 扇贝单词
-  > The only thing I knew how to do was to keep on keeping on like a bird that flew.
-  > 我唯一会的事情就是像只飞鸟一样继续前进。
+  > Hope sees the invisible, feels the intangible, and achieves the impossible.
+  > 拥有希望可以看见他人不可见的，感受他人不能觉知的，并且实现那些不可能的事。
 
 * 有道词典
-  > Home represents belonging.
-  > 家是永远的港湾。
+  > The past is the past. We're observing the future.
+  > 放下过去，着眼未来。
 
 ```
