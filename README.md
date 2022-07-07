@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-06已更新 
+2022-07-07已更新 
 ```
 * 金山词霸
-  > Our greatest glory consists not in never falling, but in rising every time.
-  > 我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来。
+  > Turn sweat into pearls and dreams into reality.
+  > 把汗水变成珍珠，把梦想变成现实。
 
 * 扇贝单词
-  > Hope sees the invisible, feels the intangible, and achieves the impossible.
-  > 拥有希望可以看见他人不可见的，感受他人不能觉知的，并且实现那些不可能的事。
+  > A multitude of small delights constitute happiness.
+  > 幸福就是许多小确幸的总和。
 
 * 有道词典
-  > The past is the past. We're observing the future.
-  > 放下过去，着眼未来。
+  > Have a great summer.
+  > 愿你拥有一个美好的夏天。
 
 ```
