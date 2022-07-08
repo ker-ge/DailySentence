@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-07已更新 
+2022-07-08已更新 
 ```
 * 金山词霸
-  > Turn sweat into pearls and dreams into reality.
-  > 把汗水变成珍珠，把梦想变成现实。
+  > At that time, youth was blooming, with the sun blazing and wind kissing the treetop.
+  > 人间骄阳正好，风过树梢，彼时他们正当年少。
 
 * 扇贝单词
-  > A multitude of small delights constitute happiness.
-  > 幸福就是许多小确幸的总和。
+  > First keep peace with yourself, then you can also bring peace to others.
+  > 首先让自己保持平和，然后你也可以给别人带来平和。
 
 * 有道词典
-  > Have a great summer.
-  > 愿你拥有一个美好的夏天。
+  > No time is ever really wasted. Time reveals all.
+  > 时间不会白白流逝，它终将揭示一切。
 
 ```
