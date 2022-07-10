@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-09已更新 
+2022-07-10已更新 
 ```
 * 金山词霸
-  > Home is not a place, but a kind of memory.
-  > 故乡不是一个地方，而是一种记忆。
+  > A man is not old until regrets take the place of dreams. 
+  > 当懊悔取代梦想时，人也就老了。
 
 * 扇贝单词
-  > True love comes quietly, without banners or flashing lights. 
-  > 真爱都是悄然降临，既不旗幡招展，也不灯火辉煌。
+  > Do not look for happiness outside yourself. The awakened seek happiness inside.
+  > 不要向外寻找快乐，开悟之人在内心寻找幸福。
 
 * 有道词典
-  > Our future is up to us.
-  > 未来掌握在自己手中。
+  > All victories inevitably come at a cost.
+  > 所有的成功都需要有所付出。
 
 ```
