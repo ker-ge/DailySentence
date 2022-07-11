@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-10已更新 
+2022-07-11已更新 
 ```
 * 金山词霸
-  > A man is not old until regrets take the place of dreams. 
-  > 当懊悔取代梦想时，人也就老了。
+  > We read to know we're not alone. 
+  > 我们阅读，是为了知道自己并不孤单。
 
 * 扇贝单词
-  > Do not look for happiness outside yourself. The awakened seek happiness inside.
-  > 不要向外寻找快乐，开悟之人在内心寻找幸福。
+  > One can never consent to creep when one feels an impulse to soar.     
+  > 一个人内心有了飞翔的冲动，就不会满足于在地上匍匐。
 
 * 有道词典
-  > All victories inevitably come at a cost.
-  > 所有的成功都需要有所付出。
+  > When the fight comes to you, you have to be ready to fight back.
+  > 遇到困难学会迎难而上。
 
 ```
