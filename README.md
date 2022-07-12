@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-11已更新 
+2022-07-12已更新 
 ```
 * 金山词霸
-  > We read to know we're not alone. 
-  > 我们阅读，是为了知道自己并不孤单。
+  > Love rises in the east and falls in the west, romance lasts till death.
+  > 爱意东升西落，浪漫至死不渝。
 
 * 扇贝单词
-  > One can never consent to creep when one feels an impulse to soar.     
-  > 一个人内心有了飞翔的冲动，就不会满足于在地上匍匐。
+  > If I create from the heart, nearly everything works; if from the head, almost nothing.
+  > 如果我随心创作，几乎一切都很顺利；如果我靠头脑来创作，几乎什么也做不成。
 
 * 有道词典
-  > When the fight comes to you, you have to be ready to fight back.
-  > 遇到困难学会迎难而上。
+  > Dreams don't work unless you do.
+  > 努力奋斗才能梦想成真。
 
 ```
