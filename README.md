@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-12已更新 
+2022-07-13已更新 
 ```
 * 金山词霸
-  > Love rises in the east and falls in the west, romance lasts till death.
-  > 爱意东升西落，浪漫至死不渝。
+  > It's futile to rectify the past, but you can still change the future.
+  > 悟以往之不谏，知来者之可追。
 
 * 扇贝单词
-  > If I create from the heart, nearly everything works; if from the head, almost nothing.
-  > 如果我随心创作，几乎一切都很顺利；如果我靠头脑来创作，几乎什么也做不成。
+  > Without the dark there isn’t light. Without the pain there is no relief.
+  > 没有黑暗，也就没有光明。没有痛苦，也就没有痛苦的缓解。
 
 * 有道词典
-  > Dreams don't work unless you do.
-  > 努力奋斗才能梦想成真。
+  > You are what you love, not what loves you.
+  > 成为自己热爱的模样，不必听从他人的喜恶。
 
 ```
