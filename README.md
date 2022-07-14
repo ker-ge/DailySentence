@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-13已更新 
+2022-07-14已更新 
 ```
 * 金山词霸
-  > It's futile to rectify the past, but you can still change the future.
-  > 悟以往之不谏，知来者之可追。
+  > Thank you for appearing in my youth.
+  > 谢谢你出席我的青春。
 
 * 扇贝单词
-  > Without the dark there isn’t light. Without the pain there is no relief.
-  > 没有黑暗，也就没有光明。没有痛苦，也就没有痛苦的缓解。
+  > Life is partly what we make it, and partly what it is made by the friends we choose.
+  > 生活一部分是我们自己创造的，另一部分是由我们选择的朋友造就的。
 
 * 有道词典
-  > You are what you love, not what loves you.
-  > 成为自己热爱的模样，不必听从他人的喜恶。
+  > The fruit of everything good in life begins with a challenge.
+  > 好事多磨。
 
 ```
