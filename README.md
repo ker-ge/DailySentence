@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-14已更新 
+2022-07-15已更新 
 ```
 * 金山词霸
-  > Thank you for appearing in my youth.
-  > 谢谢你出席我的青春。
+  > What we do in life echoes in eternity.
+  > 今生所为终有回响。
 
 * 扇贝单词
-  > Life is partly what we make it, and partly what it is made by the friends we choose.
-  > 生活一部分是我们自己创造的，另一部分是由我们选择的朋友造就的。
+  > Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.
+  > 即使是幸福的生活也不可能没有一丝黑暗，如果没有悲伤来平衡，快乐这个词就会失去意义。
 
 * 有道词典
-  > The fruit of everything good in life begins with a challenge.
-  > 好事多磨。
+  > You can focus on what is lost or you can fight for what is left.
+  > 与其被困于所失，不如奋力争未来。
 
 ```
