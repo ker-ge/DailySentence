@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-15已更新 
+2022-07-16已更新 
 ```
 * 金山词霸
-  > What we do in life echoes in eternity.
-  > 今生所为终有回响。
+  > Talent indeed makes a person shine, but hard work does too.
+  > 天赋的确使人闪闪发光，但努力也能使人熠熠生辉。
 
 * 扇贝单词
-  > Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.
-  > 即使是幸福的生活也不可能没有一丝黑暗，如果没有悲伤来平衡，快乐这个词就会失去意义。
+  > Nothing is so strong as gentleness, nothing so gentle as real strength.     
+  > 没有什么比温柔更有力量，也没有什么比真正的力量更温柔。
 
 * 有道词典
-  > You can focus on what is lost or you can fight for what is left.
-  > 与其被困于所失，不如奋力争未来。
+  > Desperate times call for desperate measures.
+  > 绝处亦可逢生。
 
 ```
