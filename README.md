@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-16已更新 
+2022-07-17已更新 
 ```
 * 金山词霸
-  > Talent indeed makes a person shine, but hard work does too.
-  > 天赋的确使人闪闪发光，但努力也能使人熠熠生辉。
+  > Everything has cracks and that's where the light comes in. 
+  > 万物皆有裂痕，那是光照进来的地方。
 
 * 扇贝单词
-  > Nothing is so strong as gentleness, nothing so gentle as real strength.     
-  > 没有什么比温柔更有力量，也没有什么比真正的力量更温柔。
+  > True friends are never apart, maybe in distance but never in heart.
+  > 真正的朋友从不分离，也许相距甚远，但心永远相连。
 
 * 有道词典
-  > Desperate times call for desperate measures.
-  > 绝处亦可逢生。
+  > Rest at the end, not in the middle.
+  > 在抵达终点之前，永远不要停下脚步。
 
 ```
