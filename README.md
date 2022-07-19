@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-18已更新 
+2022-07-19已更新 
 ```
 * 金山词霸
-  > Youth is not afraid of the long years, there is still glory in the other side.
-  > 少年不惧岁月长，彼方尚有荣光在。
+  > Those who miss each other will finally get together.
+  > 错失彼此的人终有一朝重逢。
 
 * 扇贝单词
-  > The constant happiness is curiosity.
-  > 求知欲是长久的快乐。
+  > The hardships that I encountered in the past will help me succeed in the future.
+  > 我过去遇到的困难将帮助我在未来取得成功。
 
 * 有道词典
-  > A bird in the hand is worth two in the bush.
-  > 奢求未来不如把握当下。
+  > The course of true love never did run smooth.
+  > 真爱之路，难免坎坷。
 
 ```
