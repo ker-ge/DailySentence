@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-19已更新 
+2022-07-20已更新 
 ```
 * 金山词霸
-  > Those who miss each other will finally get together.
-  > 错失彼此的人终有一朝重逢。
+  > Be the protagonist of your own youth, rather than a foil for others.
+  > 做自己青春的主角，而不是他人的陪衬。
 
 * 扇贝单词
-  > The hardships that I encountered in the past will help me succeed in the future.
-  > 我过去遇到的困难将帮助我在未来取得成功。
+  > Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
+  > 梦想就像星星。也许你永远无法触碰，但如果你跟随它们，它们将引领你找到人生的路。
 
 * 有道词典
-  > The course of true love never did run smooth.
-  > 真爱之路，难免坎坷。
+  > Either you run the day or the day runs you.
+  > 要么你掌控命运，要么你被命运掌控。
 
 ```
