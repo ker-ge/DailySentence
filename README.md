@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-20已更新 
+2022-07-21已更新 
 ```
 * 金山词霸
-  > Be the protagonist of your own youth, rather than a foil for others.
-  > 做自己青春的主角，而不是他人的陪衬。
+  > Give it your best shot every time.
+  > 每一次都要拼尽全力。
 
 * 扇贝单词
-  > Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
-  > 梦想就像星星。也许你永远无法触碰，但如果你跟随它们，它们将引领你找到人生的路。
+  > All the adversity I’ve had in my life, all my troubles and obstacles, have strengthened me.
+  > 我生命中经历的所有逆境，所有的困难和障碍，都让我变得更强大。
 
 * 有道词典
-  > Either you run the day or the day runs you.
-  > 要么你掌控命运，要么你被命运掌控。
+  > Ease is a greater threat to progress than hardship.
+  > 安逸比挫折更消磨斗志。
 
 ```
