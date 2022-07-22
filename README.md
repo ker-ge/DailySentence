@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-21已更新 
+2022-07-22已更新 
 ```
 * 金山词霸
-  > Give it your best shot every time.
-  > 每一次都要拼尽全力。
+  > We are all in the gutter, but some of us are looking at the stars.
+  > 身在井隅，心向璀璨。
 
 * 扇贝单词
-  > All the adversity I’ve had in my life, all my troubles and obstacles, have strengthened me.
-  > 我生命中经历的所有逆境，所有的困难和障碍，都让我变得更强大。
+  > Your life is a reflection of your thoughts. If you change your thinking, you change your life.
+  > 你的生活是你思维的反映。如果你改变了你的思维，你就改变了你的生活。
 
 * 有道词典
-  > Ease is a greater threat to progress than hardship.
-  > 安逸比挫折更消磨斗志。
+  > If opportunity doesn't knock, build a door.
+  > 没有机会，就去创造机会。
 
 ```
