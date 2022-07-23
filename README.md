@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-22已更新 
+2022-07-23已更新 
 ```
 * 金山词霸
-  > We are all in the gutter, but some of us are looking at the stars.
-  > 身在井隅，心向璀璨。
+  > Love is imagination. The other is the carrier. It's you who give the meaning to it.
+  > 爱是想象力，对方是载体，是你赋予它意义。
 
 * 扇贝单词
-  > Your life is a reflection of your thoughts. If you change your thinking, you change your life.
-  > 你的生活是你思维的反映。如果你改变了你的思维，你就改变了你的生活。
+  > However difficult life may seem, there is always something you can do and succeed at.
+  > 无论生活看起来多么困难，总有一些你可以做，并能获得成功的事情。
 
 * 有道词典
-  > If opportunity doesn't knock, build a door.
-  > 没有机会，就去创造机会。
+  > Just feel that summer breeze!
+  > 就尽情享受这夏日清风吧！
 
 ```
