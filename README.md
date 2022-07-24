@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-23已更新 
+2022-07-24已更新 
 ```
 * 金山词霸
-  > Love is imagination. The other is the carrier. It's you who give the meaning to it.
-  > 爱是想象力，对方是载体，是你赋予它意义。
+  > When you cry for missing the sun, you will miss the stars again.
+  > 当你为错过太阳而哭泣时，你也要再错过群星了。
 
 * 扇贝单词
-  > However difficult life may seem, there is always something you can do and succeed at.
-  > 无论生活看起来多么困难，总有一些你可以做，并能获得成功的事情。
+  > A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.
+  > 成功的生活就是早上起床，晚上睡觉，白天做自己想做的事。
 
 * 有道词典
-  > Just feel that summer breeze!
-  > 就尽情享受这夏日清风吧！
+  > Goals without actions are just wishes.
+  > 不付诸行动的目标只是空想。
 
 ```
