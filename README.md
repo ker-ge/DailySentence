@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-24已更新 
+2022-07-25已更新 
 ```
 * 金山词霸
-  > When you cry for missing the sun, you will miss the stars again.
-  > 当你为错过太阳而哭泣时，你也要再错过群星了。
+  > The smartest people understand that they are the most ignorant ones. 
+  > 最聪明的人明白自己是最无知的。
 
 * 扇贝单词
-  > A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.
-  > 成功的生活就是早上起床，晚上睡觉，白天做自己想做的事。
+  > Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.
+  > 衡量成功的标准不是看一个人在生活中所处的地位，而是看他所克服的障碍。
 
 * 有道词典
-  > Goals without actions are just wishes.
-  > 不付诸行动的目标只是空想。
+  > Decide what is yours to hold and let the rest go.
+  > 把握住自己想要的，放手那些无关紧要的。
 
 ```
