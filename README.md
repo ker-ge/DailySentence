@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-25已更新 
+2022-07-26已更新 
 ```
 * 金山词霸
-  > The smartest people understand that they are the most ignorant ones. 
-  > 最聪明的人明白自己是最无知的。
+  > You can do whatever you want, but you can't drift with the tide.
+  > 你可以随心所欲，但不能随波逐流。
 
 * 扇贝单词
-  > Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.
-  > 衡量成功的标准不是看一个人在生活中所处的地位，而是看他所克服的障碍。
+  > Live your life as though your every act were to become a universal law.
+  > 过好你的生活，就像你的每一个行为都将成为一个普遍规律。
 
 * 有道词典
-  > Decide what is yours to hold and let the rest go.
-  > 把握住自己想要的，放手那些无关紧要的。
+  > A promise tomorrow is worth a lot less than trying today.
+  > 明日的承诺远不及今日的行动。
 
 ```
