@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-26已更新 
+2022-07-27已更新 
 ```
 * 金山词霸
-  > You can do whatever you want, but you can't drift with the tide.
-  > 你可以随心所欲，但不能随波逐流。
+  > Stay hungry, stay foolish.
+  > 求知若饥，虚心若愚。
 
 * 扇贝单词
-  > Live your life as though your every act were to become a universal law.
-  > 过好你的生活，就像你的每一个行为都将成为一个普遍规律。
+  > Every artist was first an amateur.
+  > 每个艺术家在一开始都是外行。
 
 * 有道词典
-  > A promise tomorrow is worth a lot less than trying today.
-  > 明日的承诺远不及今日的行动。
+  > Where there is life, there is hope.
+  > 生命尚存，希望不灭。
 
 ```
