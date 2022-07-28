@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-27已更新 
+2022-07-28已更新 
 ```
 * 金山词霸
-  > Stay hungry, stay foolish.
-  > 求知若饥，虚心若愚。
+  > I am still waiting for you in situ, but you have forgotten you had been here once.
+  > 我还在原地等你，你却已经忘记曾来过这里。
 
 * 扇贝单词
-  > Every artist was first an amateur.
-  > 每个艺术家在一开始都是外行。
+  > The one thing that doesn’t abide by majority rule is a person’s conscience.
+  > 世上唯一不能遵循从众原则的东西，是人的良心。
 
 * 有道词典
-  > Where there is life, there is hope.
-  > 生命尚存，希望不灭。
+  > A wise man lives with a purpose.
+  > 智者的人生往往由目标指引。
 
 ```
