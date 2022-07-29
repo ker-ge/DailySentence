@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-28已更新 
+2022-07-29已更新 
 ```
 * 金山词霸
-  > I am still waiting for you in situ, but you have forgotten you had been here once.
-  > 我还在原地等你，你却已经忘记曾来过这里。
+  > Don't trouble trouble till trouble troubles you.
+  > 不要自找麻烦，除非麻烦找上门。
 
 * 扇贝单词
-  > The one thing that doesn’t abide by majority rule is a person’s conscience.
-  > 世上唯一不能遵循从众原则的东西，是人的良心。
+  > The knowledge of the world is only to be acquired in the world, and not in a closet.
+  > 对世界的了解是在世界中获得的，而不是在储物间里。
 
 * 有道词典
-  > A wise man lives with a purpose.
-  > 智者的人生往往由目标指引。
+  > We can never learn to fly without crashing a few times.
+  > 不经历几次跌倒，我们永远学不会飞翔。
 
 ```
