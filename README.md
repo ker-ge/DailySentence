@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-29已更新 
+2022-07-30已更新 
 ```
 * 金山词霸
-  > Don't trouble trouble till trouble troubles you.
-  > 不要自找麻烦，除非麻烦找上门。
+  > Be loyal to yourself. Laugh heartily, cry heartily.
+  > 做一个忠于自己的人。笑得放肆，哭得酣畅。
 
 * 扇贝单词
-  > The knowledge of the world is only to be acquired in the world, and not in a closet.
-  > 对世界的了解是在世界中获得的，而不是在储物间里。
+  > One's destination is never a place, but a new way of seeing things.
+  > 一个人的目的地永远不是某个地方，而是一种看待事物的新方式。
 
 * 有道词典
-  > We can never learn to fly without crashing a few times.
-  > 不经历几次跌倒，我们永远学不会飞翔。
+  > The easiest way to reach goals is through daily and consistent small actions.
+  > 只要坚持付出，再微小的努力也终将会获得成功。
 
 ```
