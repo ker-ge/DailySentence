@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-30已更新 
+2022-07-31已更新 
 ```
 * 金山词霸
-  > Be loyal to yourself. Laugh heartily, cry heartily.
-  > 做一个忠于自己的人。笑得放肆，哭得酣畅。
+  > Shoot for the moon, even if you miss it, you'll land among the stars.
+  > 奔赴月亮吧，即便错过，你也将置身于繁星之中。
 
 * 扇贝单词
-  > One's destination is never a place, but a new way of seeing things.
-  > 一个人的目的地永远不是某个地方，而是一种看待事物的新方式。
+  > We can draw lessons from the past, but we cannot live in it.
+  > 我们可以从过去学些什么，但不能活在过去。
 
 * 有道词典
-  > The easiest way to reach goals is through daily and consistent small actions.
-  > 只要坚持付出，再微小的努力也终将会获得成功。
+  > Love transcends all differences.
+  > 爱能超越一切。
 
 ```
