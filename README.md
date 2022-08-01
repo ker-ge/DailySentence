@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-07-31已更新 
+2022-08-01已更新 
 ```
 * 金山词霸
-  > Shoot for the moon, even if you miss it, you'll land among the stars.
-  > 奔赴月亮吧，即便错过，你也将置身于繁星之中。
+  > This is my homeland. If I don't fight for it, who will?
+  > 这是我的国土。我不为她而战斗，谁为呢?
 
 * 扇贝单词
-  > We can draw lessons from the past, but we cannot live in it.
-  > 我们可以从过去学些什么，但不能活在过去。
+  > The wisest mind has something yet to learn.
+  > 就连最智慧的人也有东西要学。
 
 * 有道词典
-  > Love transcends all differences.
-  > 爱能超越一切。
+  > In unity, there is strength.
+  > 团结就是力量。
 
 ```
