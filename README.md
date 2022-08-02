@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-01已更新 
+2022-08-02已更新 
 ```
 * 金山词霸
-  > This is my homeland. If I don't fight for it, who will?
-  > 这是我的国土。我不为她而战斗，谁为呢?
+  > Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+  > 人生不总在于握有一手好牌，有时也要打好一把烂牌。
 
 * 扇贝单词
-  > The wisest mind has something yet to learn.
-  > 就连最智慧的人也有东西要学。
+  > We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are.
+  > 我们心中都有光明和黑暗，但更重要的是我们选择哪一面。这才是我们真正的样子。
 
 * 有道词典
-  > In unity, there is strength.
-  > 团结就是力量。
+  > Light tomorrow with today!
+  > 用今日行动点亮明日未来！
 
 ```
