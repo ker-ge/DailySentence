@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-02已更新 
+2022-08-03已更新 
 ```
 * 金山词霸
-  > Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
-  > 人生不总在于握有一手好牌，有时也要打好一把烂牌。
+  > Shoot for the moon; even if you miss, you'll land among the stars.
+  > 朝月亮出发，即便你错过了，也将置身于繁星之中。
 
 * 扇贝单词
-  > We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are.
-  > 我们心中都有光明和黑暗，但更重要的是我们选择哪一面。这才是我们真正的样子。
+  > Never help a child with a task at which he feels he can succeed.
+  > 当一个孩子觉得自己能成功完成一项任务时，千万别去帮他。
 
 * 有道词典
-  > Light tomorrow with today!
-  > 用今日行动点亮明日未来！
+  > Dreams without goals are just dreams.
+  > 没有目标的梦想，只是一场梦。
 
 ```
