@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-03已更新 
+2022-08-04已更新 
 ```
 * 金山词霸
-  > Shoot for the moon; even if you miss, you'll land among the stars.
-  > 朝月亮出发，即便你错过了，也将置身于繁星之中。
+  > The deepest and heaviest love must grow up with the time.
+  > 最深最重的爱，须与时日共成长。
 
 * 扇贝单词
-  > Never help a child with a task at which he feels he can succeed.
-  > 当一个孩子觉得自己能成功完成一项任务时，千万别去帮他。
+  > I cannot give you the formula for success, but I can give you the formula for failure—which is: try to please everybody.
+  > 我不能给你成功的公式，但我可以给你失败的公式，那就是：试图取悦每个人。
 
 * 有道词典
-  > Dreams without goals are just dreams.
-  > 没有目标的梦想，只是一场梦。
+  > Love can be weakness, but it can also be a weapon.
+  > 爱是软肋，亦是盔甲。
 
 ```
