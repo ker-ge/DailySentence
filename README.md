@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-04已更新 
+2022-08-05已更新 
 ```
 * 金山词霸
-  > The deepest and heaviest love must grow up with the time.
-  > 最深最重的爱，须与时日共成长。
+  > If a man has no dream, what is the difference between him and salted fish?
+  > 做人如果没有梦想，那和咸鱼有什么区别？
 
 * 扇贝单词
-  > I cannot give you the formula for success, but I can give you the formula for failure—which is: try to please everybody.
-  > 我不能给你成功的公式，但我可以给你失败的公式，那就是：试图取悦每个人。
+  > Wish not so much to live long as to live well.
+  > 与其希望活得久，不如祈盼过得好。
 
 * 有道词典
-  > Love can be weakness, but it can also be a weapon.
-  > 爱是软肋，亦是盔甲。
+  > In a partnership, there is give and there is take.
+  > 友情是双向奔赴。
 
 ```
