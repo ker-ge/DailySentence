@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-05已更新 
+2022-08-06已更新 
 ```
 * 金山词霸
-  > If a man has no dream, what is the difference between him and salted fish?
-  > 做人如果没有梦想，那和咸鱼有什么区别？
+  > You are not ordinary; you are born to stand out.
+  > 你天生与众不同，注定不会被淹没在人群中。
 
 * 扇贝单词
-  > Wish not so much to live long as to live well.
-  > 与其希望活得久，不如祈盼过得好。
+  > The expert in anything was once a beginner.
+  > 任何领域的专家也曾是一名初学者。
 
 * 有道词典
-  > In a partnership, there is give and there is take.
-  > 友情是双向奔赴。
+  > Never confuse a single defeat with a final defeat.
+  > 一次失败并不代表最终失败。
 
 ```
