@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-06已更新 
+2022-08-07已更新 
 ```
 * 金山词霸
-  > You are not ordinary; you are born to stand out.
-  > 你天生与众不同，注定不会被淹没在人群中。
+  > Autumn carries more gold in its pocket than all the other seasons.
+  > 秋天的口袋里，比其他季节收藏着更多金黄色。
 
 * 扇贝单词
-  > The expert in anything was once a beginner.
-  > 任何领域的专家也曾是一名初学者。
+  > Be a first rate version of yourself, not a second rate version of someone else.
+  > 做一流的自己，不做二流的别人。
 
 * 有道词典
-  > Never confuse a single defeat with a final defeat.
-  > 一次失败并不代表最终失败。
+  > You'll start seeing the autumn colors coming in.
+  > 秋色渐近。
 
 ```
