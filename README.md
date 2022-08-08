@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-07已更新 
+2022-08-08已更新 
 ```
 * 金山词霸
-  > Autumn carries more gold in its pocket than all the other seasons.
-  > 秋天的口袋里，比其他季节收藏着更多金黄色。
+  > To lost in something you love is better than to win in something you hate.
+  > 宁可失败在你喜欢的事情上，也不要成功在你所憎恶的事情上。
 
 * 扇贝单词
-  > Be a first rate version of yourself, not a second rate version of someone else.
-  > 做一流的自己，不做二流的别人。
+  > You were not made to live like brute beasts, but to pursue virtue and knowledge.
+  > 人不应当像走兽一样活着，而应该追求知识和美德。
 
 * 有道词典
-  > You'll start seeing the autumn colors coming in.
-  > 秋色渐近。
+  > Nothing feels impossible when I'm with you.
+  > 与你携手，万事顺遂。
 
 ```
