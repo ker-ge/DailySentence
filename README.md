@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-08已更新 
+2022-08-09已更新 
 ```
 * 金山词霸
-  > To lost in something you love is better than to win in something you hate.
-  > 宁可失败在你喜欢的事情上，也不要成功在你所憎恶的事情上。
+  > Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+  > 无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
 
 * 扇贝单词
-  > You were not made to live like brute beasts, but to pursue virtue and knowledge.
-  > 人不应当像走兽一样活着，而应该追求知识和美德。
+  > Shallow men believe in luck. Strong men believe in cause and effect.
+  > 浅薄者相信运气；有能力的人相信因果。
 
 * 有道词典
-  > Nothing feels impossible when I'm with you.
-  > 与你携手，万事顺遂。
+  > Don't be afraid to think outside the box.
+  > 不要害怕跳出固有思维。
 
 ```
