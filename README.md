@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-09已更新 
+2022-08-10已更新 
 ```
 * 金山词霸
-  > Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
-  > 无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
+  > Praise is like sunlight to the human spirit; we cannot flower and grow without it.
+  > 对于人的精神来说，赞扬就像阳光一样，没有它我们便不能开花生长。
 
 * 扇贝单词
-  > Shallow men believe in luck. Strong men believe in cause and effect.
-  > 浅薄者相信运气；有能力的人相信因果。
+  > Things are never as bad as they seem.
+  > 事情永远不会像它看起来那样糟糕。
 
 * 有道词典
-  > Don't be afraid to think outside the box.
-  > 不要害怕跳出固有思维。
+  > If you keep living in the past, you can't fully live in the present.
+  > 总是活在过去，就无法享受当下。
 
 ```
