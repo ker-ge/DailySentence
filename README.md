@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-10已更新 
+2022-08-11已更新 
 ```
 * 金山词霸
-  > Praise is like sunlight to the human spirit; we cannot flower and grow without it.
-  > 对于人的精神来说，赞扬就像阳光一样，没有它我们便不能开花生长。
+  > The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
+  > 真相是一种美丽又可怕的东西，需要格外谨慎地对待。
 
 * 扇贝单词
-  > Things are never as bad as they seem.
-  > 事情永远不会像它看起来那样糟糕。
+  > All that is necessary for the triumph of evil is that good men do nothing.
+  > 欲使恶人得胜，只需好人袖手旁观。
 
 * 有道词典
-  > If you keep living in the past, you can't fully live in the present.
-  > 总是活在过去，就无法享受当下。
+  > Live life on your own terms.
+  > 活出自我。
 
 ```
