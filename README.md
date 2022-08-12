@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-11已更新 
+2022-08-12已更新 
 ```
 * 金山词霸
-  > The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
-  > 真相是一种美丽又可怕的东西，需要格外谨慎地对待。
+  > Death is not the end of life, forgetting is.
+  > 死亡并不是生命的终点，遗忘才是。
 
 * 扇贝单词
-  > All that is necessary for the triumph of evil is that good men do nothing.
-  > 欲使恶人得胜，只需好人袖手旁观。
+  > He who loses wealth loses much; he who loses a friend loses more; but he who loses courage loses all.
+  > 失去财产的人损失很大，失去朋友的人损失更多，而失去勇气的人则失去了一切。
 
 * 有道词典
-  > Live life on your own terms.
-  > 活出自我。
+  > Never be afraid of who you are.
+  > 不要害怕面对真实的自己。
 
 ```
