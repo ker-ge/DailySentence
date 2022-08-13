@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-12已更新 
+2022-08-13已更新 
 ```
 * 金山词霸
-  > Death is not the end of life, forgetting is.
-  > 死亡并不是生命的终点，遗忘才是。
+  > If time being of all things the most precious, wasting time must be the greatest prodigality.
+  > 如果时间是最宝贵的东西，浪费时间应该是最大的挥霍。
 
 * 扇贝单词
-  > He who loses wealth loses much; he who loses a friend loses more; but he who loses courage loses all.
-  > 失去财产的人损失很大，失去朋友的人损失更多，而失去勇气的人则失去了一切。
+  > Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.
+  > 要对自己有耐心，自我成长是温柔的过程，是神圣之地，也是最有价值的投资。
 
 * 有道词典
-  > Never be afraid of who you are.
-  > 不要害怕面对真实的自己。
+  > Remember, it's the courage to continue that counts.
+  > 要记得，怀揣坚持的勇气至关重要。
 
 ```
