@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-13已更新 
+2022-08-14已更新 
 ```
 * 金山词霸
-  > If time being of all things the most precious, wasting time must be the greatest prodigality.
-  > 如果时间是最宝贵的东西，浪费时间应该是最大的挥霍。
+  > Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
+  > 不要停下，不要逃避，沿着光明前行，你会找到明天。
 
 * 扇贝单词
-  > Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.
-  > 要对自己有耐心，自我成长是温柔的过程，是神圣之地，也是最有价值的投资。
+  > Reprove thy friend privately; commend him publicly.
+  > 在私下批评你的朋友，在公开场合赞扬他。
 
 * 有道词典
-  > Remember, it's the courage to continue that counts.
-  > 要记得，怀揣坚持的勇气至关重要。
+  > We may be down, but we're not out.
+  > 我们可能会失败，但永远不会被打败。
 
 ```
