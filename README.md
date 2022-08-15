@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-14已更新 
+2022-08-15已更新 
 ```
 * 金山词霸
-  > Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
-  > 不要停下，不要逃避，沿着光明前行，你会找到明天。
+  > Patience is bitter, but its fruit is sweet.
+  > 忍耐是痛苦的，但它的果实是甜蜜的。
 
 * 扇贝单词
-  > Reprove thy friend privately; commend him publicly.
-  > 在私下批评你的朋友，在公开场合赞扬他。
+  > No matter how small and unimportant what we are doing may seem, if we do it well, it may soon become the step that will lead us to better things.
+  > 不管我们现在所做的事看起来有多么的微不足道或不重要，如果我们认真地做，它可能很快就会引领我们通向美好事物。
 
 * 有道词典
-  > We may be down, but we're not out.
-  > 我们可能会失败，但永远不会被打败。
+  > Sometimes the hardest things in life are the things most worth doing.
+  > 有时，事情愈难而意义愈大。
 
 ```
