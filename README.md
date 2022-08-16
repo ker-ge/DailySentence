@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-15已更新 
+2022-08-16已更新 
 ```
 * 金山词霸
-  > Patience is bitter, but its fruit is sweet.
-  > 忍耐是痛苦的，但它的果实是甜蜜的。
+  > It is no use doing what you like; you have got to like what you do.
+  > 不能爱哪行才干哪行，要干哪行爱哪行。
 
 * 扇贝单词
-  > No matter how small and unimportant what we are doing may seem, if we do it well, it may soon become the step that will lead us to better things.
-  > 不管我们现在所做的事看起来有多么的微不足道或不重要，如果我们认真地做，它可能很快就会引领我们通向美好事物。
+  > The future has several names. For the weak, it is the impossible. For the fainthearted, it is the unknown. For the thoughtful and valiant, it is the ideal.
+  > 未来有几个名字：对软弱的人来说，它叫不可能；对胆怯懦弱的人来说，它叫未知；对于深思熟虑且有勇气的人来说，它叫理想。
 
 * 有道词典
-  > Sometimes the hardest things in life are the things most worth doing.
-  > 有时，事情愈难而意义愈大。
+  > Even a game lost is a game well played.
+  > 即使败局一场，也可以是漂亮一仗。
 
 ```
