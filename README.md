@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-16已更新 
+2022-08-17已更新 
 ```
 * 金山词霸
-  > It is no use doing what you like; you have got to like what you do.
-  > 不能爱哪行才干哪行，要干哪行爱哪行。
+  > lt's better to light a candle than curse the darkness.
+  > 与其诅咒黑暗，不如点亮蜡烛。
 
 * 扇贝单词
-  > The future has several names. For the weak, it is the impossible. For the fainthearted, it is the unknown. For the thoughtful and valiant, it is the ideal.
-  > 未来有几个名字：对软弱的人来说，它叫不可能；对胆怯懦弱的人来说，它叫未知；对于深思熟虑且有勇气的人来说，它叫理想。
+  > A person can succeed at almost anything for which they have unlimited enthusiasm.
+  > 只要有无限的热情，一个人几乎可以在任何事情上取得成功。
 
 * 有道词典
-  > Even a game lost is a game well played.
-  > 即使败局一场，也可以是漂亮一仗。
+  > Great success is built on failure.
+  > 失败是成功的奠基石。
 
 ```
