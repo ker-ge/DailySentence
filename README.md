@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-17已更新 
+2022-08-18已更新 
 ```
 * 金山词霸
-  > lt's better to light a candle than curse the darkness.
-  > 与其诅咒黑暗，不如点亮蜡烛。
+  > If you can't handle failure, then you can't handle success either.
+  > 驾驭不了失败的人也驾驭不了成功。
 
 * 扇贝单词
-  > A person can succeed at almost anything for which they have unlimited enthusiasm.
-  > 只要有无限的热情，一个人几乎可以在任何事情上取得成功。
+  > You can do anything you decide to do. You can act to change and control your life; and the procedure, the process, is its own reward.
+  > 你可以做任何你决定的事，你可以采取行动改变或控制你的人生；而这过程，本身就是报偿。
 
 * 有道词典
-  > Great success is built on failure.
-  > 失败是成功的奠基石。
+  > You are more than what you have become.
+  > 你的能力，不止于此。
 
 ```
