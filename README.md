@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-18已更新 
+2022-08-19已更新 
 ```
 * 金山词霸
-  > If you can't handle failure, then you can't handle success either.
-  > 驾驭不了失败的人也驾驭不了成功。
+  > There is light at the end of the tunnel.
+  > 守得云开见月明。
 
 * 扇贝单词
-  > You can do anything you decide to do. You can act to change and control your life; and the procedure, the process, is its own reward.
-  > 你可以做任何你决定的事，你可以采取行动改变或控制你的人生；而这过程，本身就是报偿。
+  > Those who bring sunshine to the lives of others cannot keep it from themselves.
+  > 为他人带来阳光的人，自己也一定会沐浴在阳光下。
 
 * 有道词典
-  > You are more than what you have become.
-  > 你的能力，不止于此。
+  > Find your inner beast.
+  > 发掘你内心的强大。
 
 ```
