@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-19已更新 
+2022-08-20已更新 
 ```
 * 金山词霸
-  > There is light at the end of the tunnel.
-  > 守得云开见月明。
+  > It's not the travelling. It's the arriving that matters.
+  > 不管路途如何，重要的是抵达目的地。
 
 * 扇贝单词
-  > Those who bring sunshine to the lives of others cannot keep it from themselves.
-  > 为他人带来阳光的人，自己也一定会沐浴在阳光下。
+  > Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
+  > 世界上大多数重要的事情，都是由那些在看似毫无希望时还继续努力的人完成的。
 
 * 有道词典
-  > Find your inner beast.
-  > 发掘你内心的强大。
+  > Smart is making the right decision at the right time.
+  > 聪明就是在正确的时间做正确的决定。
 
 ```
