@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-20已更新 
+2022-08-21已更新 
 ```
 * 金山词霸
-  > It's not the travelling. It's the arriving that matters.
-  > 不管路途如何，重要的是抵达目的地。
+  >  Everybody is somebody. Even a nobody.
+  > 每个人都有自己的价值，即使是无名之辈。
 
 * 扇贝单词
-  > Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
-  > 世界上大多数重要的事情，都是由那些在看似毫无希望时还继续努力的人完成的。
+  > Many individuals have, like uncut diamonds, shining qualities beneath a rough exterior.
+  > 很多人像未经雕琢的钻石，在粗糙的表面下有发光的本质。
 
 * 有道词典
-  > Smart is making the right decision at the right time.
-  > 聪明就是在正确的时间做正确的决定。
+  > You keep hoping and you keep fighting, and one day you win.
+  > 保持希望并不断努力，终有一天会取得胜利。
 
 ```
