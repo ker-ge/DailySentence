@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-21已更新 
+2022-08-22已更新 
 ```
 * 金山词霸
-  >  Everybody is somebody. Even a nobody.
-  > 每个人都有自己的价值，即使是无名之辈。
+  > Life's too short to hold grudges.
+  > 人生苦短，何必留仇。
 
 * 扇贝单词
-  > Many individuals have, like uncut diamonds, shining qualities beneath a rough exterior.
-  > 很多人像未经雕琢的钻石，在粗糙的表面下有发光的本质。
+  > At the end of the day, let there be no excuses, no explanations, no regrets.
+  > 在一天结束的时候，别留下任何借口、解释或悔恨。
 
 * 有道词典
-  > You keep hoping and you keep fighting, and one day you win.
-  > 保持希望并不断努力，终有一天会取得胜利。
+  > We fight for our future!
+  > 我们为未来而奋斗！
 
 ```
