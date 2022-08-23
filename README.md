@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-22已更新 
+2022-08-23已更新 
 ```
 * 金山词霸
-  > Life's too short to hold grudges.
-  > 人生苦短，何必留仇。
+  > Easy times create weak men. Weak men create tough times.
+  > 安逸时刻造就软弱的人，软弱的人造就艰难时刻。
 
 * 扇贝单词
-  > At the end of the day, let there be no excuses, no explanations, no regrets.
-  > 在一天结束的时候，别留下任何借口、解释或悔恨。
+  > The path to your success is not as fixed and inflexible as you think.
+  > 成功之路并非你想的那么死板和不可改变。
 
 * 有道词典
-  > We fight for our future!
-  > 我们为未来而奋斗！
+  > Winners don't need motivation. Winners need discipline.
+  > 胜者要的不是打鸡血，而是自律。
 
 ```
