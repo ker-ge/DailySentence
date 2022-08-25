@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-24已更新 
+2022-08-25已更新 
 ```
 * 金山词霸
-  > Don't just sit at home, or the life of your dreams will sail right past you.
-  > 坐在家里无所事事，只会让你与想要的生活失之交臂。
+  > They who cannot do as they would, must do as they can.
+  > 不能如愿而行，也须尽力而为。
 
 * 扇贝单词
-  > It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.
-  > 并不是因为事情难我们才不敢去做，而是因为我们不敢做事情才难。
+  > There are far, far better things ahead than any we leave behind.
+  > 比起遗落在过去的，未来还有更加美好的在等着我们。
 
 * 有道词典
-  > There's a difference between knowing the path, and walking the path.
-  > 知道和做到是两码事。
+  > Never make decisions out of fear.
+  > 不要让恐惧左右你的决定。
 
 ```
