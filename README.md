@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-26已更新 
+2022-08-27已更新 
 ```
 * 金山词霸
-  > Nothing in this world that's worth having comes easy.
-  > 这世界上凡是值得拥有的东西，都不易获得。
+  > Goals determine what you're going to be.
+  > 目标决定你将成为怎样的人。
 
 * 扇贝单词
-  > Without self-discipline, success is impossible, period.
-  > 无自律，不成功，就这样。
+  > I am seeking, I am striving, I am in it with all my heart.
+  > 我在寻找，我在努力，我全身心地投入其中。
 
 * 有道词典
-  > The heart wants what it wants.
-  > 听从你内心的想法。
+  > You cannot judge a place before you've even seen it.
+  > 未知全貌，不予置评。
 
 ```
