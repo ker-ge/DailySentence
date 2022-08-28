@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-27已更新 
+2022-08-28已更新 
 ```
 * 金山词霸
-  > Goals determine what you're going to be.
-  > 目标决定你将成为怎样的人。
+  > Each man is the architect of his own fate.
+  > 每个人都是自己命运的建筑师。
 
 * 扇贝单词
-  > I am seeking, I am striving, I am in it with all my heart.
-  > 我在寻找，我在努力，我全身心地投入其中。
+  > You are confined only by the walls you build yourself.
+  > 限制你的只有你自己筑起的墙。
 
 * 有道词典
-  > You cannot judge a place before you've even seen it.
-  > 未知全貌，不予置评。
+  > Anything is possible when you have inner peace.
+  > 冷静面对，事事皆有可能。
 
 ```
