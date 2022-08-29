@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-28已更新 
+2022-08-29已更新 
 ```
 * 金山词霸
-  > Each man is the architect of his own fate.
-  > 每个人都是自己命运的建筑师。
+  > Never compromise. Not even in the face of armageddon.
+  > 永不妥协，即便是在世界末日面前。
 
 * 扇贝单词
-  > You are confined only by the walls you build yourself.
-  > 限制你的只有你自己筑起的墙。
+  > Life's great happiness is to be convinced we are loved.
+  > 人生最大的幸福，就是确信我们是被人爱着的。
 
 * 有道词典
-  > Anything is possible when you have inner peace.
-  > 冷静面对，事事皆有可能。
+  > You have to confront your pain.
+  > 人得面对自己的痛苦。
 
 ```
