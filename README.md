@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-29已更新 
+2022-08-30已更新 
 ```
 * 金山词霸
-  > Never compromise. Not even in the face of armageddon.
-  > 永不妥协，即便是在世界末日面前。
+  > A little of every thing is nothing in the main.
+  > 每事浅尝辄止，事事都告无成。
 
 * 扇贝单词
-  > Life's great happiness is to be convinced we are loved.
-  > 人生最大的幸福，就是确信我们是被人爱着的。
+  > All we have to decide is what to do with the time that is given to us.
+  > 我们需要决定的是，如何利用好上天赋予我们的时间。
 
 * 有道词典
-  > You have to confront your pain.
-  > 人得面对自己的痛苦。
+  > Trust is earned.
+  > 信任是靠争取来的。
 
 ```
