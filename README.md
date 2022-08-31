@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-30已更新 
+2022-08-31已更新 
 ```
 * 金山词霸
-  > A little of every thing is nothing in the main.
-  > 每事浅尝辄止，事事都告无成。
+  > Wisdom is to the mind what health is to the body.
+  > 知识之于精神，一如健康之于肉体。
 
 * 扇贝单词
-  > All we have to decide is what to do with the time that is given to us.
-  > 我们需要决定的是，如何利用好上天赋予我们的时间。
+  > Some people could look at a mud puddle and see an ocean with ships.
+  > 有些人眼望着泥塘，却能看见千帆竞发的海洋。
 
 * 有道词典
-  > Trust is earned.
-  > 信任是靠争取来的。
+  > The faster you rise, the harder you fall.
+  > 欲速则不达。
 
 ```
