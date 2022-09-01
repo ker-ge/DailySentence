@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-08-31已更新 
+2022-09-01已更新 
 ```
 * 金山词霸
-  > Wisdom is to the mind what health is to the body.
-  > 知识之于精神，一如健康之于肉体。
+  > There's nothing for you behind you. All that exists is what's ahead.
+  > 来路无可眷恋，值得期待的只有前方。
 
 * 扇贝单词
-  > Some people could look at a mud puddle and see an ocean with ships.
-  > 有些人眼望着泥塘，却能看见千帆竞发的海洋。
+  > There is just one life for each of us: our own.  
+  > 我们都只有一种生活可以过：自己的生活。
 
 * 有道词典
-  > The faster you rise, the harder you fall.
-  > 欲速则不达。
+  > You don't give up just because things are hard.
+  > 不轻言放弃。
 
 ```
