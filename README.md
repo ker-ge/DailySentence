@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-01已更新 
+2022-09-02已更新 
 ```
 * 金山词霸
-  > There's nothing for you behind you. All that exists is what's ahead.
-  > 来路无可眷恋，值得期待的只有前方。
+  > Distance doesn't mean separation.
+  > 距离不代表分离。
 
 * 扇贝单词
-  > There is just one life for each of us: our own.  
-  > 我们都只有一种生活可以过：自己的生活。
+  > Where you stumble and fall, there you will find gold.
+  > 你在哪里跌倒，就会在哪里找到金子。
 
 * 有道词典
-  > You don't give up just because things are hard.
-  > 不轻言放弃。
+  > A great journey starts with a single step.
+  > 千里之行，始于足下。
 
 ```
