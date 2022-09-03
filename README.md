@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-02已更新 
+2022-09-03已更新 
 ```
 * 金山词霸
-  > Distance doesn't mean separation.
-  > 距离不代表分离。
+  > Let's cross the bridge when we come to it.
+  > 船到桥头自然直。
 
 * 扇贝单词
-  > Where you stumble and fall, there you will find gold.
-  > 你在哪里跌倒，就会在哪里找到金子。
+  > Soon is not as good as now.
+  > 别谈未来，现在就行动。
 
 * 有道词典
-  > A great journey starts with a single step.
-  > 千里之行，始于足下。
+  > Life is full of surprises.
+  > 生活处处是惊喜。
 
 ```
