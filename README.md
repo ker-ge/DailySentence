@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-03已更新 
+2022-09-04已更新 
 ```
 * 金山词霸
-  > Let's cross the bridge when we come to it.
-  > 船到桥头自然直。
+  >  The beauty of summer can heal the winter of your life.
+  > 夏天里的美好，能治愈生命里的冬天。   
 
 * 扇贝单词
-  > Soon is not as good as now.
-  > 别谈未来，现在就行动。
+  > A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.
+  > 善良的心就如一口快乐的喷泉，让附近的一切都充满欢笑。
 
 * 有道词典
-  > Life is full of surprises.
-  > 生活处处是惊喜。
+  > Nothing is set in stone.
+  > 万事无绝对。
 
 ```
