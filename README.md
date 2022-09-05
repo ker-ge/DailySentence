@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-04已更新 
+2022-09-05已更新 
 ```
 * 金山词霸
-  >  The beauty of summer can heal the winter of your life.
-  > 夏天里的美好，能治愈生命里的冬天。   
+  > Nothing in this world that's worth having comes easy.
+  > 这世界上凡是值得拥有的东西，都不易获得。
 
 * 扇贝单词
-  > A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.
-  > 善良的心就如一口快乐的喷泉，让附近的一切都充满欢笑。
+  > Discipline is the bridge between goals and accomplishment.
+  > 自律是连接目标与成功的桥梁。
 
 * 有道词典
-  > Nothing is set in stone.
-  > 万事无绝对。
+  > Anything worth doing is worth doing right.
+  > 值得做的事就要把它做好。
 
 ```
