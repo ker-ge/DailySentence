@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-05已更新 
+2022-09-06已更新 
 ```
 * 金山词霸
-  > Nothing in this world that's worth having comes easy.
-  > 这世界上凡是值得拥有的东西，都不易获得。
+  > That man is the richest whose pleasure are the cheapest.
+  > 能处处寻求快乐的人才是最富有的人。
 
 * 扇贝单词
-  > Discipline is the bridge between goals and accomplishment.
-  > 自律是连接目标与成功的桥梁。
+  > Not being heard is no reason for silence.
+  > 没有被听见不是沉默的理由。
 
 * 有道词典
-  > Anything worth doing is worth doing right.
-  > 值得做的事就要把它做好。
+  > Miracles happen every day.
+  > 奇迹每天都在发生。
 
 ```
