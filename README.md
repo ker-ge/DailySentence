@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-06已更新 
+2022-09-07已更新 
 ```
 * 金山词霸
-  > That man is the richest whose pleasure are the cheapest.
-  > 能处处寻求快乐的人才是最富有的人。
+  > Practice random kindness and senseless acts of beauty.
+  > 随心随意求美，无来无由行善。
 
 * 扇贝单词
-  > Not being heard is no reason for silence.
-  > 没有被听见不是沉默的理由。
+  > Winning isn't everything, but wanting it is.
+  > 胜利并不能代表一切，而求胜心可以。
 
 * 有道词典
-  > Miracles happen every day.
-  > 奇迹每天都在发生。
+  > Adulthood is responsibility.
+  > 成年意味着责任。
 
 ```
