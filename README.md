@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-07已更新 
+2022-09-08已更新 
 ```
 * 金山词霸
-  > Practice random kindness and senseless acts of beauty.
-  > 随心随意求美，无来无由行善。
+  > They who cannot do as they would, must do as they can.
+  > 不能如愿而行，也须尽力而为。
 
 * 扇贝单词
-  > Winning isn't everything, but wanting it is.
-  > 胜利并不能代表一切，而求胜心可以。
+  > I have not failed. I've just found 10,000 ways that won't work.
+  > 我没有失败，我只是找到了10000种行不通的方法。
 
 * 有道词典
-  > Adulthood is responsibility.
-  > 成年意味着责任。
+  > Love conquers all.
+  > 爱能战胜一切。
 
 ```
