@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-08已更新 
+2022-09-09已更新 
 ```
 * 金山词霸
-  > They who cannot do as they would, must do as they can.
-  > 不能如愿而行，也须尽力而为。
+  > Why waste precious time dreaming when waking life is so much better?
+  > 醒着的生活是如此美好，为何要把时间浪费在做梦上呢?
 
 * 扇贝单词
-  > I have not failed. I've just found 10,000 ways that won't work.
-  > 我没有失败，我只是找到了10000种行不通的方法。
+  > Never look back unless you are planning to go that way.
+  > 永远不要回头，除非你想走回头路。
 
 * 有道词典
-  > Love conquers all.
-  > 爱能战胜一切。
+  > Keep moving forward. Don't look back.
+  > 只管往前走，不要回头。
 
 ```
