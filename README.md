@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-09已更新 
+2022-09-10已更新 
 ```
 * 金山词霸
-  > Why waste precious time dreaming when waking life is so much better?
-  > 醒着的生活是如此美好，为何要把时间浪费在做梦上呢?
+  > Up the bright moon rises from the sea; I share the same moment though far from thee.
+  > 海上生明月，天涯共此时。
 
 * 扇贝单词
-  > Never look back unless you are planning to go that way.
-  > 永远不要回头，除非你想走回头路。
+  > It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+  > 在创造性表达和知识中唤醒快乐，是教师的最高艺术。
 
 * 有道词典
-  > Keep moving forward. Don't look back.
-  > 只管往前走，不要回头。
+  > The full moon is at its brightest.
+  > 又逢月圆，月色格外亮眼。
 
 ```
