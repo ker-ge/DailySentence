@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-10已更新 
+2022-09-11已更新 
 ```
 * 金山词霸
-  > Up the bright moon rises from the sea; I share the same moment though far from thee.
-  > 海上生明月，天涯共此时。
+  > Everyone you meet is fighting a battle you know nothing about. 
+  > 每个人都在经历你无法想象的困境。
 
 * 扇贝单词
-  > It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
-  > 在创造性表达和知识中唤醒快乐，是教师的最高艺术。
+  > We ran as if to meet the moon.
+  > 我们奔跑着，像去约见月亮。
 
 * 有道词典
-  > The full moon is at its brightest.
-  > 又逢月圆，月色格外亮眼。
+  > We strive for excellence.
+  > 追求卓越。
 
 ```
