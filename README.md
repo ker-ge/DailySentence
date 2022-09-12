@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-11已更新 
+2022-09-12已更新 
 ```
 * 金山词霸
-  > Everyone you meet is fighting a battle you know nothing about. 
-  > 每个人都在经历你无法想象的困境。
+  > It isn't what we say or think that defines us, but what we do.
+  > 定义我们的并非所说所想，而是所做。
 
 * 扇贝单词
-  > We ran as if to meet the moon.
-  > 我们奔跑着，像去约见月亮。
+  > The key to winning is poise under stress.
+  > 获胜的关键是在压力下依旧保持镇静。
 
 * 有道词典
-  > We strive for excellence.
-  > 追求卓越。
+  > Things always happen when you least expect it.
+  > 事情总是在最不经意间发生。
 
 ```
