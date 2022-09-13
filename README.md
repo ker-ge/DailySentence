@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-12已更新 
+2022-09-13已更新 
 ```
 * 金山词霸
-  > It isn't what we say or think that defines us, but what we do.
-  > 定义我们的并非所说所想，而是所做。
+  > Distance doesn't ruin a relationship. Doubts do.
+  > 毁灭感情的不是距离，而是怀疑。
 
 * 扇贝单词
-  > The key to winning is poise under stress.
-  > 获胜的关键是在压力下依旧保持镇静。
+  > How you think when you lose determines how long it will be until you win.
+  > 成为输家时的想法决定了你何时才能取得胜利。
 
 * 有道词典
-  > Things always happen when you least expect it.
-  > 事情总是在最不经意间发生。
+  > Be grateful for fun times.
+  > 感激那些快乐的时光。
 
 ```
