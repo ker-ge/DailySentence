@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-13已更新 
+2022-09-14已更新 
 ```
 * 金山词霸
-  > Distance doesn't ruin a relationship. Doubts do.
-  > 毁灭感情的不是距离，而是怀疑。
+  > The better you become, the better you attract.
+  > 你若盛开，蝴蝶自来。
 
 * 扇贝单词
-  > How you think when you lose determines how long it will be until you win.
-  > 成为输家时的想法决定了你何时才能取得胜利。
+  > The most difficult thing is the decision to act, the rest is merely tenacity.
+  > 最困难的是下定决心去做，剩下的只是坚持而已。
 
 * 有道词典
-  > Be grateful for fun times.
-  > 感激那些快乐的时光。
+  > You gotta let go of that stuff from the past, cause it just doesn't matter.
+  > 学会放手，让过去成为过去。
 
 ```
