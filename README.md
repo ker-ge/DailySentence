@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-14已更新 
+2022-09-15已更新 
 ```
 * 金山词霸
-  > The better you become, the better you attract.
-  > 你若盛开，蝴蝶自来。
+  > A smile is the most charming part of a person forever.  
+  > 微笑永远是一个人最迷人的特质。
 
 * 扇贝单词
-  > The most difficult thing is the decision to act, the rest is merely tenacity.
-  > 最困难的是下定决心去做，剩下的只是坚持而已。
+  > The courage to imagine the otherwise is our greatest resource, adding color and suspense to all our life.
+  > 敢有不同想像的勇气，是我们最大的资产，它使我们的人生增添色彩、充满悬念。
 
 * 有道词典
-  > You gotta let go of that stuff from the past, cause it just doesn't matter.
-  > 学会放手，让过去成为过去。
+  > Patience is a virtue.
+  > 耐心是一种美德。
 
 ```
