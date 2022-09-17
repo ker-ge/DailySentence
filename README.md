@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-15已更新 
+2022-09-17已更新 
 ```
 * 金山词霸
-  > A smile is the most charming part of a person forever.  
-  > 微笑永远是一个人最迷人的特质。
+  > I am a slow walker, but I never walk backwards.
+  > 我走得很慢，但是我从来不会后退。
 
 * 扇贝单词
-  > The courage to imagine the otherwise is our greatest resource, adding color and suspense to all our life.
-  > 敢有不同想像的勇气，是我们最大的资产，它使我们的人生增添色彩、充满悬念。
+  > A single day is enough to make us a little larger or, another time, a little smaller.
+  > 一天的时间足以使我们强大一些，也可以使我们弱小一些。
 
 * 有道词典
-  > Patience is a virtue.
-  > 耐心是一种美德。
+  > Good things sometimes take time.
+  > 好事多磨。
 
 ```
