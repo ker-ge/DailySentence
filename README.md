@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-17已更新 
+2022-09-18已更新 
 ```
 * 金山词霸
-  > I am a slow walker, but I never walk backwards.
-  > 我走得很慢，但是我从来不会后退。
+  > We're all in the gutter, but some of us are looking at the stars.
+  > 身在井隅，心向璀璨。
 
 * 扇贝单词
-  > A single day is enough to make us a little larger or, another time, a little smaller.
-  > 一天的时间足以使我们强大一些，也可以使我们弱小一些。
+  > All my life through, the new sights of Nature made me rejoice like a child.
+  > 在我的一生中，大自然中的新景象使我像孩子般快乐。
 
 * 有道词典
-  > Good things sometimes take time.
-  > 好事多磨。
+  > There are two sides to every story.
+  > 每件事都有两面性。
 
 ```
