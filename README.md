@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-18已更新 
+2022-09-19已更新 
 ```
 * 金山词霸
-  > We're all in the gutter, but some of us are looking at the stars.
-  > 身在井隅，心向璀璨。
+  > The family is more important than the dream.
+  > 家人是比梦想更重要的事情。
 
 * 扇贝单词
-  > All my life through, the new sights of Nature made me rejoice like a child.
-  > 在我的一生中，大自然中的新景象使我像孩子般快乐。
+  > Whoever is happy will make others happy too.
+  > 快乐的人会让他人也感到快乐。
 
 * 有道词典
-  > There are two sides to every story.
-  > 每件事都有两面性。
+  > It's hard to like someone when you don't like yourself.
+  > 爱人先爱己。
 
 ```
