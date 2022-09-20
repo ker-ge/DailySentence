@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-19已更新 
+2022-09-20已更新 
 ```
 * 金山词霸
-  > The family is more important than the dream.
-  > 家人是比梦想更重要的事情。
+  > Don't moon away the Mid-Autumn Festival.
+  > 找点事儿做吧，不要虚度了中秋佳节。
 
 * 扇贝单词
-  > Whoever is happy will make others happy too.
-  > 快乐的人会让他人也感到快乐。
+  > You may be disappointed if you fail, but you are doomed if you don't try.
+  > 失败可能会让你失望，但若不去尝试，就必定会失败。
 
 * 有道词典
-  > It's hard to like someone when you don't like yourself.
-  > 爱人先爱己。
+  > There are no shortcuts in life.
+  > 生活没有捷径可走。
 
 ```
