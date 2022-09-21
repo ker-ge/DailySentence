@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-20已更新 
+2022-09-21已更新 
 ```
 * 金山词霸
-  > Don't moon away the Mid-Autumn Festival.
-  > 找点事儿做吧，不要虚度了中秋佳节。
+  > Up the bright moon rises from the sea; I share the same moment though far from thee.
+  > 海上生明月，天涯共此时。
 
 * 扇贝单词
-  > You may be disappointed if you fail, but you are doomed if you don't try.
-  > 失败可能会让你失望，但若不去尝试，就必定会失败。
+  > True liberty is to have power over oneself in all things.
+  > 真正的自由是在所有时候都能控制自己。
 
 * 有道词典
-  > There are no shortcuts in life.
-  > 生活没有捷径可走。
+  > You can't just walk away from things.
+  > 逃避解决不了问题。
 
 ```
