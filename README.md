@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-21已更新 
+2022-09-22已更新 
 ```
 * 金山词霸
-  > Up the bright moon rises from the sea; I share the same moment though far from thee.
-  > 海上生明月，天涯共此时。
+  > No man needs a vacation much as the man who has just had one.
+  > 没有人比刚刚过完假期的人更需要假期了。
 
 * 扇贝单词
-  > True liberty is to have power over oneself in all things.
-  > 真正的自由是在所有时候都能控制自己。
+  > People who live the most fulfilling lives are the ones who are always rejoicing at what they have.
+  > 永远对所拥有的一切感到欣喜的人，是生活最富足的人。
 
 * 有道词典
-  > You can't just walk away from things.
-  > 逃避解决不了问题。
+  > Suffering builds character.
+  > 苦难塑造品格。
 
 ```
