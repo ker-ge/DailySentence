@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-22已更新 
+2022-09-23已更新 
 ```
 * 金山词霸
-  > No man needs a vacation much as the man who has just had one.
-  > 没有人比刚刚过完假期的人更需要假期了。
+  > Every leaf speaks bliss to me, fluttering from the autumn tree.
+  > 每一片飘落的秋叶，都在向我诉说着狂喜。
 
 * 扇贝单词
-  > People who live the most fulfilling lives are the ones who are always rejoicing at what they have.
-  > 永远对所拥有的一切感到欣喜的人，是生活最富足的人。
+  > Dream big and dare to fail.
+  > 敢于梦想，不畏失败。
 
 * 有道词典
-  > Suffering builds character.
-  > 苦难塑造品格。
+  > As summer turns to fall, the forest enters a magical golden period.
+  > 秋日到，森林一派金黄景象。
 
 ```
