@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-23已更新 
+2022-09-24已更新 
 ```
 * 金山词霸
-  > Every leaf speaks bliss to me, fluttering from the autumn tree.
-  > 每一片飘落的秋叶，都在向我诉说着狂喜。
+  > I have tried my best to live an ordinary life.
+  > 我拼尽全力，不过是为了过完平凡的一生。
 
 * 扇贝单词
-  > Dream big and dare to fail.
-  > 敢于梦想，不畏失败。
+  > Never be limited by other people's limited imaginations.
+  > 永远不要被别人有限的想象力所限制。
 
 * 有道词典
-  > As summer turns to fall, the forest enters a magical golden period.
-  > 秋日到，森林一派金黄景象。
+  > Pride comes before the fall.
+  > 骄傲使人落后。
 
 ```
