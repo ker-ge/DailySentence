@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-24已更新 
+2022-09-25已更新 
 ```
 * 金山词霸
-  > I have tried my best to live an ordinary life.
-  > 我拼尽全力，不过是为了过完平凡的一生。
+  > It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
+  > 树小扶直易，树大扳伸难。
 
 * 扇贝单词
-  > Never be limited by other people's limited imaginations.
-  > 永远不要被别人有限的想象力所限制。
+  > Eloquent speech is not from lip to ear, but rather from heart to heart.
+  > 有说服力的演讲并非由口传递到耳，而是由心到心。
 
 * 有道词典
-  > Pride comes before the fall.
-  > 骄傲使人落后。
+  > Some things in our lives are inevitable.
+  > 生命中有些事是注定的。
 
 ```
