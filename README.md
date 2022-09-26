@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-25已更新 
+2022-09-26已更新 
 ```
 * 金山词霸
-  > It's easy to straighten a tree when it's small, but it's difficult to stretch a tree when it's big.
-  > 树小扶直易，树大扳伸难。
+  > Have you booked your ticket?
+  > 你定上火车票了吗？
 
 * 扇贝单词
-  > Eloquent speech is not from lip to ear, but rather from heart to heart.
-  > 有说服力的演讲并非由口传递到耳，而是由心到心。
+  > When someone loves you, the way they talk about you is different. You feel safe and comfortable.
+  > 爱你的人谈起你的方式是不一样的，你会觉得安全又舒服。
 
 * 有道词典
-  > Some things in our lives are inevitable.
-  > 生命中有些事是注定的。
+  > Music is the medicine of a troubled mind.
+  > 音乐是治愈心灵的良药。
 
 ```
