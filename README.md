@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-26已更新 
+2022-09-27已更新 
 ```
 * 金山词霸
-  > Have you booked your ticket?
-  > 你定上火车票了吗？
+  > If it is important to you, you will find a way.
+  > 如果你认为重要，你就会想对策。
 
 * 扇贝单词
-  > When someone loves you, the way they talk about you is different. You feel safe and comfortable.
-  > 爱你的人谈起你的方式是不一样的，你会觉得安全又舒服。
+  > If something is important enough, even if the odds are against you, you should still do it.
+  > 如果一件事情对你很重要，即使成功的概率很小，你也应该去做。
 
 * 有道词典
-  > Music is the medicine of a troubled mind.
-  > 音乐是治愈心灵的良药。
+  > All good things must come to an end.
+  > 一切美好终将逝去。
 
 ```
