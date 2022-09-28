@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-27已更新 
+2022-09-28已更新 
 ```
 * 金山词霸
-  > If it is important to you, you will find a way.
-  > 如果你认为重要，你就会想对策。
+  > Keep what you say and carry out what you do.
+  > 言必行，行必果。
 
 * 扇贝单词
-  > If something is important enough, even if the odds are against you, you should still do it.
-  > 如果一件事情对你很重要，即使成功的概率很小，你也应该去做。
+  > The only reward of virtue is virtue; the only way to have a friend is to be one.
+  > 对美德的回报是美德，获得友谊的唯一途径是给人以友谊。
 
 * 有道词典
-  > All good things must come to an end.
-  > 一切美好终将逝去。
+  > We should all just be who we are.
+  > 做真实的自己。
 
 ```
