@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-28已更新 
+2022-09-29已更新 
 ```
 * 金山词霸
-  > Keep what you say and carry out what you do.
-  > 言必行，行必果。
+  > I'm just an emotionless working machine.
+  > 我只是一个没有感情的工作机器。
 
 * 扇贝单词
-  > The only reward of virtue is virtue; the only way to have a friend is to be one.
-  > 对美德的回报是美德，获得友谊的唯一途径是给人以友谊。
+  > The most certain way to succeed is always to try just one more time.
+  > 保证成功的要诀就是永远都再多试一次。
 
 * 有道词典
-  > We should all just be who we are.
-  > 做真实的自己。
+  > Diligence is the mother of good luck.
+  > 越努力，越幸运。
 
 ```
