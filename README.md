@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-29已更新 
+2022-09-30已更新 
 ```
 * 金山词霸
-  > I'm just an emotionless working machine.
-  > 我只是一个没有感情的工作机器。
+  > Hang in there! Victory is just around the corner!
+  > 坚持住！胜利就在前方！
 
 * 扇贝单词
-  > The most certain way to succeed is always to try just one more time.
-  > 保证成功的要诀就是永远都再多试一次。
+  > Do what is right, not what is easy nor what is popular.
+  > 做事就要做正确的，不挑易事，不随大流。
 
 * 有道词典
-  > Diligence is the mother of good luck.
-  > 越努力，越幸运。
+  > Don't worry too much about what people think.
+  > 别太在意他人的想法。
 
 ```
