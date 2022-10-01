@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-09-30已更新 
+2022-10-01已更新 
 ```
 * 金山词霸
-  > Hang in there! Victory is just around the corner!
-  > 坚持住！胜利就在前方！
+  > Patriotism is deeply rooted in the instincts and emotions of human being.
+  > 爱国精神深深根植于人的本能和情感之中。
 
 * 扇贝单词
-  > Do what is right, not what is easy nor what is popular.
-  > 做事就要做正确的，不挑易事，不随大流。
+  > A journey of a thousand miles begins with a single step.
+  > 千里之行，始于足下。
 
 * 有道词典
-  > Don't worry too much about what people think.
-  > 别太在意他人的想法。
+  > May our country prosper and the people live a peaceful life!
+  > 愿祖国繁荣富强，人民安居乐业！
 
 ```
