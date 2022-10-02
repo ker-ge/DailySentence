@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-01已更新 
+2022-10-02已更新 
 ```
 * 金山词霸
-  > Patriotism is deeply rooted in the instincts and emotions of human being.
-  > 爱国精神深深根植于人的本能和情感之中。
+  > It's time to start living the life you've imagined!
+  > 是时候开始过自己想要的生活了！
 
 * 扇贝单词
-  > A journey of a thousand miles begins with a single step.
-  > 千里之行，始于足下。
+  > Before anything else, preparation is the key to success.
+  > 准备是成功的关键，这比其他任何事情都重要。
 
 * 有道词典
-  > May our country prosper and the people live a peaceful life!
-  > 愿祖国繁荣富强，人民安居乐业！
+  > The best years of your life are still ahead of you.
+  > 美好的生活就在前方。
 
 ```
