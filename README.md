@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-02已更新 
+2022-10-03已更新 
 ```
 * 金山词霸
-  > It's time to start living the life you've imagined!
-  > 是时候开始过自己想要的生活了！
+  > East or west, home is the best.
+  > 金窝银窝不如自家的草窝。
 
 * 扇贝单词
-  > Before anything else, preparation is the key to success.
-  > 准备是成功的关键，这比其他任何事情都重要。
+  > Life is ours to be spent, not to be saved.
+  > 我们的生命应当物尽其用，而非固守保存。
 
 * 有道词典
-  > The best years of your life are still ahead of you.
-  > 美好的生活就在前方。
+  > Laughter lights up your life.
+  > 笑声点亮生活。
 
 ```
