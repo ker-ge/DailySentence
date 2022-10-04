@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-03已更新 
+2022-10-04已更新 
 ```
 * 金山词霸
-  > East or west, home is the best.
-  > 金窝银窝不如自家的草窝。
+  > Don't look at your phone for more than two hours, because it will power off.
+  > 千万不要连续看手机超过两个小时，因为那样手机会没电。
 
 * 扇贝单词
-  > Life is ours to be spent, not to be saved.
-  > 我们的生命应当物尽其用，而非固守保存。
+  > An unexamined life is not worth living.
+  > 浑浑噩噩的生活不值得过。
 
 * 有道词典
-  > Laughter lights up your life.
-  > 笑声点亮生活。
+  > You deserve all the happiness in the world.
+  > 愿世间所有快乐与你相伴。
 
 ```
