@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-04已更新 
+2022-10-05已更新 
 ```
 * 金山词霸
-  > Don't look at your phone for more than two hours, because it will power off.
-  > 千万不要连续看手机超过两个小时，因为那样手机会没电。
+  > At the place we don't know, there is always some sadness we haven't seen.
+  > 在我们不曾了解的地方，总有些未曾看到的心酸。
 
 * 扇贝单词
-  > An unexamined life is not worth living.
-  > 浑浑噩噩的生活不值得过。
+  > It's your life; you don't need someone's permission to live the life you want.
+  > 生活是你自己的，想过什么样的生活，不需要别人的许可。
 
 * 有道词典
-  > You deserve all the happiness in the world.
-  > 愿世间所有快乐与你相伴。
+  > All you can do is learn from your mistakes.
+  > 你要做的就是从错误里汲取教训。
 
 ```
