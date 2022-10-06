@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-05已更新 
+2022-10-06已更新 
 ```
 * 金山词霸
-  > At the place we don't know, there is always some sadness we haven't seen.
-  > 在我们不曾了解的地方，总有些未曾看到的心酸。
+  > Whatever is going to happen will happen, whether we worry or not.
+  > 不管你焦虑与否，该发生的总会发生。
 
 * 扇贝单词
-  > It's your life; you don't need someone's permission to live the life you want.
-  > 生活是你自己的，想过什么样的生活，不需要别人的许可。
+  > A reader lives a thousand lives before he dies. The man who never reads lives only one.
+  > 读书者一生中可以体验一千种人生，而从不阅读的人只能活这一次。
 
 * 有道词典
-  > All you can do is learn from your mistakes.
-  > 你要做的就是从错误里汲取教训。
+  > The unknown is there for us to conquer.
+  > 未知等待着我们去征服。
 
 ```
