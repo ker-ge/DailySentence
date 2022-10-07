@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-06已更新 
+2022-10-07已更新 
 ```
 * 金山词霸
-  > Whatever is going to happen will happen, whether we worry or not.
-  > 不管你焦虑与否，该发生的总会发生。
+  > The end of the holiday feels like the end of the world.
+  > 假期结束，末日来临。
 
 * 扇贝单词
-  > A reader lives a thousand lives before he dies. The man who never reads lives only one.
-  > 读书者一生中可以体验一千种人生，而从不阅读的人只能活这一次。
+  > The goal isn't to live forever; the goal is to create something that will.
+  > 人生的目标不是要获得永生，而是要创造永恒。
 
 * 有道词典
-  > The unknown is there for us to conquer.
-  > 未知等待着我们去征服。
+  > Never let your head hang down.
+  > 永远不要轻易低头。
 
 ```
