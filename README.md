@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-07已更新 
+2022-10-08已更新 
 ```
 * 金山词霸
-  > The end of the holiday feels like the end of the world.
-  > 假期结束，末日来临。
+  > It is not more vacation we need—it is more vocation!
+  > 我们需要的不是更多的假期，而是更强的使命感！
 
 * 扇贝单词
-  > The goal isn't to live forever; the goal is to create something that will.
-  > 人生的目标不是要获得永生，而是要创造永恒。
+  > Always remember that you are absolutely unique. Just like everyone else.
+  > 永远记住你是独一无二的，就像其他人一样。
 
 * 有道词典
-  > Never let your head hang down.
-  > 永远不要轻易低头。
+  > The world needs our open hearts and minds.
+  > 用开放的心态拥抱这个世界。
 
 ```
