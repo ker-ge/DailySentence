@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-08已更新 
+2022-10-09已更新 
 ```
 * 金山词霸
-  > It is not more vacation we need—it is more vocation!
-  > 我们需要的不是更多的假期，而是更强的使命感！
+  > Things do not change. We do.
+  > 万物不变，是我们在变。
 
 * 扇贝单词
-  > Always remember that you are absolutely unique. Just like everyone else.
-  > 永远记住你是独一无二的，就像其他人一样。
+  > It is better to fail in originality than to succeed in imitation.
+  > 宁可在创新中失败，也不要在模仿中成功。
 
 * 有道词典
-  > The world needs our open hearts and minds.
-  > 用开放的心态拥抱这个世界。
+  > I'm with you every step of the way.
+  > 我会一直在你身边。
 
 ```
