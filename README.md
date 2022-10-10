@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-09已更新 
+2022-10-10已更新 
 ```
 * 金山词霸
-  > Things do not change. We do.
-  > 万物不变，是我们在变。
+  > Everything in the past is a mirror of wisdom.
+  > 过往一切都是智慧的映射。
 
 * 扇贝单词
-  > It is better to fail in originality than to succeed in imitation.
-  > 宁可在创新中失败，也不要在模仿中成功。
+  > Life is trying things to see if they work.
+  > 生活就是尝试事物，看看它们是否奏效。
 
 * 有道词典
-  > I'm with you every step of the way.
-  > 我会一直在你身边。
+  > Success is about preparation and planning.
+  > 成功在于做好准备和规划。
 
 ```
