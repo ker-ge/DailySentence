@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-10已更新 
+2022-10-11已更新 
 ```
 * 金山词霸
-  > Everything in the past is a mirror of wisdom.
-  > 过往一切都是智慧的映射。
+  > Love is like the moon. When it does not increase, it decreases.
+  > 爱情就像月亮，不增则减。
 
 * 扇贝单词
-  > Life is trying things to see if they work.
-  > 生活就是尝试事物，看看它们是否奏效。
+  > Make improvements, not excuses. Seek respect, not attention.
+  > 要追求进步，而不是一味地寻找借口，要寻求尊重，而不是一味地博取关注。
 
 * 有道词典
-  > Success is about preparation and planning.
-  > 成功在于做好准备和规划。
+  > Everybody deserves to be loved.
+  > 每个人都值得被爱。
 
 ```
