@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-11已更新 
+2022-10-12已更新 
 ```
 * 金山词霸
-  > Love is like the moon. When it does not increase, it decreases.
-  > 爱情就像月亮，不增则减。
+  > Those who have knocked me down, thank you! It's so comfortable to lie down.
+  > 那些曾经把我击倒的人，谢谢你们！躺平真舒服。
 
 * 扇贝单词
-  > Make improvements, not excuses. Seek respect, not attention.
-  > 要追求进步，而不是一味地寻找借口，要寻求尊重，而不是一味地博取关注。
+  > You can neither win nor lose if you don't run the race.
+  > 如果不参加比赛，你既不会赢也不会输。
 
 * 有道词典
-  > Everybody deserves to be loved.
-  > 每个人都值得被爱。
+  > A little confidence is always good.
+  > 带点自信是好事。
 
 ```
