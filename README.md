@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-12已更新 
+2022-10-13已更新 
 ```
 * 金山词霸
-  > Those who have knocked me down, thank you! It's so comfortable to lie down.
-  > 那些曾经把我击倒的人，谢谢你们！躺平真舒服。
+  > I dreamed a lot when I was a child, but now I just want to get rich overnight.
+  > 小时候的我梦想有很多，可现在我只想一夜暴富。
 
 * 扇贝单词
-  > You can neither win nor lose if you don't run the race.
-  > 如果不参加比赛，你既不会赢也不会输。
+  > Humanity is won by continuing to play in face of certain defeat.
+  > 就算可能失败，也要继续前行，可谓是真正的人。
 
 * 有道词典
-  > A little confidence is always good.
-  > 带点自信是好事。
+  > Nothing could ever replace you.
+  > 你是无可替代的。
 
 ```
