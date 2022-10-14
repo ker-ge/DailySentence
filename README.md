@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-13已更新 
+2022-10-14已更新 
 ```
 * 金山词霸
-  > I dreamed a lot when I was a child, but now I just want to get rich overnight.
-  > 小时候的我梦想有很多，可现在我只想一夜暴富。
+  > The elderly is history and drama for reference of our lives.
+  > 老人犹如历史和戏剧，可为我们的生活提供参考。
 
 * 扇贝单词
-  > Humanity is won by continuing to play in face of certain defeat.
-  > 就算可能失败，也要继续前行，可谓是真正的人。
+  > We reform others unconsciously when we walk uprightly.
+  > 当我们行为端正，就会无意中转化他人。
 
 * 有道词典
-  > Nothing could ever replace you.
-  > 你是无可替代的。
+  > You can't let the past define who you are.
+  > 别用过去来定义你自己。
 
 ```
