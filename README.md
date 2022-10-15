@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-14已更新 
+2022-10-15已更新 
 ```
 * 金山词霸
-  > The elderly is history and drama for reference of our lives.
-  > 老人犹如历史和戏剧，可为我们的生活提供参考。
+  > The best way to predict your future is to create it.
+  > 预测未来的最好方式就是去创造它。
 
 * 扇贝单词
-  > We reform others unconsciously when we walk uprightly.
-  > 当我们行为端正，就会无意中转化他人。
+  > We lost because we told ourselves we lost.
+  > 我们失败是因为我们告诉自己失败了。
 
 * 有道词典
-  > You can't let the past define who you are.
-  > 别用过去来定义你自己。
+  > Time heals all wounds.
+  > 时间抚平一切伤痛。
 
 ```
