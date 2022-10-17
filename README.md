@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-16已更新 
+2022-10-17已更新 
 ```
 * 金山词霸
-  > You make me want to be a better person.
-  > 你让我想成为一个更好的人。
+  > If you are hopeful, you will be invincible.
+  > 满怀希望，就会所向披靡。
 
 * 扇贝单词
-  > None of us really changes over time. We only become more fully what we are.
-  > 没有人能真正随着时间的推移而改变， 我们只是逐渐成为更加圆满的自己。
+  > You must first have a lot of patience to learn to have patience.
+  > 你首先得耐下心，才能学会有耐心。
 
 * 有道词典
-  > Love is everywhere.
-  > 爱，无处不在。
+  > You learn to appreciate what you have.
+  > 学会珍惜你所拥有的。
 
 ```
