@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-17已更新 
+2022-10-18已更新 
 ```
 * 金山词霸
-  > If you are hopeful, you will be invincible.
-  > 满怀希望，就会所向披靡。
+  > I know I have this great potential.
+  > 我知道我有巨大的潜力。
 
 * 扇贝单词
-  > You must first have a lot of patience to learn to have patience.
-  > 你首先得耐下心，才能学会有耐心。
+  > Dreaming, after all, is a form of planning.
+  > 梦想，说到底，是规划的一种形式。
 
 * 有道词典
-  > You learn to appreciate what you have.
-  > 学会珍惜你所拥有的。
+  > Whatever the future brings, you are my light.
+  > 无论未来如何，你永远都是我的光。
 
 ```
