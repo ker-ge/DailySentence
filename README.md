@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-18已更新 
+2022-10-19已更新 
 ```
 * 金山词霸
-  > I know I have this great potential.
-  > 我知道我有巨大的潜力。
+  > We turn not older with years, but newer every day.
+  > 我们并非在年复一年地变老，而是日复一日地焕然一新。
 
 * 扇贝单词
-  > Dreaming, after all, is a form of planning.
-  > 梦想，说到底，是规划的一种形式。
+  > Everyone is necessarily the hero of his own life story.
+  > 每个人都必定是自己人生故事中的主角。
 
 * 有道词典
-  > Whatever the future brings, you are my light.
-  > 无论未来如何，你永远都是我的光。
+  > You have your entire life in front of you. That's something to be thankful for.
+  > 来日方长，要心怀感恩之心。
 
 ```
