@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-20已更新 
+2022-10-21已更新 
 ```
 * 金山词霸
-  > A rose by any other name would smell as sweet.
-  > 玫瑰即使换了名字也依旧芬芳。
+  > Everything is dangerous. If it weren't so, life wouldn't be worth living.
+  > 凡事皆有风险。若非如此，人生将不值一过。
 
 * 扇贝单词
-  > Difficult times often bring out the best in people.
-  > 困境总能激发出人最好的一面。
+  > No matter what people tell you, words and ideas can change the world.
+  > 不论别人怎么说，言语和想法能改变世界。
 
 * 有道词典
-  > You are in control of your own life.
-  > 你的人生自己主宰。
+  > The shortest answer is doing the thing.
+  > 行动是最直接的回应。
 
 ```
