@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-21已更新 
+2022-10-22已更新 
 ```
 * 金山词霸
-  > Everything is dangerous. If it weren't so, life wouldn't be worth living.
-  > 凡事皆有风险。若非如此，人生将不值一过。
+  > It's hard to please everyone, so keep delightful for yourself.
+  > 众口难调，开心就好。
 
 * 扇贝单词
-  > No matter what people tell you, words and ideas can change the world.
-  > 不论别人怎么说，言语和想法能改变世界。
+  > Don't quit. Suffer now and live the rest of your life as a champion.
+  > 别放弃。现在吃点苦，然后带着冠军的荣耀度过余生。
 
 * 有道词典
-  > The shortest answer is doing the thing.
-  > 行动是最直接的回应。
+  > You are everything to me.
+  > 你就是我的全部。
 
 ```
