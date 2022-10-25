@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-24已更新 
+2022-10-25已更新 
 ```
 * 金山词霸
-  > Don't stay mad for too long. Learn to leave things behind. 
-  > 生气不宜太久，要学会放下。
+  > The better you become, the better you attract.
+  > 你若盛开，蝴蝶自来。
 
 * 扇贝单词
-  > Be kind, for everyone you meet is fighting a hard battle.
-  > 要与人为善，因为你遇到的每个人都在艰苦奋战。
+  > A problem is a chance for you to do your best.
+  > 问题也是机会，你得以把事情做到最好。
 
 * 有道词典
-  > You're not a nobody.
-  > 你不是无名小卒。
+  > The future holds limitless possibilities.
+  > 未来有无限可能。
 
 ```
