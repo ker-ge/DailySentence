@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-25已更新 
+2022-10-26已更新 
 ```
 * 金山词霸
-  > The better you become, the better you attract.
-  > 你若盛开，蝴蝶自来。
+  > Our meeting is just meaningful only if you wanna see me. 
+  > 只有你想见我的时候，我们的相遇才有意义。
 
 * 扇贝单词
-  > A problem is a chance for you to do your best.
-  > 问题也是机会，你得以把事情做到最好。
+  > A person who trusts no one can't be trusted.
+  > 不信人者不可信。
 
 * 有道词典
-  > The future holds limitless possibilities.
-  > 未来有无限可能。
+  > You know more than you think you do.
+  > 你远比自己想象的要出色。
 
 ```
