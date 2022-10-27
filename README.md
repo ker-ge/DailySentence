@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-26已更新 
+2022-10-27已更新 
 ```
 * 金山词霸
-  > Our meeting is just meaningful only if you wanna see me. 
-  > 只有你想见我的时候，我们的相遇才有意义。
+  > After all the difficult times, you will embrace a bright future.
+  > 熬过所有的艰难时刻，你将前程似锦。
 
 * 扇贝单词
-  > A person who trusts no one can't be trusted.
-  > 不信人者不可信。
+  > The best way to predict the future is to invent it.
+  > 预知未来的最好方式是创造未来。
 
 * 有道词典
-  > You know more than you think you do.
-  > 你远比自己想象的要出色。
+  > Habit can provide a strong foundation.
+  > 良好的习惯可以夯实基础。
 
 ```
