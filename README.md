@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-27已更新 
+2022-10-28已更新 
 ```
 * 金山词霸
-  > After all the difficult times, you will embrace a bright future.
-  > 熬过所有的艰难时刻，你将前程似锦。
+  > Loving parents is also a child's instinct.
+  > 爱父母，也是孩子的本能。
 
 * 扇贝单词
-  > The best way to predict the future is to invent it.
-  > 预知未来的最好方式是创造未来。
+  > I always wanted to be somebody, but now I realize I should have been more specific.
+  > 过去我总是想成为大人物，但现在发现当时应该更加具体些。
 
 * 有道词典
-  > Habit can provide a strong foundation.
-  > 良好的习惯可以夯实基础。
+  > A very small man can cast a very large shadow.
+  > 小角色也能有大作为。
 
 ```
