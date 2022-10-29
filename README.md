@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-28已更新 
+2022-10-29已更新 
 ```
 * 金山词霸
-  > Loving parents is also a child's instinct.
-  > 爱父母，也是孩子的本能。
+  > When you really matter to someone, that person will always make time for you.
+  > 真正在乎你的人，从来都“不忙”。
 
 * 扇贝单词
-  > I always wanted to be somebody, but now I realize I should have been more specific.
-  > 过去我总是想成为大人物，但现在发现当时应该更加具体些。
+  > I've never known any trouble that an hour's reading didn't assuage.
+  > 世间纵有万般扰，读书片刻皆可消。
 
 * 有道词典
-  > A very small man can cast a very large shadow.
-  > 小角色也能有大作为。
+  > A million different things make us who we are.
+  > 万千经历造就了我们。
 
 ```
