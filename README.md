@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-29已更新 
+2022-10-30已更新 
 ```
 * 金山词霸
-  > When you really matter to someone, that person will always make time for you.
-  > 真正在乎你的人，从来都“不忙”。
+  > True masters tend to focus on one thing and do it well.
+  > 真正的大师往往专注于打磨一件事。
 
 * 扇贝单词
-  > I've never known any trouble that an hour's reading didn't assuage.
-  > 世间纵有万般扰，读书片刻皆可消。
+  > Life is a long lesson in humility.
+  > 人生是一门漫长的学习谦卑的课。
 
 * 有道词典
-  > A million different things make us who we are.
-  > 万千经历造就了我们。
+  > Every choice that we make would create countless other possibilities.
+  > 我们的每个选择都能创造无数的可能。
 
 ```
