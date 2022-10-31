@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-10-30已更新 
+2022-10-31已更新 
 ```
 * 金山词霸
-  > True masters tend to focus on one thing and do it well.
-  > 真正的大师往往专注于打磨一件事。
+  > Kill the evil out!
+  > 诸邪退散！
 
 * 扇贝单词
-  > Life is a long lesson in humility.
-  > 人生是一门漫长的学习谦卑的课。
+  > Find a place inside where there's joy, and the joy will burn out the pain.
+  > 在内心找一个欢乐的角落，这欢乐可让痛苦烟消云散。
 
 * 有道词典
-  > Every choice that we make would create countless other possibilities.
-  > 我们的每个选择都能创造无数的可能。
+  > We should learn to celebrate our difference.
+  > 学着为自己的不同而感到骄傲。
 
 ```
