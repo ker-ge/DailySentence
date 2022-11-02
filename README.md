@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-01已更新 
+2022-11-02已更新 
 ```
 * 金山词霸
-  > Do you want to make a Jack-o'-lantern?
-  > 你想做个南瓜灯吗？
+  > I am the master of my own destiny.
+  > 我命由我不由天。
 
 * 扇贝单词
-  > I have decided to stick with love. Hate is too great a burden to bear.
-  > 我决定持守友爱，因为仇恨实在令人不堪重负。
+  > Keep your face to the sunshine and you cannot see a shadow.
+  > 一直面向阳光，你就不会看到阴暗。
 
 * 有道词典
-  > People linked by destiny will always find each other.
-  > 宿命相连的人总能找到彼此。
+  > I live within whatever path I choose.
+  > 无论我选择什么道路，我都会走下去。
 
 ```
