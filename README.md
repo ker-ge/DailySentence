@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-02已更新 
+2022-11-03已更新 
 ```
 * 金山词霸
-  > I am the master of my own destiny.
-  > 我命由我不由天。
+  > The memory is a muscle that must be exercised.
+  > 记忆就像一块肌肉，必须要勤运动。
 
 * 扇贝单词
-  > Keep your face to the sunshine and you cannot see a shadow.
-  > 一直面向阳光，你就不会看到阴暗。
+  > Integrity is doing the right thing, even when no one is watching.
+  > 诚实是在没人知道的时候也坚持做对的事情。
 
 * 有道词典
-  > I live within whatever path I choose.
-  > 无论我选择什么道路，我都会走下去。
+  > We control our own destiny.
+  > 命运由我们来掌握。
 
 ```
