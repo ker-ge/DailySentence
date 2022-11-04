@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-03已更新 
+2022-11-04已更新 
 ```
 * 金山词霸
-  > The memory is a muscle that must be exercised.
-  > 记忆就像一块肌肉，必须要勤运动。
+  > People follow the brave, not the high.
+  > 人们追随勇敢者，而不是位高者。
 
 * 扇贝单词
-  > Integrity is doing the right thing, even when no one is watching.
-  > 诚实是在没人知道的时候也坚持做对的事情。
+  > Diligence is the mother of good luck.
+  > 勤奋孕育好运。
 
 * 有道词典
-  > We control our own destiny.
-  > 命运由我们来掌握。
+  > You make your own opportunities.
+  > 机会掌握在你自己手中。
 
 ```
