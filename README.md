@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-04已更新 
+2022-11-05已更新 
 ```
 * 金山词霸
-  > People follow the brave, not the high.
-  > 人们追随勇敢者，而不是位高者。
+  > The struggle makes everything all the more worth it.
+  > 奋斗让一切都变得更有价值。
 
 * 扇贝单词
-  > Diligence is the mother of good luck.
-  > 勤奋孕育好运。
+  > There is only one happiness in this life, to love and be loved.
+  > 人生只有一种幸福，爱人并且被人爱。
 
 * 有道词典
-  > You make your own opportunities.
-  > 机会掌握在你自己手中。
+  > Keep a positive attitude and things will fall your way.
+  > 保持乐观的心态，好事自然会发生。
 
 ```
