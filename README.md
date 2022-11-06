@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-05已更新 
+2022-11-06已更新 
 ```
 * 金山词霸
-  > The struggle makes everything all the more worth it.
-  > 奋斗让一切都变得更有价值。
+  > The most exhausting thing in life is being insincere.
+  > 生活中最使人筋疲力尽的事是弄虚作假。
 
 * 扇贝单词
-  > There is only one happiness in this life, to love and be loved.
-  > 人生只有一种幸福，爱人并且被人爱。
+  > Good habits formed at youth make all the difference.
+  > 年轻时养成的良好习惯使人受益终身。
 
 * 有道词典
-  > Keep a positive attitude and things will fall your way.
-  > 保持乐观的心态，好事自然会发生。
+  > You deserve some joy in your life.
+  > 你值得拥有生活中的快乐。
 
 ```
