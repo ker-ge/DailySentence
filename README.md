@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-06已更新 
+2022-11-07已更新 
 ```
 * 金山词霸
-  > The most exhausting thing in life is being insincere.
-  > 生活中最使人筋疲力尽的事是弄虚作假。
+  > Brace yourself. Winter is coming.
+  > 做好保暖，凛冬将至。
 
 * 扇贝单词
-  > Good habits formed at youth make all the difference.
-  > 年轻时养成的良好习惯使人受益终身。
+  > A room without books is like a body without a soul.
+  > 居无书，犹如人无魂。
 
 * 有道词典
-  > You deserve some joy in your life.
-  > 你值得拥有生活中的快乐。
+  > Hope is everything.
+  > 只要心怀希望，一切皆有可能。
 
 ```
