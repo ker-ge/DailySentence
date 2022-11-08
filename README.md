@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-07已更新 
+2022-11-08已更新 
 ```
 * 金山词霸
-  > Brace yourself. Winter is coming.
-  > 做好保暖，凛冬将至。
+  > What we call "failure" is not falling down, but the staying down.
+  > 所谓“失败”不是跌倒，而是就此躺平。
 
 * 扇贝单词
-  > A room without books is like a body without a soul.
-  > 居无书，犹如人无魂。
+  > I attribute my success to this: I never gave or took any excuse.
+  > 我将自己的成功归结为：我从来不找借口，也从来不接受借口。
 
 * 有道词典
-  > Hope is everything.
-  > 只要心怀希望，一切皆有可能。
+  > You must embrace your future.
+  > 拥抱未来。
 
 ```
