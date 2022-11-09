@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-08已更新 
+2022-11-09已更新 
 ```
 * 金山词霸
-  > What we call "failure" is not falling down, but the staying down.
-  > 所谓“失败”不是跌倒，而是就此躺平。
+  > Studies serve for delight, for ornament and for ability.
+  > 读书足以怡情，足以博彩，足以长才。
 
 * 扇贝单词
-  > I attribute my success to this: I never gave or took any excuse.
-  > 我将自己的成功归结为：我从来不找借口，也从来不接受借口。
+  > Every child is an artist. The problem is how to remain an artist once he grows up.
+  > 每个孩子都是艺术家，难就难在长大之后还是艺术家。
 
 * 有道词典
-  > You must embrace your future.
-  > 拥抱未来。
+  > When we face our deepest fears, our true courage comes out.
+  > 直面最深的恐惧时，真正的勇气就会显现。
 
 ```
