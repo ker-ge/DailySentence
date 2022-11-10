@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-09已更新 
+2022-11-10已更新 
 ```
 * 金山词霸
-  > Studies serve for delight, for ornament and for ability.
-  > 读书足以怡情，足以博彩，足以长才。
+  > To infinity and beyond!
+  > 飞向宇宙，浩瀚无垠！
 
 * 扇贝单词
-  > Every child is an artist. The problem is how to remain an artist once he grows up.
-  > 每个孩子都是艺术家，难就难在长大之后还是艺术家。
+  > Life is too short to waste your time on people who don't respect, appreciate, and value you.
+  > 人生太短，不要浪费在不尊重、不欣赏、也不珍惜你的人身上。
 
 * 有道词典
-  > When we face our deepest fears, our true courage comes out.
-  > 直面最深的恐惧时，真正的勇气就会显现。
+  > Life's been full of joy and tears.
+  > 有泪水也有喜悦，才叫人生。
 
 ```
