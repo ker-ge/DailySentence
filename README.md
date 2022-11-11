@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-10已更新 
+2022-11-11已更新 
 ```
 * 金山词霸
-  > To infinity and beyond!
-  > 飞向宇宙，浩瀚无垠！
+  > Money burns a hole in my pocket!
+  > 我兜儿里的钱呢！
 
 * 扇贝单词
-  > Life is too short to waste your time on people who don't respect, appreciate, and value you.
-  > 人生太短，不要浪费在不尊重、不欣赏、也不珍惜你的人身上。
+  > Self-confidence is the first requisite to great undertakings.
+  > 自信是成大事的首要条件。
 
 * 有道词典
-  > Life's been full of joy and tears.
-  > 有泪水也有喜悦，才叫人生。
+  > Life is a journey.
+  > 人生是一场旅程。
 
 ```
