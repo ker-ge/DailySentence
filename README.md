@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-11已更新 
+2022-11-12已更新 
 ```
 * 金山词霸
-  > Money burns a hole in my pocket!
-  > 我兜儿里的钱呢！
+  > Ultimately, it is the desire, not the desired, that we love.
+  > 归根结底，我们爱的不是欲望之物，而是欲望本身。
 
 * 扇贝单词
-  > Self-confidence is the first requisite to great undertakings.
-  > 自信是成大事的首要条件。
+  > Instead of worrying about what you cannot control, shift your energy to what you can create.
+  > 与其担心你无法掌控的，不如将精力花在你能创造的东西上。
 
 * 有道词典
-  > Life is a journey.
-  > 人生是一场旅程。
+  > I'm the best me I can possibly be.
+  > 我要做最好的自己。
 
 ```
