@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-12已更新 
+2022-11-13已更新 
 ```
 * 金山词霸
-  > Ultimately, it is the desire, not the desired, that we love.
-  > 归根结底，我们爱的不是欲望之物，而是欲望本身。
+  > Pain is inevitable. Suffering is optional.
+  > 痛是难免的，苦却是甘愿的。
 
 * 扇贝单词
-  > Instead of worrying about what you cannot control, shift your energy to what you can create.
-  > 与其担心你无法掌控的，不如将精力花在你能创造的东西上。
+  > It's kind of fun to do the impossible.
+  > 做不可能的事还挺有趣的。
 
 * 有道词典
-  > I'm the best me I can possibly be.
-  > 我要做最好的自己。
+  > Love is the supreme power.
+  > 爱拥有强大的力量。
 
 ```
