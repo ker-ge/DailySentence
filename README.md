@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-13已更新 
+2022-11-14已更新 
 ```
 * 金山词霸
-  > Pain is inevitable. Suffering is optional.
-  > 痛是难免的，苦却是甘愿的。
+  > Miracles happen every day.
+  > 奇迹每天都在发生。
 
 * 扇贝单词
-  > It's kind of fun to do the impossible.
-  > 做不可能的事还挺有趣的。
+  > Intelligence without ambition is a bird without wings.
+  > 聪明但没有抱负，有如没有翅膀的鸟。
 
 * 有道词典
-  > Love is the supreme power.
-  > 爱拥有强大的力量。
+  > Open your mind to the possibilities.
+  > 敞开心扉，迎接更多可能。
 
 ```
