@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-14已更新 
+2022-11-15已更新 
 ```
 * 金山词霸
-  > Miracles happen every day.
-  > 奇迹每天都在发生。
+  > Words and ideas can change the world.
+  > 文字和思想能改变世界。
 
 * 扇贝单词
-  > Intelligence without ambition is a bird without wings.
-  > 聪明但没有抱负，有如没有翅膀的鸟。
+  > Never, never, never give up.
+  > 不，绝不，永不放弃。
 
 * 有道词典
-  > Open your mind to the possibilities.
-  > 敞开心扉，迎接更多可能。
+  > We can do anything when we have teamwork.
+  > 团结就是力量。
 
 ```
