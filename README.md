@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-15已更新 
+2022-11-16已更新 
 ```
 * 金山词霸
-  > Words and ideas can change the world.
-  > 文字和思想能改变世界。
+  > After all, tomorrow is another day.
+  > 不管怎样，明天又是新的一天。
 
 * 扇贝单词
-  > Never, never, never give up.
-  > 不，绝不，永不放弃。
+  > If you love life, don't waste time, for time is what life is made up of.
+  > 如果你热爱生活，就别浪费时间，因为生活是时间组成的。
 
 * 有道词典
-  > We can do anything when we have teamwork.
-  > 团结就是力量。
+  > Focus on the good.
+  > 要往好的方面想。
 
 ```
