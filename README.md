@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-17已更新 
+2022-11-18已更新 
 ```
 * 金山词霸
-  > Life is short but its tortuous way is long.
-  > 人生不满百，常怀千岁忧。
+  > An open mind is a gold mine.
+  > 解放思想，黄金万两。
 
 * 扇贝单词
-  > I am always ready to learn although I do not always like being taught.
-  > 虽然我并不喜欢有人教我，但我一直乐于学习。
+  > Autumn leaves don’t fall; they fly. They take their time and wander on this, their only chance to soar. 
+  > 秋叶并不会坠落，它们会飞翔。它们尽情享受着这唯一一次肆意盘旋的机会。
 
 * 有道词典
-  > Everybody makes mistakes.
-  > 人无完人。
+  > There is nothing on this Earth more to be prized than true friendship.
+  > 真挚的友谊，是世界上最珍贵的东西。
 
 ```
