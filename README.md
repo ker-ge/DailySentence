@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-18已更新 
+2022-11-19已更新 
 ```
 * 金山词霸
-  > An open mind is a gold mine.
-  > 解放思想，黄金万两。
+  > If you don't walk out, you will think that this is the whole world.
+  > 走出去，才能看到更大的世界。
 
 * 扇贝单词
-  > Autumn leaves don’t fall; they fly. They take their time and wander on this, their only chance to soar. 
-  > 秋叶并不会坠落，它们会飞翔。它们尽情享受着这唯一一次肆意盘旋的机会。
+  > It does not do well to dwell on dreams and forget to live, remember that.
+  > 记住，不要依赖梦想而忘记生活。
 
 * 有道词典
-  > There is nothing on this Earth more to be prized than true friendship.
-  > 真挚的友谊，是世界上最珍贵的东西。
+  > You can do anything.
+  > 没什么能难倒你。
 
 ```
