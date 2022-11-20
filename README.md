@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-19已更新 
+2022-11-20已更新 
 ```
 * 金山词霸
-  > If you don't walk out, you will think that this is the whole world.
-  > 走出去，才能看到更大的世界。
+  > Before you meet someone who loves you more, you must love yourself well.
+  > 在遇到更爱自己的人之前，一定要好好爱自己。
 
 * 扇贝单词
-  > It does not do well to dwell on dreams and forget to live, remember that.
-  > 记住，不要依赖梦想而忘记生活。
+  > I argue thee that love is life. And life hath immortality.
+  > 我告诉你，爱就是生命，生命可以不朽。
 
 * 有道词典
-  > You can do anything.
-  > 没什么能难倒你。
+  > Live in the moment.
+  > 活在当下。
 
 ```
