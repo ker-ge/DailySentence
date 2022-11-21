@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-20已更新 
+2022-11-21已更新 
 ```
 * 金山词霸
-  > Before you meet someone who loves you more, you must love yourself well.
-  > 在遇到更爱自己的人之前，一定要好好爱自己。
+  > Kings have long arms.
+  > 普天之下，莫非王土。
 
 * 扇贝单词
-  > I argue thee that love is life. And life hath immortality.
-  > 我告诉你，爱就是生命，生命可以不朽。
+  > You can overcome anything, if and only if you love something enough.
+  > 只要也只有你足够热爱某件事，就可以克服任何困难。
 
 * 有道词典
-  > Live in the moment.
-  > 活在当下。
+  > Seize your destiny.
+  > 掌握自己的命运。
 
 ```
