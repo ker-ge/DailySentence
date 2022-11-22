@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-21已更新 
+2022-11-22已更新 
 ```
 * 金山词霸
-  > Kings have long arms.
-  > 普天之下，莫非王土。
+  > The snow whispers around me. 
+  > 雪花萦绕在我耳边，窃窃私语。
 
 * 扇贝单词
-  > You can overcome anything, if and only if you love something enough.
-  > 只要也只有你足够热爱某件事，就可以克服任何困难。
+  > What seems to us as bitter trials are often blessings in disguise.
+  > 我们看起来似乎痛苦的试炼，常常是伪装起来的好运。
 
 * 有道词典
-  > Seize your destiny.
-  > 掌握自己的命运。
+  > Love never ends.
+  > 爱无止境。
 
 ```
