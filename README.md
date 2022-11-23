@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-22已更新 
+2022-11-23已更新 
 ```
 * 金山词霸
-  > The snow whispers around me. 
-  > 雪花萦绕在我耳边，窃窃私语。
+  > The greater the man, the more restrained his anger.
+  > 人越伟大，越能克制怒火。
 
 * 扇贝单词
-  > What seems to us as bitter trials are often blessings in disguise.
-  > 我们看起来似乎痛苦的试炼，常常是伪装起来的好运。
+  > If you judge people, you have no time to love them.
+  > 如果你论断人，就没有时间去爱他们了。
 
 * 有道词典
-  > Love never ends.
-  > 爱无止境。
+  > No matter where you go, I'm gonna follow you.
+  > 无论你向何方，我将与你同行。
 
 ```
