@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-23已更新 
+2022-11-24已更新 
 ```
 * 金山词霸
-  > The greater the man, the more restrained his anger.
-  > 人越伟大，越能克制怒火。
+  > Live for the moment.
+  > 活在当下。
 
 * 扇贝单词
-  > If you judge people, you have no time to love them.
-  > 如果你论断人，就没有时间去爱他们了。
+  > Character—the willingness to accept responsibility for one's own life—is the source from which self-respect springs.
+  > 人格力量就是愿意为自己的生活承担责任的决心，这正是自尊的来源。
 
 * 有道词典
-  > No matter where you go, I'm gonna follow you.
-  > 无论你向何方，我将与你同行。
+  > Every single day counts.
+  > 每一天都很重要。
 
 ```
