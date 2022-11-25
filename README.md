@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-24已更新 
+2022-11-25已更新 
 ```
 * 金山词霸
-  > Live for the moment.
-  > 活在当下。
+  > A drop of water in need, shall be returned with a spring in deed.
+  > 滴水之恩，涌泉相报。
 
 * 扇贝单词
-  > Character—the willingness to accept responsibility for one's own life—is the source from which self-respect springs.
-  > 人格力量就是愿意为自己的生活承担责任的决心，这正是自尊的来源。
+  > It is said the feeling called happiness cannot be known alone.
+  > 听说，有种叫幸福的感觉无法独享。
 
 * 有道词典
-  > Every single day counts.
-  > 每一天都很重要。
+  > It's important to tell the truth.
+  > 说实话很重要。
 
 ```
