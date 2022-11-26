@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-25已更新 
+2022-11-26已更新 
 ```
 * 金山词霸
-  > A drop of water in need, shall be returned with a spring in deed.
-  > 滴水之恩，涌泉相报。
+  > To be a sailor of the world, bound for all ports.
+  > 做世界的水手，游遍所有的港口。
 
 * 扇贝单词
-  > It is said the feeling called happiness cannot be known alone.
-  > 听说，有种叫幸福的感觉无法独享。
+  > Nothing behind me, everything ahead of me, as is ever so on the road.
+  > 抛开顾虑，探索未知，永远在路上。
 
 * 有道词典
-  > It's important to tell the truth.
-  > 说实话很重要。
+  > I'm proud of myself.
+  > 为自己骄傲。
 
 ```
