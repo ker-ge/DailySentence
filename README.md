@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-26已更新 
+2022-11-27已更新 
 ```
 * 金山词霸
-  > To be a sailor of the world, bound for all ports.
-  > 做世界的水手，游遍所有的港口。
+  > I live to be the ruler of life, not a slave.
+  > 我要做生命的主宰，而非奴隶。
 
 * 扇贝单词
-  > Nothing behind me, everything ahead of me, as is ever so on the road.
-  > 抛开顾虑，探索未知，永远在路上。
+  > Let perseverance be your engine and hope your fuel.
+  > 让坚毅成为你的发动机，让希望成为你的燃料。
 
 * 有道词典
-  > I'm proud of myself.
-  > 为自己骄傲。
+  > The foundation to any healthy relationship is honesty.
+  > 诚实是一切良好关系的基础。
 
 ```
