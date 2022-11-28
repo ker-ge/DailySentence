@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-27已更新 
+2022-11-28已更新 
 ```
 * 金山词霸
-  > I live to be the ruler of life, not a slave.
-  > 我要做生命的主宰，而非奴隶。
+  > It's not the length of life, but the depth of life.
+  > 你不能决定生命的长度，却能拓展它的深度。
 
 * 扇贝单词
-  > Let perseverance be your engine and hope your fuel.
-  > 让坚毅成为你的发动机，让希望成为你的燃料。
+  > Compassion is an unstable emotion. It needs to be translated into action, or it withers.
+  > 激情是一种不稳定的情感：如果不将它转化为行动，它便会枯萎。
 
 * 有道词典
-  > The foundation to any healthy relationship is honesty.
-  > 诚实是一切良好关系的基础。
+  > Perfection is not just about control. It's also about letting go.
+  > 人生的最高境界是收放自如。
 
 ```
