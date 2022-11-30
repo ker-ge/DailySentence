@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-29已更新 
+2022-11-30已更新 
 ```
 * 金山词霸
-  > We are going forward to the future, not back into the past.
-  > 我们要迈向未来，而不是沉湎于过去。
+  > Some rise by sin, and some by virtue fall.
+  > 有些人因罪恶而升迁，有些人因美德而没落。
 
 * 扇贝单词
-  > Not hammer-strokes but dance of the water sings the pebbles into perfection.
-  > 使卵石臻于完美的，不是锤击，而是水的且歌且舞。
+  > ㅤ
+  > ㅤ
 
 * 有道词典
-  > Keep calm and carry on.
-  > 保持冷静，继续前行。
+  > Be the CEO of your own life.
+  > 做自己人生的CEO。
 
 ```
