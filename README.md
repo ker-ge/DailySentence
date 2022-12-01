@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-11-30已更新 
+2022-12-01已更新 
 ```
 * 金山词霸
-  > Some rise by sin, and some by virtue fall.
-  > 有些人因罪恶而升迁，有些人因美德而没落。
+  > What's done cannot be undone. 
+  > 覆水难收。
 
 * 扇贝单词
   > ㅤ
   > ㅤ
 
 * 有道词典
-  > Be the CEO of your own life.
-  > 做自己人生的CEO。
+  > True happiness comes from belonging.
+  > 真正的幸福源自于归属感。
 
 ```
