@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-01已更新 
+2022-12-02已更新 
 ```
 * 金山词霸
-  > What's done cannot be undone. 
-  > 覆水难收。
+  > Never give up until the fight is over.
+  > 永远不要放弃，要一直战斗到最后一秒。
 
 * 扇贝单词
   > ㅤ
   > ㅤ
 
 * 有道词典
-  > True happiness comes from belonging.
-  > 真正的幸福源自于归属感。
+  > Time heals all wounds.
+  > 时间能抚平一切。
 
 ```
