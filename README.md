@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-02已更新 
+2022-12-03已更新 
 ```
 * 金山词霸
-  > Never give up until the fight is over.
-  > 永远不要放弃，要一直战斗到最后一秒。
+  > Although the world is full of suffering, it is also full of the overcoming of it.
+  > 世间多苦难，但苦难总是能战胜的。
 
 * 扇贝单词
   > ㅤ
   > ㅤ
 
 * 有道词典
-  > Time heals all wounds.
-  > 时间能抚平一切。
+  > You are my sunshine.
+  > 你是我的阳光。
 
 ```
