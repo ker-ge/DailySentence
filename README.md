@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-03已更新 
+2022-12-04已更新 
 ```
 * 金山词霸
-  > Although the world is full of suffering, it is also full of the overcoming of it.
-  > 世间多苦难，但苦难总是能战胜的。
+  > You are so much more than how you look.
+  > 你比你的外表更有魅力。
 
 * 扇贝单词
   > ㅤ
   > ㅤ
 
 * 有道词典
-  > You are my sunshine.
-  > 你是我的阳光。
+  > Time will tell.
+  > 时间会证明一切。
 
 ```
