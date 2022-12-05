@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-04已更新 
+2022-12-05已更新 
 ```
 * 金山词霸
-  > You are so much more than how you look.
-  > 你比你的外表更有魅力。
+  > Eternity is not a distance but a decision.
+  > 永远不是一种距离，而是一种决定。
 
 * 扇贝单词
   > ㅤ
   > ㅤ
 
 * 有道词典
-  > Time will tell.
-  > 时间会证明一切。
+  > Home is where our family is.
+  > 有家人在的地方才叫家。
 
 ```
