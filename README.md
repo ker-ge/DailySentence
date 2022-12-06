@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-05已更新 
+2022-12-06已更新 
 ```
 * 金山词霸
-  > Eternity is not a distance but a decision.
-  > 永远不是一种距离，而是一种决定。
+  > The deepest and heaviest love must grow up with the time.
+  > 最深最重的爱，须与时日共成长。
 
 * 扇贝单词
   > ㅤ
   > ㅤ
 
 * 有道词典
-  > Home is where our family is.
-  > 有家人在的地方才叫家。
+  > I want to be better.
+  > 我想成为更好的人。
 
 ```
