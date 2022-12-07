@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-06已更新 
+2022-12-07已更新 
 ```
 * 金山词霸
-  > The deepest and heaviest love must grow up with the time.
-  > 最深最重的爱，须与时日共成长。
+  > A timely snow promises a good harvest.
+  > 瑞雪兆丰年。
 
 * 扇贝单词
   > ㅤ
   > ㅤ
 
 * 有道词典
-  > I want to be better.
-  > 我想成为更好的人。
+  > Our youth is our future.
+  > 年轻人就是未来。
 
 ```
