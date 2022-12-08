@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-07已更新 
+2022-12-08已更新 
 ```
 * 金山词霸
-  > A timely snow promises a good harvest.
-  > 瑞雪兆丰年。
+  > Sometimes things go better when you just say no.
+  > 有时候拒绝会让事情变得更好。
 
 * 扇贝单词
-  > ㅤ
-  > ㅤ
+  > Maybe that's what life is: a wink of the eye and winking stars.
+  > 或许这就是人生：转瞬即逝，像闪烁的繁星。
 
 * 有道词典
-  > Our youth is our future.
-  > 年轻人就是未来。
+  > Do unto others as you'd have them do to you.
+  > 己所不欲，勿施于人。
 
 ```
