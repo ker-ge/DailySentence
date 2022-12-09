@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-08已更新 
+2022-12-09已更新 
 ```
 * 金山词霸
-  > Sometimes things go better when you just say no.
-  > 有时候拒绝会让事情变得更好。
+  > I know I have this great potential.
+  > 我知道我有巨大的潜力。
 
 * 扇贝单词
-  > Maybe that's what life is: a wink of the eye and winking stars.
-  > 或许这就是人生：转瞬即逝，像闪烁的繁星。
+  > Nature never did betray a heart that loved her.
+  > 大自然从不离弃一颗爱她的心。
 
 * 有道词典
-  > Do unto others as you'd have them do to you.
-  > 己所不欲，勿施于人。
+  > You deserve love.
+  > 你值得被爱。
 
 ```
