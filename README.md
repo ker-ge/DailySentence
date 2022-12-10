@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-09已更新 
+2022-12-10已更新 
 ```
 * 金山词霸
-  > I know I have this great potential.
-  > 我知道我有巨大的潜力。
+  > They tell me that I'm crazy, but I'll never let them change me.
+  > 就算他们叫我疯子，我也不会因此改变分毫。
 
 * 扇贝单词
-  > Nature never did betray a heart that loved her.
-  > 大自然从不离弃一颗爱她的心。
+  > The only thing that matters is the everlasting present.
+  > 唯一重要的事情就是永恒的现在。
 
 * 有道词典
-  > You deserve love.
-  > 你值得被爱。
+  > Every book has a whole world inside it.
+  > 每本书都是一个新世界。
 
 ```
