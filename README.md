@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-10已更新 
+2022-12-11已更新 
 ```
 * 金山词霸
-  > They tell me that I'm crazy, but I'll never let them change me.
-  > 就算他们叫我疯子，我也不会因此改变分毫。
+  > Everything that has a beginning has an end. 
+  > 世间万物有始皆有终。
 
 * 扇贝单词
-  > The only thing that matters is the everlasting present.
-  > 唯一重要的事情就是永恒的现在。
+  > With the new day comes new strength and new thoughts.
+  > 全新的一天带给你全新的力量和思想。
 
 * 有道词典
-  > Every book has a whole world inside it.
-  > 每本书都是一个新世界。
+  > We can change the world.
+  > 我们可以改变世界。
 
 ```
