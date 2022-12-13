@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-12已更新 
+2022-12-13已更新 
 ```
 * 金山词霸
-  > I just have to live my truth.
-  > 我必须活出真实的自己。
+  > Witnesses pass, but history is eternal. - From China Daily
+  > 逝者长已矣，历史永铭记。
 
 * 扇贝单词
-  > Attention is vitality. It connects you with others. It makes you eager. Stay eager.
-  > 专注带来活力。它让你和他人联结起来。它让你求知若渴、步履不停。
+  > ㅤ
+  > ㅤ
 
 * 有道词典
-  > You are perfect.
-  > 你很完美。
+  > True love prevails.
+  > 真爱至上。
 
 ```
