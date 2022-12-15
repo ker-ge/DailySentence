@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-14已更新 
+2022-12-15已更新 
 ```
 * 金山词霸
-  > No victory comes without a price.
-  > 凡是成功就要付出代价。
+  > Be good. Be bad. Just be yourself.
+  > 是好还是坏，只要做你自己就好。
 
 * 扇贝单词
-  > To free us from the expectations of others, to give us back to ourselves—there lies the great, singular power of self-respect.
-  > 将自己从他人的期待中解放出来，把自己还给自己——这样你就获得了最为伟大、独特的自尊。
+  > My big fish must be somewhere.
+  > 一定有属于我的大鱼在什么地方等着。
 
 * 有道词典
-  > No matter where you go, I'm in your corner and I always will be.
-  > 不管你去哪里，我都会在你身边，永远支持你。
+  > We treat each other as equals.
+  > 我们平等对待彼此。
 
 ```
