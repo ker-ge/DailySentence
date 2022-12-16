@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-15已更新 
+2022-12-16已更新 
 ```
 * 金山词霸
-  > Be good. Be bad. Just be yourself.
-  > 是好还是坏，只要做你自己就好。
+  > I'm trying everything.
+  > 我什么都要试试。
 
 * 扇贝单词
-  > My big fish must be somewhere.
-  > 一定有属于我的大鱼在什么地方等着。
+  > The quality, not the longevity, of one's life is what is important.
+  > 人重要的并非生命的长度，而是生命的质量。
 
 * 有道词典
-  > We treat each other as equals.
-  > 我们平等对待彼此。
+  > Each day brings a new beginning.
+  > 每天都是一个新开始。
 
 ```
