@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-16已更新 
+2022-12-17已更新 
 ```
 * 金山词霸
-  > I'm trying everything.
-  > 我什么都要试试。
+  > The future is not ours to see. What will be will be.
+  > 我们不能预见未来。顺其自然吧。
 
 * 扇贝单词
-  > The quality, not the longevity, of one's life is what is important.
-  > 人重要的并非生命的长度，而是生命的质量。
+  > Start where you are. Use what you have. Do what you can.
+  > 就地开始，用你所有的，做你所能做的。
 
 * 有道词典
-  > Each day brings a new beginning.
-  > 每天都是一个新开始。
+  > You are the love of my life.
+  > 你是我一生的挚爱。
 
 ```
