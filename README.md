@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-17已更新 
+2022-12-18已更新 
 ```
 * 金山词霸
-  > The future is not ours to see. What will be will be.
-  > 我们不能预见未来。顺其自然吧。
+  > While there is life, there is hope.
+  > 生命不息，希望不止。
 
 * 扇贝单词
-  > Start where you are. Use what you have. Do what you can.
-  > 就地开始，用你所有的，做你所能做的。
+  > Do any human beings ever realize life while they live it—every, every minute?
+  > 有多少人在活着的时候会注意到生活本身，哪怕是这其中的一分一秒？
 
 * 有道词典
-  > You are the love of my life.
-  > 你是我一生的挚爱。
+  > No one is born good or bad.
+  > 没有人天生好或坏。
 
 ```
