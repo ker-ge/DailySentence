@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-18已更新 
+2022-12-19已更新 
 ```
 * 金山词霸
-  > While there is life, there is hope.
-  > 生命不息，希望不止。
+  > You cannot swim for new horizons until you have courage to lose sight of the shore.
+  > 除非有勇气离开岸边，否则你永远游不到彼岸。
 
 * 扇贝单词
-  > Do any human beings ever realize life while they live it—every, every minute?
-  > 有多少人在活着的时候会注意到生活本身，哪怕是这其中的一分一秒？
+  > The best preparation for tomorrow is doing your best today.
+  > 今天要竭尽全力做到最好，就是你为明天所做的最好准备。
 
 * 有道词典
-  > No one is born good or bad.
-  > 没有人天生好或坏。
+  > Listen to your heart.
+  > 听从你的内心。
 
 ```
