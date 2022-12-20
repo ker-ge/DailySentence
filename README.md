@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-19已更新 
+2022-12-20已更新 
 ```
 * 金山词霸
-  > You cannot swim for new horizons until you have courage to lose sight of the shore.
-  > 除非有勇气离开岸边，否则你永远游不到彼岸。
+  > However bad life may seem, there is always something you can do, and succeed at. 
+  > 无论生活多么艰辛，你总会有自己的方式发光。
 
 * 扇贝单词
-  > The best preparation for tomorrow is doing your best today.
-  > 今天要竭尽全力做到最好，就是你为明天所做的最好准备。
+  > With ordinary talent and extraordinary perseverance, all things are attainable.
+  > 平凡的才智加上不凡的坚持，一切都能成就。
 
 * 有道词典
-  > Listen to your heart.
-  > 听从你的内心。
+  > It's nice to have a friend.
+  > 有朋友相伴真好。
 
 ```
