@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-20已更新 
+2022-12-21已更新 
 ```
 * 金山词霸
-  > However bad life may seem, there is always something you can do, and succeed at. 
-  > 无论生活多么艰辛，你总会有自己的方式发光。
+  > When I shiver with cold, not a snowflake is innocent.
+  > 当我冷得瑟瑟发抖时，没有一片雪花是无辜的。
 
 * 扇贝单词
-  > With ordinary talent and extraordinary perseverance, all things are attainable.
-  > 平凡的才智加上不凡的坚持，一切都能成就。
+  > It's the time you spent on your rose that makes your rose so important.
+  > 正因为你为玫瑰花费了时间，它才变得如此重要。
 
 * 有道词典
-  > It's nice to have a friend.
-  > 有朋友相伴真好。
+  > I believe in you.
+  > 我相信你。
 
 ```
