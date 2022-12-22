@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-21已更新 
+2022-12-22已更新 
 ```
 * 金山词霸
-  > When I shiver with cold, not a snowflake is innocent.
-  > 当我冷得瑟瑟发抖时，没有一片雪花是无辜的。
+  > The man who removes a mountain begins by carrying away small stones.
+  > 移开山头的人总是从搬小石头开始。
 
 * 扇贝单词
-  > It's the time you spent on your rose that makes your rose so important.
-  > 正因为你为玫瑰花费了时间，它才变得如此重要。
+  > Hold fast to dreams, for if dreams die life is a broken-winged bird that cannot fly.
+  > 紧握梦想吧！因为一旦梦想死亡，生活就会沦为一只折翼的鸟儿，无法飞翔。
 
 * 有道词典
-  > I believe in you.
-  > 我相信你。
+  > You could be so happy in your warm winter coat.
+  > 穿着温暖的大衣，快乐地度过冬天。
 
 ```
