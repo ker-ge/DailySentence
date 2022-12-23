@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-22已更新 
+2022-12-23已更新 
 ```
 * 金山词霸
-  > The man who removes a mountain begins by carrying away small stones.
-  > 移开山头的人总是从搬小石头开始。
+  > Kept in a small bowl, the goldfish will remain small.
+  > 呆在小鱼缸里的金鱼永远不会长大。
 
 * 扇贝单词
-  > Hold fast to dreams, for if dreams die life is a broken-winged bird that cannot fly.
-  > 紧握梦想吧！因为一旦梦想死亡，生活就会沦为一只折翼的鸟儿，无法飞翔。
+  > Love is like the wind; you can't see it but you can feel it.
+  > 爱犹如风，看不到，但能感受得到。
 
 * 有道词典
-  > You could be so happy in your warm winter coat.
-  > 穿着温暖的大衣，快乐地度过冬天。
+  > When you only have one life, that's what makes it special.
+  > 正因为生命只有一次，才显得它弥足珍贵。
 
 ```
