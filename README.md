@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-23已更新 
+2022-12-24已更新 
 ```
 * 金山词霸
-  > Kept in a small bowl, the goldfish will remain small.
-  > 呆在小鱼缸里的金鱼永远不会长大。
+  > Come on and let it snow!
+  > 来吧，下一场雪！
 
 * 扇贝单词
-  > Love is like the wind; you can't see it but you can feel it.
-  > 爱犹如风，看不到，但能感受得到。
+  > Knowing yourself is the beginning of all wisdom.
+  > 认识自己是一切智慧的开始。
 
 * 有道词典
-  > When you only have one life, that's what makes it special.
-  > 正因为生命只有一次，才显得它弥足珍贵。
+  > Be who you are on the inside.
+  > 做内心强大的自己。
 
 ```
