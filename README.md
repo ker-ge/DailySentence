@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-24已更新 
+2022-12-25已更新 
 ```
 * 金山词霸
-  > Come on and let it snow!
-  > 来吧，下一场雪！
+  > I wish every day is merry, not just Christmas.
+  > 我希望每天都快乐，不止圣诞。
 
 * 扇贝单词
-  > Knowing yourself is the beginning of all wisdom.
-  > 认识自己是一切智慧的开始。
+  > Whatever be his pursuits, his eagerness in them should know no moderation, and leave him no sense of fatigue.
+  > 无论追求什么，都要如饥似渴，孜孜不倦。
 
 * 有道词典
-  > Be who you are on the inside.
-  > 做内心强大的自己。
+  > All of your Christmas dreams will come true.
+  > 你的圣诞愿望都将实现。
 
 ```
