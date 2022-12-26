@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-25已更新 
+2022-12-26已更新 
 ```
 * 金山词霸
-  > I wish every day is merry, not just Christmas.
-  > 我希望每天都快乐，不止圣诞。
+  > It's no use going back to yesterday, because I was a different person then.
+  > 回顾昨天毫无用处，因为我已今非昔比。
 
 * 扇贝单词
-  > Whatever be his pursuits, his eagerness in them should know no moderation, and leave him no sense of fatigue.
-  > 无论追求什么，都要如饥似渴，孜孜不倦。
+  > You can't cross the sea merely by standing and staring at the water.
+  > 光站在那里盯着海面，是没法穿越海洋的。
 
 * 有道词典
-  > All of your Christmas dreams will come true.
-  > 你的圣诞愿望都将实现。
+  > You must trust yourself.
+  > 相信自己。
 
 ```
