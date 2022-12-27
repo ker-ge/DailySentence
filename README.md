@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-26已更新 
+2022-12-27已更新 
 ```
 * 金山词霸
-  > It's no use going back to yesterday, because I was a different person then.
-  > 回顾昨天毫无用处，因为我已今非昔比。
+  > I wouldn't give up being myself for even one second.
+  > 要让我放弃做自己，哪怕一秒钟都不行。
 
 * 扇贝单词
-  > You can't cross the sea merely by standing and staring at the water.
-  > 光站在那里盯着海面，是没法穿越海洋的。
+  > All human wisdom is summed up in these two words: wait and hope.
+  > 人类所有的智慧可以归结为两个词：等待和希望。
 
 * 有道词典
-  > You must trust yourself.
-  > 相信自己。
+  > Self-improvement is a lifelong process.
+  > 自我提升是一个终生的过程。
 
 ```
