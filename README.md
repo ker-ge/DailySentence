@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-27已更新 
+2022-12-28已更新 
 ```
 * 金山词霸
-  > I wouldn't give up being myself for even one second.
-  > 要让我放弃做自己，哪怕一秒钟都不行。
+  > A positive attitude will have positive results.
+  > 积极的态度会带来积极的结果。 
 
 * 扇贝单词
-  > All human wisdom is summed up in these two words: wait and hope.
-  > 人类所有的智慧可以归结为两个词：等待和希望。
+  > Go confidently in the direction of your dreams. Live the life you've imagined.
+  > 自信地往梦想的方向前进吧；去过你所设想的生活。
 
 * 有道词典
-  > Self-improvement is a lifelong process.
-  > 自我提升是一个终生的过程。
+  > We learn from our mistakes.
+  > 我们从错误中吸取教训。
 
 ```
