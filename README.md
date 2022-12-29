@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-28已更新 
+2022-12-29已更新 
 ```
 * 金山词霸
-  > A positive attitude will have positive results.
-  > 积极的态度会带来积极的结果。 
+  > Human beings are designed for many things, but loneliness isn't one of them.
+  > 人类能应对许多问题，但孤独并不在其中。
 
 * 扇贝单词
-  > Go confidently in the direction of your dreams. Live the life you've imagined.
-  > 自信地往梦想的方向前进吧；去过你所设想的生活。
+  > Lose an hour in the morning, and you will spend all day looking for it.
+  > 早上浪费一小时，得用一天的时间来弥补。
 
 * 有道词典
-  > We learn from our mistakes.
-  > 我们从错误中吸取教训。
+  > Everyone loves something.
+  > 人人都有所爱。
 
 ```
