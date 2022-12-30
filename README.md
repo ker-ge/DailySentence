@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-29已更新 
+2022-12-30已更新 
 ```
 * 金山词霸
-  > Human beings are designed for many things, but loneliness isn't one of them.
-  > 人类能应对许多问题，但孤独并不在其中。
+  > Everybody deserves to be loved.
+  > 每个人都值得被爱。
 
 * 扇贝单词
-  > Lose an hour in the morning, and you will spend all day looking for it.
-  > 早上浪费一小时，得用一天的时间来弥补。
+  > Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.
+  > 简单的事，越拖越难，困难的事，越拖越不可能做。
 
 * 有道词典
-  > Everyone loves something.
-  > 人人都有所爱。
+  > You have to love yourself.
+  > 好好地爱你自己。
 
 ```
