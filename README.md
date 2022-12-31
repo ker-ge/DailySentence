@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-30已更新 
+2022-12-31已更新 
 ```
 * 金山词霸
-  > Everybody deserves to be loved.
-  > 每个人都值得被爱。
+  > Where did the time go?
+  > 时间都到哪去了？
 
 * 扇贝单词
-  > Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.
-  > 简单的事，越拖越难，困难的事，越拖越不可能做。
+  > Kindness is always fashionable, and always welcome.
+  > 善良，永不过时，也永远为人所喜闻乐见。
 
 * 有道词典
-  > You have to love yourself.
-  > 好好地爱你自己。
+  > Looking into your past is the only way to discover your future.
+  > 回望过去，是为了更好地探索未来。
 
 ```
