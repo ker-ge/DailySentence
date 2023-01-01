@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2022-12-31已更新 
+2023-01-01已更新 
 ```
 * 金山词霸
-  > Where did the time go?
-  > 时间都到哪去了？
+  > Don't you love New Year's Day? You get to start all over!
+  > 你不喜欢过新年吗？你能一切从头开始！
 
 * 扇贝单词
-  > Kindness is always fashionable, and always welcome.
-  > 善良，永不过时，也永远为人所喜闻乐见。
+  > I think it’s the books that you read when you’re young that live with you forever.
+  > 我想，你年轻时读过的书，才会陪伴你一生一世。
 
 * 有道词典
-  > Looking into your past is the only way to discover your future.
-  > 回望过去，是为了更好地探索未来。
+  > New year, new life.
+  > 新的一年，新的生活。
 
 ```
