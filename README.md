@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-01已更新 
+2023-01-02已更新 
 ```
 * 金山词霸
-  > Don't you love New Year's Day? You get to start all over!
-  > 你不喜欢过新年吗？你能一切从头开始！
+  > We all carry something with us.
+  > 我们都在负重前行。
 
 * 扇贝单词
-  > I think it’s the books that you read when you’re young that live with you forever.
-  > 我想，你年轻时读过的书，才会陪伴你一生一世。
+  > Love is the triumph of imagination over intelligence.
+  > 爱情，是想象对理智的胜利。
 
 * 有道词典
-  > New year, new life.
-  > 新的一年，新的生活。
+  > Forget your troubles and just get happy.
+  > 忘掉烦恼，高兴起来吧。
 
 ```
