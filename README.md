@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-02已更新 
+2023-01-03已更新 
 ```
 * 金山词霸
-  > We all carry something with us.
-  > 我们都在负重前行。
+  > The only way to achieve the impossible is to believe it is possible.
+  > 实现“不可能”唯一的方法，就是相信它是可能的。
 
 * 扇贝单词
-  > Love is the triumph of imagination over intelligence.
-  > 爱情，是想象对理智的胜利。
+  > I know for sure that what we dwell on is who we become.
+  > 我确信，盘踞在我们脑中的思绪，决定了我们会成为怎样的人。
 
 * 有道词典
-  > Forget your troubles and just get happy.
-  > 忘掉烦恼，高兴起来吧。
+  > Being brave doesn't mean you go looking for trouble.
+  > 勇敢不代表着自找麻烦。
 
 ```
