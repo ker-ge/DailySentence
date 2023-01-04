@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-03已更新 
+2023-01-04已更新 
 ```
 * 金山词霸
-  > The only way to achieve the impossible is to believe it is possible.
-  > 实现“不可能”唯一的方法，就是相信它是可能的。
+  > Tears will never help.
+  > 眼泪永远没办法帮上忙。
 
 * 扇贝单词
-  > I know for sure that what we dwell on is who we become.
-  > 我确信，盘踞在我们脑中的思绪，决定了我们会成为怎样的人。
+  > Anything looked at closely becomes wonderful.
+  > 在近距离的观察下，任何事物都会显得美妙无比。
 
 * 有道词典
-  > Being brave doesn't mean you go looking for trouble.
-  > 勇敢不代表着自找麻烦。
+  > Love is all that matters.
+  > 爱是最重要的。
 
 ```
