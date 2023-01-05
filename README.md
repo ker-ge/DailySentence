@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-04已更新 
+2023-01-05已更新 
 ```
 * 金山词霸
-  > Tears will never help.
-  > 眼泪永远没办法帮上忙。
+  > Trust is earned.
+  > 信任是要靠行动争取的。
 
 * 扇贝单词
-  > Anything looked at closely becomes wonderful.
-  > 在近距离的观察下，任何事物都会显得美妙无比。
+  > If you want to succeed, you should strike out on new paths rather than travel the worn paths of accepted success.
+  > 如果你想成功，就应该去开辟新路，而不是走大家公认的成功的老路。
 
 * 有道词典
-  > Love is all that matters.
-  > 爱是最重要的。
+  > You are the best.
+  > 你是最棒的。
 
 ```
