@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-05已更新 
+2023-01-06已更新 
 ```
 * 金山词霸
-  > Trust is earned.
-  > 信任是要靠行动争取的。
+  > It's nice to be wanted.
+  > 被记得的感觉真好。
 
 * 扇贝单词
-  > If you want to succeed, you should strike out on new paths rather than travel the worn paths of accepted success.
-  > 如果你想成功，就应该去开辟新路，而不是走大家公认的成功的老路。
+  > It will never rain roses: when we want to have more roses we must plant more trees.
+  > 玫瑰不会从天而降，如果想要更多的玫瑰，必须自己去种。
 
 * 有道词典
-  > You are the best.
-  > 你是最棒的。
+  > I have to get out of my comfort zone.
+  > 要走出自己的舒适区。
 
 ```
