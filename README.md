@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-06已更新 
+2023-01-07已更新 
 ```
 * 金山词霸
-  > It's nice to be wanted.
-  > 被记得的感觉真好。
+  > I love you not for who you are, but for who I am with you.
+  > 我爱你不是因为你是谁，而是我在你面前可以是谁。
 
 * 扇贝单词
-  > It will never rain roses: when we want to have more roses we must plant more trees.
-  > 玫瑰不会从天而降，如果想要更多的玫瑰，必须自己去种。
+  > Don't cry when the sun is gone, because the tears won't let you see the stars.
+  > 不要在太阳落下时哭泣，因为泪水会让你错过星星。
 
 * 有道词典
-  > I have to get out of my comfort zone.
-  > 要走出自己的舒适区。
+  > Don't let anyone stop you from getting what you want.
+  > 别让任何人阻挡你得到想要的东西。
 
 ```
