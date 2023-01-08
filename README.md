@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-07已更新 
+2023-01-08已更新 
 ```
 * 金山词霸
-  > I love you not for who you are, but for who I am with you.
-  > 我爱你不是因为你是谁，而是我在你面前可以是谁。
+  > All l've ever done in my life was making my way here to you.
+  > 我今生的所做的一切都是为了找到你。
 
 * 扇贝单词
-  > Don't cry when the sun is gone, because the tears won't let you see the stars.
-  > 不要在太阳落下时哭泣，因为泪水会让你错过星星。
+  > Dost thou love life? Then do not squander time, for that's the stuff life is made of.
+  > 你热爱生命吗？那就别浪费时间，因为生命是由时间构成的。
 
 * 有道词典
-  > Don't let anyone stop you from getting what you want.
-  > 别让任何人阻挡你得到想要的东西。
+  > Stand up for yourself.
+  > 为自己而战。
 
 ```
