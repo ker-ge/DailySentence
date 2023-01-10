@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-09已更新 
+2023-01-10已更新 
 ```
 * 金山词霸
-  > In case I don't see you… Good afternoon, good evening, and good night.
-  > 假如我再也见不到你……祝你下午好，晚上好，晚安。
+  > Pursue excellence, and success will follow.
+  > 追求卓越，成功随之而来。
 
 * 扇贝单词
-  > Nothing is too small to know, and nothing is too big to attempt.
-  > 没有事情会小到不值得了解，也没有什么事情会大到无法尝试。
+  > Happiness is not a station you arrive at, but a manner of traveling.
+  > 幸福并不是你所抵达的站点，而是一种旅行的方式。
 
 * 有道词典
-  > Study hard, rise to the top, and do important things.
-  > 努力学习，勇于争先，做重要的事。
+  > You are my world.
+  > 你是我的全部。
 
 ```
