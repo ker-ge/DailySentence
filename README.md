@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-10已更新 
+2023-01-11已更新 
 ```
 * 金山词霸
-  > Pursue excellence, and success will follow.
-  > 追求卓越，成功随之而来。
+  > Nothing like a little truth to sober you up.
+  > 唯有事实最能让人清醒。
 
 * 扇贝单词
-  > Happiness is not a station you arrive at, but a manner of traveling.
-  > 幸福并不是你所抵达的站点，而是一种旅行的方式。
+  > He who would travel happily must travel light.
+  > 想要快乐旅行的人必须轻装上阵。
 
 * 有道词典
-  > You are my world.
-  > 你是我的全部。
+  > I learn from the past.
+  > 从过去的经验中学习。
 
 ```
