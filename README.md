@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-11已更新 
+2023-01-12已更新 
 ```
 * 金山词霸
-  > Nothing like a little truth to sober you up.
-  > 唯有事实最能让人清醒。
+  > It doesn't matter who you are on the outside. The main thing is who you are on the inside.
+  > 你的外表并不重要，重要的是你的内心。
 
 * 扇贝单词
-  > He who would travel happily must travel light.
-  > 想要快乐旅行的人必须轻装上阵。
+  > When a thing is done, it's done. Don't look back. Look forward to your next objective.
+  > 事情做完了就是做完了。别回头，继续去寻找下一个目标吧！
 
 * 有道词典
-  > I learn from the past.
-  > 从过去的经验中学习。
+  > You better chase all your cares away.
+  > 将所有的烦恼一扫而空吧。
 
 ```
