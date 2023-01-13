@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-12已更新 
+2023-01-13已更新 
 ```
 * 金山词霸
-  > It doesn't matter who you are on the outside. The main thing is who you are on the inside.
-  > 你的外表并不重要，重要的是你的内心。
+  > We have always defined ourselves by the ability to overcome the impossible.
+  > 我们总坚信自己有能力去完成不可能的事。
 
 * 扇贝单词
-  > When a thing is done, it's done. Don't look back. Look forward to your next objective.
-  > 事情做完了就是做完了。别回头，继续去寻找下一个目标吧！
+  > In order to be irreplaceable one must always be different.
+  > 要想变得无可替代，就必须与众不同。
 
 * 有道词典
-  > You better chase all your cares away.
-  > 将所有的烦恼一扫而空吧。
+  > I need to broaden my horizons.
+  > 扩展自己的视野。
 
 ```
