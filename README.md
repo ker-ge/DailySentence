@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-13已更新 
+2023-01-14已更新 
 ```
 * 金山词霸
-  > We have always defined ourselves by the ability to overcome the impossible.
-  > 我们总坚信自己有能力去完成不可能的事。
+  > Without the dark, we'd never see the stars.
+  > 如果没有黑暗，我们永远看不到繁星。
 
 * 扇贝单词
-  > In order to be irreplaceable one must always be different.
-  > 要想变得无可替代，就必须与众不同。
+  > Go confidently in the direction of your dreams! Live the life you've imagined.
+  > 自信地朝你的梦想前进吧！去过你想要过的生活。
 
 * 有道词典
-  > I need to broaden my horizons.
-  > 扩展自己的视野。
+  > It's time for a family reunion.
+  > 是时候家人团聚了。
 
 ```
