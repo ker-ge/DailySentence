@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-14已更新 
+2023-01-15已更新 
 ```
 * 金山词霸
-  > Without the dark, we'd never see the stars.
-  > 如果没有黑暗，我们永远看不到繁星。
+  > God makes people lonely in a variety of ways so that we can go to ourselves.
+  > 上帝借由各种途径使人变得孤独，好让我们可以走向自己。
 
 * 扇贝单词
-  > Go confidently in the direction of your dreams! Live the life you've imagined.
-  > 自信地朝你的梦想前进吧！去过你想要过的生活。
+  > When something is important enough, you do it even if the odds are not in your favor.
+  > 当一件事情足够重要时，即便缺乏胜算，你也会去做。
 
 * 有道词典
-  > It's time for a family reunion.
-  > 是时候家人团聚了。
+  > Today is a good day.
+  > 今天是个好日子。
 
 ```
