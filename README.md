@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-15已更新 
+2023-01-16已更新 
 ```
 * 金山词霸
-  > God makes people lonely in a variety of ways so that we can go to ourselves.
-  > 上帝借由各种途径使人变得孤独，好让我们可以走向自己。
+  > There is always a way when things look like there is no way.
+  > 有时候看似山穷水尽，但其实正在柳暗花明处。
 
 * 扇贝单词
-  > When something is important enough, you do it even if the odds are not in your favor.
-  > 当一件事情足够重要时，即便缺乏胜算，你也会去做。
+  > Knowledge speaks, but wisdom listens.
+  > 知识会说话，但智慧是会倾听。
 
 * 有道词典
-  > Today is a good day.
-  > 今天是个好日子。
+  > We protect each other.
+  > 我们守护彼此。
 
 ```
