@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-17已更新 
+2023-01-18已更新 
 ```
 * 金山词霸
-  > Progress is the result of a bunch of failures.
-  > 进步是不断失败的成果。
+  > Two roads diverged in a wood and I took the one less traveled by.
+  > 树林中有两条路，我选择了人迹罕至的那一条。
 
 * 扇贝单词
-  > One doesn't discover new lands without consenting to lose sight of the shore for a very long time.
-  > 不愿在看不见海岸线的情况下久久漂流，是不会发现新大陆的。
+  > Luck is what you have left over after you give 100 percent.
+  > 幸运，就是你付出百分之百后剩下的东西。
 
 * 有道词典
-  > The world is a beautiful place.
-  > 世界很美好。
+  > Life is like a roller coaster. You can scream every time you hit a bump, or you can throw your hands up and enjoy the ride.
+  > 生活就像过山车，你可以在颠簸时尖叫，也可以享受整个过程。
 
 ```
