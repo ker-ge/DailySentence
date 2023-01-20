@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-19已更新 
+2023-01-20已更新 
 ```
 * 金山词霸
-  > Don't let anybody tell you they are better than you.
-  > 不要让其他人说他们比你强。
+  > Some rise by sin, and some by virtue fall.
+  > 有些人因罪恶而升迁，有些人因美德而没落。
 
 * 扇贝单词
-  > The trees that are slow to grow bear the best fruit.
-  > 长得很慢的树，能结出最好的果子。
+  > Difficulties strengthen the mind, as labor does the body.
+  > 困难能磨练心志，正如劳动能强壮体魄。
 
 * 有道词典
-  > Life is precious.
-  > 生命可贵。
+  > Our future is bright.
+  > 我们的未来一片光明。
 
 ```
