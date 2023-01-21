@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-20已更新 
+2023-01-21已更新 
 ```
 * 金山词霸
-  > Some rise by sin, and some by virtue fall.
-  > 有些人因罪恶而升迁，有些人因美德而没落。
+  > You can't let someone else's opinion tear you down.
+  > 你不能被别人的看法打倒。
 
 * 扇贝单词
-  > Difficulties strengthen the mind, as labor does the body.
-  > 困难能磨练心志，正如劳动能强壮体魄。
+  > Kites rise highest against the wind, not with it.
+  > 风筝逆风才能高飞——而不是顺风。
 
 * 有道词典
-  > Our future is bright.
-  > 我们的未来一片光明。
+  > Out with the old, in with the new.
+  > 辞旧迎新。
 
 ```
