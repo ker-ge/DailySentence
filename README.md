@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-21已更新 
+2023-01-22已更新 
 ```
 * 金山词霸
-  > You can't let someone else's opinion tear you down.
-  > 你不能被别人的看法打倒。
+  > Anger begets greater anger.
+  > 愤怒只会招致更大的愤怒。
 
 * 扇贝单词
-  > Kites rise highest against the wind, not with it.
-  > 风筝逆风才能高飞——而不是顺风。
+  > There is an applause superior to that of the multitudes: one's own.
+  > 有一种掌声，比大众的掌声更优裕：那就是你自己给自己鼓的掌。
 
 * 有道词典
-  > Out with the old, in with the new.
-  > 辞旧迎新。
+  > Good luck in the New Year.
+  > 祝你新年好运。
 
 ```
