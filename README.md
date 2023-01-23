@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-22已更新 
+2023-01-23已更新 
 ```
 * 金山词霸
-  > Anger begets greater anger.
-  > 愤怒只会招致更大的愤怒。
+  > Your faith is all that keeps me going.
+  > 你的信任是我前进的动力。
 
 * 扇贝单词
-  > There is an applause superior to that of the multitudes: one's own.
-  > 有一种掌声，比大众的掌声更优裕：那就是你自己给自己鼓的掌。
+  > Change the way you look at things and the things you look at change.
+  > 改变你看待事物的方式，你所看到的事物也会改变。
 
 * 有道词典
-  > Good luck in the New Year.
-  > 祝你新年好运。
+  > Friends are forever.
+  > 朋友是一辈子的。
 
 ```
