@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-23已更新 
+2023-01-24已更新 
 ```
 * 金山词霸
-  > Your faith is all that keeps me going.
-  > 你的信任是我前进的动力。
+  > A good laugh and a long sleep are the best cures in the doctor's book.
+  > 医生手册写道：开怀大笑，睡个好觉，此乃灵丹妙药 。
 
 * 扇贝单词
-  > Change the way you look at things and the things you look at change.
-  > 改变你看待事物的方式，你所看到的事物也会改变。
+  > Believe you can and you're halfway there.
+  > 相信自己能成功，你就已经成功了一半。
 
 * 有道词典
-  > Friends are forever.
-  > 朋友是一辈子的。
+  > Embrace your true self.
+  > 拥抱真实的自我。
 
 ```
