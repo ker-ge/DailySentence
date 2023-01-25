@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-24已更新 
+2023-01-25已更新 
 ```
 * 金山词霸
-  > A good laugh and a long sleep are the best cures in the doctor's book.
-  > 医生手册写道：开怀大笑，睡个好觉，此乃灵丹妙药 。
+  > The more dumplings you eat, the more money you make. 
+  > 饺子吃越多，钱就赚越多。
 
 * 扇贝单词
-  > Believe you can and you're halfway there.
-  > 相信自己能成功，你就已经成功了一半。
+  > A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power.
+  > 一个清晰的愿景，加以明确计划的支持，会给你极大的信心和个人力量。
 
 * 有道词典
-  > Embrace your true self.
-  > 拥抱真实的自我。
+  > Family is very important.
+  > 家人很重要。
 
 ```
