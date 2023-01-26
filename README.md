@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-25已更新 
+2023-01-26已更新 
 ```
 * 金山词霸
-  > The more dumplings you eat, the more money you make. 
-  > 饺子吃越多，钱就赚越多。
+  > Spring cleaning can't wait!
+  > 春季大扫除事不宜迟！
 
 * 扇贝单词
-  > A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power.
-  > 一个清晰的愿景，加以明确计划的支持，会给你极大的信心和个人力量。
+  > When you finally go back to your old hometown, you find it wasn't the old home you missed but your childhood.
+  > 当你终于重归故里，你会发现自己思念的，不是故乡，而是童年。
 
 * 有道词典
-  > Family is very important.
-  > 家人很重要。
+  > The key to any successful relationship is communication.
+  > 沟通是所有关系成功的关键。
 
 ```
