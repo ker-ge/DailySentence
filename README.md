@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-26已更新 
+2023-01-27已更新 
 ```
 * 金山词霸
-  > Spring cleaning can't wait!
-  > 春季大扫除事不宜迟！
+  > With every sun comes a new day.
+  > 每每旭日东升，都是崭新的开始。
 
 * 扇贝单词
-  > When you finally go back to your old hometown, you find it wasn't the old home you missed but your childhood.
-  > 当你终于重归故里，你会发现自己思念的，不是故乡，而是童年。
+  > Goodness is the only investment that never fails.
+  > 善良是唯一不会失败的投资。
 
 * 有道词典
-  > The key to any successful relationship is communication.
-  > 沟通是所有关系成功的关键。
+  > Love is what makes life worth living.
+  > 爱，让生命有了意义。
 
 ```
