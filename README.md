@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-27已更新 
+2023-01-28已更新 
 ```
 * 金山词霸
-  > With every sun comes a new day.
-  > 每每旭日东升，都是崭新的开始。
+  > Wish you a happy mood and a sweet smile!
+  > 愿心情愉悦，笑容甜甜！
 
 * 扇贝单词
-  > Goodness is the only investment that never fails.
-  > 善良是唯一不会失败的投资。
+  > If you want the best the world has to offer, offer the world your best.
+  > 若想得到世界上最好的东西，先向世界展现最好的你。
 
 * 有道词典
-  > Love is what makes life worth living.
-  > 爱，让生命有了意义。
+  > You should believe in yourself.
+  > 你应该相信你自己。
 
 ```
