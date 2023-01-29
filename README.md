@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-28已更新 
+2023-01-29已更新 
 ```
 * 金山词霸
-  > Wish you a happy mood and a sweet smile!
-  > 愿心情愉悦，笑容甜甜！
+  > A smile is the most charming part of a person forever.
+  > 微笑永远是一个人最迷人的特质。
 
 * 扇贝单词
-  > If you want the best the world has to offer, offer the world your best.
-  > 若想得到世界上最好的东西，先向世界展现最好的你。
+  > Neither abstinence nor excess ever renders man happy.
+  > 不论是节制还是过度都不能给人带来快乐。
 
 * 有道词典
-  > You should believe in yourself.
-  > 你应该相信你自己。
+  > I am the happiest man alive.
+  > 我是世上最幸福的人。
 
 ```
