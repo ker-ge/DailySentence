@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-29已更新 
+2023-01-30已更新 
 ```
 * 金山词霸
-  > A smile is the most charming part of a person forever.
-  > 微笑永远是一个人最迷人的特质。
+  > Let's take a long break from work.
+  > 让我们享受一个远离工作的长假。
 
 * 扇贝单词
-  > Neither abstinence nor excess ever renders man happy.
-  > 不论是节制还是过度都不能给人带来快乐。
+  > A positive attitude will have positive results because attitudes are contagious.
+  > 积极的态度会带来积极的结果，因为态度是具有感染力的。
 
 * 有道词典
-  > I am the happiest man alive.
-  > 我是世上最幸福的人。
+  > Make the world a better place.
+  > 让世界更美好。
 
 ```
