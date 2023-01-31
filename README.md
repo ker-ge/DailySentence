@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-30已更新 
+2023-01-31已更新 
 ```
 * 金山词霸
-  > Let's take a long break from work.
-  > 让我们享受一个远离工作的长假。
+  > Wherever you are, the Spring Festival is with you. 
+  > 无论在哪，都是过年。
 
 * 扇贝单词
-  > A positive attitude will have positive results because attitudes are contagious.
-  > 积极的态度会带来积极的结果，因为态度是具有感染力的。
+  > Whatever is worth doing at all is worth doing well.
+  > 任何值得做的事，都值得将其做好。
 
 * 有道词典
-  > Make the world a better place.
-  > 让世界更美好。
+  > Trust your own strengths.
+  > 相信自己的力量。
 
 ```
