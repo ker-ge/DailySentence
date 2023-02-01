@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-01-31已更新 
+2023-02-01已更新 
 ```
 * 金山词霸
-  > Wherever you are, the Spring Festival is with you. 
-  > 无论在哪，都是过年。
+  > You can like the life you're living. You can live the life you like.
+  > 你可以热爱已有的生活，也可以去追求想要的生活。
 
 * 扇贝单词
-  > Whatever is worth doing at all is worth doing well.
-  > 任何值得做的事，都值得将其做好。
+  > Our growth depends not on how many experiences we devour, but on how many we digest.
+  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
 
 * 有道词典
-  > Trust your own strengths.
-  > 相信自己的力量。
+  > I belong to myself.
+  > 我属于我自己。
 
 ```
