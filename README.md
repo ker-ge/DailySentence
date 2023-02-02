@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-01已更新 
+2023-02-02已更新 
 ```
 * 金山词霸
-  > You can like the life you're living. You can live the life you like.
-  > 你可以热爱已有的生活，也可以去追求想要的生活。
+  > Promise yourself to be so strong that nothing can disturb your peace of mind.
+  > 答应自己要坚强，不让任何事物烦扰内心的平静。
 
 * 扇贝单词
-  > Our growth depends not on how many experiences we devour, but on how many we digest.
-  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
+  > Praising what is lost makes the remembrance dear.
+  > 赞美已经失去的事物，让回忆变得惹人喜爱。
 
 * 有道词典
-  > I belong to myself.
-  > 我属于我自己。
+  > Nobody else gets to tell you what your story is.
+  > 没人能定义你。
 
 ```
