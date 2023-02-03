@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-02已更新 
+2023-02-03已更新 
 ```
 * 金山词霸
-  > Promise yourself to be so strong that nothing can disturb your peace of mind.
-  > 答应自己要坚强，不让任何事物烦扰内心的平静。
+  > The glass is full, and the sound is joyful.
+  > 酒杯满满，碰响的是欢乐。
 
 * 扇贝单词
-  > Praising what is lost makes the remembrance dear.
-  > 赞美已经失去的事物，让回忆变得惹人喜爱。
+  > The more we do, the more we can do.
+  > 我们做的越多，能做的也就越多。
 
 * 有道词典
-  > Nobody else gets to tell you what your story is.
-  > 没人能定义你。
+  > Love is beautiful. Love is wonderful.
+  > 爱很美好，也很奇妙。
 
 ```
