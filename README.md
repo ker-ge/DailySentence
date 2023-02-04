@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-03已更新 
+2023-02-04已更新 
 ```
 * 金山词霸
-  > The glass is full, and the sound is joyful.
-  > 酒杯满满，碰响的是欢乐。
+  > We are from different worlds, yet we fit together.
+  > 我们来自不同的世界，但我们彼此相容。
 
 * 扇贝单词
-  > The more we do, the more we can do.
-  > 我们做的越多，能做的也就越多。
+  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
+  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
 
 * 有道词典
-  > Love is beautiful. Love is wonderful.
-  > 爱很美好，也很奇妙。
+  > Trust takes time.
+  > 建立信任需要时间。
 
 ```
