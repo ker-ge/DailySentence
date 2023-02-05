@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-04已更新 
+2023-02-05已更新 
 ```
 * 金山词霸
-  > We are from different worlds, yet we fit together.
-  > 我们来自不同的世界，但我们彼此相容。
+  > You are the best thing that ever happened to me.
+  > 遇见你是发生在我身上最美好的事情。
 
 * 扇贝单词
-  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
-  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
+  > Keep a little fire burning; however small, however hidden.
+  > 让心中的火苗一直燃烧吧，不管那有多微弱，不管藏得有多深。
 
 * 有道词典
-  > Trust takes time.
-  > 建立信任需要时间。
+  > You need to take responsibility for your life.
+  > 你应该对自己的人生负责。
 
 ```
