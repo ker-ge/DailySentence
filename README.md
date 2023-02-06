@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-05已更新 
+2023-02-06已更新 
 ```
 * 金山词霸
-  > You are the best thing that ever happened to me.
-  > 遇见你是发生在我身上最美好的事情。
+  > Could I have some extra days off?
+  > 我能多请几天假吗？
 
 * 扇贝单词
-  > Keep a little fire burning; however small, however hidden.
-  > 让心中的火苗一直燃烧吧，不管那有多微弱，不管藏得有多深。
+  > Nothing you wear is more important than your smile.
+  > 不管如何穿戴，都不比带上你的微笑。
 
 * 有道词典
-  > You need to take responsibility for your life.
-  > 你应该对自己的人生负责。
+  > True wealth is measured in friendships.
+  > 友情是最大的财富。
 
 ```
