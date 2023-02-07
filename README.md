@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-06已更新 
+2023-02-07已更新 
 ```
 * 金山词霸
-  > Could I have some extra days off?
-  > 我能多请几天假吗？
+  > If you are hopeful, you will be invincible.
+  > 满怀希望，就会所向披靡。
 
 * 扇贝单词
-  > Nothing you wear is more important than your smile.
-  > 不管如何穿戴，都不比带上你的微笑。
+  > An aim in life is the only fortune worth finding.
+  > 生活的目标，是唯一值得我们去寻找的财富。
 
 * 有道词典
-  > True wealth is measured in friendships.
-  > 友情是最大的财富。
+  > Sometimes your whole life boils down to one insane move.
+  > 人生的转机有时就得靠一次疯狂的举动。
 
 ```
