@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-07已更新 
+2023-02-08已更新 
 ```
 * 金山词霸
-  > If you are hopeful, you will be invincible.
-  > 满怀希望，就会所向披靡。
+  > Treasured memories live and grow more precious with time.
+  > 珍贵的记忆与时光同在，且日益珍贵。
 
 * 扇贝单词
-  > An aim in life is the only fortune worth finding.
-  > 生活的目标，是唯一值得我们去寻找的财富。
+  > Promise yourself to be so strong that nothing can disturb your peace of mind.
+  > 对自己承诺：要强大到任何事情都无法破坏你内心的平和。 ​​​​
 
 * 有道词典
-  > Sometimes your whole life boils down to one insane move.
-  > 人生的转机有时就得靠一次疯狂的举动。
+  > You're the one who can fill the world with sunshine.
+  > 是你让世界每一处都充满了阳光。
 
 ```
