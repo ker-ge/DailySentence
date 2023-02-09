@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-08已更新 
+2023-02-09已更新 
 ```
 * 金山词霸
-  > Treasured memories live and grow more precious with time.
-  > 珍贵的记忆与时光同在，且日益珍贵。
+  > The only thing that matters is right now, this moment.
+  > 唯一要紧的是现在，是此时此刻。
 
 * 扇贝单词
-  > Promise yourself to be so strong that nothing can disturb your peace of mind.
-  > 对自己承诺：要强大到任何事情都无法破坏你内心的平和。 ​​​​
+  > We are the hero of our own story.
+  > 我们都是我们自己故事里的英雄。
 
 * 有道词典
-  > You're the one who can fill the world with sunshine.
-  > 是你让世界每一处都充满了阳光。
+  > Everybody has their dreams.
+  > 人人都有自己的梦想。
 
 ```
