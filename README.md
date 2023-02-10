@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-09已更新 
+2023-02-10已更新 
 ```
 * 金山词霸
-  > The only thing that matters is right now, this moment.
-  > 唯一要紧的是现在，是此时此刻。
+  > Isn't laughter the best medicine?
+  > 难道笑声不是最好的良药吗？
 
 * 扇贝单词
-  > We are the hero of our own story.
-  > 我们都是我们自己故事里的英雄。
+  > Being brave means knowing that when you fail, you don't fail forever.
+  > 勇敢就是知道即使你失败了，你也不是永远失败。
 
 * 有道词典
-  > Everybody has their dreams.
-  > 人人都有自己的梦想。
+  > We get to decide how we should live.
+  > 要怎么活着，由我们自己做主。
 
 ```
