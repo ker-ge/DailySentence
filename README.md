@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-10已更新 
+2023-02-11已更新 
 ```
 * 金山词霸
-  > Isn't laughter the best medicine?
-  > 难道笑声不是最好的良药吗？
+  > If you care about what other people think, you're never gonna do anything.
+  > 如果总是在意别人怎么想，你将一事无成。
 
 * 扇贝单词
-  > Being brave means knowing that when you fail, you don't fail forever.
-  > 勇敢就是知道即使你失败了，你也不是永远失败。
+  > Nothing great in the world has been accomplished without passion.
+  > 世上没有任何伟业的成就能够离得开激情。
 
 * 有道词典
-  > We get to decide how we should live.
-  > 要怎么活着，由我们自己做主。
+  > The most ordinary person can change the world.
+  > 平凡之人亦能改变世界。
 
 ```
