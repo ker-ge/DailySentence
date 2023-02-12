@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-11已更新 
+2023-02-12已更新 
 ```
 * 金山词霸
-  > If you care about what other people think, you're never gonna do anything.
-  > 如果总是在意别人怎么想，你将一事无成。
+  > We get to decide what our story is.
+  > 我们的故事由我们自己来决定。
 
 * 扇贝单词
-  > Nothing great in the world has been accomplished without passion.
-  > 世上没有任何伟业的成就能够离得开激情。
+  > Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.
+  > 与其期盼下一次假期，不如创造一种不需要逃离的生活。
 
 * 有道词典
-  > The most ordinary person can change the world.
-  > 平凡之人亦能改变世界。
+  > Follow your instincts and do what you think is right.
+  > 听从自己的直觉，做正确之事。
 
 ```
