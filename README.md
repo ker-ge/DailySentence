@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-12已更新 
+2023-02-13已更新 
 ```
 * 金山词霸
-  > We get to decide what our story is.
-  > 我们的故事由我们自己来决定。
+  > You make me want to be a better person.
+  > 你让我想成为一个更好的人。
 
 * 扇贝单词
-  > Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.
-  > 与其期盼下一次假期，不如创造一种不需要逃离的生活。
+  > It's never too late to be what you might have been.
+  > 成为你所要成为的人，永远都不嫌迟。
 
 * 有道词典
-  > Follow your instincts and do what you think is right.
-  > 听从自己的直觉，做正确之事。
+  > Growth brings change.
+  > 发展带来变化。
 
 ```
