@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-13已更新 
+2023-02-14已更新 
 ```
 * 金山词霸
-  > You make me want to be a better person.
-  > 你让我想成为一个更好的人。
+  > I love you three thousand.
+  > 我爱你三千遍。
 
 * 扇贝单词
-  > It's never too late to be what you might have been.
-  > 成为你所要成为的人，永远都不嫌迟。
+  > Pure love and suspicion cannot dwell together: at the door where the latter enters, the former makes its exit.
+  > 纯洁的爱情和猜疑水火不容：起了疑心，就会丢了爱情。
 
 * 有道词典
-  > Growth brings change.
-  > 发展带来变化。
+  > Real love is always worth waiting for.
+  > 真爱永远值得等待。
 
 ```
