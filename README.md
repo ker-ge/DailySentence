@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-14已更新 
+2023-02-15已更新 
 ```
 * 金山词霸
-  > I love you three thousand.
-  > 我爱你三千遍。
+  > The moon lightens the dark sky while many lanterns shine bright colors on the earth.
+  > 天上明月高照，地上彩灯万盏。
 
 * 扇贝单词
-  > Pure love and suspicion cannot dwell together: at the door where the latter enters, the former makes its exit.
-  > 纯洁的爱情和猜疑水火不容：起了疑心，就会丢了爱情。
+  > Growth is the only evidence of life.
+  > 成长是生命的唯一证据。
 
 * 有道词典
-  > Real love is always worth waiting for.
-  > 真爱永远值得等待。
+  > Focus on the details.
+  > 注意细节。
 
 ```
