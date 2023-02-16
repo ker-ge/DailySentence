@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-15已更新 
+2023-02-16已更新 
 ```
 * 金山词霸
-  > The moon lightens the dark sky while many lanterns shine bright colors on the earth.
-  > 天上明月高照，地上彩灯万盏。
+  > You're in control of your own life!
+  > 你的人生要由自己掌握！
 
 * 扇贝单词
-  > Growth is the only evidence of life.
-  > 成长是生命的唯一证据。
+  > Some people dream of success, while other people get up and make it happen.
+  > 有些人只是梦想去成功，而其他人却起身让梦想成真。
 
 * 有道词典
-  > Focus on the details.
-  > 注意细节。
+  > Nobody can do everything.
+  > 没有人是万能的。
 
 ```
