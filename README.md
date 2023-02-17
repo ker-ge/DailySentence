@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-16已更新 
+2023-02-17已更新 
 ```
 * 金山词霸
-  > You're in control of your own life!
-  > 你的人生要由自己掌握！
+  > Keep your friends close, but your enemies closer.
+  > 亲近你的朋友，但更要亲近你的敌人。
 
 * 扇贝单词
-  > Some people dream of success, while other people get up and make it happen.
-  > 有些人只是梦想去成功，而其他人却起身让梦想成真。
+  > Success is not the key to happiness. Happiness is the key to success.
+  > 成功并不是快乐的关键，快乐才是成功的关键。
 
 * 有道词典
-  > Nobody can do everything.
-  > 没有人是万能的。
+  > We can help each other.
+  > 我们可以帮助彼此。
 
 ```
