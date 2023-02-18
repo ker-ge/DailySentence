@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-17已更新 
+2023-02-18已更新 
 ```
 * 金山词霸
-  > Keep your friends close, but your enemies closer.
-  > 亲近你的朋友，但更要亲近你的敌人。
+  > I'm doing better than I ever was.
+  > 我已今非昔比。
 
 * 扇贝单词
-  > Success is not the key to happiness. Happiness is the key to success.
-  > 成功并不是快乐的关键，快乐才是成功的关键。
+  > The world is extremely interesting to a joyful soul.
+  > 对于欢欣的灵魂而言，世界充满了奇趣。
 
 * 有道词典
-  > We can help each other.
-  > 我们可以帮助彼此。
+  > Change can be good sometimes.
+  > 有时候，改变是件好事。
 
 ```
