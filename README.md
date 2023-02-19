@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-18已更新 
+2023-02-19已更新 
 ```
 * 金山词霸
-  > I'm doing better than I ever was.
-  > 我已今非昔比。
+  > You are free to choose your own path.
+  > 你可以自由地选择自己的道路。
 
 * 扇贝单词
-  > The world is extremely interesting to a joyful soul.
-  > 对于欢欣的灵魂而言，世界充满了奇趣。
+  > They can because they think they can.
+  > 他们可以，是因为他们相信自己可以。
 
 * 有道词典
-  > Change can be good sometimes.
-  > 有时候，改变是件好事。
+  > You must be yourself.
+  > 要做自己。
 
 ```
