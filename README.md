@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-19已更新 
+2023-02-20已更新 
 ```
 * 金山词霸
-  > You are free to choose your own path.
-  > 你可以自由地选择自己的道路。
+  > For every minute you are angry, you lose sixty seconds of happiness.
+  > 你每生气一分钟，也就失去了六十秒的幸福。
 
 * 扇贝单词
-  > They can because they think they can.
-  > 他们可以，是因为他们相信自己可以。
+  > Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.
+  > 与其期盼下一次假期，不如创造一种不需要逃离的生活。
 
 * 有道词典
-  > You must be yourself.
-  > 要做自己。
+  > I want to do something important.
+  > 我想做点有意义的事。
 
 ```
