@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-20已更新 
+2023-02-21已更新 
 ```
 * 金山词霸
-  > For every minute you are angry, you lose sixty seconds of happiness.
-  > 你每生气一分钟，也就失去了六十秒的幸福。
+  > For the things that make you sad, one day, you will laugh out and say it.
+  > 让你难过的事情，总有一天你会笑着说出来。
 
 * 扇贝单词
-  > Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.
-  > 与其期盼下一次假期，不如创造一种不需要逃离的生活。
+  > Nothing great in the world has been accomplished without passion.
+  > 世上没有任何伟业的成就能够离得开激情。
 
 * 有道词典
-  > I want to do something important.
-  > 我想做点有意义的事。
+  > Everyone is special in their own way.
+  > 每个人都是独一无二的。
 
 ```
