@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-21已更新 
+2023-02-22已更新 
 ```
 * 金山词霸
-  > For the things that make you sad, one day, you will laugh out and say it.
-  > 让你难过的事情，总有一天你会笑着说出来。
+  > The only thing stronger than you is you tomorrow.
+  > 唯一比你更强大的是明天的你。
 
 * 扇贝单词
-  > Nothing great in the world has been accomplished without passion.
-  > 世上没有任何伟业的成就能够离得开激情。
+  > Never give up. Expect only the best from life and take action to get it.
+  > 永远不要言弃。要永远只期待最好的事物，并为之付出行动。
 
 * 有道词典
-  > Everyone is special in their own way.
-  > 每个人都是独一无二的。
+  > My life is amazing.
+  > 我的生活很精彩。
 
 ```
