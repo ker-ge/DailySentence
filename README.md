@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-22已更新 
+2023-02-23已更新 
 ```
 * 金山词霸
-  > The only thing stronger than you is you tomorrow.
-  > 唯一比你更强大的是明天的你。
+  > Always take every opportunity that comes your way.
+  > 遇到的一切机会都要抓紧。
 
 * 扇贝单词
-  > Never give up. Expect only the best from life and take action to get it.
-  > 永远不要言弃。要永远只期待最好的事物，并为之付出行动。
+  > Life is a pure flame, and we live by an invisible sun within us.
+  > 生命是一束纯净的火焰，我们依靠内心看不见的太阳而存在。
 
 * 有道词典
-  > My life is amazing.
-  > 我的生活很精彩。
+  > Make your own happiness.
+  > 创造属于自己的幸福吧。
 
 ```
