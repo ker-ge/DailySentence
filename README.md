@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-23已更新 
+2023-02-24已更新 
 ```
 * 金山词霸
-  > Always take every opportunity that comes your way.
-  > 遇到的一切机会都要抓紧。
+  > Age wrinkles the body. Quitting wrinkles the soul. 
+  > 岁月使皮肤起皱，放弃使灵魂起皱。
 
 * 扇贝单词
-  > Life is a pure flame, and we live by an invisible sun within us.
-  > 生命是一束纯净的火焰，我们依靠内心看不见的太阳而存在。
+  > I wish somebody would have told me, that someday these will be the good old days.
+  > 真希望有人能提早告诉我，这岁月有天会变成回忆中的美好时光。
 
 * 有道词典
-  > Make your own happiness.
-  > 创造属于自己的幸福吧。
+  > We all have our talents.
+  > 我们各有天赋。
 
 ```
