@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-24已更新 
+2023-02-25已更新 
 ```
 * 金山词霸
-  > Age wrinkles the body. Quitting wrinkles the soul. 
-  > 岁月使皮肤起皱，放弃使灵魂起皱。
+  > You need to face your fears.
+  > 你需要直面恐惧。
 
 * 扇贝单词
-  > I wish somebody would have told me, that someday these will be the good old days.
-  > 真希望有人能提早告诉我，这岁月有天会变成回忆中的美好时光。
+  > Knowing is not enough, we must apply. Willing is not enough, we must do.
+  > 光知道不够，得学会运用。光有决心不行，得付出行动。
 
 * 有道词典
-  > We all have our talents.
-  > 我们各有天赋。
+  > Nothing's more important than learning about who and what you are.
+  > 没什么比了解自己更重要了。
 
 ```
