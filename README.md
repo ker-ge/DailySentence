@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-26已更新 
+2023-02-27已更新 
 ```
 * 金山词霸
-  > Easy doesn't enter into grown-up life.
-  > 成年人的生活里没有容易二字。
+  > On a quest, the clear path is never the right one.
+  > 在探索中，一览无余的道路永远不是正确的选择。
 
 * 扇贝单词
-  > Don't let yesterday take up too much of today.
-  > 别让昨日之事占据今日的太多时间。
+  > The cure to boredom is curiosity. There is no cure for curiosity.
+  > 无聊的解药是好奇心，但好奇心没有解药。
 
 * 有道词典
-  > There can be no destination without a journey.
-  > 没有当日起点，何来今日终点。
+  > undefined
+  > undefined
 
 ```
