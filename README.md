@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-27已更新 
+2023-02-28已更新 
 ```
 * 金山词霸
-  > On a quest, the clear path is never the right one.
-  > 在探索中，一览无余的道路永远不是正确的选择。
+  > Work makes the workman.
+  > 勤工出巧匠。
 
 * 扇贝单词
-  > The cure to boredom is curiosity. There is no cure for curiosity.
-  > 无聊的解药是好奇心，但好奇心没有解药。
+  > Be happy now. Don't wait for something outside of yourself to make you happy in the future.
+  > 现在就开心起来，别把快乐寄托在外在的事物上。
 
 * 有道词典
-  > undefined
-  > undefined
+  > Friends help each other out.
+  > 守望相助，才是朋友。
 
 ```
