@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-02-28已更新 
+2023-03-01已更新 
 ```
 * 金山词霸
-  > Work makes the workman.
-  > 勤工出巧匠。
+  > Failure is the fog through which we glimpse triumph.
+  > 透过失败的迷雾，才能瞥见胜利的光辉。
 
 * 扇贝单词
-  > Be happy now. Don't wait for something outside of yourself to make you happy in the future.
-  > 现在就开心起来，别把快乐寄托在外在的事物上。
+  > Success is the sum of small efforts — repeated day in and day out.
+  > 成功就是日复一日那一点点小小努力的积累。
 
 * 有道词典
-  > Friends help each other out.
-  > 守望相助，才是朋友。
+  > Life is about decisions.
+  > 人生就是一场场选择。
 
 ```
