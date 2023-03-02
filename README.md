@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-01已更新 
+2023-03-02已更新 
 ```
 * 金山词霸
-  > Failure is the fog through which we glimpse triumph.
-  > 透过失败的迷雾，才能瞥见胜利的光辉。
+  > Every obstacle is an opportunity.
+  > 每个障碍也是一个机会。
 
 * 扇贝单词
-  > Success is the sum of small efforts — repeated day in and day out.
-  > 成功就是日复一日那一点点小小努力的积累。
+  > Working hard is important. But there is something that matters even more: believing in yourself.
+  > 努力很重要，然而更重要的是：相信自己。
 
 * 有道词典
-  > Life is about decisions.
-  > 人生就是一场场选择。
+  > Never start something you're not willing to finish.
+  > 做事要有始有终。
 
 ```
