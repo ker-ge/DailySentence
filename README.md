@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-02已更新 
+2023-03-03已更新 
 ```
 * 金山词霸
-  > Every obstacle is an opportunity.
-  > 每个障碍也是一个机会。
+  > The strongest person is the one who isn't scared to be alone.
+  > 世界上最强大的人不惧孤独。
 
 * 扇贝单词
-  > Working hard is important. But there is something that matters even more: believing in yourself.
-  > 努力很重要，然而更重要的是：相信自己。
+  > The greatest weapon against stress is our ability to choose one thought over another.
+  > 应对压力最强大的武器，是你有能力换个想法。
 
 * 有道词典
-  > Never start something you're not willing to finish.
-  > 做事要有始有终。
+  > We'll find the way.
+  > 总会有出路的。
 
 ```
