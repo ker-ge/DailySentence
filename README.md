@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-04已更新 
+2023-03-05已更新 
 ```
 * 金山词霸
-  > Positive thinking initiates more happiness!
-  > 积极的思考带来更多的快乐。
+  > Human life is limited, and serving the people is infinite.
+  > 人的生命是有限的，可是为人民服务是无限的。
 
 * 扇贝单词
-  > It doesn't matter where you are, you are nowhere compared to where you can go.
-  > 跟你可以去到的地方相比，你身处何处并不重要。
+  > Don't find a fault. Find a remedy.
+  > 别纠缠于谁对谁错，重要的是找到解决办法。
 
 * 有道词典
-  > It takes a brave man to admit his mistakes.
-  > 勇者敢于承认错误。
+  > Success doesn't come for free.
+  > 没有努力，何来成功。
 
 ```
