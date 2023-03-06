@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-05已更新 
+2023-03-06已更新 
 ```
 * 金山词霸
-  > Human life is limited, and serving the people is infinite.
-  > 人的生命是有限的，可是为人民服务是无限的。
+  > People always prepare for the worst but hope for the best.
+  > 人们总是做好了最坏的打算但仍期望着最美好的结局。
 
 * 扇贝单词
-  > Don't find a fault. Find a remedy.
-  > 别纠缠于谁对谁错，重要的是找到解决办法。
+  > Believe and act as if it were impossible to fail.
+  > 抱着必胜的信念行动。
 
 * 有道词典
-  > Success doesn't come for free.
-  > 没有努力，何来成功。
+  > Nothing stays the same forever.
+  > 变化是世间常态。
 
 ```
