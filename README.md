@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-06已更新 
+2023-03-07已更新 
 ```
 * 金山词霸
-  > People always prepare for the worst but hope for the best.
-  > 人们总是做好了最坏的打算但仍期望着最美好的结局。
+  > Before finding the right person, the only thing you need to do is to make yourself good enough.
+  > 在找到合适的人之前，你唯一需要做的，就是让自己足够优秀。
 
 * 扇贝单词
-  > Believe and act as if it were impossible to fail.
-  > 抱着必胜的信念行动。
+  > Hard work beats talent when talent fails to work hard.
+  > 有天分却不努力，就会被努力的人击败。
 
 * 有道词典
-  > Nothing stays the same forever.
-  > 变化是世间常态。
+  > You don't love people in hopes of a reward.
+  > 爱，是不计回报的。
 
 ```
