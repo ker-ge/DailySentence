@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-07已更新 
+2023-03-08已更新 
 ```
 * 金山词霸
-  > Before finding the right person, the only thing you need to do is to make yourself good enough.
-  > 在找到合适的人之前，你唯一需要做的，就是让自己足够优秀。
+  > The most alluring thing a woman can have is confidence.
+  > 女性最有魅力的地方是自信。
 
 * 扇贝单词
-  > Hard work beats talent when talent fails to work hard.
-  > 有天分却不努力，就会被努力的人击败。
+  > Magic is believing in yourself; if you can do that, you can make anything happen.
+  > 相信自己是种魔法，能做到这一点，就可以实现任何事。
 
 * 有道词典
-  > You don't love people in hopes of a reward.
-  > 爱，是不计回报的。
+  > Girls have to go into the world and make up their own minds about things.
+  > 女孩们，勇敢地去拥抱世界，决定自己的人生。
 
 ```
