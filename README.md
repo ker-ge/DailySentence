@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-08已更新 
+2023-03-09已更新 
 ```
 * 金山词霸
-  > The most alluring thing a woman can have is confidence.
-  > 女性最有魅力的地方是自信。
+  > Art is long, life is short.
+  > 知识无穷，生命有限。
 
 * 扇贝单词
-  > Magic is believing in yourself; if you can do that, you can make anything happen.
-  > 相信自己是种魔法，能做到这一点，就可以实现任何事。
+  > There is no pressure when you are making a dream come true.
+  > 在实现梦想的路上，是不存在压力的。
 
 * 有道词典
-  > Girls have to go into the world and make up their own minds about things.
-  > 女孩们，勇敢地去拥抱世界，决定自己的人生。
+  > Your happiness means a lot to me.
+  > 你的快乐对我很重要。
 
 ```
