@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-09已更新 
+2023-03-10已更新 
 ```
 * 金山词霸
-  > Art is long, life is short.
-  > 知识无穷，生命有限。
+  > It is always darkest just before the dawn.
+  > 黎明前总是漆黑一片。
 
 * 扇贝单词
-  > There is no pressure when you are making a dream come true.
-  > 在实现梦想的路上，是不存在压力的。
+  > The very things that hold you down are going to lift you up.
+  > 什么让你摔倒，什么就能让你翱翔。
 
 * 有道词典
-  > Your happiness means a lot to me.
-  > 你的快乐对我很重要。
+  > Stop whining and start living.
+  > 停止无谓抱怨，学会直面生活。
 
 ```
