@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-10已更新 
+2023-03-11已更新 
 ```
 * 金山词霸
-  > It is always darkest just before the dawn.
-  > 黎明前总是漆黑一片。
+  > You mustn't be afraid to dream a little bigger!
+  > 怕什么？做梦就做的大一点儿！
 
 * 扇贝单词
-  > The very things that hold you down are going to lift you up.
-  > 什么让你摔倒，什么就能让你翱翔。
+  > Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+  > 善良比智慧重要，承认这一点，才是智慧的开始。
 
 * 有道词典
-  > Stop whining and start living.
-  > 停止无谓抱怨，学会直面生活。
+  > Friends tell the truth.
+  > 坦诚相待，才是朋友。
 
 ```
