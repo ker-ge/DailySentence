@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-11已更新 
+2023-03-12已更新 
 ```
 * 金山词霸
-  > You mustn't be afraid to dream a little bigger!
-  > 怕什么？做梦就做的大一点儿！
+  > Look deep into nature, and then you will understand everything better.
+  > 深入观察大自然，方可更好理解万事。
 
 * 扇贝单词
-  > Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
-  > 善良比智慧重要，承认这一点，才是智慧的开始。
+  > Whatever you believe with feeling becomes your reality.
+  > 无论什么，只要发自心底地坚信，都能成真。
 
 * 有道词典
-  > Friends tell the truth.
-  > 坦诚相待，才是朋友。
+  > We're better off because of trees.
+  > 有树可栖，生活可期。
 
 ```
