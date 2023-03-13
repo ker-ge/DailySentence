@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-12已更新 
+2023-03-13已更新 
 ```
 * 金山词霸
-  > Look deep into nature, and then you will understand everything better.
-  > 深入观察大自然，方可更好理解万事。
+  > You're never alone when you have books.
+  > 有书作陪，永不寂寞。
 
 * 扇贝单词
-  > Whatever you believe with feeling becomes your reality.
-  > 无论什么，只要发自心底地坚信，都能成真。
+  > The very best thing you can do for the whole world is to make the most of yourself.
+  > 你能为这个世界做的最好的事，就是充分发挥自己的才能。
 
 * 有道词典
-  > We're better off because of trees.
-  > 有树可栖，生活可期。
+  > Everything is difficult before it is easy.
+  > 凡事都是先难后易。
 
 ```
