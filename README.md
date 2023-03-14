@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-13已更新 
+2023-03-14已更新 
 ```
 * 金山词霸
-  > You're never alone when you have books.
-  > 有书作陪，永不寂寞。
+  > It is remarkable how similar the pattern of love is to the pattern of insanity.
+  > 爱与疯狂只有一线之隔。
 
 * 扇贝单词
-  > The very best thing you can do for the whole world is to make the most of yourself.
-  > 你能为这个世界做的最好的事，就是充分发挥自己的才能。
+  > Either write something worth reading or do something worth writing.
+  > 要么写值得读的书， 要么就做值得写的事。
 
 * 有道词典
-  > Everything is difficult before it is easy.
-  > 凡事都是先难后易。
+  > Paying attention to things—it's how we show love.
+  > 关注是爱意的流露。
 
 ```
