@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-14已更新 
+2023-03-15已更新 
 ```
 * 金山词霸
-  > It is remarkable how similar the pattern of love is to the pattern of insanity.
-  > 爱与疯狂只有一线之隔。
+  > Idleness is the root of all evil.
+  > 懒惰乃万恶之源。
 
 * 扇贝单词
-  > Either write something worth reading or do something worth writing.
-  > 要么写值得读的书， 要么就做值得写的事。
+  > Lights will guide you home. And ignite your bones.
+  > 光芒会指引你回家，点燃你的希望与勇气。
 
 * 有道词典
-  > Paying attention to things—it's how we show love.
-  > 关注是爱意的流露。
+  > Things will work out the way they are meant to.
+  > 万事万物皆有定数。
 
 ```
