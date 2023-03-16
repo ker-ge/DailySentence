@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-15已更新 
+2023-03-16已更新 
 ```
 * 金山词霸
-  > Idleness is the root of all evil.
-  > 懒惰乃万恶之源。
+  > We all wonder about the path we didn't follow.
+  > 我们都会好奇自己没选的那条路通向何方。
 
 * 扇贝单词
-  > Lights will guide you home. And ignite your bones.
-  > 光芒会指引你回家，点燃你的希望与勇气。
+  > Let our advance worrying become advance thinking and planning.
+  > 把事前忧虑的时间，花在事前的思索与准备上。
 
 * 有道词典
-  > Things will work out the way they are meant to.
-  > 万事万物皆有定数。
+  > I may not always win, but I never back out of a fight.
+  > 我并非总能赢，但我从未退缩。
 
 ```
