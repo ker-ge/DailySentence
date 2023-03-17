@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-16已更新 
+2023-03-17已更新 
 ```
 * 金山词霸
-  > We all wonder about the path we didn't follow.
-  > 我们都会好奇自己没选的那条路通向何方。
+  > Adversity does teach you who your real friends are.
+  > 经历逆境会让你知道谁是真正的朋友。 
 
 * 扇贝单词
-  > Let our advance worrying become advance thinking and planning.
-  > 把事前忧虑的时间，花在事前的思索与准备上。
+  > Until you make peace with who you are, you'll never be content with what you have.
+  > 只有与真实的自己和平相处，才能对自己所拥有的感到满足。
 
 * 有道词典
-  > I may not always win, but I never back out of a fight.
-  > 我并非总能赢，但我从未退缩。
+  > Some things are worth working a little harder for.
+  > 有些事情是值得为之努力的。
 
 ```
