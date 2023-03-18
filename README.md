@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-17已更新 
+2023-03-18已更新 
 ```
 * 金山词霸
-  > Adversity does teach you who your real friends are.
-  > 经历逆境会让你知道谁是真正的朋友。 
+  > Don't be afraid to break the rules.
+  > 不要害怕打破常规。
 
 * 扇贝单词
-  > Until you make peace with who you are, you'll never be content with what you have.
-  > 只有与真实的自己和平相处，才能对自己所拥有的感到满足。
+  > Keep moving forward, and if it's time to go, it's time.
+  > 保持前进，步履不停，如果是时候该走了，那就顺其自然。
 
 * 有道词典
-  > Some things are worth working a little harder for.
-  > 有些事情是值得为之努力的。
+  > Life rarely gives you a chance to reverse a past regret.
+  > 不问遗憾，勇敢前行。
 
 ```
