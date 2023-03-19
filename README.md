@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-18已更新 
+2023-03-19已更新 
 ```
 * 金山词霸
-  > Don't be afraid to break the rules.
-  > 不要害怕打破常规。
+  > Laughter is the cure for fear.
+  > 笑是恐惧的解药。
 
 * 扇贝单词
-  > Keep moving forward, and if it's time to go, it's time.
-  > 保持前进，步履不停，如果是时候该走了，那就顺其自然。
+  > You don't have to be great to start, but you have to start to be great.
+  > 你不必生而伟大，但要开始变得伟大。
 
 * 有道词典
-  > Life rarely gives you a chance to reverse a past regret.
-  > 不问遗憾，勇敢前行。
+  > Sometimes questions are more powerful than answers.
+  > 有时候，提出问题比解决问题更重要。
 
 ```
