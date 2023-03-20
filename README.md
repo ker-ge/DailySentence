@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-19已更新 
+2023-03-20已更新 
 ```
 * 金山词霸
-  > Laughter is the cure for fear.
-  > 笑是恐惧的解药。
+  > The real danger is that if we hear enough lies, then we no longer recognize the truth at all.
+  > 真正的危险是，我们听多了谎言，便不再能分辨出真相。
 
 * 扇贝单词
-  > You don't have to be great to start, but you have to start to be great.
-  > 你不必生而伟大，但要开始变得伟大。
+  > There are far, far better things ahead than any we leave behind.
+  > 比起遗落在过去的，未来还有更加美好的在等待着我们。
 
 * 有道词典
-  > Sometimes questions are more powerful than answers.
-  > 有时候，提出问题比解决问题更重要。
+  > We must always travel in hope.
+  > 在前行的路上，我们始终怀揣希望。
 
 ```
