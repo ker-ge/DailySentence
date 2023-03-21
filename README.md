@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-20已更新 
+2023-03-21已更新 
 ```
 * 金山词霸
-  > The real danger is that if we hear enough lies, then we no longer recognize the truth at all.
-  > 真正的危险是，我们听多了谎言，便不再能分辨出真相。
+  > A year's plan starts with spring.
+  > 一年之计在于春。
 
 * 扇贝单词
-  > There are far, far better things ahead than any we leave behind.
-  > 比起遗落在过去的，未来还有更加美好的在等待着我们。
+  > Kind words can be short and easy to speak, but their echoes are truly endless.
+  > 善良的话语或许很简短，很简单，但产生的回响却是无穷止尽。
 
 * 有道词典
-  > We must always travel in hope.
-  > 在前行的路上，我们始终怀揣希望。
+  > Spring has sprung and life is returning.
+  > 春拂大地，万物复苏。
 
 ```
