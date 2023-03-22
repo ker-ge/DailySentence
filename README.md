@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-21已更新 
+2023-03-22已更新 
 ```
 * 金山词霸
-  > A year's plan starts with spring.
-  > 一年之计在于春。
+  > Trees give peace to the souls of men.
+  > 树木为人的心灵带来平静。
 
 * 扇贝单词
-  > Kind words can be short and easy to speak, but their echoes are truly endless.
-  > 善良的话语或许很简短，很简单，但产生的回响却是无穷止尽。
+  > The greater the obstacle, the more glory in overcoming it.
+  > 阻碍越大，逾越过去就越光荣。
 
 * 有道词典
-  > Spring has sprung and life is returning.
-  > 春拂大地，万物复苏。
+  > We're family. We sink or swim together.
+  > 无论幸福或苦痛，家人总能一起面对。
 
 ```
