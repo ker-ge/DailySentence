@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-22已更新 
+2023-03-23已更新 
 ```
 * 金山词霸
-  > Trees give peace to the souls of men.
-  > 树木为人的心灵带来平静。
+  > If you look the right way, you can see that the whole world is a garden.
+  > 如果欣赏的角度对了，整个世界都是花园。
 
 * 扇贝单词
-  > The greater the obstacle, the more glory in overcoming it.
-  > 阻碍越大，逾越过去就越光荣。
+  > A book should serve as the ax for the frozen sea within us.
+  > 书籍是一把利斧，凿开我们内心冰封的海洋。
 
 * 有道词典
-  > We're family. We sink or swim together.
-  > 无论幸福或苦痛，家人总能一起面对。
+  > Love is a part of all happiness.
+  > 任何幸福都离不开爱。
 
 ```
