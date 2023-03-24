@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-23已更新 
+2023-03-24已更新 
 ```
 * 金山词霸
-  > If you look the right way, you can see that the whole world is a garden.
-  > 如果欣赏的角度对了，整个世界都是花园。
+  > Love knows no race, creed or gender.
+  > 爱不分种族、不分信仰、不分性别。
 
 * 扇贝单词
-  > A book should serve as the ax for the frozen sea within us.
-  > 书籍是一把利斧，凿开我们内心冰封的海洋。
+  > If you really want to do something, you'll find a way. If you don't, you'll find an excuse.
+  > 只要想做，就能找到办法；如果不想，找到的便只是借口。
 
 * 有道词典
-  > Love is a part of all happiness.
-  > 任何幸福都离不开爱。
+  > You don't have to smile to be happy.
+  > 快乐也可以藏在心里。
 
 ```
