@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-24已更新 
+2023-03-25已更新 
 ```
 * 金山词霸
-  > Love knows no race, creed or gender.
-  > 爱不分种族、不分信仰、不分性别。
+  > When things are looking down, look up.
+  > 当一切都在走下坡时，要向上看。
 
 * 扇贝单词
-  > If you really want to do something, you'll find a way. If you don't, you'll find an excuse.
-  > 只要想做，就能找到办法；如果不想，找到的便只是借口。
+  > Life is 10% what happens to me and 90% of how I react to it.
+  > 生活的一成是发生在我身上的事情，剩下的九成取决于我如何应对。
 
 * 有道词典
-  > You don't have to smile to be happy.
-  > 快乐也可以藏在心里。
+  > We all need the odd treat, or life becomes a little dull.
+  > 平淡的生活里，总需要一些惊喜的瞬间。
 
 ```
