@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-25已更新 
+2023-03-26已更新 
 ```
 * 金山词霸
-  > When things are looking down, look up.
-  > 当一切都在走下坡时，要向上看。
+  > Nothing for nothing.
+  > 不费力气，一无所得。
 
 * 扇贝单词
-  > Life is 10% what happens to me and 90% of how I react to it.
-  > 生活的一成是发生在我身上的事情，剩下的九成取决于我如何应对。
+  > Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.
+  > 继续前行！不要停下脚步！不要在路上流连！向着前面的目标奋进！
 
 * 有道词典
-  > We all need the odd treat, or life becomes a little dull.
-  > 平淡的生活里，总需要一些惊喜的瞬间。
+  > Good things take time.
+  > 好事多磨。
 
 ```
