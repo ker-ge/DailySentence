@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-26已更新 
+2023-03-27已更新 
 ```
 * 金山词霸
-  > Nothing for nothing.
-  > 不费力气，一无所得。
+  > The more we study, the more we discover our ignorance.
+  > 学然后知不足。
 
 * 扇贝单词
-  > Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.
-  > 继续前行！不要停下脚步！不要在路上流连！向着前面的目标奋进！
+  > I'm a greater believer in luck, and I find the harder I work the more I have of it.
+  > 我很相信运气，事实上我发现越努力，我的运气越好。
 
 * 有道词典
-  > Good things take time.
-  > 好事多磨。
+  > To grow, we all need to suffer.
+  > 历经磨难，方能成长。
 
 ```
