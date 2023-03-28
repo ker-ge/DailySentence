@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-27已更新 
+2023-03-28已更新 
 ```
 * 金山词霸
-  > The more we study, the more we discover our ignorance.
-  > 学然后知不足。
+  > Perseverance can make miracles happen. 
+  > 坚持就有奇迹。
 
 * 扇贝单词
-  > I'm a greater believer in luck, and I find the harder I work the more I have of it.
-  > 我很相信运气，事实上我发现越努力，我的运气越好。
+  > Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.
+  > 思维有限，但我们的想象力能造就无限可能。
 
 * 有道词典
-  > To grow, we all need to suffer.
-  > 历经磨难，方能成长。
+  > Forgiveness does not change the past, but it does enlarge the future.
+  > 宽恕无法改变过去，却能拓宽未来。
 
 ```
