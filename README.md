@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-28已更新 
+2023-03-29已更新 
 ```
 * 金山词霸
-  > Perseverance can make miracles happen. 
-  > 坚持就有奇迹。
+  > Book and friends should be few but good. 
+  > 读书如交友，应少而求精。
 
 * 扇贝单词
-  > Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.
-  > 思维有限，但我们的想象力能造就无限可能。
+  > The greatest pleasure in life is doing what people say you cannot do.
+  > 人生一大乐事就是做到别人认为你做不到的事。
 
 * 有道词典
-  > Forgiveness does not change the past, but it does enlarge the future.
-  > 宽恕无法改变过去，却能拓宽未来。
+  > Never apologize for how you feel.
+  > 无愧于心，不疚于人。
 
 ```
