@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-29已更新 
+2023-03-30已更新 
 ```
 * 金山词霸
-  > Book and friends should be few but good. 
-  > 读书如交友，应少而求精。
+  > Medicines cure diseases but only doctors can cure patients.
+  > 治病可用药石之方，救人唯有医者仁心。
 
 * 扇贝单词
-  > The greatest pleasure in life is doing what people say you cannot do.
-  > 人生一大乐事就是做到别人认为你做不到的事。
+  > A river cuts through rock, not because of its power, but because of its persistence.
+  > 河流可以切碎岩石，并非因其力大无穷，乃是因为坚持不懈。
 
 * 有道词典
-  > Never apologize for how you feel.
-  > 无愧于心，不疚于人。
+  > Routine is the building block of happiness.
+  > 点滴日常构成幸福生活。
 
 ```
