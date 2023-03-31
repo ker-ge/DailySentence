@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-30已更新 
+2023-03-31已更新 
 ```
 * 金山词霸
-  > Medicines cure diseases but only doctors can cure patients.
-  > 治病可用药石之方，救人唯有医者仁心。
+  > Compromise where you can. Where you can't, don't.
+  > 能迁就处可妥协，该坚守时不退让。
 
 * 扇贝单词
-  > A river cuts through rock, not because of its power, but because of its persistence.
-  > 河流可以切碎岩石，并非因其力大无穷，乃是因为坚持不懈。
+  > If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+  > 不历严冬，春天不迷人；不尝艰辛，成功无欣喜。
 
 * 有道词典
-  > Routine is the building block of happiness.
-  > 点滴日常构成幸福生活。
+  > Whatever happens, we will be ready.
+  > 我们将竭尽全力，迎接各种挑战。
 
 ```
