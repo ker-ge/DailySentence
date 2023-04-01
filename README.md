@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-03-31已更新 
+2023-04-01已更新 
 ```
 * 金山词霸
-  > Compromise where you can. Where you can't, don't.
-  > 能迁就处可妥协，该坚守时不退让。
+  > The best state of life is to be stupid.
+  > 生活最好的状态就是随心所“愚”。
 
 * 扇贝单词
-  > If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
-  > 不历严冬，春天不迷人；不尝艰辛，成功无欣喜。
+  > Whatever you believe with feeling becomes your reality.
+  > 无论什么，只要发自心底地坚信，都能成真。
 
 * 有道词典
-  > Whatever happens, we will be ready.
-  > 我们将竭尽全力，迎接各种挑战。
+  > When life's path is steep, keep your mind even.
+  > 纵使前路坎坷，亦要沉着冷静。
 
 ```
