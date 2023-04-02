@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-01已更新 
+2023-04-02已更新 
 ```
 * 金山词霸
-  > The best state of life is to be stupid.
-  > 生活最好的状态就是随心所“愚”。
+  > Youth means limitless possibilities. 
+  > 年轻就是无限的可能。
 
 * 扇贝单词
-  > Whatever you believe with feeling becomes your reality.
-  > 无论什么，只要发自心底地坚信，都能成真。
+  > Happiness adds and multiplies, as we divide it with others.
+  > 与他人分享快乐，我们会收获加倍的快乐。
 
 * 有道词典
-  > When life's path is steep, keep your mind even.
-  > 纵使前路坎坷，亦要沉着冷静。
+  > The biggest risk is not taking any risk at all.
+  > 不去冒险，才是最大的风险。
 
 ```
