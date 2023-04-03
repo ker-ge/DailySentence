@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-02已更新 
+2023-04-03已更新 
 ```
 * 金山词霸
-  > Youth means limitless possibilities. 
-  > 年轻就是无限的可能。
+  > Part of life is learning to let things go.
+  > 学会放手也是人生的一部分。
 
 * 扇贝单词
-  > Happiness adds and multiplies, as we divide it with others.
-  > 与他人分享快乐，我们会收获加倍的快乐。
+  > In every walk with nature, one receives far more than he seeks.
+  > 每一次与自然同行，都会有意外的收获。
 
 * 有道词典
-  > The biggest risk is not taking any risk at all.
-  > 不去冒险，才是最大的风险。
+  > There's a song for every dream.
+  > 每个梦想都值得被歌颂。
 
 ```
