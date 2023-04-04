@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-03已更新 
+2023-04-04已更新 
 ```
 * 金山词霸
-  > Part of life is learning to let things go.
-  > 学会放手也是人生的一部分。
+  > Sharp tools make good work.
+  > 工欲善其事，必先利其器。
 
 * 扇贝单词
-  > In every walk with nature, one receives far more than he seeks.
-  > 每一次与自然同行，都会有意外的收获。
+  > It is not beauty that endears, it's love that makes us see beauty.
+  > 并非美丽招人爱，而是爱让我们看到了美丽。
 
 * 有道词典
-  > There's a song for every dream.
-  > 每个梦想都值得被歌颂。
+  > I should move on and seize the day.
+  > 整装重行，不负当下。
 
 ```
