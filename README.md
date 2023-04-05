@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-04已更新 
+2023-04-05已更新 
 ```
 * 金山词霸
-  > Sharp tools make good work.
-  > 工欲善其事，必先利其器。
+  > You're always on my mind.
+  > 你长眠，我常念。
 
 * 扇贝单词
-  > It is not beauty that endears, it's love that makes us see beauty.
-  > 并非美丽招人爱，而是爱让我们看到了美丽。
+  > All change is not growth, as all movement is not forward.
+  > 不是所有的改变都是成长，正如不是所有的运动都是前进。
 
 * 有道词典
-  > I should move on and seize the day.
-  > 整装重行，不负当下。
+  > You are not gone because you will always be in our hearts.
+  > 只要心里想念，爱的人便不会离开我们。
 
 ```
