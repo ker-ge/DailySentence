@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-05已更新 
+2023-04-06已更新 
 ```
 * 金山词霸
-  > You're always on my mind.
-  > 你长眠，我常念。
+  > The answer must be in the attempt.  
+  > 你所追寻的答案一定会在努力探索中展现。
 
 * 扇贝单词
-  > All change is not growth, as all movement is not forward.
-  > 不是所有的改变都是成长，正如不是所有的运动都是前进。
+  > Challenges are what make life interesting and overcoming them is what makes life meaningful.
+  > 挑战让生活趣味盎然，战胜挑战让生活意义非凡。
 
 * 有道词典
-  > You are not gone because you will always be in our hearts.
-  > 只要心里想念，爱的人便不会离开我们。
+  > There's no place like home.
+  > 还是家最好了。
 
 ```
