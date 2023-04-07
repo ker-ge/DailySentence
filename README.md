@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-06已更新 
+2023-04-07已更新 
 ```
 * 金山词霸
-  > The answer must be in the attempt.  
-  > 你所追寻的答案一定会在努力探索中展现。
+  > It's never too late to right past wrongs.
+  > 弥补过去的罪过，何时都不算晚。
 
 * 扇贝单词
-  > Challenges are what make life interesting and overcoming them is what makes life meaningful.
-  > 挑战让生活趣味盎然，战胜挑战让生活意义非凡。
+  > Believe you can and you're half way there.
+  > 相信你能行，你就成功了一半。
 
 * 有道词典
-  > There's no place like home.
-  > 还是家最好了。
+  > Sometimes we need to lose something before we can understand its value.
+  > 总有一些东西，失去后方知其可贵。
 
 ```
