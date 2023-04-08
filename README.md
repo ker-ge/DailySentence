@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-07已更新 
+2023-04-08已更新 
 ```
 * 金山词霸
-  > It's never too late to right past wrongs.
-  > 弥补过去的罪过，何时都不算晚。
+  > When all else is lost, the future still remains.
+  > 就算失去了一切别的东西，也还有未来。
 
 * 扇贝单词
-  > Believe you can and you're half way there.
-  > 相信你能行，你就成功了一半。
+  > Continuous improvement is better than delayed perfection.
+  > 持续的改进，胜过延迟的完美。
 
 * 有道词典
-  > Sometimes we need to lose something before we can understand its value.
-  > 总有一些东西，失去后方知其可贵。
+  > Don't be disappointed if there's not a pot of gold at the end of the rainbow.
+  > 就算期望落空，也不要丧失希望。
 
 ```
