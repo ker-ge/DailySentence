@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-08已更新 
+2023-04-09已更新 
 ```
 * 金山词霸
-  > When all else is lost, the future still remains.
-  > 就算失去了一切别的东西，也还有未来。
+  > All things come to those who wait.
+  > 坚持到底，就是胜利。
 
 * 扇贝单词
-  > Continuous improvement is better than delayed perfection.
-  > 持续的改进，胜过延迟的完美。
+  > You don't have to be great to start, but you have to start to be great.
+  > 你不必生而伟大，但要开始变得伟大。
 
 * 有道词典
-  > Don't be disappointed if there's not a pot of gold at the end of the rainbow.
-  > 就算期望落空，也不要丧失希望。
+  > The only thing predictable about life is its unpredictability.
+  > 世事难料。
 
 ```
