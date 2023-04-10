@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-09已更新 
+2023-04-10已更新 
 ```
 * 金山词霸
-  > All things come to those who wait.
-  > 坚持到底，就是胜利。
+  > Rainbow comes after a storm. 
+  > 风雨过后总见彩虹。
 
 * 扇贝单词
-  > You don't have to be great to start, but you have to start to be great.
-  > 你不必生而伟大，但要开始变得伟大。
+  > Knowledge is of no value unless you put it into practice.
+  > 只有付诸实践，知识才有价值。
 
 * 有道词典
-  > The only thing predictable about life is its unpredictability.
-  > 世事难料。
+  > My personal failure has always strengthened my resolve to make things right.
+  > 失败没有击垮我，反而激励了我。
 
 ```
