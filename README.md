@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-10已更新 
+2023-04-11已更新 
 ```
 * 金山词霸
-  > Rainbow comes after a storm. 
-  > 风雨过后总见彩虹。
+  > What's life without a little risk？
+  > 生活怎么能没有点儿小冒险呢？
 
 * 扇贝单词
-  > Knowledge is of no value unless you put it into practice.
-  > 只有付诸实践，知识才有价值。
+  > How you think about a problem is more important than the problem itself, so always think positively.
+  > 如何看待问题远比问题本身来得重要，所以永远要正向思考。
 
 * 有道词典
-  > My personal failure has always strengthened my resolve to make things right.
-  > 失败没有击垮我，反而激励了我。
+  > People shouldn't have to live up to other people's expectations.
+  > 无需活在别人的期望里。
 
 ```
