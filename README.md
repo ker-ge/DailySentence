@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-11已更新 
+2023-04-12已更新 
 ```
 * 金山词霸
-  > What's life without a little risk？
-  > 生活怎么能没有点儿小冒险呢？
+  > I will greet this day with love in my heart.
+  > 我要用全身心的爱来迎接今天。
 
 * 扇贝单词
-  > How you think about a problem is more important than the problem itself, so always think positively.
-  > 如何看待问题远比问题本身来得重要，所以永远要正向思考。
+  > Action is the foundational key to all success.
+  > 行动是所有成功的根本。
 
 * 有道词典
-  > People shouldn't have to live up to other people's expectations.
-  > 无需活在别人的期望里。
+  > It is better to have loved and lost than to never have loved at all.
+  > 即便会失去，也不能丧失爱的勇气。
 
 ```
