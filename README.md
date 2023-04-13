@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-12已更新 
+2023-04-13已更新 
 ```
 * 金山词霸
-  > I will greet this day with love in my heart.
-  > 我要用全身心的爱来迎接今天。
+  > Do what you say, and say what you do.
+  > 做你说过的，说你能做的。
 
 * 扇贝单词
-  > Action is the foundational key to all success.
-  > 行动是所有成功的根本。
+  > It doesn't matter where you are, you are nowhere compared to where you can go.
+  > 跟你可以去到的地方相比，你身处何处并不重要。
 
 * 有道词典
-  > It is better to have loved and lost than to never have loved at all.
-  > 即便会失去，也不能丧失爱的勇气。
+  > This is a blessing in disguise.
+  > 人生多无常，福祸总相依。
 
 ```
