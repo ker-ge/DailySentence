@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-13已更新 
+2023-04-14已更新 
 ```
 * 金山词霸
-  > Do what you say, and say what you do.
-  > 做你说过的，说你能做的。
+  > There is no short cut in learning.
+  > 学习没有捷径可走。
 
 * 扇贝单词
-  > It doesn't matter where you are, you are nowhere compared to where you can go.
-  > 跟你可以去到的地方相比，你身处何处并不重要。
+  > Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.
+  > 相比未有过可称之为失败的努力，坚持不懈之后的失败要伟大得多。
 
 * 有道词典
-  > This is a blessing in disguise.
-  > 人生多无常，福祸总相依。
+  > You got a dream; you gotta protect it.
+  > 如果你有梦想，就要去捍卫它。
 
 ```
