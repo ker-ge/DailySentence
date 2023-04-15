@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-14已更新 
+2023-04-15已更新 
 ```
 * 金山词霸
-  > There is no short cut in learning.
-  > 学习没有捷径可走。
+  > No man is an island.
+  > 没有人是一座孤岛。
 
 * 扇贝单词
-  > Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.
-  > 相比未有过可称之为失败的努力，坚持不懈之后的失败要伟大得多。
+  > If you are always trying to be normal, you will never know how amazing you can be.
+  > 你若总想平平凡凡，就永远不知道自己能有多出色。
 
 * 有道词典
-  > You got a dream; you gotta protect it.
-  > 如果你有梦想，就要去捍卫它。
+  > Faith is taking the first step when you can't see the staircase.
+  > 信念，是前路迷茫时，毅然迈出的第一步。
 
 ```
