@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-15已更新 
+2023-04-16已更新 
 ```
 * 金山词霸
-  > No man is an island.
-  > 没有人是一座孤岛。
+  > Take a break from worrying about what you can't control. Live a little.
+  > 别杞人忧天了，活在当下。
 
 * 扇贝单词
-  > If you are always trying to be normal, you will never know how amazing you can be.
-  > 你若总想平平凡凡，就永远不知道自己能有多出色。
+  > If you wish to reach the highest, begin at the lowest.
+  > 若想到达最高处，先从最低处做起。
 
 * 有道词典
-  > Faith is taking the first step when you can't see the staircase.
-  > 信念，是前路迷茫时，毅然迈出的第一步。
+  > No detail is too small.
+  > 细节决定成败。
 
 ```
