@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-16已更新 
+2023-04-17已更新 
 ```
 * 金山词霸
-  > Take a break from worrying about what you can't control. Live a little.
-  > 别杞人忧天了，活在当下。
+  > He who laughs last laughs best. 
+  > 笑到最后才笑得最好。
 
 * 扇贝单词
-  > If you wish to reach the highest, begin at the lowest.
-  > 若想到达最高处，先从最低处做起。
+  > A positive mind finds a way it can be done; A negative mind looks for all the ways it can't be done.
+  > 积极的人会去寻找任务的解决方案；消极的人会去寻找无法完成任务的各种理由。
 
 * 有道词典
-  > No detail is too small.
-  > 细节决定成败。
+  > A real loser is somebody that's so afraid of not winning; they don't even try.
+  > 真正的失败，是还没尝试就畏缩。
 
 ```
