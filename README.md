@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-18已更新 
+2023-04-19已更新 
 ```
 * 金山词霸
-  > Love is what binds us, through fair or stormy weather.
-  > 爱将我们紧紧相连，共度风雨。
+  > If you are good at something, never do it for free.
+  > 擅长的事情，绝不能白干。
 
 * 扇贝单词
-  > A plant does not bear fruit without its stem.
-  > 没有茎干，植物就无法结果。
+  > The cure to boredom is curiosity. There is no cure for curiosity.
+  > 无聊的解药是好奇心，但好奇心没有解药。
 
 * 有道词典
-  > When you smile, the world lights up.
-  > 你一笑，世界都亮了。
+  > You can make a new start.
+  > 开始新的征途吧。
 
 ```
