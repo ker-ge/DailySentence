@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-19已更新 
+2023-04-20已更新 
 ```
 * 金山词霸
-  > If you are good at something, never do it for free.
-  > 擅长的事情，绝不能白干。
+  > To live would be an awfully big adventure.
+  > 生活是一场大冒险。
 
 * 扇贝单词
-  > The cure to boredom is curiosity. There is no cure for curiosity.
-  > 无聊的解药是好奇心，但好奇心没有解药。
+  > A man who dares to waste one hour of time has not discovered the value of life.
+  > 敢于浪费一个小时的人，没有发现生命的价值。
 
 * 有道词典
-  > You can make a new start.
-  > 开始新的征途吧。
+  > Don't postpone joy.
+  > 及时行乐。
 
 ```
