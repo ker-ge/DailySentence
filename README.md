@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-20已更新 
+2023-04-21已更新 
 ```
 * 金山词霸
-  > To live would be an awfully big adventure.
-  > 生活是一场大冒险。
+  > Pursue breakthroughs in your life. 
+  > 追求你生活中的突破。
 
 * 扇贝单词
-  > A man who dares to waste one hour of time has not discovered the value of life.
-  > 敢于浪费一个小时的人，没有发现生命的价值。
+  > If you really want to do something, you'll find a way. If you don't, you'll find an excuse.
+  > 只要想做，就能找到办法；如果不想，找到的便只是借口。
 
 * 有道词典
-  > Don't postpone joy.
-  > 及时行乐。
+  > You can't have justice without truth.
+  > 没有真相，何来正义。
 
 ```
