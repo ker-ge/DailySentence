@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-21已更新 
+2023-04-22已更新 
 ```
 * 金山词霸
-  > Pursue breakthroughs in your life. 
-  > 追求你生活中的突破。
+  > The greatest thing I've ever known is to love and be loved in return.
+  > 我所知道的最美好的事莫过于双向奔赴的爱。
 
 * 扇贝单词
-  > If you really want to do something, you'll find a way. If you don't, you'll find an excuse.
-  > 只要想做，就能找到办法；如果不想，找到的便只是借口。
+  > Set your goals high, and don't stop till you get there.
+  > 树立远大的目标，不达目的誓不罢休。
 
 * 有道词典
-  > You can't have justice without truth.
-  > 没有真相，何来正义。
+  > You build your future. It isn't handed to you.
+  > 未来需要靠自己去争取。
 
 ```
