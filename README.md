@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-22已更新 
+2023-04-23已更新 
 ```
 * 金山词霸
-  > The greatest thing I've ever known is to love and be loved in return.
-  > 我所知道的最美好的事莫过于双向奔赴的爱。
+  > If we just open the door a crack, the light comes pouring in.
+  > 只要把门打开一丝缝隙，光就会倾泻而入。
 
 * 扇贝单词
-  > Set your goals high, and don't stop till you get there.
-  > 树立远大的目标，不达目的誓不罢休。
+  > Definiteness of purpose is the starting point of all achievement.
+  > 目标明确是一切成功的起点。
 
 * 有道词典
-  > You build your future. It isn't handed to you.
-  > 未来需要靠自己去争取。
+  > The house without books is like a mind without thoughts.
+  > 没有书的日子，灵魂无处安放。
 
 ```
