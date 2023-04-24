@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-23已更新 
+2023-04-24已更新 
 ```
 * 金山词霸
-  > If we just open the door a crack, the light comes pouring in.
-  > 只要把门打开一丝缝隙，光就会倾泻而入。
+  > There's a big difference between knowing the path and walking the path.
+  > 知其路与行其路有天壤之别。
 
 * 扇贝单词
-  > Definiteness of purpose is the starting point of all achievement.
-  > 目标明确是一切成功的起点。
+  > When two people love each other, they don't look at each other, they look in the same direction.
+  > 两人相爱时，他们不会对视，而是会看向同一个方向。
 
 * 有道词典
-  > The house without books is like a mind without thoughts.
-  > 没有书的日子，灵魂无处安放。
+  > If you're committed enough, you can make any story work.
+  > 只要有决心，就没有做不成的事。
 
 ```
