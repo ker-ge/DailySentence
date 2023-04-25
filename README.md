@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-24已更新 
+2023-04-25已更新 
 ```
 * 金山词霸
-  > There's a big difference between knowing the path and walking the path.
-  > 知其路与行其路有天壤之别。
+  > A fool will fool himself, but time will not fool anyone.
+  > 愚人终会愚己，时间却不会愚弄任何人。
 
 * 扇贝单词
-  > When two people love each other, they don't look at each other, they look in the same direction.
-  > 两人相爱时，他们不会对视，而是会看向同一个方向。
+  > People rarely succeed unless they have fun in what they are doing.
+  > 若不能在所做之事中寻到快乐，人便难以成功。
 
 * 有道词典
-  > If you're committed enough, you can make any story work.
-  > 只要有决心，就没有做不成的事。
+  > Nothing ventured, nothing gained.
+  > 不入虎穴，焉得虎子。
 
 ```
