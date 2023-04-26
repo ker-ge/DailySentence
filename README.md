@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-25已更新 
+2023-04-26已更新 
 ```
 * 金山词霸
-  > A fool will fool himself, but time will not fool anyone.
-  > 愚人终会愚己，时间却不会愚弄任何人。
+  > Happiness is a way station between too much and too little.
+  > 幸福是太多和太少之间的一站。
 
 * 扇贝单词
-  > People rarely succeed unless they have fun in what they are doing.
-  > 若不能在所做之事中寻到快乐，人便难以成功。
+  > Either move or be moved.
+  > 要么主动寻求改变，要么被动接受改变。
 
 * 有道词典
-  > Nothing ventured, nothing gained.
-  > 不入虎穴，焉得虎子。
+  > Love bends the rules of possible.
+  > 爱能将不可能变为可能。
 
 ```
