@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-26已更新 
+2023-04-27已更新 
 ```
 * 金山词霸
-  > Happiness is a way station between too much and too little.
-  > 幸福是太多和太少之间的一站。
+  > Possessions are generally diminished by possession.
+  > 越想占有，越会失去。
 
 * 扇贝单词
-  > Either move or be moved.
-  > 要么主动寻求改变，要么被动接受改变。
+  > It is in your moments of decision that your destiny is shaped.
+  > 命运形成于你做出决定的那一刻。
 
 * 有道词典
-  > Love bends the rules of possible.
-  > 爱能将不可能变为可能。
+  > Success is a mixture of preparation and luck.
+  > 想要成功，准备和运气缺一不可。
 
 ```
