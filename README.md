@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-27已更新 
+2023-04-28已更新 
 ```
 * 金山词霸
-  > Possessions are generally diminished by possession.
-  > 越想占有，越会失去。
+  > Out with the old, in with the new.
+  > 旧的不去，新的不来。
 
 * 扇贝单词
-  > It is in your moments of decision that your destiny is shaped.
-  > 命运形成于你做出决定的那一刻。
+  > A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
+  > 你的一次无心的善举，不论多么微不足道，都可能对他人的生活产生巨大影响。
 
 * 有道词典
-  > Success is a mixture of preparation and luck.
-  > 想要成功，准备和运气缺一不可。
+  > Hard work always pays off.
+  > 付出总会有回报。
 
 ```
