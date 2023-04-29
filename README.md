@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-28已更新 
+2023-04-29已更新 
 ```
 * 金山词霸
-  > Out with the old, in with the new.
-  > 旧的不去，新的不来。
+  > After all the difficult times, you will embrace a bright future.
+  > 熬过所有的艰难时刻，你将前程似锦。
 
 * 扇贝单词
-  > A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
-  > 你的一次无心的善举，不论多么微不足道，都可能对他人的生活产生巨大影响。
+  > What would life be if we had no courage to attempt anything?
+  > 如果我们没有勇气去尝试，生活会变成什么样子呢？
 
 * 有道词典
-  > Hard work always pays off.
-  > 付出总会有回报。
+  > Knowledge is power.
+  > 知识就是力量。
 
 ```
