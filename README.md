@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-29已更新 
+2023-04-30已更新 
 ```
 * 金山词霸
-  > After all the difficult times, you will embrace a bright future.
-  > 熬过所有的艰难时刻，你将前程似锦。
+  > That which does not defeat us makes us stronger.
+  > 那些不能打败我们的，终将使我们更强大。
 
 * 扇贝单词
-  > What would life be if we had no courage to attempt anything?
-  > 如果我们没有勇气去尝试，生活会变成什么样子呢？
+  > Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential.
+  > 一个人成功与否，很大程度上并不取决于能力，而在于渴望发挥自身潜力的程度。
 
 * 有道词典
-  > Knowledge is power.
-  > 知识就是力量。
+  > It's better to light a candle than to curse the darkness.
+  > 与其诅咒黑暗，不如燃起蜡烛。
 
 ```
