@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-04-30已更新 
+2023-05-01已更新 
 ```
 * 金山词霸
-  > That which does not defeat us makes us stronger.
-  > 那些不能打败我们的，终将使我们更强大。
+  > Few words, many deeds.
+  > 少说话，多做事。
 
 * 扇贝单词
-  > Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential.
-  > 一个人成功与否，很大程度上并不取决于能力，而在于渴望发挥自身潜力的程度。
+  > Either you run the day or the day runs you.
+  > 你不主宰时光，时光就会主宰你。
 
 * 有道词典
-  > It's better to light a candle than to curse the darkness.
-  > 与其诅咒黑暗，不如燃起蜡烛。
+  > No pain, no gain.
+  > 一分耕耘，一分收获。
 
 ```
