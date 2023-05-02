@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-01已更新 
+2023-05-02已更新 
 ```
 * 金山词霸
-  > Few words, many deeds.
-  > 少说话，多做事。
+  > My philosophy is if you worry, you suffer twice.
+  > 我的人生信条是：遇事发愁，火上浇油。
 
 * 扇贝单词
-  > Either you run the day or the day runs you.
-  > 你不主宰时光，时光就会主宰你。
+  > We may encounter many defeats but we must not be defeated.
+  > 我们可能会遭遇许多失败，但绝不能被它们击败。
 
 * 有道词典
-  > No pain, no gain.
-  > 一分耕耘，一分收获。
+  > I believe in making every experience educational.
+  > 我相信，每一次经历都能让我成长。
 
 ```
