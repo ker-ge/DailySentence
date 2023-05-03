@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-02已更新 
+2023-05-03已更新 
 ```
 * 金山词霸
-  > My philosophy is if you worry, you suffer twice.
-  > 我的人生信条是：遇事发愁，火上浇油。
+  > Great men are not born great, they grow great.
+  > 伟大的人不是生来伟大，而是在成长的过程中渐渐变得伟大。
 
 * 扇贝单词
-  > We may encounter many defeats but we must not be defeated.
-  > 我们可能会遭遇许多失败，但绝不能被它们击败。
+  > I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
+  > 我相信每个人的心跳次数有限，所以我不想浪费任何一下。
 
 * 有道词典
-  > I believe in making every experience educational.
-  > 我相信，每一次经历都能让我成长。
+  > You can't tell what's in a person's heart until you truly know them.
+  > 不要试图定义别人，除非你真正了解他。
 
 ```
