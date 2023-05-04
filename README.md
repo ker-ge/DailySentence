@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-03已更新 
+2023-05-04已更新 
 ```
 * 金山词霸
-  > Great men are not born great, they grow great.
-  > 伟大的人不是生来伟大，而是在成长的过程中渐渐变得伟大。
+  > Youth is not a time of life; it is a state of mind.
+  > 青春不是年华，而是心境。
 
 * 扇贝单词
-  > I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
-  > 我相信每个人的心跳次数有限，所以我不想浪费任何一下。
+  > Problems are guidelines, not stop signs!
+  > 问题不是止步的信号，而是前进的指引。
 
 * 有道词典
-  > You can't tell what's in a person's heart until you truly know them.
-  > 不要试图定义别人，除非你真正了解他。
+  > Hope comes to the young as naturally as spring rains.
+  > 希望如春雨般倾洒在年轻人身上。
 
 ```
