@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-04已更新 
+2023-05-05已更新 
 ```
 * 金山词霸
-  > Youth is not a time of life; it is a state of mind.
-  > 青春不是年华，而是心境。
+  > I love summer because it is full of life and hope. 
+  > 我爱夏天，因其充满生机与希望。
 
 * 扇贝单词
-  > Problems are guidelines, not stop signs!
-  > 问题不是止步的信号，而是前进的指引。
+  > The best cure for the body is a quiet mind.
+  > 对身体最好的治疗就是让头脑安静。
 
 * 有道词典
-  > Hope comes to the young as naturally as spring rains.
-  > 希望如春雨般倾洒在年轻人身上。
+  > There's nothing more precious than dreams.
+  > 没有什么比梦想更珍贵的了。
 
 ```
