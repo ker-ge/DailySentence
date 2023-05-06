@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-05已更新 
+2023-05-06已更新 
 ```
 * 金山词霸
-  > I love summer because it is full of life and hope. 
-  > 我爱夏天，因其充满生机与希望。
+  > No water, no life.
+  > 水是生命之源。
 
 * 扇贝单词
-  > The best cure for the body is a quiet mind.
-  > 对身体最好的治疗就是让头脑安静。
+  > To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+  > 想要成就一番事业，不仅要行动，还要敢于梦想；不仅要做计划，还要抱有信念。
 
 * 有道词典
-  > There's nothing more precious than dreams.
-  > 没有什么比梦想更珍贵的了。
+  > Summer's coming. I smelled it.
+  > 夏天来了，我闻到了它的气息。
 
 ```
