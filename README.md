@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-06已更新 
+2023-05-07已更新 
 ```
 * 金山词霸
-  > No water, no life.
-  > 水是生命之源。
+  > The hard thing to do and the right thing to do are usually the same thing. 
+  > 难做的事和该做的事往往是同一件事。
 
 * 扇贝单词
-  > To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
-  > 想要成就一番事业，不仅要行动，还要敢于梦想；不仅要做计划，还要抱有信念。
+  > Be not simply good — be good for something.
+  > 不要一味地善良，要有原则地善良。
 
 * 有道词典
-  > Summer's coming. I smelled it.
-  > 夏天来了，我闻到了它的气息。
+  > Sometimes you have to go for it.
+  > 有时就是得放手一搏。
 
 ```
