@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-07已更新 
+2023-05-08已更新 
 ```
 * 金山词霸
-  > The hard thing to do and the right thing to do are usually the same thing. 
-  > 难做的事和该做的事往往是同一件事。
+  > Saving the world requires sacrifice.
+  > 拯救世界需要付出代价。
 
 * 扇贝单词
-  > Be not simply good — be good for something.
-  > 不要一味地善良，要有原则地善良。
+  > Don't bother just to be better than others. Try to be better than yourself.
+  > 不要为了比别人强而烦恼，要努力比自己强。
 
 * 有道词典
-  > Sometimes you have to go for it.
-  > 有时就是得放手一搏。
+  > Chance favors the prepared mind.
+  > 机遇青睐有准备的人。
 
 ```
