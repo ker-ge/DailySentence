@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-08已更新 
+2023-05-09已更新 
 ```
 * 金山词霸
-  > Saving the world requires sacrifice.
-  > 拯救世界需要付出代价。
+  > A person often meets his destiny on the road he took to avoid it.
+  > 逃避命运之人，终将直面命运。
 
 * 扇贝单词
-  > Don't bother just to be better than others. Try to be better than yourself.
-  > 不要为了比别人强而烦恼，要努力比自己强。
+  > Curiosity is the lust of the mind.
+  > 好奇心是大脑的渴望。
 
 * 有道词典
-  > Chance favors the prepared mind.
-  > 机遇青睐有准备的人。
+  > Home is where the heart is.
+  > 心之所在即为家。
 
 ```
