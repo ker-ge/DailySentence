@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-09已更新 
+2023-05-10已更新 
 ```
 * 金山词霸
-  > A person often meets his destiny on the road he took to avoid it.
-  > 逃避命运之人，终将直面命运。
+  > Let's seize the day and live it to the fullest.
+  > 只争朝夕，不负韶华。
 
 * 扇贝单词
-  > Curiosity is the lust of the mind.
-  > 好奇心是大脑的渴望。
+  > Talent hits a target no one else can hit; Genius hits a target no one else can see.
+  > 能者达人所不达，智者达人所未见。
 
 * 有道词典
-  > Home is where the heart is.
-  > 心之所在即为家。
+  > I'm not leaving anything to chance.
+  > 命运掌握在自己手中。
 
 ```
