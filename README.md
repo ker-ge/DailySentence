@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-10已更新 
+2023-05-11已更新 
 ```
 * 金山词霸
-  > Let's seize the day and live it to the fullest.
-  > 只争朝夕，不负韶华。
+  > May you be loyal to yourself, live like yourself. 
+  > 愿你忠于自我，活出自我。
 
 * 扇贝单词
-  > Talent hits a target no one else can hit; Genius hits a target no one else can see.
-  > 能者达人所不达，智者达人所未见。
+  > Without deviation from the norm, progress is not possible.
+  > 不偏离常规，就无法取得进步。
 
 * 有道词典
-  > I'm not leaving anything to chance.
-  > 命运掌握在自己手中。
+  > It's not enough to say you love someone; you have to show it.
+  > 爱不是说说而已，还要付出行动。
 
 ```
