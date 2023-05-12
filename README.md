@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-11已更新 
+2023-05-12已更新 
 ```
 * 金山词霸
-  > May you be loyal to yourself, live like yourself. 
-  > 愿你忠于自我，活出自我。
+  > Disaster is more painful for survivors because it's hard to forget.
+  > 灾难对于幸存者来说更痛苦，因为它难以忘却。
 
 * 扇贝单词
-  > Without deviation from the norm, progress is not possible.
-  > 不偏离常规，就无法取得进步。
+  > For success, attitude is equally as important as ability.
+  > 要想成功，态度同能力一样重要。
 
 * 有道词典
-  > It's not enough to say you love someone; you have to show it.
-  > 爱不是说说而已，还要付出行动。
+  > There's so much in life to savour.
+  > 人生需要细细品味。
 
 ```
