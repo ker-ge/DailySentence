@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-13已更新 
+2023-05-14已更新 
 ```
 * 金山词霸
-  > Don't let anyone ever make you feel like you don't deserve what you want.
-  > 别让任何人让你觉得自己不配拥有梦想。
+  > To Mothers: Happy Mother's Day! Love yourself to gain more happiness!
+  > 致母亲：母亲节快乐！爱自己，更快乐！
 
 * 扇贝单词
-  > Tomorrow belongs to those who can hear it coming.
-  > 明天属于那些能听见它来临的人。
+  > In every person who comes near you look for what is good and strong.
+  > 对于你遇见的每一个人，要寻找他的优点和强项。
 
 * 有道词典
-  > Fight for what you want.
-  > 去争取想要的生活吧。
+  > Nobody loves you like a mother.
+  > 母亲的爱是独一无二的。
 
 ```
