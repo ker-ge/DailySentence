@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-14已更新 
+2023-05-15已更新 
 ```
 * 金山词霸
-  > To Mothers: Happy Mother's Day! Love yourself to gain more happiness!
-  > 致母亲：母亲节快乐！爱自己，更快乐！
+  > When you start to live the life you have been wanting, all the scars of the past will become medals.
+  > 当你过上了想要的生活，过往的一切伤疤都会成为勋章。
 
 * 扇贝单词
-  > In every person who comes near you look for what is good and strong.
-  > 对于你遇见的每一个人，要寻找他的优点和强项。
+  > We are all different. Don't judge, understand instead.
+  > 每个人都不同。别去评断别人，要去理解别人。
 
 * 有道词典
-  > Nobody loves you like a mother.
-  > 母亲的爱是独一无二的。
+  > There are no perfect men in this world.
+  > 没有人是完美的。
 
 ```
