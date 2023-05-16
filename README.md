@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-15已更新 
+2023-05-16已更新 
 ```
 * 金山词霸
-  > When you start to live the life you have been wanting, all the scars of the past will become medals.
-  > 当你过上了想要的生活，过往的一切伤疤都会成为勋章。
+  > Great things never came from comfort zones.
+  > 伟大的事物从不来自于舒适圈。
 
 * 扇贝单词
-  > We are all different. Don't judge, understand instead.
-  > 每个人都不同。别去评断别人，要去理解别人。
+  > The only person you are destined to become is the person you decide to be.
+  > 你注定只会成为你决心要变成的那个人。
 
 * 有道词典
-  > There are no perfect men in this world.
-  > 没有人是完美的。
+  > Spend a little more time trying to do something with yourself.
+  > 多花点时间与自己相处。
 
 ```
