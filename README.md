@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-16已更新 
+2023-05-17已更新 
 ```
 * 金山词霸
-  > Great things never came from comfort zones.
-  > 伟大的事物从不来自于舒适圈。
+  > Do not let your emotions override your judgment.
+  > 不要被情绪影响了你的判断力。
 
 * 扇贝单词
-  > The only person you are destined to become is the person you decide to be.
-  > 你注定只会成为你决心要变成的那个人。
+  > Small deeds done are better than great deeds planned.
+  > 已经完成的小事，胜于计划中的大事。
 
 * 有道词典
-  > Spend a little more time trying to do something with yourself.
-  > 多花点时间与自己相处。
+  > The only life worth living is one that you're really passionate about.
+  > 真正的生活，是爱你所爱。
 
 ```
