@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-17已更新 
+2023-05-18已更新 
 ```
 * 金山词霸
-  > Do not let your emotions override your judgment.
-  > 不要被情绪影响了你的判断力。
+  > No road of flowers leads to glory.
+  > 没有一条通往光荣的道路是铺满鲜花的。
 
 * 扇贝单词
-  > Small deeds done are better than great deeds planned.
-  > 已经完成的小事，胜于计划中的大事。
+  > All life is an experiment. The more experiments you make the better.
+  > 生活就是实验，实验的次数越多你就做得越好。
 
 * 有道词典
-  > The only life worth living is one that you're really passionate about.
-  > 真正的生活，是爱你所爱。
+  > Life is simple. You make choices and you don’t look back.
+  > 生活很简单：做出选择，并坚定向前。
 
 ```
