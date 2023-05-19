@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-18已更新 
+2023-05-19已更新 
 ```
 * 金山词霸
-  > No road of flowers leads to glory.
-  > 没有一条通往光荣的道路是铺满鲜花的。
+  > It's okay to be scared. In order to be brave, we got to be a little scared.
+  > 害怕是正常的，感到害怕才能学会勇敢。
 
 * 扇贝单词
-  > All life is an experiment. The more experiments you make the better.
-  > 生活就是实验，实验的次数越多你就做得越好。
+  > Real generosity toward the future lies in giving all to the present.
+  > 将一切奉献给当下，就是对未来的真正慷慨。
 
 * 有道词典
-  > Life is simple. You make choices and you don’t look back.
-  > 生活很简单：做出选择，并坚定向前。
+  > We have nothing to fear but fear itself.
+  > 我们要克服的，只有恐惧本身。
 
 ```
