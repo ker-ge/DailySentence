@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-19已更新 
+2023-05-20已更新 
 ```
 * 金山词霸
-  > It's okay to be scared. In order to be brave, we got to be a little scared.
-  > 害怕是正常的，感到害怕才能学会勇敢。
+  > Those who follow the light will eventually be radiant.
+  > 追光者终将光芒万丈。
 
 * 扇贝单词
-  > Real generosity toward the future lies in giving all to the present.
-  > 将一切奉献给当下，就是对未来的真正慷慨。
+  > Love ceases to be a pleasure when it ceases to be a secret.
+  > 爱情一旦不神秘了，也就失去了它的乐趣。
 
 * 有道词典
-  > We have nothing to fear but fear itself.
-  > 我们要克服的，只有恐惧本身。
+  > Love is like the wind. I can't see it, but I can feel it.
+  > 爱就像风，看不见，但能感觉得到。
 
 ```
