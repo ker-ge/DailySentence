@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-20已更新 
+2023-05-21已更新 
 ```
 * 金山词霸
-  > Those who follow the light will eventually be radiant.
-  > 追光者终将光芒万丈。
+  > Loving you is the most grand and joyful secret in my youth.
+  > 爱你是我青春里最盛大且欢愉的秘密。
 
 * 扇贝单词
-  > Love ceases to be a pleasure when it ceases to be a secret.
-  > 爱情一旦不神秘了，也就失去了它的乐趣。
+  > Children are not things to be molded, but are people to be unfolded.
+  > 孩子不是有待铸造的物料，而是有待启发的人。
 
 * 有道词典
-  > Love is like the wind. I can't see it, but I can feel it.
-  > 爱就像风，看不见，但能感觉得到。
+  > Think before you act.
+  > 三思而后行。
 
 ```
