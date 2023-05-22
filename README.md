@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-21已更新 
+2023-05-22已更新 
 ```
 * 金山词霸
-  > Loving you is the most grand and joyful secret in my youth.
-  > 爱你是我青春里最盛大且欢愉的秘密。
+  > It is much more difficult to judge oneself than to judge others.
+  > 审判自己比审判别人要难得多。
 
 * 扇贝单词
-  > Children are not things to be molded, but are people to be unfolded.
-  > 孩子不是有待铸造的物料，而是有待启发的人。
+  > The more one judges, the less one loves.
+  > 评判得越多，爱得越少。
 
 * 有道词典
-  > Think before you act.
-  > 三思而后行。
+  > Half a dream is better than nothing.
+  > 尚未实现的梦想也好过碌碌无为。
 
 ```
