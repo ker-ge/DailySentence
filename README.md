@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-22已更新 
+2023-05-23已更新 
 ```
 * 金山词霸
-  > It is much more difficult to judge oneself than to judge others.
-  > 审判自己比审判别人要难得多。
+  > There's no rhyme or reason to this life.
+  > 世事无常。
 
 * 扇贝单词
-  > The more one judges, the less one loves.
-  > 评判得越多，爱得越少。
+  > Talent without working hard is nothing.
+  > 没有勤奋的才华一无是处。
 
 * 有道词典
-  > Half a dream is better than nothing.
-  > 尚未实现的梦想也好过碌碌无为。
+  > Every family loves differently. Every love is unique.
+  > 每个家庭的爱都是独一无二的。
 
 ```
