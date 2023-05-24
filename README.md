@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-23已更新 
+2023-05-24已更新 
 ```
 * 金山词霸
-  > There's no rhyme or reason to this life.
-  > 世事无常。
+  > The day is short but the work is much. 
+  > 工作多，光阴迫。
 
 * 扇贝单词
-  > Talent without working hard is nothing.
-  > 没有勤奋的才华一无是处。
+  > As long as you're being a copycat, you will never be the best copycat.
+  > 你只要在模仿他人，就做不到最好。
 
 * 有道词典
-  > Every family loves differently. Every love is unique.
-  > 每个家庭的爱都是独一无二的。
+  > Enjoy it while it lasts.
+  > 享受眼前的快乐吧。
 
 ```
