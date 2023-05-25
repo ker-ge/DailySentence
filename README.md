@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-24已更新 
+2023-05-25已更新 
 ```
 * 金山词霸
-  > The day is short but the work is much. 
-  > 工作多，光阴迫。
+  > People are afraid of what they don't understand.
+  > 人们害怕他们不理解的东西。
 
 * 扇贝单词
-  > As long as you're being a copycat, you will never be the best copycat.
-  > 你只要在模仿他人，就做不到最好。
+  > Whatever you are, be a good one.
+  > 不管你是什么样的人，都要善良。
 
 * 有道词典
-  > Enjoy it while it lasts.
-  > 享受眼前的快乐吧。
+  > Trust breeds trust. You have to give it to get it.
+  > 信任是相互的：只有信任他人，才能收获信任。
 
 ```
