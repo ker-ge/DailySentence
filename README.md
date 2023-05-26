@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-25已更新 
+2023-05-26已更新 
 ```
 * 金山词霸
-  > People are afraid of what they don't understand.
-  > 人们害怕他们不理解的东西。
+  > I see an opportunity, and I make it happen.
+  > 只要有机会，我就绝不让它溜走。
 
 * 扇贝单词
-  > Whatever you are, be a good one.
-  > 不管你是什么样的人，都要善良。
+  > Life can only be understood backwards; but it must be lived forwards.
+  > 回首才能理解生活，但要继续生活，你必须前行。
 
 * 有道词典
-  > Trust breeds trust. You have to give it to get it.
-  > 信任是相互的：只有信任他人，才能收获信任。
+  > Knowledge is priceless.
+  > 知识是无价的。
 
 ```
