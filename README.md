@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-26已更新 
+2023-05-27已更新 
 ```
 * 金山词霸
-  > I see an opportunity, and I make it happen.
-  > 只要有机会，我就绝不让它溜走。
+  > You don't have to let the result of one mistake be the thing that defines you.
+  > 别被区区一个过失定义了自己。
 
 * 扇贝单词
-  > Life can only be understood backwards; but it must be lived forwards.
-  > 回首才能理解生活，但要继续生活，你必须前行。
+  > A happy marriage is the union of two good forgivers.
+  > 两个善解人意的人才能缔造一段幸福的婚姻。
 
 * 有道词典
-  > Knowledge is priceless.
-  > 知识是无价的。
+  > You cannot find peace by avoiding life.
+  > 你不能靠逃避生活来获取安逸。
 
 ```
