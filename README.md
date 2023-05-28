@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-27已更新 
+2023-05-28已更新 
 ```
 * 金山词霸
-  > You don't have to let the result of one mistake be the thing that defines you.
-  > 别被区区一个过失定义了自己。
+  > Don't waste your time looking back. You're not going that way.
+  > 不要浪费时间回头看，你要走的不是回头路。
 
 * 扇贝单词
-  > A happy marriage is the union of two good forgivers.
-  > 两个善解人意的人才能缔造一段幸福的婚姻。
+  > A mind is like a parachute. It doesn't work if it is not open.
+  > 心灵好比降落伞，打开了才能发挥作用。
 
 * 有道词典
-  > You cannot find peace by avoiding life.
-  > 你不能靠逃避生活来获取安逸。
+  > Let bygones be bygones.
+  > 过去的事就让它过去吧。
 
 ```
