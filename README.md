@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-28已更新 
+2023-05-29已更新 
 ```
 * 金山词霸
-  > Don't waste your time looking back. You're not going that way.
-  > 不要浪费时间回头看，你要走的不是回头路。
+  > A great ship asks for deep waters.
+  > 大船寻深水而航行。
 
 * 扇贝单词
-  > A mind is like a parachute. It doesn't work if it is not open.
-  > 心灵好比降落伞，打开了才能发挥作用。
+  > Love ceases to be a pleasure when it ceases to be a secret.
+  > 爱情一旦不神秘了，也就失去了它的乐趣。
 
 * 有道词典
-  > Let bygones be bygones.
-  > 过去的事就让它过去吧。
+  > Trust your own judgment.
+  > 相信自己的判断。
 
 ```
