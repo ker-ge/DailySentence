@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-29已更新 
+2023-05-30已更新 
 ```
 * 金山词霸
-  > A great ship asks for deep waters.
-  > 大船寻深水而航行。
+  > Food is worth more than gold.
+  > 粮食比黄金更为珍贵。
 
 * 扇贝单词
-  > Love ceases to be a pleasure when it ceases to be a secret.
-  > 爱情一旦不神秘了，也就失去了它的乐趣。
+  > How we spend our days is, of course, how we spend our lives.
+  > 我们如何度过每一天，当然也就会如何度过一生。
 
 * 有道词典
-  > Trust your own judgment.
-  > 相信自己的判断。
+  > The steps you take don't need to be big; they just need to take you in the right direction.
+  > 步伐不必太大，只要方向正确就好。
 
 ```
