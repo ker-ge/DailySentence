@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-30已更新 
+2023-05-31已更新 
 ```
 * 金山词霸
-  > Food is worth more than gold.
-  > 粮食比黄金更为珍贵。
+  > Every effort is the foreshadowing of luck.
+  > 每一次努力都是幸运的伏笔。
 
 * 扇贝单词
-  > How we spend our days is, of course, how we spend our lives.
-  > 我们如何度过每一天，当然也就会如何度过一生。
+  > Don't go through life; grow through life.
+  > 别只是过活，要通过生活获得成长。
 
 * 有道词典
-  > The steps you take don't need to be big; they just need to take you in the right direction.
-  > 步伐不必太大，只要方向正确就好。
+  > Without the dark night, we would never see the bright stars.
+  > 没有黑夜，哪来的璀璨星光。
 
 ```
