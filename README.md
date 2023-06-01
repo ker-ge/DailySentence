@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-05-31已更新 
+2023-06-01已更新 
 ```
 * 金山词霸
-  > Every effort is the foreshadowing of luck.
-  > 每一次努力都是幸运的伏笔。
+  > Have a childlike innocence in life, and your days will always be accompanied by happiness.
+  > 生活中拥有童心，你的日子将时时与快乐相伴。
 
 * 扇贝单词
-  > Don't go through life; grow through life.
-  > 别只是过活，要通过生活获得成长。
+  > The only safe thing is to take a chance.
+  > 唯一稳妥的事是去冒险一试。
 
 * 有道词典
-  > Without the dark night, we would never see the bright stars.
-  > 没有黑夜，哪来的璀璨星光。
+  > You never lose that childlike innocence.
+  > 永葆童心。
 
 ```
