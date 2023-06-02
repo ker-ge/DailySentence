@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-01已更新 
+2023-06-02已更新 
 ```
 * 金山词霸
-  > Have a childlike innocence in life, and your days will always be accompanied by happiness.
-  > 生活中拥有童心，你的日子将时时与快乐相伴。
+  > The fact that you are beaten by darkness proves that you are light itself.
+  > 你被黑暗敲打，恰恰证明你是光明本身。
 
 * 扇贝单词
-  > The only safe thing is to take a chance.
-  > 唯一稳妥的事是去冒险一试。
+  > The bad news is time flies. The good news is you're the pilot.
+  > 坏消息是时光飞逝，好消息是你是时光的领航员。
 
 * 有道词典
-  > You never lose that childlike innocence.
-  > 永葆童心。
+  > Don't get lost.
+  > 不要迷茫，不要彷徨。
 
 ```
