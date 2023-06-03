@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-02已更新 
+2023-06-03已更新 
 ```
 * 金山词霸
-  > The fact that you are beaten by darkness proves that you are light itself.
-  > 你被黑暗敲打，恰恰证明你是光明本身。
+  > The darker the sky, the brighter the stars. 
+  > 天空越黑，星星越亮。
 
 * 扇贝单词
-  > The bad news is time flies. The good news is you're the pilot.
-  > 坏消息是时光飞逝，好消息是你是时光的领航员。
+  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
+  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > Don't get lost.
-  > 不要迷茫，不要彷徨。
+  > Smile and the world smiles with you.
+  > 微笑吧，世界也会跟着你微笑。
 
 ```
