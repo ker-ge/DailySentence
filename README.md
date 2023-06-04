@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-03已更新 
+2023-06-04已更新 
 ```
 * 金山词霸
-  > The darker the sky, the brighter the stars. 
-  > 天空越黑，星星越亮。
+  > Whatever happens tomorrow, we have had today.
+  > 不管明天会发生什么，至少我们拥有今天。
 
 * 扇贝单词
   > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
   > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > Smile and the world smiles with you.
-  > 微笑吧，世界也会跟着你微笑。
+  > It is love that will heal you.
+  > 爱会治愈你。
 
 ```
