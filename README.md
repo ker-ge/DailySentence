@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-04已更新 
+2023-06-05已更新 
 ```
 * 金山词霸
-  > Whatever happens tomorrow, we have had today.
-  > 不管明天会发生什么，至少我们拥有今天。
+  > The road is tortuous, but the future is bright.
+  > 前路虽有崎岖坎坷，未来却会光明万丈。
 
 * 扇贝单词
-  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
-  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
+  > Character is what you know you are, not what others think you have.
+  > 个性是你所了解的自己，而不是别人眼中的你。
 
 * 有道词典
-  > It is love that will heal you.
-  > 爱会治愈你。
+  > There is no courage without fear.
+  > 心有畏惧，方生勇气。
 
 ```
