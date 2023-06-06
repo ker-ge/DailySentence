@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-05已更新 
+2023-06-06已更新 
 ```
 * 金山词霸
-  > The road is tortuous, but the future is bright.
-  > 前路虽有崎岖坎坷，未来却会光明万丈。
+  > All your efforts will pay off one day.
+  > 你所有的努力终会有所回报。
 
 * 扇贝单词
-  > Character is what you know you are, not what others think you have.
-  > 个性是你所了解的自己，而不是别人眼中的你。
+  > The supreme happiness of life is the conviction that we are loved.
+  > 人生最大的幸福，就是坚信有人爱我们。
 
 * 有道词典
-  > There is no courage without fear.
-  > 心有畏惧，方生勇气。
+  > When one door closes, another one opens.
+  > 上天关上一扇门，同时会为你开启另一扇窗。
 
 ```
