@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-06已更新 
+2023-06-07已更新 
 ```
 * 金山词霸
-  > All your efforts will pay off one day.
-  > 你所有的努力终会有所回报。
+  > Turn sweat into pearls and dreams into reality.
+  > 把汗水变成珍珠，把梦想变成现实。
 
 * 扇贝单词
-  > The supreme happiness of life is the conviction that we are loved.
-  > 人生最大的幸福，就是坚信有人爱我们。
+  > Even the darkest night will end and the sun will rise.
+  > 即便是漫漫长夜，太阳也终将升起。
 
 * 有道词典
-  > When one door closes, another one opens.
-  > 上天关上一扇门，同时会为你开启另一扇窗。
+  > Sometimes a little discomfort in the beginning can save a whole lot of pain down the road.
+  > 有时起初的小小不悦，可以省去日后的诸多苦痛。
 
 ```
