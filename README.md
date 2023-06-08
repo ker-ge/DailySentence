@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-07已更新 
+2023-06-08已更新 
 ```
 * 金山词霸
-  > Turn sweat into pearls and dreams into reality.
-  > 把汗水变成珍珠，把梦想变成现实。
+  > At that time, youth was blooming, with the sun blazing and wind kissing the treetop.
+  > 人间骄阳正好，风过树梢，彼时他们正当年少。
 
 * 扇贝单词
-  > Even the darkest night will end and the sun will rise.
-  > 即便是漫漫长夜，太阳也终将升起。
+  > Human beings can alter their lives by altering their attitude of mind.
+  > 人若改变心态，便能改变生活。
 
 * 有道词典
-  > Sometimes a little discomfort in the beginning can save a whole lot of pain down the road.
-  > 有时起初的小小不悦，可以省去日后的诸多苦痛。
+  > There is nothing quite like the sweet scented smell of success.
+  > 成功的美妙滋味无与伦比。
 
 ```
