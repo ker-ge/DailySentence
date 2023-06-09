@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-08已更新 
+2023-06-09已更新 
 ```
 * 金山词霸
-  > At that time, youth was blooming, with the sun blazing and wind kissing the treetop.
-  > 人间骄阳正好，风过树梢，彼时他们正当年少。
+  > We are all in the gutter, but some of us are looking at the stars.
+  > 身在井隅，心向璀璨。
 
 * 扇贝单词
-  > Human beings can alter their lives by altering their attitude of mind.
-  > 人若改变心态，便能改变生活。
+  > If music be the food of love, play on.
+  > 如果音乐是爱情的食粮，那就演奏下去吧。
 
 * 有道词典
-  > There is nothing quite like the sweet scented smell of success.
-  > 成功的美妙滋味无与伦比。
+  > We must fight together.
+  > 我们要并肩作战。
 
 ```
