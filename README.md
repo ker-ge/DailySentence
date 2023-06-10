@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-09已更新 
+2023-06-10已更新 
 ```
 * 金山词霸
-  > We are all in the gutter, but some of us are looking at the stars.
-  > 身在井隅，心向璀璨。
+  > Youth is not afraid of the long years, there is still glory in the other side.
+  > 少年不惧岁月长，彼方尚有荣光在。
 
 * 扇贝单词
-  > If music be the food of love, play on.
-  > 如果音乐是爱情的食粮，那就演奏下去吧。
+  > All men who have achieved great things have been great dreamers.
+  > 一直以来，凡成大事者都是大梦想家。
 
 * 有道词典
-  > We must fight together.
-  > 我们要并肩作战。
+  > Life is full of possibilities.
+  > 人生有无限可能。
 
 ```
