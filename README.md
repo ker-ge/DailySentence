@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-10已更新 
+2023-06-11已更新 
 ```
 * 金山词霸
-  > Youth is not afraid of the long years, there is still glory in the other side.
-  > 少年不惧岁月长，彼方尚有荣光在。
+  > Out of sight, out of mind.
+  > 眼不见，心不烦。
 
 * 扇贝单词
-  > All men who have achieved great things have been great dreamers.
-  > 一直以来，凡成大事者都是大梦想家。
+  > The successful man will profit from his mistakes and try again in a different way.
+  > 成功人士会从其错误中获益，然后另辟蹊径再做尝试。
 
 * 有道词典
-  > Life is full of possibilities.
-  > 人生有无限可能。
+  > You can't change the past.
+  > 往事不可追。
 
 ```
