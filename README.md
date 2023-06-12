@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-11已更新 
+2023-06-12已更新 
 ```
 * 金山词霸
-  > Out of sight, out of mind.
-  > 眼不见，心不烦。
+  > Stay hungry, stay foolish.
+  > 求知若饥，虚心若愚。
 
 * 扇贝单词
-  > The successful man will profit from his mistakes and try again in a different way.
-  > 成功人士会从其错误中获益，然后另辟蹊径再做尝试。
+  > High achievement always takes place in the framework of high expectation.
+  > 高成就永远是在高期待的前提下产生。
 
 * 有道词典
-  > You can't change the past.
-  > 往事不可追。
+  > Family means nobody gets left behind.
+  > 一家人就是要整整齐齐。
 
 ```
