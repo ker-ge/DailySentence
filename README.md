@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-12已更新 
+2023-06-13已更新 
 ```
 * 金山词霸
-  > Stay hungry, stay foolish.
-  > 求知若饥，虚心若愚。
+  > Miracles sometimes occur, but one has to work terribly for them.
+  > 奇迹有时候是会发生的,但是你得为之拼命地努力。
 
 * 扇贝单词
-  > High achievement always takes place in the framework of high expectation.
-  > 高成就永远是在高期待的前提下产生。
+  > Luck is the sense to recognize an opportunity and the ability to take advantage of it.
+  > 运气就是有意识去辨别机会，并能够利用机会。
 
 * 有道词典
-  > Family means nobody gets left behind.
-  > 一家人就是要整整齐齐。
+  > Any choice can be the right one, so long as you willingly embrace it.
+  > 只要是心之所向，任何选择都是正确的。
 
 ```
