@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-13已更新 
+2023-06-14已更新 
 ```
 * 金山词霸
-  > Miracles sometimes occur, but one has to work terribly for them.
-  > 奇迹有时候是会发生的,但是你得为之拼命地努力。
+  > Our greatest glory consists not in never falling, but in rising every time.
+  > 我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来。
 
 * 扇贝单词
-  > Luck is the sense to recognize an opportunity and the ability to take advantage of it.
-  > 运气就是有意识去辨别机会，并能够利用机会。
+  > Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
+  > 知识需要不断被改进、挑战和积累，否则将不复存在。
 
 * 有道词典
-  > Any choice can be the right one, so long as you willingly embrace it.
-  > 只要是心之所向，任何选择都是正确的。
+  > Don't let shame about your past cloud your future.
+  > 别让过去的阴霾遮蔽未来。
 
 ```
