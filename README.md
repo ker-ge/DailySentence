@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-14已更新 
+2023-06-15已更新 
 ```
 * 金山词霸
-  > Our greatest glory consists not in never falling, but in rising every time.
-  > 我们最值得自豪的不是从未跌倒，而是每次跌倒后都能站起来。
+  > When you cry for missing the sun, you will miss the stars again.
+  > 当你为错过太阳而哭泣时，你也要再错过群星了。
 
 * 扇贝单词
-  > Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
-  > 知识需要不断被改进、挑战和积累，否则将不复存在。
+  > Drama is life with the dull bits cut out.
+  > 戏剧就是去掉了无聊片段的生活。
 
 * 有道词典
-  > Don't let shame about your past cloud your future.
-  > 别让过去的阴霾遮蔽未来。
+  > Good deeds are the seeds to good actions.
+  > 善行激发善举。
 
 ```
