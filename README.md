@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-15已更新 
+2023-06-16已更新 
 ```
 * 金山词霸
-  > When you cry for missing the sun, you will miss the stars again.
-  > 当你为错过太阳而哭泣时，你也要再错过群星了。
+  > The sun is always shining, and hope is always with you.
+  > 阳光永远普照大地，希望永远与你同在。
 
 * 扇贝单词
-  > Drama is life with the dull bits cut out.
-  > 戏剧就是去掉了无聊片段的生活。
+  > If we had no winter, the spring would not be so pleasant.
+  > 如果没有冬天，春天就不会如此悦人。
 
 * 有道词典
-  > Good deeds are the seeds to good actions.
-  > 善行激发善举。
+  > The world has so much to offer.
+  > 这个世界精彩纷呈。
 
 ```
