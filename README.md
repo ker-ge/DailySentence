@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-16已更新 
+2023-06-17已更新 
 ```
 * 金山词霸
-  > The sun is always shining, and hope is always with you.
-  > 阳光永远普照大地，希望永远与你同在。
+  > You can do whatever you want, but you can't drift with the tide.
+  > 你可以随心所欲，但不能随波逐流。
 
 * 扇贝单词
-  > If we had no winter, the spring would not be so pleasant.
-  > 如果没有冬天，春天就不会如此悦人。
+  > If you have good thoughts, they will shine out of your face like sunbeams and you will always look lovely.
+  > 你若思想美好，面容就会如阳光般灿烂，看上去永远可爱迷人。
 
 * 有道词典
-  > The world has so much to offer.
-  > 这个世界精彩纷呈。
+  > Not being heard is no reason for silence.
+  > 不被倾听不是沉默的理由。
 
 ```
