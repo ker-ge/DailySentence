@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-17已更新 
+2023-06-18已更新 
 ```
 * 金山词霸
-  > You can do whatever you want, but you can't drift with the tide.
-  > 你可以随心所欲，但不能随波逐流。
+  > The first time I hugged the sky was when you held me above your head. 
+  > 我第一次拥抱天空是您将我举过头顶。
 
 * 扇贝单词
-  > If you have good thoughts, they will shine out of your face like sunbeams and you will always look lovely.
-  > 你若思想美好，面容就会如阳光般灿烂，看上去永远可爱迷人。
+  > Love looks through a telescope; envy, through a microscope.
+  > 怀爱之人大处着眼，忌妒之人吹毛求疵。
 
 * 有道词典
-  > Not being heard is no reason for silence.
-  > 不被倾听不是沉默的理由。
+  > My dad gave me unconditional love.
+  > 父亲给了我无条件的爱。
 
 ```
