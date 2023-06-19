@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-18已更新 
+2023-06-19已更新 
 ```
 * 金山词霸
-  > The first time I hugged the sky was when you held me above your head. 
-  > 我第一次拥抱天空是您将我举过头顶。
+  > What we do in life echoes in eternity.
+  > 今生所为终有回响。
 
 * 扇贝单词
-  > Love looks through a telescope; envy, through a microscope.
-  > 怀爱之人大处着眼，忌妒之人吹毛求疵。
+  > Defeat is not the worst of failures. Not to have tried is the true failure.
+  > 被击倒不是最大的失败，不曾尝试过才是真正的失败。
 
 * 有道词典
-  > My dad gave me unconditional love.
-  > 父亲给了我无条件的爱。
+  > We define ourselves by our actions.
+  > 我们应用行动定义自己。
 
 ```
