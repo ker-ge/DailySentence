@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-19已更新 
+2023-06-20已更新 
 ```
 * 金山词霸
-  > What we do in life echoes in eternity.
-  > 今生所为终有回响。
+  > Be the protagonist of your own youth, rather than a foil for others.
+  > 做自己青春的主角，而不是他人的陪衬。
 
 * 扇贝单词
-  > Defeat is not the worst of failures. Not to have tried is the true failure.
-  > 被击倒不是最大的失败，不曾尝试过才是真正的失败。
+  > Whoever is trying to bring you down is already below you.
+  > 无论是谁想要把你打倒，他都已经低你一等了。
 
 * 有道词典
-  > We define ourselves by our actions.
-  > 我们应用行动定义自己。
+  > Fortune often favors the bold.
+  > 命运向来眷顾勇者。
 
 ```
