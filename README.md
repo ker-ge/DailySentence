@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-20已更新 
+2023-06-21已更新 
 ```
 * 金山词霸
-  > Be the protagonist of your own youth, rather than a foil for others.
-  > 做自己青春的主角，而不是他人的陪衬。
+  > Be loyal to yourself. Laugh heartily, cry heartily.
+  > 做一个忠于自己的人。笑得放肆，哭得酣畅。
 
 * 扇贝单词
-  > Whoever is trying to bring you down is already below you.
-  > 无论是谁想要把你打倒，他都已经低你一等了。
+  > In youth we learn; in age we understand.
+  > 少而学，长而知。
 
 * 有道词典
-  > Fortune often favors the bold.
-  > 命运向来眷顾勇者。
+  > It's going to be a beautiful summer.
+  > 这将是个美好的夏天。
 
 ```
