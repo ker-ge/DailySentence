@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-21已更新 
+2023-06-22已更新 
 ```
 * 金山词霸
-  > Be loyal to yourself. Laugh heartily, cry heartily.
-  > 做一个忠于自己的人。笑得放肆，哭得酣畅。
+  > After drinking realgar wine, all diseases are far away.
+  > 喝了雄黄酒，百病远远丢。
 
 * 扇贝单词
-  > In youth we learn; in age we understand.
-  > 少而学，长而知。
+  > High aims form high characters, and great objects bring out great minds.
+  > 崇高的目标造就崇高的品格，伟大的志向造就伟大的头脑。
 
 * 有道词典
-  > It's going to be a beautiful summer.
-  > 这将是个美好的夏天。
+  > Wishing you peace and health for Dragon Boat Festival.
+  > 愿你端午安康。
 
 ```
