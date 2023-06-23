@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-22已更新 
+2023-06-23已更新 
 ```
 * 金山词霸
-  > After drinking realgar wine, all diseases are far away.
-  > 喝了雄黄酒，百病远远丢。
+  > The good seaman is known in bad weather.
+  > 惊涛骇浪，方显英雄本色。
 
 * 扇贝单词
-  > High aims form high characters, and great objects bring out great minds.
-  > 崇高的目标造就崇高的品格，伟大的志向造就伟大的头脑。
+  > You've got to get up every morning with determination if you're going to go to bed with satisfaction.
+  > 若想要伴着满足入睡，就必须每天带着决心起床。
 
 * 有道词典
-  > Wishing you peace and health for Dragon Boat Festival.
-  > 愿你端午安康。
+  > We can do anything we want if we really want to.
+  > 只要心有所愿，一切皆可实现。
 
 ```
