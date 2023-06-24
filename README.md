@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-23已更新 
+2023-06-24已更新 
 ```
 * 金山词霸
-  > The good seaman is known in bad weather.
-  > 惊涛骇浪，方显英雄本色。
+  > Try to accept differences instead of making judgements.
+  > 试着去接受差异，而不是妄下断语。
 
 * 扇贝单词
-  > You've got to get up every morning with determination if you're going to go to bed with satisfaction.
-  > 若想要伴着满足入睡，就必须每天带着决心起床。
+  > The world of reality has its limits; the world of imagination is boundless.
+  > 现实的世界有边界的限制，想象的世界则有无限可能。
 
 * 有道词典
-  > We can do anything we want if we really want to.
-  > 只要心有所愿，一切皆可实现。
+  > The world is full of surprises.
+  > 这世界充满了惊喜与意外。
 
 ```
