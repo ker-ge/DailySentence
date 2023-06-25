@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-24已更新 
+2023-06-25已更新 
 ```
 * 金山词霸
-  > Try to accept differences instead of making judgements.
-  > 试着去接受差异，而不是妄下断语。
+  > Fortune favors the bold.
+  > 好运眷顾勇者。
 
 * 扇贝单词
-  > The world of reality has its limits; the world of imagination is boundless.
-  > 现实的世界有边界的限制，想象的世界则有无限可能。
+  > Until you make peace with who you are, you'll never be content with what you have.
+  > 只有与真实的自己和平相处，才能对自己所拥有的感到满足。
 
 * 有道词典
-  > The world is full of surprises.
-  > 这世界充满了惊喜与意外。
+  > Nothing in the world can take the place of persistence.
+  > 坚持是这世上独一无二的品格。
 
 ```
