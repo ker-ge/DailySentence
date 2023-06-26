@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-25已更新 
+2023-06-26已更新 
 ```
 * 金山词霸
-  > Fortune favors the bold.
-  > 好运眷顾勇者。
+  > We read to know we're not alone. 
+  > 我们阅读，是为了知道自己并不孤单。
 
 * 扇贝单词
-  > Until you make peace with who you are, you'll never be content with what you have.
-  > 只有与真实的自己和平相处，才能对自己所拥有的感到满足。
+  > As long as you're being a copycat, you will never be the best copycat.
+  > 你只要在模仿他人，就做不到最好。
 
 * 有道词典
-  > Nothing in the world can take the place of persistence.
-  > 坚持是这世上独一无二的品格。
+  > With great power comes great responsibility.
+  > 能力越大，责任越大。
 
 ```
