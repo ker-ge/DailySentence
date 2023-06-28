@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-27已更新 
+2023-06-28已更新 
 ```
 * 金山词霸
-  > If you think the road is difficult, it must be uphill.
-  > 如果你觉得路难走，那它一定是上坡路。
+  > When we let go of something, it opens up a little space to grow.
+  > 当我们放手时，也得到了成长。
 
 * 扇贝单词
-  > Never frown, even when you're sad because you never know who may be falling in love with your smile.
-  > 纵然伤心，也不要愁眉不展，因为你不知是谁会爱上你的笑容。
+  > One that would have the fruit must climb the tree.
+  > 要吃果子就得上树。
 
 * 有道词典
-  > The truth always comes out in the end.
-  > 真相总会水落石出。
+  > Laughter is the best medicine.
+  > 欢笑是最好的良药。
 
 ```
