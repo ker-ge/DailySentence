@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-28已更新 
+2023-06-29已更新 
 ```
 * 金山词霸
-  > When we let go of something, it opens up a little space to grow.
-  > 当我们放手时，也得到了成长。
+  > The result may joke with you, but the process won't.
+  > 结果可能会和你开玩笑，但过程不会。
 
 * 扇贝单词
-  > One that would have the fruit must climb the tree.
-  > 要吃果子就得上树。
+  > I love how summer just wraps its arms around you like a warm blanket.
+  > 夏天就像一张温暖的毯子抱着你，我喜欢这一点。
 
 * 有道词典
-  > Laughter is the best medicine.
-  > 欢笑是最好的良药。
+  > A penny saved is a penny earned.
+  > 省一分即是赚一分。
 
 ```
