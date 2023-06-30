@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-29已更新 
+2023-06-30已更新 
 ```
 * 金山词霸
-  > The result may joke with you, but the process won't.
-  > 结果可能会和你开玩笑，但过程不会。
+  > The perfection of personality is the foundation, and the establishment of wealth is the end.
+  > 人格的完善是本，财富的确立是末。
 
 * 扇贝单词
-  > I love how summer just wraps its arms around you like a warm blanket.
-  > 夏天就像一张温暖的毯子抱着你，我喜欢这一点。
+  > Your present circumstances don't determine where you can go; they merely determine where you start.
+  > 你的现状并不决定你的终点，而是决定你的起点。
 
 * 有道词典
-  > A penny saved is a penny earned.
-  > 省一分即是赚一分。
+  > Sometimes it's good to go with your gut.
+  > 有时听从直觉是好事。
 
 ```
