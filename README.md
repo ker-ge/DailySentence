@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-06-30已更新 
+2023-07-01已更新 
 ```
 * 金山词霸
-  > The perfection of personality is the foundation, and the establishment of wealth is the end.
-  > 人格的完善是本，财富的确立是末。
+  > Without a great party, there will be no prosperity and well-being.
+  > 没有一个伟大的政党，就没有繁荣和幸福。
 
 * 扇贝单词
-  > Your present circumstances don't determine where you can go; they merely determine where you start.
-  > 你的现状并不决定你的终点，而是决定你的起点。
+  > Kind words can be short and easy to speak, but their echoes are truly endless.
+  > 善良的话语或许很简短，很简单，但产生的回响却是无穷止尽。
 
 * 有道词典
-  > Sometimes it's good to go with your gut.
-  > 有时听从直觉是好事。
+  > Diligence is the mother of good luck.
+  > 勤奋带来好运气。
 
 ```
