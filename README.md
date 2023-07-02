@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-01已更新 
+2023-07-02已更新 
 ```
 * 金山词霸
-  > Without a great party, there will be no prosperity and well-being.
-  > 没有一个伟大的政党，就没有繁荣和幸福。
+  > Self-discipline is the first condition of freedom.
+  > 自律是自由的首要条件。
 
 * 扇贝单词
-  > Kind words can be short and easy to speak, but their echoes are truly endless.
-  > 善良的话语或许很简短，很简单，但产生的回响却是无穷止尽。
+  > Today a reader, tomorrow a leader.
+  > 今日读书人，明日领导者。
 
 * 有道词典
-  > Diligence is the mother of good luck.
-  > 勤奋带来好运气。
+  > Patience is the road to understanding.
+  > 耐心促成理解。
 
 ```
