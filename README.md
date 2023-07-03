@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-02已更新 
+2023-07-03已更新 
 ```
 * 金山词霸
-  > Self-discipline is the first condition of freedom.
-  > 自律是自由的首要条件。
+  > Don't rush to deny yourself before you get the result.
+  > 在你还没得到结果之前，不要急于否定自己。
 
 * 扇贝单词
-  > Today a reader, tomorrow a leader.
-  > 今日读书人，明日领导者。
+  > Take chances; make mistakes. That's how you grow.
+  > 去冒险，去犯错。你就是这样成长起来的。
 
 * 有道词典
-  > Patience is the road to understanding.
-  > 耐心促成理解。
+  > You only get one life. It's actually your duty to live it as fully as possible.
+  > 生命仅此一次，应该尽力活得精彩。
 
 ```
