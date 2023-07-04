@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-03已更新 
+2023-07-04已更新 
 ```
 * 金山词霸
-  > Don't rush to deny yourself before you get the result.
-  > 在你还没得到结果之前，不要急于否定自己。
+  > Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+  > 人生不总在于握有一手好牌，有时也要打好一把烂牌。
 
 * 扇贝单词
-  > Take chances; make mistakes. That's how you grow.
-  > 去冒险，去犯错。你就是这样成长起来的。
+  > Through love comes calm, and through calm comes thought.
+  > 爱使人平静，而平静使人思考。
 
 * 有道词典
-  > You only get one life. It's actually your duty to live it as fully as possible.
-  > 生命仅此一次，应该尽力活得精彩。
+  > Open your mind to the possibilities.
+  > 敞开心扉，拥抱一切可能。
 
 ```
