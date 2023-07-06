@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-05已更新 
+2023-07-06已更新 
 ```
 * 金山词霸
-  > You are not ordinary; you are born to stand out.
-  > 你天生与众不同，注定不会被淹没在人群中。
+  > Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
+  > 不要停下，不要逃避，沿着光明前行，你会找到明天。
 
 * 扇贝单词
-  > Working hard for something we don't care about is called stress; working hard for something we love is called passion.
-  > 努力做自己不在乎的事叫做压力；努力做自己喜爱的事叫做激情。
+  > Great minds discuss ideas; average minds discuss events; small minds discuss people.
+  > 智者谈论思想；普通人谈论事情；小人谈论他人。
 
 * 有道词典
-  > Never let your head hang down.
-  > 永远不要轻易低头。
+  > Your fate is in your hands.
+  > 命运掌握在自己手中。
 
 ```
