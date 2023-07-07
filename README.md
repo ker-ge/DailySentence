@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-06已更新 
+2023-07-07已更新 
 ```
 * 金山词霸
-  > Don't stop. Don't hide. Follow the light, and you'll find tomorrow.
-  > 不要停下，不要逃避，沿着光明前行，你会找到明天。
+  > Patience is bitter, but its fruit is sweet.
+  > 忍耐是痛苦的，但它的果实是甜蜜的。
 
 * 扇贝单词
-  > Great minds discuss ideas; average minds discuss events; small minds discuss people.
-  > 智者谈论思想；普通人谈论事情；小人谈论他人。
+  > Your life does not get better by chance, it gets better by change.
+  > 让生活变得更好的不是偶然，而是改变。
 
 * 有道词典
-  > Your fate is in your hands.
-  > 命运掌握在自己手中。
+  > It's better to be safe than sorry.
+  > 不怕一万，只怕万一。
 
 ```
