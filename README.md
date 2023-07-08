@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-07已更新 
+2023-07-08已更新 
 ```
 * 金山词霸
-  > Patience is bitter, but its fruit is sweet.
-  > 忍耐是痛苦的，但它的果实是甜蜜的。
+  > They who cannot do as they would, must do as they can.
+  > 不能如愿而行，也须尽力而为。
 
 * 扇贝单词
-  > Your life does not get better by chance, it gets better by change.
-  > 让生活变得更好的不是偶然，而是改变。
+  > Sometimes the most scenic roads in life are the detours you didn't mean to take.
+  > 有时候，最美的景色，就是你无意中绕行所至的沿途风景。
 
 * 有道词典
-  > It's better to be safe than sorry.
-  > 不怕一万，只怕万一。
+  > To begin the journey of change, we must pull on the boots of self-awareness.
+  > 要想踏上改变之旅，需先真正看清自己。
 
 ```
