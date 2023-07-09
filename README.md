@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-08已更新 
+2023-07-09已更新 
 ```
 * 金山词霸
-  > They who cannot do as they would, must do as they can.
-  > 不能如愿而行，也须尽力而为。
+  > Home is not a place, but a kind of memory.
+  > 故乡不是一个地方，而是一种记忆。
 
 * 扇贝单词
-  > Sometimes the most scenic roads in life are the detours you didn't mean to take.
-  > 有时候，最美的景色，就是你无意中绕行所至的沿途风景。
+  > A goal is not always meant to be reached; it often serves simply as something to aim at.
+  > 目标不一定永远都要达到，但可以用来帮助我们瞄准方向。
 
 * 有道词典
-  > To begin the journey of change, we must pull on the boots of self-awareness.
-  > 要想踏上改变之旅，需先真正看清自己。
+  > The one who sticks with you is the one who cares.
+  > 坚守在你身边的人，才是关心你的人。
 
 ```
