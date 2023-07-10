@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-09已更新 
+2023-07-10已更新 
 ```
 * 金山词霸
-  > Home is not a place, but a kind of memory.
-  > 故乡不是一个地方，而是一种记忆。
+  > A man is not old until regrets take the place of dreams. 
+  > 当懊悔取代梦想时，人也就老了。
 
 * 扇贝单词
-  > A goal is not always meant to be reached; it often serves simply as something to aim at.
-  > 目标不一定永远都要达到，但可以用来帮助我们瞄准方向。
+  > The more we do, the more we can do.
+  > 我们做的越多，能做的也就越多。
 
 * 有道词典
-  > The one who sticks with you is the one who cares.
-  > 坚守在你身边的人，才是关心你的人。
+  > A judging brain requires a listening ear.
+  > 仔细聆听方能明智决断。
 
 ```
