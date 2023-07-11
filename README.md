@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-10已更新 
+2023-07-11已更新 
 ```
 * 金山词霸
-  > A man is not old until regrets take the place of dreams. 
-  > 当懊悔取代梦想时，人也就老了。
+  > There is light at the end of the tunnel.
+  > 守得云开见月明。
 
 * 扇贝单词
-  > The more we do, the more we can do.
-  > 我们做的越多，能做的也就越多。
+  > Life is short. Kiss slowly, laugh insanely, love truly and forgive quickly.
+  > 生命短暂，慢慢去吻，放声去笑，真心去爱，尽快原谅。
 
 * 有道词典
-  > A judging brain requires a listening ear.
-  > 仔细聆听方能明智决断。
+  > The beauty of music is that it connects people.
+  > 音乐之美在于它使人心相连。
 
 ```
