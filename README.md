@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-11已更新 
+2023-07-12已更新 
 ```
 * 金山词霸
-  > There is light at the end of the tunnel.
-  > 守得云开见月明。
+  > Life's too short to hold grudges.
+  > 人生苦短，何必留仇。
 
 * 扇贝单词
-  > Life is short. Kiss slowly, laugh insanely, love truly and forgive quickly.
-  > 生命短暂，慢慢去吻，放声去笑，真心去爱，尽快原谅。
+  > Believe and act as if it were impossible to fail.
+  > 抱着必胜的信念行动。
 
 * 有道词典
-  > The beauty of music is that it connects people.
-  > 音乐之美在于它使人心相连。
+  > God helps those who help themselves.
+  > 自助者天助也。
 
 ```
