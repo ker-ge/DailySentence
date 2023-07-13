@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-12已更新 
+2023-07-13已更新 
 ```
 * 金山词霸
-  > Life's too short to hold grudges.
-  > 人生苦短，何必留仇。
+  > Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+  > 无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
 
 * 扇贝单词
-  > Believe and act as if it were impossible to fail.
-  > 抱着必胜的信念行动。
+  > Doubt is a killer. You just have to know who you are and what you stand for.
+  > 怀疑自己的杀伤力很大，你必须了解自己和所坚持的原则。
 
 * 有道词典
-  > God helps those who help themselves.
-  > 自助者天助也。
+  > Be content with who we are.
+  > 接纳自己。
 
 ```
