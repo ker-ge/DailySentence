@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-13已更新 
+2023-07-14已更新 
 ```
 * 金山词霸
-  > Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
-  > 无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
+  >  Everybody is somebody. Even a nobody.
+  > 每个人都有自己的价值，即使是无名之辈。
 
 * 扇贝单词
-  > Doubt is a killer. You just have to know who you are and what you stand for.
-  > 怀疑自己的杀伤力很大，你必须了解自己和所坚持的原则。
+  > In all of living, have much fun and laughter. Life is to be enjoyed, not just endured.
+  > 不管是什么样的生活，都要开心快乐。生活是用来享受的，而不是用来忍受的。
 
 * 有道词典
-  > Be content with who we are.
-  > 接纳自己。
+  > We cannot escape the past.
+  > 我们逃避不了过去。
 
 ```
