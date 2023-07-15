@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-14已更新 
+2023-07-15已更新 
 ```
 * 金山词霸
-  >  Everybody is somebody. Even a nobody.
-  > 每个人都有自己的价值，即使是无名之辈。
+  > The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
+  > 真相是一种美丽又可怕的东西，需要格外谨慎地对待。
 
 * 扇贝单词
-  > In all of living, have much fun and laughter. Life is to be enjoyed, not just endured.
-  > 不管是什么样的生活，都要开心快乐。生活是用来享受的，而不是用来忍受的。
+  > Death is not the end of life, forgetting is the end of life.
+  > 死亡并不是生命的终点，遗忘才是。
 
 * 有道词典
-  > We cannot escape the past.
-  > 我们逃避不了过去。
+  > There is no time like the present.
+  > 当下就是最好的时刻。
 
 ```
