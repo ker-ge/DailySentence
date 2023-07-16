@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-15已更新 
+2023-07-16已更新 
 ```
 * 金山词霸
-  > The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
-  > 真相是一种美丽又可怕的东西，需要格外谨慎地对待。
+  > Talent indeed makes a person shine, but hard work does too.
+  > 天赋的确使人闪闪发光，但努力也能使人熠熠生辉。
 
 * 扇贝单词
-  > Death is not the end of life, forgetting is the end of life.
-  > 死亡并不是生命的终点，遗忘才是。
+  > Guard well your thoughts when alone and your words when accompanied.
+  > 独处守住心，群处守住嘴。
 
 * 有道词典
-  > There is no time like the present.
-  > 当下就是最好的时刻。
+  > Find the joy in your life.
+  > 找到你生命中的快乐。
 
 ```
