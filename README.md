@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-16已更新 
+2023-07-17已更新 
 ```
 * 金山词霸
-  > Talent indeed makes a person shine, but hard work does too.
-  > 天赋的确使人闪闪发光，但努力也能使人熠熠生辉。
+  > Everything has cracks and that's where the light comes in. 
+  > 万物皆有裂痕，那是光照进来的地方。
 
 * 扇贝单词
-  > Guard well your thoughts when alone and your words when accompanied.
-  > 独处守住心，群处守住嘴。
+  > Don't let the noise of others' opinions drown out your own inner voice.
+  > 不要让他人意见的杂音淹没了自己的心声。
 
 * 有道词典
-  > Find the joy in your life.
-  > 找到你生命中的快乐。
+  > Peace comes from within.
+  > 平静源于内心。
 
 ```
