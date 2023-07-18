@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-17已更新 
+2023-07-18已更新 
 ```
 * 金山词霸
-  > Everything has cracks and that's where the light comes in. 
-  > 万物皆有裂痕，那是光照进来的地方。
+  > lt's better to light a candle than curse the darkness.
+  > 与其诅咒黑暗，不如点亮蜡烛。
 
 * 扇贝单词
-  > Don't let the noise of others' opinions drown out your own inner voice.
-  > 不要让他人意见的杂音淹没了自己的心声。
+  > Keep moving forward, and if it's time to go, it's time.
+  > 保持前进，步履不停，如果是时候该走了，那就顺其自然。
 
 * 有道词典
-  > Peace comes from within.
-  > 平静源于内心。
+  > Make your own future.
+  > 创造属于你的未来。
 
 ```
