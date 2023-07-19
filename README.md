@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-18已更新 
+2023-07-19已更新 
 ```
 * 金山词霸
-  > lt's better to light a candle than curse the darkness.
-  > 与其诅咒黑暗，不如点亮蜡烛。
+  > Those who miss each other will finally get together.
+  > 错失彼此的人终有一朝重逢。
 
 * 扇贝单词
-  > Keep moving forward, and if it's time to go, it's time.
-  > 保持前进，步履不停，如果是时候该走了，那就顺其自然。
+  > Some birds aren't meant to be caged, that's all. Their feathers are just too bright.
+  > 有些鸟儿是关不住的，因为它们的羽翼太耀眼。
 
 * 有道词典
-  > Make your own future.
-  > 创造属于你的未来。
+  > A gemstone is not polished without rubbing, nor a man perfected without his trials.
+  > 玉因打磨而莹润，人因历练而完美。
 
 ```
