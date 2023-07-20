@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-19已更新 
+2023-07-20已更新 
 ```
 * 金山词霸
-  > Those who miss each other will finally get together.
-  > 错失彼此的人终有一朝重逢。
+  > Don't just sit at home, or the life of your dreams will sail right past you.
+  > 坐在家里无所事事，只会让你与想要的生活失之交臂。
 
 * 扇贝单词
-  > Some birds aren't meant to be caged, that's all. Their feathers are just too bright.
-  > 有些鸟儿是关不住的，因为它们的羽翼太耀眼。
+  > All the trees are losing their leaves, and not one of them is worried.
+  > 每棵树的树叶都在凋零，却没有一棵树为此而忧心忡忡。
 
 * 有道词典
-  > A gemstone is not polished without rubbing, nor a man perfected without his trials.
-  > 玉因打磨而莹润，人因历练而完美。
+  > Be what you always wanted to be.
+  > 成为你想成为的人。
 
 ```
