@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-20已更新 
+2023-07-21已更新 
 ```
 * 金山词霸
-  > Don't just sit at home, or the life of your dreams will sail right past you.
-  > 坐在家里无所事事，只会让你与想要的生活失之交臂。
+  > Never compromise. Not even in the face of armageddon.
+  > 永不妥协，即便是在世界末日面前。
 
 * 扇贝单词
-  > All the trees are losing their leaves, and not one of them is worried.
-  > 每棵树的树叶都在凋零，却没有一棵树为此而忧心忡忡。
+  > He who has a "why" to live for can bear almost any "how".
+  > 知生命之意者，可承生命之重。
 
 * 有道词典
-  > Be what you always wanted to be.
-  > 成为你想成为的人。
+  > There's always something to be learned.
+  > 学无止境。
 
 ```
