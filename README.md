@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-21已更新 
+2023-07-22已更新 
 ```
 * 金山词霸
-  > Never compromise. Not even in the face of armageddon.
-  > 永不妥协，即便是在世界末日面前。
+  > Up the bright moon rises from the sea; I share the same moment though far from thee.
+  > 海上生明月，天涯共此时。
 
 * 扇贝单词
-  > He who has a "why" to live for can bear almost any "how".
-  > 知生命之意者，可承生命之重。
+  > Whatever our souls are made of, his and mine are the same.
+  > 不论我们的灵魂是什么做成的，他的和我的是一模一样的。
 
 * 有道词典
-  > There's always something to be learned.
-  > 学无止境。
+  > Live every day like its your last.
+  > 把每一天都当成生命的最后一天来度过。
 
 ```
