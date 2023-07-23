@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-22已更新 
+2023-07-23已更新 
 ```
 * 金山词霸
-  > Up the bright moon rises from the sea; I share the same moment though far from thee.
-  > 海上生明月，天涯共此时。
+  > Love is imagination. The other is the carrier. It's you who give the meaning to it.
+  > 爱是想象力，对方是载体，是你赋予它意义。
 
 * 扇贝单词
-  > Whatever our souls are made of, his and mine are the same.
-  > 不论我们的灵魂是什么做成的，他的和我的是一模一样的。
+  > Never bend your head. Always hold it high. Look the world straight in the eye.
+  > 永远不要低头，保持高昂的姿态，直视这个世界。
 
 * 有道词典
-  > Live every day like its your last.
-  > 把每一天都当成生命的最后一天来度过。
+  > The greatest joy in life is the pleasure of finding things out.
+  > 人生最大的乐趣莫过于求知。
 
 ```
