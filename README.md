@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-23已更新 
+2023-07-24已更新 
 ```
 * 金山词霸
-  > Love is imagination. The other is the carrier. It's you who give the meaning to it.
-  > 爱是想象力，对方是载体，是你赋予它意义。
+  > Shoot for the moon; even if you miss, you'll land among the stars.
+  > 朝月亮出发，即便你错过了，也将置身于繁星之中。
 
 * 扇贝单词
-  > Never bend your head. Always hold it high. Look the world straight in the eye.
-  > 永远不要低头，保持高昂的姿态，直视这个世界。
+  > A book should serve as the ax for the frozen sea within us.
+  > 书籍是一把利斧，凿开我们内心冰封的海洋。
 
 * 有道词典
-  > The greatest joy in life is the pleasure of finding things out.
-  > 人生最大的乐趣莫过于求知。
+  > When you love someone, you have to take them as they are.
+  > 爱一个人，就要接受他最真实的样子。
 
 ```
