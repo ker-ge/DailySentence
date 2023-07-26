@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-25已更新 
+2023-07-26已更新 
 ```
 * 金山词霸
-  > The smartest people understand that they are the most ignorant ones. 
-  > 最聪明的人明白自己是最无知的。
+  > A little of every thing is nothing in the main.
+  > 每事浅尝辄止，事事都告无成。
 
 * 扇贝单词
-  > You are always there for me when things tend to go wrong.
-  > 每当事情要变得糟糕时，你总在我身旁。
+  > The very best thing you can do for the whole world is to make the most of yourself.
+  > 你能为这个世界做的最好的事，就是充分发挥自己的才能。
 
 * 有道词典
-  > Time and tide wait for no man.
-  > 时光不等人。
+  > When the mind is pure, joy follows like a shadow that never leaves.
+  > 保持单纯的内心，就能获得长久的快乐。
 
 ```
