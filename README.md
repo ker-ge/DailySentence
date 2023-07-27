@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-26已更新 
+2023-07-27已更新 
 ```
 * 金山词霸
-  > A little of every thing is nothing in the main.
-  > 每事浅尝辄止，事事都告无成。
+  > To sin by silence when we should protest makes cowards out of men.
+  > 应该抗议时却保持沉默，这种罪过使人成为懦夫。
 
 * 扇贝单词
-  > The very best thing you can do for the whole world is to make the most of yourself.
-  > 你能为这个世界做的最好的事，就是充分发挥自己的才能。
+  > Everything you want is on the other side of fear.
+  > 当你不再害怕，你就会得到想要的一切。
 
 * 有道词典
-  > When the mind is pure, joy follows like a shadow that never leaves.
-  > 保持单纯的内心，就能获得长久的快乐。
+  > Sometimes what the rest of the world sees as having us pinned actually ends up pushing us forward.
+  > 有时旁人眼中的绊脚石，反而会成为我们的垫脚石。
 
 ```
