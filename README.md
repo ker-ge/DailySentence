@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-27已更新 
+2023-07-28已更新 
 ```
 * 金山词霸
-  > To sin by silence when we should protest makes cowards out of men.
-  > 应该抗议时却保持沉默，这种罪过使人成为懦夫。
+  > I am still waiting for you in situ, but you have forgotten you had been here once.
+  > 我还在原地等你，你却已经忘记曾来过这里。
 
 * 扇贝单词
-  > Everything you want is on the other side of fear.
-  > 当你不再害怕，你就会得到想要的一切。
+  > A successful marriage requires falling in love many times, always with the same person.
+  > 成功的婚姻就是多次坠入爱河，但每次爱上的都是同一个人。
 
 * 有道词典
-  > Sometimes what the rest of the world sees as having us pinned actually ends up pushing us forward.
-  > 有时旁人眼中的绊脚石，反而会成为我们的垫脚石。
+  > Slow progress is lasting progress.
+  > 慢慢来，才长久。
 
 ```
