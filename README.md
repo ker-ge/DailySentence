@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-28已更新 
+2023-07-29已更新 
 ```
 * 金山词霸
-  > I am still waiting for you in situ, but you have forgotten you had been here once.
-  > 我还在原地等你，你却已经忘记曾来过这里。
+  > Don't trouble trouble till trouble troubles you.
+  > 不要自找麻烦，除非麻烦找上门。
 
 * 扇贝单词
-  > A successful marriage requires falling in love many times, always with the same person.
-  > 成功的婚姻就是多次坠入爱河，但每次爱上的都是同一个人。
+  > Before you find your soul mate, you must first discover your soul.
+  > 在找到灵魂伴侣之前，你得先找到自己的灵魂。
 
 * 有道词典
-  > Slow progress is lasting progress.
-  > 慢慢来，才长久。
+  > You never find yourself until you face the truth.
+  > 直面真相，才能找到自我。
 
 ```
