@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-29已更新 
+2023-07-30已更新 
 ```
 * 金山词霸
-  > Don't trouble trouble till trouble troubles you.
-  > 不要自找麻烦，除非麻烦找上门。
+  > Today is the first page of the book of challenge. 
+  > 新一年的挑战开始了。
 
 * 扇贝单词
-  > Before you find your soul mate, you must first discover your soul.
-  > 在找到灵魂伴侣之前，你得先找到自己的灵魂。
+  > What we fear doing most is usually what we most need to do.
+  > 我们最害怕做的事，往往就是我们最需要去做的。
 
 * 有道词典
-  > You never find yourself until you face the truth.
-  > 直面真相，才能找到自我。
+  > The beginning is always the hardest.
+  > 万事开头难。
 
 ```
