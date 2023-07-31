@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-30已更新 
+2023-07-31已更新 
 ```
 * 金山词霸
-  > Today is the first page of the book of challenge. 
-  > 新一年的挑战开始了。
+  > If you can't handle failure, then you can't handle success either.
+  > 驾驭不了失败的人也驾驭不了成功。
 
 * 扇贝单词
-  > What we fear doing most is usually what we most need to do.
-  > 我们最害怕做的事，往往就是我们最需要去做的。
+  > Happiness is not by chance, but by choice.
+  > 幸福靠的不是运气，而是选择。
 
 * 有道词典
-  > The beginning is always the hardest.
-  > 万事开头难。
+  > Modesty is a virtue.
+  > 谦虚是种美德。
 
 ```
