@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-07-31已更新 
+2023-08-01已更新 
 ```
 * 金山词霸
-  > If you can't handle failure, then you can't handle success either.
-  > 驾驭不了失败的人也驾驭不了成功。
+  > This is my homeland. If I don't fight for it, who will?
+  > 这是我的国土。我不为她而战斗，谁为呢?
 
 * 扇贝单词
-  > Happiness is not by chance, but by choice.
-  > 幸福靠的不是运气，而是选择。
+  > Love is like quicksilver in the hand. Leave the fingers open and it stays. Clutch it and it darts away.
+  > 爱情就如手中的水银。张开手指，它就留在手中；一旦攥紧，它就飞快离开。
 
 * 有道词典
-  > Modesty is a virtue.
-  > 谦虚是种美德。
+  > Trust is the key to any relationship.
+  > 信任是相处的基石。
 
 ```
