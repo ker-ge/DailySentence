@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-01已更新 
+2023-08-02已更新 
 ```
 * 金山词霸
-  > This is my homeland. If I don't fight for it, who will?
-  > 这是我的国土。我不为她而战斗，谁为呢?
+  > Understand yourself in order to better understanding others.
+  > 知己方能解人。
 
 * 扇贝单词
-  > Love is like quicksilver in the hand. Leave the fingers open and it stays. Clutch it and it darts away.
-  > 爱情就如手中的水银。张开手指，它就留在手中；一旦攥紧，它就飞快离开。
+  > Pure love and suspicion cannot dwell together: at the door where the latter enters, the former makes its exit.
+  > 纯洁的爱情和猜疑水火不容：起了疑心，就会丢了爱情。
 
 * 有道词典
-  > Trust is the key to any relationship.
-  > 信任是相处的基石。
+  > There's a future worth fighting for.
+  > 未来值得我们为之奋斗。
 
 ```
