@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-02已更新 
+2023-08-03已更新 
 ```
 * 金山词霸
-  > Understand yourself in order to better understanding others.
-  > 知己方能解人。
+  > Never give up on a dream just because of the time it will take to accomplish it.
+  > 永远不要因为梦想需要太长时间才能实现而放弃。
 
 * 扇贝单词
-  > Pure love and suspicion cannot dwell together: at the door where the latter enters, the former makes its exit.
-  > 纯洁的爱情和猜疑水火不容：起了疑心，就会丢了爱情。
+  > Love keeps the cold out better than a cloak.
+  > 相比斗篷，爱情更能驱走寒冷。
 
 * 有道词典
-  > There's a future worth fighting for.
-  > 未来值得我们为之奋斗。
+  > We are always stronger together.
+  > 团结力量大。
 
 ```
