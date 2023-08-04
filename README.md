@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-03已更新 
+2023-08-04已更新 
 ```
 * 金山词霸
-  > Never give up on a dream just because of the time it will take to accomplish it.
-  > 永远不要因为梦想需要太长时间才能实现而放弃。
+  > Each man is the architect of his own fate
+  > 每个人都是自己命运的建筑师。
 
 * 扇贝单词
-  > Love keeps the cold out better than a cloak.
-  > 相比斗篷，爱情更能驱走寒冷。
+  > Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+  > 你想知道自己是什么样的人？不要去追问，行动起来！行动会描绘和定义你的模样。
 
 * 有道词典
-  > We are always stronger together.
-  > 团结力量大。
+  > Brothers and sisters are as close as hands and feet.
+  > 手足情深。
 
 ```
