@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-04已更新 
+2023-08-05已更新 
 ```
 * 金山词霸
-  > Each man is the architect of his own fate
-  > 每个人都是自己命运的建筑师。
+  > Our destiny offers not the cup of despair, but the chalice of opportunity.
+  > 命运给予我们的不是失望之酒，而是机会之杯。
 
 * 扇贝单词
-  > Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
-  > 你想知道自己是什么样的人？不要去追问，行动起来！行动会描绘和定义你的模样。
+  > Patience, persistence and perspiration make an unbeatable combination for success.
+  > 耐心、坚持和汗水是取得成功的无敌组合。
 
 * 有道词典
-  > Brothers and sisters are as close as hands and feet.
-  > 手足情深。
+  > Love comes in at the eyes.
+  > 爱只需一个眼神就能体会。
 
 ```
