@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-05已更新 
+2023-08-06已更新 
 ```
 * 金山词霸
-  > Our destiny offers not the cup of despair, but the chalice of opportunity.
-  > 命运给予我们的不是失望之酒，而是机会之杯。
+  > True love such as tea, not to say that come out, but the product.
+  > 真爱如茶，不是说出来的，而是品出来的。
 
 * 扇贝单词
-  > Patience, persistence and perspiration make an unbeatable combination for success.
-  > 耐心、坚持和汗水是取得成功的无敌组合。
+  > May the odds be ever in your favor.
+  > 愿好运永远眷顾你。
 
 * 有道词典
-  > Love comes in at the eyes.
-  > 爱只需一个眼神就能体会。
+  > Discovery requires experimentation.
+  > 不断实验才能有所发现。
 
 ```
