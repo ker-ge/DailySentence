@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-06已更新 
+2023-08-07已更新 
 ```
 * 金山词霸
-  > True love such as tea, not to say that come out, but the product.
-  > 真爱如茶，不是说出来的，而是品出来的。
+  > Without giving,there is no victory.
+  > 没有付出，就没有胜利。
 
 * 扇贝单词
-  > May the odds be ever in your favor.
-  > 愿好运永远眷顾你。
+  > The ones who love us never really leave us; you can always find them in here.
+  > 爱我们的人永远不会真正离开，他们会一直存在你的心里。
 
 * 有道词典
-  > Discovery requires experimentation.
-  > 不断实验才能有所发现。
+  > Every day is a chance to learn something new.
+  > 每天都是学习新事物的好时机。
 
 ```
