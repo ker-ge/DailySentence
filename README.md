@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-07已更新 
+2023-08-08已更新 
 ```
 * 金山词霸
-  > Without giving,there is no victory.
-  > 没有付出，就没有胜利。
+  > Love is ever the beginning of knowledge as fire is of light.
+  > 知识总是从爱好开始，犹如光总是从火开始一样。
 
 * 扇贝单词
-  > The ones who love us never really leave us; you can always find them in here.
-  > 爱我们的人永远不会真正离开，他们会一直存在你的心里。
+  > It's you, on your own, picking up the pieces and starting over.
+  > 凭借你自己的力量，捡起碎片，从头再来。
 
 * 有道词典
-  > Every day is a chance to learn something new.
-  > 每天都是学习新事物的好时机。
+  > It's autumn time.
+  > 秋天到了。
 
 ```
