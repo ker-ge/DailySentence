@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-08已更新 
+2023-08-09已更新 
 ```
 * 金山词霸
-  > Love is ever the beginning of knowledge as fire is of light.
-  > 知识总是从爱好开始，犹如光总是从火开始一样。
+  > We are all in the gutter, but some of us are looking at the stars.
+  > 身在井隅，心向璀璨。
 
 * 扇贝单词
-  > It's you, on your own, picking up the pieces and starting over.
-  > 凭借你自己的力量，捡起碎片，从头再来。
+  > To be what we are, and to become what we are capable of becoming, is the only end of life.
+  > 做我们自己，并成为我们所能成为的人，是人生唯一的目的。
 
 * 有道词典
-  > It's autumn time.
-  > 秋天到了。
+  > Only in the agony of parting do we look into the depths of love.
+  > 经历过痛苦的离别，才知晓爱意的深远。
 
 ```
