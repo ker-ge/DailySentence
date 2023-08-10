@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-09已更新 
+2023-08-10已更新 
 ```
 * 金山词霸
-  > We are all in the gutter, but some of us are looking at the stars.
-  > 身在井隅，心向璀璨。
+  >  Let life be beautiful like summer flowers and death like autumn leaves.
+  > 生如夏花之绚烂，死如秋叶之静美。
 
 * 扇贝单词
-  > To be what we are, and to become what we are capable of becoming, is the only end of life.
-  > 做我们自己，并成为我们所能成为的人，是人生唯一的目的。
+  > The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+  > 我所知的最大乐趣是，暗中行善举，但又偶然间为人所知。
 
 * 有道词典
-  > Only in the agony of parting do we look into the depths of love.
-  > 经历过痛苦的离别，才知晓爱意的深远。
+  > Every life matters.
+  > 每个生命都弥足珍贵。
 
 ```
