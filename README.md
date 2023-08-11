@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-10已更新 
+2023-08-11已更新 
 ```
 * 金山词霸
-  >  Let life be beautiful like summer flowers and death like autumn leaves.
-  > 生如夏花之绚烂，死如秋叶之静美。
+  >  Life is not about waiting for the storm to pass, but learn to dance in the rain.
+  > 生活不是等待风暴过去，而是学会在雨中翩翩起舞。
 
 * 扇贝单词
-  > The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
-  > 我所知的最大乐趣是，暗中行善举，但又偶然间为人所知。
+  > The best love is the kind that awakens the soul and makes us reach for more.
+  > 最好的爱，唤醒我们的灵魂，让我们更有追求。
 
 * 有道词典
-  > Every life matters.
-  > 每个生命都弥足珍贵。
+  > We gotta try.
+  > 我们总得试试看。
 
 ```
