@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-11已更新 
+2023-08-12已更新 
 ```
 * 金山词霸
-  >  Life is not about waiting for the storm to pass, but learn to dance in the rain.
-  > 生活不是等待风暴过去，而是学会在雨中翩翩起舞。
+  > Not matter of the today will drag tomorrow.
+  > 勿将今日之事拖到明日。
 
 * 扇贝单词
-  > The best love is the kind that awakens the soul and makes us reach for more.
-  > 最好的爱，唤醒我们的灵魂，让我们更有追求。
+  > We are made to persist. That's how we find out who we are.
+  > 我们生来就是为了坚持，这样我们才能弄清自己是谁。
 
 * 有道词典
-  > We gotta try.
-  > 我们总得试试看。
+  > Love is always there if you just open yourself to it.
+  > 如果你敞开心扉，就能发现爱从未走远。
 
 ```
