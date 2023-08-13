@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-12已更新 
+2023-08-13已更新 
 ```
 * 金山词霸
-  > Not matter of the today will drag tomorrow.
-  > 勿将今日之事拖到明日。
+  > Behind every successful man there's a lot of unsuccessful years.
+  > 每个成功者的后面都有很多不成功的岁月。
 
 * 扇贝单词
-  > We are made to persist. That's how we find out who we are.
-  > 我们生来就是为了坚持，这样我们才能弄清自己是谁。
+  > If you don't have anything, you have to act like you own everything.
+  > 如果你一无所有，那就要当做无所不有。
 
 * 有道词典
-  > Love is always there if you just open yourself to it.
-  > 如果你敞开心扉，就能发现爱从未走远。
+  > We cannot allow fear to drive us from our purpose.
+  > 我们不能因恐惧而背离初心。
 
 ```
