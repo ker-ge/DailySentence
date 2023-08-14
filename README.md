@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-13已更新 
+2023-08-14已更新 
 ```
 * 金山词霸
-  > Behind every successful man there's a lot of unsuccessful years.
-  > 每个成功者的后面都有很多不成功的岁月。
+  > Fear can hold you prisoner,but hope can set you free.
+  > 怯懦囚禁灵魂,希望还你自由。
 
 * 扇贝单词
-  > If you don't have anything, you have to act like you own everything.
-  > 如果你一无所有，那就要当做无所不有。
+  > If you're brave enough to say goodbye, life will reward you with a new hello.
+  > 只要你勇敢地说再见，生活便会奖励你新的开始。
 
 * 有道词典
-  > We cannot allow fear to drive us from our purpose.
-  > 我们不能因恐惧而背离初心。
+  > If you want the rainbow, you have to deal with the rain.
+  > 不经历风雨，怎能见彩虹。
 
 ```
