@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-14已更新 
+2023-08-15已更新 
 ```
 * 金山词霸
-  > Fear can hold you prisoner,but hope can set you free.
-  > 怯懦囚禁灵魂,希望还你自由。
+  > Where there is love,there are always wishes.
+  > 哪里有爱，哪里就有希望。
 
 * 扇贝单词
-  > If you're brave enough to say goodbye, life will reward you with a new hello.
-  > 只要你勇敢地说再见，生活便会奖励你新的开始。
+  > Love is that condition in which the happiness of another person is essential to your own.
+  > 他人的幸福即是自己幸福的根本，这就是爱。
 
 * 有道词典
-  > If you want the rainbow, you have to deal with the rain.
-  > 不经历风雨，怎能见彩虹。
+  > Be grateful for what you got.
+  > 要感激你所拥有的一切。
 
 ```
