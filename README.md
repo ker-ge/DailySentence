@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-15已更新 
+2023-08-16已更新 
 ```
 * 金山词霸
-  > Where there is love,there are always wishes.
-  > 哪里有爱，哪里就有希望。
+  > Great works are performed not by strength, but by perseverance.
+  > 完成伟大的事业不在于体力，而在于坚韧不拔的毅力。
 
 * 扇贝单词
-  > Love is that condition in which the happiness of another person is essential to your own.
-  > 他人的幸福即是自己幸福的根本，这就是爱。
+  > Your past is not your potential. In any hour you can choose to liberate the future.
+  > 你的潜力不在于过去，你随时都可以去解放未来。
 
 * 有道词典
-  > Be grateful for what you got.
-  > 要感激你所拥有的一切。
+  > Will is the source of your strength.
+  > 意志力是力量之源。
 
 ```
