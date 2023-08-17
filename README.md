@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-16已更新 
+2023-08-17已更新 
 ```
 * 金山词霸
-  > Great works are performed not by strength, but by perseverance.
-  > 完成伟大的事业不在于体力，而在于坚韧不拔的毅力。
+  > Living without an aim is like sailing without a compass.
+  > 生活没有目标，犹如航海没有罗盘。
 
 * 扇贝单词
-  > Your past is not your potential. In any hour you can choose to liberate the future.
-  > 你的潜力不在于过去，你随时都可以去解放未来。
+  > It is difficulties that show what men are.
+  > 困难面前方显人品质。
 
 * 有道词典
-  > Will is the source of your strength.
-  > 意志力是力量之源。
+  > They say when you meet the love of your life, time stops.
+  > 人们说，当你遇到挚爱时，连时间也会停止。
 
 ```
