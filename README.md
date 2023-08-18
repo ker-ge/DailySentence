@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-17已更新 
+2023-08-18已更新 
 ```
 * 金山词霸
-  > Living without an aim is like sailing without a compass.
-  > 生活没有目标，犹如航海没有罗盘。
+  > Victory won't come to me unless I go to it.
+  > 胜利是不会向自己走来的，我必须自己走向胜利。
 
 * 扇贝单词
-  > It is difficulties that show what men are.
-  > 困难面前方显人品质。
+  > Happy is the man who can make a living by his hobby!
+  > 以爱好谋生的人是幸福的！
 
 * 有道词典
-  > They say when you meet the love of your life, time stops.
-  > 人们说，当你遇到挚爱时，连时间也会停止。
+  > Childhood doesn't last.
+  > 童年转瞬即逝。
 
 ```
