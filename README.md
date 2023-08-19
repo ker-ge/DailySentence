@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-18已更新 
+2023-08-19已更新 
 ```
 * 金山词霸
-  > Victory won't come to me unless I go to it.
-  > 胜利是不会向自己走来的，我必须自己走向胜利。
+  > You can't blend in when you were born to stand out.
+  > 你天生与众不同，注定不会被淹没在人群中。
 
 * 扇贝单词
-  > Happy is the man who can make a living by his hobby!
-  > 以爱好谋生的人是幸福的！
+  > It is not enough to be industrious; so are the ants. What are you industrious about?
+  > 光勤劳可不够，蚂蚁也勤劳；要看你为什么而勤劳。
 
 * 有道词典
-  > Childhood doesn't last.
-  > 童年转瞬即逝。
+  > In nature, everything is linked.
+  > 自然万物，息息相关。
 
 ```
