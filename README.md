@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-19已更新 
+2023-08-20已更新 
 ```
 * 金山词霸
-  > You can't blend in when you were born to stand out.
-  > 你天生与众不同，注定不会被淹没在人群中。
+  > May there be enough clouds in your life to make a beautiful sunset.
+  > 愿你的生命中有足够的云翳，来编制一个美丽的黄昏。
 
 * 扇贝单词
-  > It is not enough to be industrious; so are the ants. What are you industrious about?
-  > 光勤劳可不够，蚂蚁也勤劳；要看你为什么而勤劳。
+  > The key to immortality is first living a life worth remembering.
+  > 若想永垂不朽，关键在于要先过一种值得铭记的人生。
 
 * 有道词典
-  > In nature, everything is linked.
-  > 自然万物，息息相关。
+  > Do not live by somebody else's rules. Live by your own.
+  > 别被他人的规矩束缚，要用自己的方式生活。
 
 ```
