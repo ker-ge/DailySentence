@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-20已更新 
+2023-08-21已更新 
 ```
 * 金山词霸
-  > May there be enough clouds in your life to make a beautiful sunset.
-  > 愿你的生命中有足够的云翳，来编制一个美丽的黄昏。
+  > If you need,I'll be by your side.
+  > 如果你需要。我就在你身边。
 
 * 扇贝单词
-  > The key to immortality is first living a life worth remembering.
-  > 若想永垂不朽，关键在于要先过一种值得铭记的人生。
+  > The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+  > 悲观者埋怨刮风，乐观者静候风变，务实者调整风帆。
 
 * 有道词典
-  > Do not live by somebody else's rules. Live by your own.
-  > 别被他人的规矩束缚，要用自己的方式生活。
+  > The price of excellence is eternal vigilance.
+  > 欲为人杰，必先警醒。
 
 ```
