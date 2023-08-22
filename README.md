@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-21已更新 
+2023-08-22已更新 
 ```
 * 金山词霸
-  > If you need,I'll be by your side.
-  > 如果你需要。我就在你身边。
+  > Love rises in the east and falls in the west, romance lasts till death.
+  > 爱意东升西落，浪漫至死不渝。
 
 * 扇贝单词
-  > The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
-  > 悲观者埋怨刮风，乐观者静候风变，务实者调整风帆。
+  > The wisest mind has something yet to learn.
+  > 即便是最有智慧的人，也还有要学习的地方。
 
 * 有道词典
-  > The price of excellence is eternal vigilance.
-  > 欲为人杰，必先警醒。
+  > You can't love someone without making yourself open to their problems, their fears.
+  > 爱一个人，就是敞开怀抱，拥抱他的困窘和恐惧。
 
 ```
