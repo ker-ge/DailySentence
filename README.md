@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-22已更新 
+2023-08-23已更新 
 ```
 * 金山词霸
-  > Love rises in the east and falls in the west, romance lasts till death.
-  > 爱意东升西落，浪漫至死不渝。
+  > Shoot for the moon; even if you miss, you'll land among the stars.
+  > 朝月亮出发，即便你错过了，也将置身于繁星之中。
 
 * 扇贝单词
-  > The wisest mind has something yet to learn.
-  > 即便是最有智慧的人，也还有要学习的地方。
+  > Don't grieve. Anything you lose comes round in another form.
+  > 不要悲伤，你失去的任何一样东西都会以另一种形式回来。
 
 * 有道词典
-  > You can't love someone without making yourself open to their problems, their fears.
-  > 爱一个人，就是敞开怀抱，拥抱他的困窘和恐惧。
+  > Summer soon gives way to autumn, and the nights start getting longer again.
+  > 夏秋更迭，夜色渐长。
 
 ```
