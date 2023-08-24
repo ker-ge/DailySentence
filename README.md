@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-23已更新 
+2023-08-24已更新 
 ```
 * 金山词霸
-  > Shoot for the moon; even if you miss, you'll land among the stars.
-  > 朝月亮出发，即便你错过了，也将置身于繁星之中。
+  > The higher I got, the more amazed I was by the view.
+  > 我爬得越高，眼前的风景便愈发迷人。
 
 * 扇贝单词
-  > Don't grieve. Anything you lose comes round in another form.
-  > 不要悲伤，你失去的任何一样东西都会以另一种形式回来。
+  > Feeling gratitude and not expressing it is like wrapping a present and not giving it.
+  > 心存感谢但不表达，如同裹起礼物但不送出去。
 
 * 有道词典
-  > Summer soon gives way to autumn, and the nights start getting longer again.
-  > 夏秋更迭，夜色渐长。
+  > A man gets what he earns, when he earns it.
+  > 能力决定收益。
 
 ```
