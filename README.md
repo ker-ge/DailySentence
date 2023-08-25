@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-24已更新 
+2023-08-25已更新 
 ```
 * 金山词霸
-  > The higher I got, the more amazed I was by the view.
-  > 我爬得越高，眼前的风景便愈发迷人。
+  > Love is the one thing that transcends time and space.
+  > 只有爱可以穿越时空。
 
 * 扇贝单词
-  > Feeling gratitude and not expressing it is like wrapping a present and not giving it.
-  > 心存感谢但不表达，如同裹起礼物但不送出去。
+  > The trouble with talking too fast is you may say something you haven't thought of yet.
+  > 说话太快的问题是，你说出口的可能是你还没考虑过的。
 
 * 有道词典
-  > A man gets what he earns, when he earns it.
-  > 能力决定收益。
+  > Go, live your dream.
+  > 去吧，去实现你的梦想。
 
 ```
