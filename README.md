@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-25已更新 
+2023-08-26已更新 
 ```
 * 金山词霸
-  > Love is the one thing that transcends time and space.
-  > 只有爱可以穿越时空。
+  > Thank you for appearing in my youth.
+  > 谢谢你出席我的青春。
 
 * 扇贝单词
-  > The trouble with talking too fast is you may say something you haven't thought of yet.
-  > 说话太快的问题是，你说出口的可能是你还没考虑过的。
+  > Obstacles cannot crush me. Every obstacle yields to stern resolve.
+  > 障碍压垮不了我，在我坚定的决心面前，一切障碍都会让步。
 
 * 有道词典
-  > Go, live your dream.
-  > 去吧，去实现你的梦想。
+  > You are better than you think you are.
+  > 你比自己想象中更优秀。
 
 ```
