@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-26已更新 
+2023-08-27已更新 
 ```
 * 金山词霸
-  > Thank you for appearing in my youth.
-  > 谢谢你出席我的青春。
+  > Goals determine what you're going to be.
+  > 目标决定你将成为怎样的人。
 
 * 扇贝单词
-  > Obstacles cannot crush me. Every obstacle yields to stern resolve.
-  > 障碍压垮不了我，在我坚定的决心面前，一切障碍都会让步。
+  > Character may be manifested in the great moments, but it is made in the small ones.
+  > 品格彰显于重要时刻，却培养于日常琐事中。
 
 * 有道词典
-  > You are better than you think you are.
-  > 你比自己想象中更优秀。
+  > True friendship is seen through the heart, not through the eyes.
+  > 真友谊不要用眼睛看，要用心去感受。
 
 ```
