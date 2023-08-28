@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-27已更新 
+2023-08-28已更新 
 ```
 * 金山词霸
-  > Goals determine what you're going to be.
-  > 目标决定你将成为怎样的人。
+  > All the bright, precious things fade so fast.And they don't come back.
+  > 所有的光鲜靓丽都敌不过时间，并且一去不复返。
 
 * 扇贝单词
-  > Character may be manifested in the great moments, but it is made in the small ones.
-  > 品格彰显于重要时刻，却培养于日常琐事中。
+  > Sometimes the most urgent and vital thing you can possibly do is take a complete rest.
+  > 有时候，你能做的最紧急、最重要的事就是彻底地休息一下。
 
 * 有道词典
-  > True friendship is seen through the heart, not through the eyes.
-  > 真友谊不要用眼睛看，要用心去感受。
+  > Everyone can be superheroes.
+  > 人人都能成为超级英雄。
 
 ```
