@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-28已更新 
+2023-08-29已更新 
 ```
 * 金山词霸
-  > All the bright, precious things fade so fast.And they don't come back.
-  > 所有的光鲜靓丽都敌不过时间，并且一去不复返。
+  > People love what other people are passionate about.
+  > 人们喜爱别人倾注热情所做的事情。
 
 * 扇贝单词
-  > Sometimes the most urgent and vital thing you can possibly do is take a complete rest.
-  > 有时候，你能做的最紧急、最重要的事就是彻底地休息一下。
+  > It is in the coldest months that hugs linger snug, and they warm the soul the most.
+  > 哪怕在最寒冷的时候，拥抱依然温暖，最能温热心灵。
 
 * 有道词典
-  > Everyone can be superheroes.
-  > 人人都能成为超级英雄。
+  > Work hard to make something as meaningful and beautiful as you can.
+  > 尽你所能，做些美好而有意义的事。
 
 ```
