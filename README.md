@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-29已更新 
+2023-08-30已更新 
 ```
 * 金山词霸
-  > People love what other people are passionate about.
-  > 人们喜爱别人倾注热情所做的事情。
+  > Run with passion and keep your heart still.
+  > 激情奔跑，心如止水。
 
 * 扇贝单词
-  > It is in the coldest months that hugs linger snug, and they warm the soul the most.
-  > 哪怕在最寒冷的时候，拥抱依然温暖，最能温热心灵。
+  > To acquire the habit of reading is to construct for yourself a refuge from almost all the miseries of life.
+  > 养成阅读的习惯，就是给自己建造避难所，抵挡人生几乎所有不幸。
 
 * 有道词典
-  > Work hard to make something as meaningful and beautiful as you can.
-  > 尽你所能，做些美好而有意义的事。
+  > The future is our time.
+  > 未来属于我们。
 
 ```
