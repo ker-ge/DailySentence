@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-30已更新 
+2023-08-31已更新 
 ```
 * 金山词霸
-  > Run with passion and keep your heart still.
-  > 激情奔跑，心如止水。
+  > One meets its destiny on the road he takes to avoid it.
+  > 往往在逃避命运的路上，却与之不期而遇。
 
 * 扇贝单词
-  > To acquire the habit of reading is to construct for yourself a refuge from almost all the miseries of life.
-  > 养成阅读的习惯，就是给自己建造避难所，抵挡人生几乎所有不幸。
+  > The horizon of life is broadened chiefly by means of the enlargement of heart.
+  > 扩展生活的视野，主要靠开阔心胸。
 
 * 有道词典
-  > The future is our time.
-  > 未来属于我们。
+  > Poor and content is rich and rich enough.
+  > 安于清贫自乐，方为真正富有。
 
 ```
