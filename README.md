@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-08-31已更新 
+2023-09-01已更新 
 ```
 * 金山词霸
-  > One meets its destiny on the road he takes to avoid it.
-  > 往往在逃避命运的路上，却与之不期而遇。
+  >  To improve is to change; to be perfect is to change often.
+  > 要提升价值就要改变; 要达到完美就得经常改变。
 
 * 扇贝单词
-  > The horizon of life is broadened chiefly by means of the enlargement of heart.
-  > 扩展生活的视野，主要靠开阔心胸。
+  > People will forget what you said; people will forget what you did, but people will never forget how you made them feel.
+  > 人们会忘记你说过的话，做过的事，却不会忘却你给他们的感受。
 
 * 有道词典
-  > Poor and content is rich and rich enough.
-  > 安于清贫自乐，方为真正富有。
+  > Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
+  > 被爱使你强大，爱人让你勇敢。
 
 ```
