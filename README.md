@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-01已更新 
+2023-09-02已更新 
 ```
 * 金山词霸
-  >  To improve is to change; to be perfect is to change often.
-  > 要提升价值就要改变; 要达到完美就得经常改变。
+  >  If you don't like something, change it. If you can't change it, change your attitude.
+  > 如果有不满意的状况，那就试着改变它。 如果你没办法改变它，那就改变你的想法吧
 
 * 扇贝单词
-  > People will forget what you said; people will forget what you did, but people will never forget how you made them feel.
-  > 人们会忘记你说过的话，做过的事，却不会忘却你给他们的感受。
+  > Sometimes things become possible if we want them bad enough.
+  > 有时候，只要我们的渴望足够强烈，心想就会事成。
 
 * 有道词典
-  > Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
-  > 被爱使你强大，爱人让你勇敢。
+  > Family always comes first.
+  > 家人永远是第一位的。
 
 ```
