@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-02已更新 
+2023-09-03已更新 
 ```
 * 金山词霸
-  >  If you don't like something, change it. If you can't change it, change your attitude.
-  > 如果有不满意的状况，那就试着改变它。 如果你没办法改变它，那就改变你的想法吧
+  > Since we cannot change reality, let us change the eyes which see reality.
+  > 既然我们无法改变现实，那就改变看待现实的视角吧。
 
 * 扇贝单词
-  > Sometimes things become possible if we want them bad enough.
-  > 有时候，只要我们的渴望足够强烈，心想就会事成。
+  > Life is a beautiful magnificent thing, even to a jellyfish.
+  > 生命美好而壮丽，就算对一只水母来说也是。
 
 * 有道词典
-  > Family always comes first.
-  > 家人永远是第一位的。
+  > I need to focus on going down the right path.
+  > 我得集中精力，走一条正确的路。
 
 ```
