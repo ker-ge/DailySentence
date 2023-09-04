@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-03已更新 
+2023-09-04已更新 
 ```
 * 金山词霸
-  > Since we cannot change reality, let us change the eyes which see reality.
-  > 既然我们无法改变现实，那就改变看待现实的视角吧。
+  > Change in all things is sweet.
+  > 最甜美的事就是改变。
 
 * 扇贝单词
-  > Life is a beautiful magnificent thing, even to a jellyfish.
-  > 生命美好而壮丽，就算对一只水母来说也是。
+  > Give whatever you are doing and whoever you are with the gift of your attention.
+  > 无论在做什么，跟谁相处，都要送出这份礼物：保持专注。
 
 * 有道词典
-  > I need to focus on going down the right path.
-  > 我得集中精力，走一条正确的路。
+  > To be a sailor of the world bound for all ports.
+  > 做个水手，遨游世界，四处航行。
 
 ```
