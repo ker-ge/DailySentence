@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-04已更新 
+2023-09-05已更新 
 ```
 * 金山词霸
-  > Change in all things is sweet.
-  > 最甜美的事就是改变。
+  > Not everything that is faced can be changed, but nothing can be changed until it is faced. 
+  > 不是所有你面对的事情都可以改变，但在你实际面对之前，任何事情都无法改变。
 
 * 扇贝单词
-  > Give whatever you are doing and whoever you are with the gift of your attention.
-  > 无论在做什么，跟谁相处，都要送出这份礼物：保持专注。
+  > Heard melodies are sweet, but those unheard are sweeter.
+  > 听见的旋律是美妙的，但听不见的会更美。
 
 * 有道词典
-  > To be a sailor of the world bound for all ports.
-  > 做个水手，遨游世界，四处航行。
+  > You are loved, and you are not alone.
+  > 有人爱着你，你不是孤身一人。
 
 ```
