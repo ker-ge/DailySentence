@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-05已更新 
+2023-09-06已更新 
 ```
 * 金山词霸
-  > Not everything that is faced can be changed, but nothing can be changed until it is faced. 
-  > 不是所有你面对的事情都可以改变，但在你实际面对之前，任何事情都无法改变。
+  > I can't change the direction of the wind, but I can adjust my sails to always reach my destination. 
+  > 我没办法改变风向， 但我可以调整我的风帆，无论如何都能达到我的目的地。
 
 * 扇贝单词
-  > Heard melodies are sweet, but those unheard are sweeter.
-  > 听见的旋律是美妙的，但听不见的会更美。
+  > High achievement always takes place in the framework of high expectation.
+  > 高成就永远是在高期待的前提下产生。
 
 * 有道词典
-  > You are loved, and you are not alone.
-  > 有人爱着你，你不是孤身一人。
+  > Miracles take time.
+  > 奇迹发生也需要时间。
 
 ```
