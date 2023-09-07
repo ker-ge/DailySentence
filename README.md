@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-06已更新 
+2023-09-07已更新 
 ```
 * 金山词霸
-  > I can't change the direction of the wind, but I can adjust my sails to always reach my destination. 
-  > 我没办法改变风向， 但我可以调整我的风帆，无论如何都能达到我的目的地。
+  > Do not fear mistakes. You will know failure. Continue to reach out.
+  > 别害怕犯错，你将会遇见失败，续续把手伸出去。
 
 * 扇贝单词
-  > High achievement always takes place in the framework of high expectation.
-  > 高成就永远是在高期待的前提下产生。
+  > We love the things we love for what they are.
+  > 我们热爱那些事物，是因为热爱它们原本的样子。
 
 * 有道词典
-  > Miracles take time.
-  > 奇迹发生也需要时间。
+  > Hard work is the recipe for success.
+  > 努力是成功的秘诀。
 
 ```
