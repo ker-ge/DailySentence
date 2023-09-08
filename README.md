@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-07已更新 
+2023-09-08已更新 
 ```
 * 金山词霸
-  > Do not fear mistakes. You will know failure. Continue to reach out.
-  > 别害怕犯错，你将会遇见失败，续续把手伸出去。
+  > How the reeds run riot and green, as white dews are turning to frost!
+  > 蒹葭苍苍，白露为霜。
 
 * 扇贝单词
-  > We love the things we love for what they are.
-  > 我们热爱那些事物，是因为热爱它们原本的样子。
+  > All men who have achieved great things have been great dreamers.
+  > 一直以来，凡成大事者都是大梦想家。
 
 * 有道词典
-  > Hard work is the recipe for success.
-  > 努力是成功的秘诀。
+  > Take charge of your life for as long as it lasts.
+  > 我的人生我做主。
 
 ```
