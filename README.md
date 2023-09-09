@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-08已更新 
+2023-09-09已更新 
 ```
 * 金山词霸
-  > How the reeds run riot and green, as white dews are turning to frost!
-  > 蒹葭苍苍，白露为霜。
+  > I never dreamed about success, I worked for it. 
+  > 我从不幻想成功，我为成功奋斗。
 
 * 扇贝单词
-  > All men who have achieved great things have been great dreamers.
-  > 一直以来，凡成大事者都是大梦想家。
+  > If music be the food of love, play on.
+  > 如果音乐是爱情的食粮，那就演奏下去吧。
 
 * 有道词典
-  > Take charge of your life for as long as it lasts.
-  > 我的人生我做主。
+  > Sometimes the right path is not the easiest one.
+  > 正确的道路有时最难走。
 
 ```
