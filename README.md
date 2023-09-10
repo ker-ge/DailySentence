@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-09已更新 
+2023-09-10已更新 
 ```
 * 金山词霸
-  > I never dreamed about success, I worked for it. 
-  > 我从不幻想成功，我为成功奋斗。
+  > "The man who can make hard things easy is the educator. "
+  > 能使艰难之事变得容易的人是教育者。
 
 * 扇贝单词
-  > If music be the food of love, play on.
-  > 如果音乐是爱情的食粮，那就演奏下去吧。
+  > Human beings can alter their lives by altering their attitude of mind.
+  > 人若改变心态，便能改变生活。
 
 * 有道词典
-  > Sometimes the right path is not the easiest one.
-  > 正确的道路有时最难走。
+  > Teachers encouraged us to break the status quo and define ourselves as we choose.
+  > 老师鼓励我们打破现状，成就自我。
 
 ```
