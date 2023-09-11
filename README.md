@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-10已更新 
+2023-09-11已更新 
 ```
 * 金山词霸
-  > "The man who can make hard things easy is the educator. "
-  > 能使艰难之事变得容易的人是教育者。
+  > The measure of intelligence is the ability to change.
+  > 衡量智力的标准是适应改变的能力
 
 * 扇贝单词
-  > Human beings can alter their lives by altering their attitude of mind.
-  > 人若改变心态，便能改变生活。
+  > Even the darkest night will end and the sun will rise.
+  > 即便是漫漫长夜，太阳也终将升起。
 
 * 有道词典
-  > Teachers encouraged us to break the status quo and define ourselves as we choose.
-  > 老师鼓励我们打破现状，成就自我。
+  > I love you just the way you are.
+  > 我爱你真实的样子。
 
 ```
