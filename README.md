@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-11已更新 
+2023-09-12已更新 
 ```
 * 金山词霸
-  > The measure of intelligence is the ability to change.
-  > 衡量智力的标准是适应改变的能力
+  > It is better to fail in originality than to succeed in imitation. 
+  > 与其模仿成功，不如原创失败。
 
 * 扇贝单词
-  > Even the darkest night will end and the sun will rise.
-  > 即便是漫漫长夜，太阳也终将升起。
+  > Character is what you know you are, not what others think you have.
+  > 个性是你所了解的自己，而不是别人眼中的你。
 
 * 有道词典
-  > I love you just the way you are.
-  > 我爱你真实的样子。
+  > Even the darkest moment can turn into something sweet.
+  > 度过至暗时刻，我们终将收获甜美成果。
 
 ```
