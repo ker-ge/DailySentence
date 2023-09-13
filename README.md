@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-12已更新 
+2023-09-13已更新 
 ```
 * 金山词霸
-  > It is better to fail in originality than to succeed in imitation. 
-  > 与其模仿成功，不如原创失败。
+  > The only limit to our realization of tomorrow will be our doubts of today. 
+  > 我们对今日的怀疑是我们实现明日的唯一限制。
 
 * 扇贝单词
-  > Character is what you know you are, not what others think you have.
-  > 个性是你所了解的自己，而不是别人眼中的你。
+  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
+  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > Even the darkest moment can turn into something sweet.
-  > 度过至暗时刻，我们终将收获甜美成果。
+  > Concentrate on the detail.
+  > 关注细节。
 
 ```
