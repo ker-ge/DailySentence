@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-13已更新 
+2023-09-14已更新 
 ```
 * 金山词霸
-  > The only limit to our realization of tomorrow will be our doubts of today. 
-  > 我们对今日的怀疑是我们实现明日的唯一限制。
+  > If you are not willing to risk the usual, you will have to settle for the ordinary.
+  > 如果你不愿意为平凡冒险，你就得甘于平凡。
 
 * 扇贝单词
-  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
-  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
+  > The supreme happiness of life is the conviction that we are loved.
+  > 人生最大的幸福，就是坚信有人爱我们。
 
 * 有道词典
-  > Concentrate on the detail.
-  > 关注细节。
+  > What doesn't kill us makes us stronger.
+  > 杀不死我们的，让我们更强大。
 
 ```
