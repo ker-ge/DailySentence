@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-14已更新 
+2023-09-15已更新 
 ```
 * 金山词霸
-  > If you are not willing to risk the usual, you will have to settle for the ordinary.
-  > 如果你不愿意为平凡冒险，你就得甘于平凡。
+  >  Change is inevitable. Growth is optional. 
+  > 改变无可避免，是否能从中成长则是你的选择。
 
 * 扇贝单词
-  > The supreme happiness of life is the conviction that we are loved.
-  > 人生最大的幸福，就是坚信有人爱我们。
+  > Take chances; make mistakes. That's how you grow.
+  > 去冒险，去犯错。你就是这样成长起来的。
 
 * 有道词典
-  > What doesn't kill us makes us stronger.
-  > 杀不死我们的，让我们更强大。
+  > Small beginnings can bring down mountains.
+  > 从小事着手，纵是高山也能推倒。
 
 ```
