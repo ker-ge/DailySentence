@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-15已更新 
+2023-09-16已更新 
 ```
 * 金山词霸
-  >  Change is inevitable. Growth is optional. 
-  > 改变无可避免，是否能从中成长则是你的选择。
+  > To do nothing is the way to be nothing.
+  > 没有任何行动是通往一事无成的途径。
 
 * 扇贝单词
-  > Take chances; make mistakes. That's how you grow.
-  > 去冒险，去犯错。你就是这样成长起来的。
+  > The bad news is time flies. The good news is you're the pilot.
+  > 坏消息是时光飞逝，好消息是你是时光的领航员。
 
 * 有道词典
-  > Small beginnings can bring down mountains.
-  > 从小事着手，纵是高山也能推倒。
+  > It is not what is outside, but what is inside that counts.
+  > 重要的不是外表，而是内在。
 
 ```
