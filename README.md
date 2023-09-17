@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-16已更新 
+2023-09-17已更新 
 ```
 * 金山词霸
-  > To do nothing is the way to be nothing.
-  > 没有任何行动是通往一事无成的途径。
+  > A small group of thoughtful people could change the world. Indeed, it's the only thing that ever has. 
+  > 从古至今都是一小群有想法的人群在改变这世界。
 
 * 扇贝单词
-  > The bad news is time flies. The good news is you're the pilot.
-  > 坏消息是时光飞逝，好消息是你是时光的领航员。
+  > The only safe thing is to take a chance.
+  > 唯一稳妥的事是去冒险一试。
 
 * 有道词典
-  > It is not what is outside, but what is inside that counts.
-  > 重要的不是外表，而是内在。
+  > Yesterday is history, tomorrow is a mystery, but today is a gift.
+  > 昨日已成往事，未来尚未可知，而今天是上天的馈赠。
 
 ```
