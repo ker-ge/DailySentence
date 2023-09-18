@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-17已更新 
+2023-09-18已更新 
 ```
 * 金山词霸
-  > A small group of thoughtful people could change the world. Indeed, it's the only thing that ever has. 
-  > 从古至今都是一小群有想法的人群在改变这世界。
+  > How wonderful it is that nobody need wait a single moment before starting to improve the world.
+  > 所有人都不需等待，随时都可以开始改善世界，这是多么美好的一件事。
 
 * 扇贝单词
-  > The only safe thing is to take a chance.
-  > 唯一稳妥的事是去冒险一试。
+  > Don't go through life; grow through life.
+  > 别只是过活，要通过生活获得成长。
 
 * 有道词典
-  > Yesterday is history, tomorrow is a mystery, but today is a gift.
-  > 昨日已成往事，未来尚未可知，而今天是上天的馈赠。
+  > You long to do what you want to do because you want it.
+  > 你渴望做成某件事的时候，才会对它念念不忘。
 
 ```
