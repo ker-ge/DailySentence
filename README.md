@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-18已更新 
+2023-09-19已更新 
 ```
 * 金山词霸
-  > How wonderful it is that nobody need wait a single moment before starting to improve the world.
-  > 所有人都不需等待，随时都可以开始改善世界，这是多么美好的一件事。
+  > Education is the most powerful weapon which you can use to change the world.
+  > 教育是足以让你改变世界的强大武器
 
 * 扇贝单词
-  > Don't go through life; grow through life.
-  > 别只是过活，要通过生活获得成长。
+  > How we spend our days is, of course, how we spend our lives.
+  > 我们如何度过每一天，当然也就会如何度过一生。
 
 * 有道词典
-  > You long to do what you want to do because you want it.
-  > 你渴望做成某件事的时候，才会对它念念不忘。
+  > No one can make you feel inferior without your consent.
+  > 若非妄自菲薄，没人能让你自惭形秽。
 
 ```
