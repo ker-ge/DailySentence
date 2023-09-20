@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-19已更新 
+2023-09-20已更新 
 ```
 * 金山词霸
-  > Education is the most powerful weapon which you can use to change the world.
-  > 教育是足以让你改变世界的强大武器
+  > Before anything else, preparation is the key to success.
+  > 在做任何事情之前，准备是达到成功的关键。
 
 * 扇贝单词
-  > How we spend our days is, of course, how we spend our lives.
-  > 我们如何度过每一天，当然也就会如何度过一生。
+  > Everyone gets the experience. Some get the lesson.
+  > 每个人都会有所经历，但只有一些人能从经历中得到教训。
 
 * 有道词典
-  > No one can make you feel inferior without your consent.
-  > 若非妄自菲薄，没人能让你自惭形秽。
+  > Sometimes the most romantic moments can just creep up on you.
+  > 有时，极致的浪漫会悄然而至。
 
 ```
