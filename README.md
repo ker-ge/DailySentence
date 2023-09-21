@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-20已更新 
+2023-09-21已更新 
 ```
 * 金山词霸
-  > Before anything else, preparation is the key to success.
-  > 在做任何事情之前，准备是达到成功的关键。
+  >  I alone can't change the world, but I can cast a stone across the waters to create many ripples.
+  > 我一个人无法改变世界，但我可以投掷石头于水中激起延绵涟漪
 
 * 扇贝单词
-  > Everyone gets the experience. Some get the lesson.
-  > 每个人都会有所经历，但只有一些人能从经历中得到教训。
+  > A mind is like a parachute. It doesn't work if it is not open.
+  > 心灵好比降落伞，打开了才能发挥作用。
 
 * 有道词典
-  > Sometimes the most romantic moments can just creep up on you.
-  > 有时，极致的浪漫会悄然而至。
+  > Everything has its time.
+  > 万物皆有时。
 
 ```
