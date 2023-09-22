@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-21已更新 
+2023-09-22已更新 
 ```
 * 金山词霸
-  >  I alone can't change the world, but I can cast a stone across the waters to create many ripples.
-  > 我一个人无法改变世界，但我可以投掷石头于水中激起延绵涟漪
+  > The price of doing the same old thing is far higher than the price of change. 
+  > 一直重复做旧事物的代价远胜于做出改变。
 
 * 扇贝单词
-  > A mind is like a parachute. It doesn't work if it is not open.
-  > 心灵好比降落伞，打开了才能发挥作用。
+  > A happy marriage is the union of two good forgivers.
+  > 两个善解人意的人才能缔造一段幸福的婚姻。
 
 * 有道词典
-  > Everything has its time.
-  > 万物皆有时。
+  > I feel waves upon my heart.
+  > 我心头的浪潮汹涌而来。
 
 ```
