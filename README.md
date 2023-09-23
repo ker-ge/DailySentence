@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-22已更新 
+2023-09-23已更新 
 ```
 * 金山词霸
-  > The price of doing the same old thing is far higher than the price of change. 
-  > 一直重复做旧事物的代价远胜于做出改变。
+  > The road to success and the road to failure are almost exactly the same.
+  > 通往成功之路与失败之路是几乎相同的。
 
 * 扇贝单词
-  > A happy marriage is the union of two good forgivers.
-  > 两个善解人意的人才能缔造一段幸福的婚姻。
+  > Life can only be understood backwards; but it must be lived forwards.
+  > 回首才能理解生活，但要继续生活，你必须前行。
 
 * 有道词典
-  > I feel waves upon my heart.
-  > 我心头的浪潮汹涌而来。
+  > As the sun begins to retreat, so autumn arrives.
+  > 炎热逐渐散去，秋意日渐浓郁。
 
 ```
