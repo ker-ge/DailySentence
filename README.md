@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-23已更新 
+2023-09-24已更新 
 ```
 * 金山词霸
-  > The road to success and the road to failure are almost exactly the same.
-  > 通往成功之路与失败之路是几乎相同的。
+  > Don't be afraid to give up the good to go for the great. 
+  > 不要畏惧放弃所拥有而舍弃追求卓越的机会。
 
 * 扇贝单词
-  > Life can only be understood backwards; but it must be lived forwards.
-  > 回首才能理解生活，但要继续生活，你必须前行。
+  > Whatever you are, be a good one.
+  > 不管你是什么样的人，都要善良。
 
 * 有道词典
-  > As the sun begins to retreat, so autumn arrives.
-  > 炎热逐渐散去，秋意日渐浓郁。
+  > There's always something we can do.
+  > 总有些事值得我们为之奋斗。
 
 ```
