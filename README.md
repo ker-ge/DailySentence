@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-24已更新 
+2023-09-25已更新 
 ```
 * 金山词霸
-  > Don't be afraid to give up the good to go for the great. 
-  > 不要畏惧放弃所拥有而舍弃追求卓越的机会。
+  > I failed my way to success. 
+  > 我从失败走向成功。
 
 * 扇贝单词
-  > Whatever you are, be a good one.
-  > 不管你是什么样的人，都要善良。
+  > Life shrinks or expands in proportion to one's courage.
+  > 生活的充实与贫乏取决于一个人的勇气。
 
 * 有道词典
-  > There's always something we can do.
-  > 总有些事值得我们为之奋斗。
+  > The opportunity presents itself.
+  > 机会就在眼前。
 
 ```
