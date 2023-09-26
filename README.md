@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-25已更新 
+2023-09-26已更新 
 ```
 * 金山词霸
-  > I failed my way to success. 
-  > 我从失败走向成功。
+  > What's dangerous is not to evolve.
+  > 最危险情况是当你不再有新进展。
 
 * 扇贝单词
-  > Life shrinks or expands in proportion to one's courage.
-  > 生活的充实与贫乏取决于一个人的勇气。
+  > Discovery consists of seeing what everybody has seen and thinking what nobody has thought.
+  > 要有所发现，就要见别人见过的，想没人想过的。
 
 * 有道词典
-  > The opportunity presents itself.
-  > 机会就在眼前。
+  > Many things are not what they seem.
+  > 很多事情并非看上去那么简单。
 
 ```
