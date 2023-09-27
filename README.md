@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-26已更新 
+2023-09-27已更新 
 ```
 * 金山词霸
-  > What's dangerous is not to evolve.
-  > 最危险情况是当你不再有新进展。
+  >  Things don't have to change the world to be important.
+  > 事情不是足以改变世界才算重要。
 
 * 扇贝单词
-  > Discovery consists of seeing what everybody has seen and thinking what nobody has thought.
-  > 要有所发现，就要见别人见过的，想没人想过的。
+  > Learn from yesterday, live for today, hope for tomorrow.
+  > 借鉴昨天，活在今天，憧憬明天。
 
 * 有道词典
-  > Many things are not what they seem.
-  > 很多事情并非看上去那么简单。
+  > In the end we will all be judged by the courage of our hearts.
+  > 最终衡量我们的是内心的勇气。
 
 ```
