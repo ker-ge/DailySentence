@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-27已更新 
+2023-09-28已更新 
 ```
 * 金山词霸
-  >  Things don't have to change the world to be important.
-  > 事情不是足以改变世界才算重要。
+  > A day of worry is more exhausting than a week of work.
+  > 忧虑的度过一天，比起工作一周还令人劳累。
 
 * 扇贝单词
-  > Learn from yesterday, live for today, hope for tomorrow.
-  > 借鉴昨天，活在今天，憧憬明天。
+  > It's better to be a lion for a day than a sheep all your life.
+  > 一日勇敢，胜过终生温软。
 
 * 有道词典
-  > In the end we will all be judged by the courage of our hearts.
-  > 最终衡量我们的是内心的勇气。
+  > Some things in life are worth waiting for.
+  > 生命中的有些事情是值得等待的。
 
 ```
