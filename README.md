@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-28已更新 
+2023-09-29已更新 
 ```
 * 金山词霸
-  > A day of worry is more exhausting than a week of work.
-  > 忧虑的度过一天，比起工作一周还令人劳累。
+  > As the bright moon shines over the sea,from far away you share this moment with me.   
+  > 海上生明月，天涯共此时。
 
 * 扇贝单词
-  > It's better to be a lion for a day than a sheep all your life.
-  > 一日勇敢，胜过终生温软。
+  > The one thing we can never get enough of is love. And the one thing we never give enough of is love.
+  > 我们永远要不够的是爱，我们永远给得不够多的也是爱。
 
 * 有道词典
-  > Some things in life are worth waiting for.
-  > 生命中的有些事情是值得等待的。
+  > Fold to feel, unfold to reveal.
+  > 心动，何止一面。
 
 ```
