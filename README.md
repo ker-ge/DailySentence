@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-29已更新 
+2023-09-30已更新 
 ```
 * 金山词霸
-  > As the bright moon shines over the sea,from far away you share this moment with me.   
-  > 海上生明月，天涯共此时。
+  > Keep your face to the sunshine and you can't see a shadow. 
+  > 面对阳光你就不会看到阴影
 
 * 扇贝单词
-  > The one thing we can never get enough of is love. And the one thing we never give enough of is love.
-  > 我们永远要不够的是爱，我们永远给得不够多的也是爱。
+  > I'm sure we'll meet in the spring. And catch up on everything.
+  > 我们一定会在春天相见，好好聊个天。
 
 * 有道词典
-  > Fold to feel, unfold to reveal.
-  > 心动，何止一面。
+  > Your real strength comes from being the best "You" you can be.
+  > 真正的强大在于成为最好的自我。
 
 ```
