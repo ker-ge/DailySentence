@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-09-30已更新 
+2023-10-01已更新 
 ```
 * 金山词霸
-  > Keep your face to the sunshine and you can't see a shadow. 
-  > 面对阳光你就不会看到阴影
+  > For thousands of years, mountains and rivers are the answer.
+  > 千秋为卷，山河作答。
 
 * 扇贝单词
-  > I'm sure we'll meet in the spring. And catch up on everything.
-  > 我们一定会在春天相见，好好聊个天。
+  > The art of being happy lies in the power of extracting happiness from common things.
+  > 幸福的诀窍在于能从平凡事物中提取快乐。
 
 * 有道词典
-  > Your real strength comes from being the best "You" you can be.
-  > 真正的强大在于成为最好的自我。
+  > May our country prosper and the people live a peaceful life!
+  > 愿祖国繁荣富强，人民安居乐业！
 
 ```
