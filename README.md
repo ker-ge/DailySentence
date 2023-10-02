@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-01已更新 
+2023-10-02已更新 
 ```
 * 金山词霸
-  > For thousands of years, mountains and rivers are the answer.
-  > 千秋为卷，山河作答。
+  >  There is nothing permanent except change.
+  > 除了变化，没有什么是永恒的。
 
 * 扇贝单词
-  > The art of being happy lies in the power of extracting happiness from common things.
-  > 幸福的诀窍在于能从平凡事物中提取快乐。
+  > I walk slowly, but I never walk backward.
+  > 我走得慢，但从不后退。
 
 * 有道词典
-  > May our country prosper and the people live a peaceful life!
-  > 愿祖国繁荣富强，人民安居乐业！
+  > Winners never quit!
+  > 胜者永不言弃！
 
 ```
