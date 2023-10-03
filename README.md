@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-02已更新 
+2023-10-03已更新 
 ```
 * 金山词霸
-  >  There is nothing permanent except change.
-  > 除了变化，没有什么是永恒的。
+  > The world is before you and you need not take it or leave it as it was when you came in.
+  > 世界在你跟前，而你不一定要接受或维持它原先的样子。
 
 * 扇贝单词
-  > I walk slowly, but I never walk backward.
-  > 我走得慢，但从不后退。
+  > It is our choices that show what we truly are, far more than our abilities.
+  > 能展现真实的自我的，与其说是我们的能力，倒不如说我们所做的选择。
 
 * 有道词典
-  > Winners never quit!
-  > 胜者永不言弃！
+  > Nothing that has meaning is easy.
+  > 有意义的事往往不易做到。
 
 ```
