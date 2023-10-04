@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-03已更新 
+2023-10-04已更新 
 ```
 * 金山词霸
-  > The world is before you and you need not take it or leave it as it was when you came in.
-  > 世界在你跟前，而你不一定要接受或维持它原先的样子。
+  > Today was good. Today was fun. Tomorrow is another one.
+  > 不论今天过得很好还是过得很有趣。 明天都是新的开始。
 
 * 扇贝单词
-  > It is our choices that show what we truly are, far more than our abilities.
-  > 能展现真实的自我的，与其说是我们的能力，倒不如说我们所做的选择。
+  > Selfishness is not living as one wishes to live. It is asking others to live as one wishes to live.
+  > 过自己想要的生活不是自私，要求别人按自己的意愿生活才是。
 
 * 有道词典
-  > Nothing that has meaning is easy.
-  > 有意义的事往往不易做到。
+  > Something extraordinary happens.
+  > 妙不可言的事正在发生。
 
 ```
