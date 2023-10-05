@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-04已更新 
+2023-10-05已更新 
 ```
 * 金山词霸
-  > Today was good. Today was fun. Tomorrow is another one.
-  > 不论今天过得很好还是过得很有趣。 明天都是新的开始。
+  > Forgiveness is the oil of relationships.
+  > 原谅是人际关系的润滑油。
 
 * 扇贝单词
-  > Selfishness is not living as one wishes to live. It is asking others to live as one wishes to live.
-  > 过自己想要的生活不是自私，要求别人按自己的意愿生活才是。
+  > Remember to keep the mind calm in difficult moments.
+  > 遇到困难时，记得保持冷静。
 
 * 有道词典
-  > Something extraordinary happens.
-  > 妙不可言的事正在发生。
+  > Even suffering has its own meaning.
+  > 苦难亦有意义。
 
 ```
