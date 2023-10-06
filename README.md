@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-05已更新 
+2023-10-06已更新 
 ```
 * 金山词霸
-  > Forgiveness is the oil of relationships.
-  > 原谅是人际关系的润滑油。
+  > Everyone thinks of changing the world, but no one thinks of changing himself.
+  > 大家都只想着改变世界，却从没想过先改变自己
 
 * 扇贝单词
-  > Remember to keep the mind calm in difficult moments.
-  > 遇到困难时，记得保持冷静。
+  > Friends and good manners will carry you where money won't go.
+  > 朋友和教养带给你的世界，是金钱所不能及的。
 
 * 有道词典
-  > Even suffering has its own meaning.
-  > 苦难亦有意义。
+  > I love you more than anything.
+  > 我爱你胜过一切。
 
 ```
