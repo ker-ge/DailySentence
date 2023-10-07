@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-06已更新 
+2023-10-07已更新 
 ```
 * 金山词霸
-  > Everyone thinks of changing the world, but no one thinks of changing himself.
-  > 大家都只想着改变世界，却从没想过先改变自己
+  >  Play to your strengths. If you aren't great at something, do more of what you’re great at.
+  > 善用你的优势。 多做你擅长的事情而不是那些你不擅长的事。
 
 * 扇贝单词
-  > Friends and good manners will carry you where money won't go.
-  > 朋友和教养带给你的世界，是金钱所不能及的。
+  > Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind.
+  > 爱，不是用眼睛看的，而是用心体会的，所以爱神丘比特的眼睛总是蒙着的。
 
 * 有道词典
-  > I love you more than anything.
-  > 我爱你胜过一切。
+  > Everything that has happened to you is a gift.
+  > 过往种种，皆为馈赠。
 
 ```
