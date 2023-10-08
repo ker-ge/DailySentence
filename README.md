@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-07已更新 
+2023-10-08已更新 
 ```
 * 金山词霸
-  >  Play to your strengths. If you aren't great at something, do more of what you’re great at.
-  > 善用你的优势。 多做你擅长的事情而不是那些你不擅长的事。
+  > Everything that is happening at this moment is a result of the choices you've made in the past.
+  > 此刻所发生的所有事，都是你过去选择的结果。
 
 * 扇贝单词
-  > Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind.
-  > 爱，不是用眼睛看的，而是用心体会的，所以爱神丘比特的眼睛总是蒙着的。
+  > Curiosity is the wick in the candle of learning.
+  > 如果学习是一根蜡烛，那好奇心就是烛芯。
 
 * 有道词典
-  > Everything that has happened to you is a gift.
-  > 过往种种，皆为馈赠。
+  > If we want to do it, we can do it.
+  > 有志者事竟成。
 
 ```
