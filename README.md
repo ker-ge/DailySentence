@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-08已更新 
+2023-10-09已更新 
 ```
 * 金山词霸
-  > Everything that is happening at this moment is a result of the choices you've made in the past.
-  > 此刻所发生的所有事，都是你过去选择的结果。
+  > Things change. And friends leave. Life doesn't stop for anybody. 
+  > 事情会改变，朋友会离去。 生命不会为了任何人而停歇。
 
 * 扇贝单词
-  > Curiosity is the wick in the candle of learning.
-  > 如果学习是一根蜡烛，那好奇心就是烛芯。
+  > Spend more time smiling than frowning and more time praising than criticizing.
+  > 多花时间微笑，少花时间蹙眉，多花时间表扬，少花时间批评。
 
 * 有道词典
-  > If we want to do it, we can do it.
-  > 有志者事竟成。
+  > All of human wisdom can be summed up in these two words: wait and hope.
+  > 人类的智慧皆可归结为两个词：等待与希望。
 
 ```
