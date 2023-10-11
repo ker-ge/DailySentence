@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-10已更新 
+2023-10-11已更新 
 ```
 * 金山词霸
-  > Failure is another steppingstone to greatness.
-  > 失败是抵达卓越的另一个踏脚石。
+  > Times and conditions change so rapidly that we must keep our aim constantly focused on the future. 
+  > 时代和环境变化非常快速，因此我们必须持续将目光聚焦在未来。
 
 * 扇贝单词
-  > Jumping from failure to failure with undiminished enthusiasm is the big secret to success.
-  > 越过一次次失败，却不丧失热情，才是成功的伟大秘诀。
+  > Always seek out the seed of triumph in every adversity.
+  > 在每一次困境中都要寻找胜利的希望。
 
 * 有道词典
-  > Tomorrow will be better.
-  > 明天会更好。
+  > I like to feel his eyes on me when I look away.
+  > 我喜欢我望向别处时，他看着我的目光。
 
 ```
