@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-11已更新 
+2023-10-12已更新 
 ```
 * 金山词霸
-  > Times and conditions change so rapidly that we must keep our aim constantly focused on the future. 
-  > 时代和环境变化非常快速，因此我们必须持续将目光聚焦在未来。
+  > He that is over-cautious will accomplish little.
+  > 过分谨慎的人难有成就。
 
 * 扇贝单词
-  > Always seek out the seed of triumph in every adversity.
-  > 在每一次困境中都要寻找胜利的希望。
+  > Life begins at the end of your comfort zone.
+  > 走出舒适区，生活才算开始。
 
 * 有道词典
-  > I like to feel his eyes on me when I look away.
-  > 我喜欢我望向别处时，他看着我的目光。
+  > Follow your heart.
+  > 跟着你的心走。
 
 ```
