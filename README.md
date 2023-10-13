@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-12已更新 
+2023-10-13已更新 
 ```
 * 金山词霸
-  > He that is over-cautious will accomplish little.
-  > 过分谨慎的人难有成就。
+  > Success is walking from failure to failure with no loss of enthusiasm. 
+  > 成功就是经历一次次失败，却都不失热情。
 
 * 扇贝单词
-  > Life begins at the end of your comfort zone.
-  > 走出舒适区，生活才算开始。
+  > Our attitude toward life determines life's attitude towards us.
+  > 我们对生活的态度决定了生活对我们的态度。
 
 * 有道词典
-  > Follow your heart.
-  > 跟着你的心走。
+  > Everything happens in good time.
+  > 万物皆有定时。
 
 ```
