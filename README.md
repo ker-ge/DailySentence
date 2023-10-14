@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-13已更新 
+2023-10-14已更新 
 ```
 * 金山词霸
-  > Success is walking from failure to failure with no loss of enthusiasm. 
-  > 成功就是经历一次次失败，却都不失热情。
+  > He is no wise man who will quit a certainty for an uncertainty.
+  > 为了不确定的事而放弃确定的事是不智的。
 
 * 扇贝单词
-  > Our attitude toward life determines life's attitude towards us.
-  > 我们对生活的态度决定了生活对我们的态度。
+  > Success is not final, failure is not fatal: it is the courage to continue that counts.
+  > 成功不是终点，失败也不足以致命，最可贵的是继续前进的勇气。
 
 * 有道词典
-  > Everything happens in good time.
-  > 万物皆有定时。
+  > Let's keep going.
+  > 我们继续前行吧。
 
 ```
