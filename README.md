@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-14已更新 
+2023-10-15已更新 
 ```
 * 金山词霸
-  > He is no wise man who will quit a certainty for an uncertainty.
-  > 为了不确定的事而放弃确定的事是不智的。
+  > We reform others unconsciously when we walk uprightly.
+  > 当我们行为端正，我们无意中转化他人。
 
 * 扇贝单词
-  > Success is not final, failure is not fatal: it is the courage to continue that counts.
-  > 成功不是终点，失败也不足以致命，最可贵的是继续前进的勇气。
+  > The only thing worse than being blind is having sight but no vision.
+  > 没有远见卓识是比失明更糟糕的事情。
 
 * 有道词典
-  > Let's keep going.
-  > 我们继续前行吧。
+  > I will always be there for you.
+  > 我一直都在你身边。
 
 ```
