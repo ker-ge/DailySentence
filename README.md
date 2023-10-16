@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-15已更新 
+2023-10-16已更新 
 ```
 * 金山词霸
-  > We reform others unconsciously when we walk uprightly.
-  > 当我们行为端正，我们无意中转化他人。
+  > Big shots are only little shots who keep shooting.
+  > 大人物都是从小人物时不断地尝试而造就。
 
 * 扇贝单词
-  > The only thing worse than being blind is having sight but no vision.
-  > 没有远见卓识是比失明更糟糕的事情。
+  > A fool sees not the same tree that a wise man sees.
+  > 同一棵树，在愚者和智者的眼中却有所不同。
 
 * 有道词典
-  > I will always be there for you.
-  > 我一直都在你身边。
+  > You can't blend in when you were born to stand out.
+  > 你无法融入人群，只因生来与众不同。
 
 ```
