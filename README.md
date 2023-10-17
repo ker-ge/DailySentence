@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-16已更新 
+2023-10-17已更新 
 ```
 * 金山词霸
-  > Big shots are only little shots who keep shooting.
-  > 大人物都是从小人物时不断地尝试而造就。
+  > Become the person who would attract the results you seek.
+  > 努力成为那位能获得你追寻目标的人物。
 
 * 扇贝单词
-  > A fool sees not the same tree that a wise man sees.
-  > 同一棵树，在愚者和智者的眼中却有所不同。
+  > Don't compare your life to others. You have no idea what they have been through.
+  > 不要和别人比生活，你不知道他们经历了什么。
 
 * 有道词典
-  > You can't blend in when you were born to stand out.
-  > 你无法融入人群，只因生来与众不同。
+  > Everybody deserves kindness.
+  > 每个人都值得被善待。
 
 ```
