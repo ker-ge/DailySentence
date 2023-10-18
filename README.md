@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-17已更新 
+2023-10-18已更新 
 ```
 * 金山词霸
-  > Become the person who would attract the results you seek.
-  > 努力成为那位能获得你追寻目标的人物。
+  > You’ll never get ahead by blaming your problems on other people.
+  > 怪罪别人绝不会让你获得成功。
 
 * 扇贝单词
-  > Don't compare your life to others. You have no idea what they have been through.
-  > 不要和别人比生活，你不知道他们经历了什么。
+  > Be faithful in small things because it is in them that your strength lies.
+  > 要对微小的事物怀有信念，因为真正的力量存乎其中。
 
 * 有道词典
-  > Everybody deserves kindness.
-  > 每个人都值得被善待。
+  > You are the wind beneath my wings.
+  > 你是我羽翼下的风，给予我力量。
 
 ```
