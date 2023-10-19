@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-18已更新 
+2023-10-19已更新 
 ```
 * 金山词霸
-  > You’ll never get ahead by blaming your problems on other people.
-  > 怪罪别人绝不会让你获得成功。
+  > You're not obligated to win. You're obligated to keep trying. To the best you can do everyday.
+  > 但你必须不断尝试，每天表现你最好的一面。
 
 * 扇贝单词
-  > Be faithful in small things because it is in them that your strength lies.
-  > 要对微小的事物怀有信念，因为真正的力量存乎其中。
+  > The deepest principle in human nature is the craving to be appreciated.
+  > 人性中最深刻的本能就是渴望被欣赏。
 
 * 有道词典
-  > You are the wind beneath my wings.
-  > 你是我羽翼下的风，给予我力量。
+  > A friend is what the heart needs all the time.
+  > 朋友总能安抚心绪。
 
 ```
