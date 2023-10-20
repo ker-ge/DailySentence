@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-19已更新 
+2023-10-20已更新 
 ```
 * 金山词霸
-  > You're not obligated to win. You're obligated to keep trying. To the best you can do everyday.
-  > 但你必须不断尝试，每天表现你最好的一面。
+  > Don’t worry about failure; you only have to be right once.
+  > 别害怕失败，只要做对一次就够了。
 
 * 扇贝单词
-  > The deepest principle in human nature is the craving to be appreciated.
-  > 人性中最深刻的本能就是渴望被欣赏。
+  > Vitality shows in not only the ability to persist but the ability to start over.
+  > 顽强的生命力不仅仅体现在坚持的力量，还有重新来过的能力。
 
 * 有道词典
-  > A friend is what the heart needs all the time.
-  > 朋友总能安抚心绪。
+  > Because the dark surrounds us, let us turn our faces to the light.
+  > 身陷黑暗之中，也要心向光明。
 
 ```
