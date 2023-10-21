@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-20已更新 
+2023-10-21已更新 
 ```
 * 金山词霸
-  > Don’t worry about failure; you only have to be right once.
-  > 别害怕失败，只要做对一次就够了。
+  > If you want something you've never had, you must be willing to do something you've never done.
+  > 若想得到你从未拥有的东西，你得愿意做你从未做过的事。
 
 * 扇贝单词
-  > Vitality shows in not only the ability to persist but the ability to start over.
-  > 顽强的生命力不仅仅体现在坚持的力量，还有重新来过的能力。
+  > A heavy dew refreshed the earth at night.
+  > 夜晚厚重的露水滋养着大地。
 
 * 有道词典
-  > Because the dark surrounds us, let us turn our faces to the light.
-  > 身陷黑暗之中，也要心向光明。
+  > The brave may not live forever, but the cautious do not live at all.
+  > 或许勇气不能长盛不衰，可是胆怯必然百无一用。
 
 ```
