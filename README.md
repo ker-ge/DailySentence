@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-21已更新 
+2023-10-22已更新 
 ```
 * 金山词霸
-  > If you want something you've never had, you must be willing to do something you've never done.
-  > 若想得到你从未拥有的东西，你得愿意做你从未做过的事。
+  > Everything you've ever wanted is on the other side of fear.
+  > 你得先跨越恐惧才能获得你所想要的一切。
 
 * 扇贝单词
-  > A heavy dew refreshed the earth at night.
-  > 夜晚厚重的露水滋养着大地。
+  > It's the possibility of having a dream come true that makes life interesting.
+  > 梦想有可能成为现实，生活正是因此而有趣。
 
 * 有道词典
-  > The brave may not live forever, but the cautious do not live at all.
-  > 或许勇气不能长盛不衰，可是胆怯必然百无一用。
+  > I'm the creator of my own destiny.
+  > 我主宰自己的命运。
 
 ```
