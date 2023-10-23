@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-22已更新 
+2023-10-23已更新 
 ```
 * 金山词霸
-  > Everything you've ever wanted is on the other side of fear.
-  > 你得先跨越恐惧才能获得你所想要的一切。
+  > Being alone in a strange place as a visitor, more so I miss my dear ones on festivals.
+  > 独在异乡为异客，每逢佳节倍思亲。
 
 * 扇贝单词
-  > It's the possibility of having a dream come true that makes life interesting.
-  > 梦想有可能成为现实，生活正是因此而有趣。
+  > If opportunity doesn't knock, build a door.
+  > 如果机会没有来敲门，那就自己盖个门。
 
 * 有道词典
-  > I'm the creator of my own destiny.
-  > 我主宰自己的命运。
+  > I will always have your back.
+  > 我会永远支持你。
 
 ```
