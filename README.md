@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-23已更新 
+2023-10-24已更新 
 ```
 * 金山词霸
-  > Being alone in a strange place as a visitor, more so I miss my dear ones on festivals.
-  > 独在异乡为异客，每逢佳节倍思亲。
+  > If you don't make things happen, then things will happen to you.
+  > 你不造就未来，就不能控制发生在你身上的事。
 
 * 扇贝单词
-  > If opportunity doesn't knock, build a door.
-  > 如果机会没有来敲门，那就自己盖个门。
+  > Our growth depends not on how many experiences we devour, but on how many we digest.
+  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
 
 * 有道词典
-  > I will always have your back.
-  > 我会永远支持你。
+  > The sun shone, having no alternative.
+  > 太阳照常升起。
 
 ```
