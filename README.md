@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-24已更新 
+2023-10-25已更新 
 ```
 * 金山词霸
-  > If you don't make things happen, then things will happen to you.
-  > 你不造就未来，就不能控制发生在你身上的事。
+  > Doubt is a killer. You just have to know who you are and what you stand for.
+  > 怀疑心是杀手。 你需要做的仅是知道自己的立场和自己是为谁而战。
 
 * 扇贝单词
-  > Our growth depends not on how many experiences we devour, but on how many we digest.
-  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
+  > Adopting the right attitude can convert a negative stress into a positive one.
+  > 采取正确的态度可以将负面的压力转化为积极的动力。
 
 * 有道词典
-  > The sun shone, having no alternative.
-  > 太阳照常升起。
+  > Love dies, but its echoes never do.
+  > 爱会消逝，但余韵永存。
 
 ```
