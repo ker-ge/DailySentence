@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-25已更新 
+2023-10-26已更新 
 ```
 * 金山词霸
-  > Doubt is a killer. You just have to know who you are and what you stand for.
-  > 怀疑心是杀手。 你需要做的仅是知道自己的立场和自己是为谁而战。
+  > Use the losses and failures of the past as a reason for action, not inaction.
+  > 过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
 
 * 扇贝单词
-  > Adopting the right attitude can convert a negative stress into a positive one.
-  > 采取正确的态度可以将负面的压力转化为积极的动力。
+  > Try a little harder to be a little better.
+  > 多做点努力，让自己变得更好一点。
 
 * 有道词典
-  > Love dies, but its echoes never do.
-  > 爱会消逝，但余韵永存。
+  > There's no one in the world like you.
+  > 你是这世上独一无二的存在。
 
 ```
