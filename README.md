@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-26已更新 
+2023-10-27已更新 
 ```
 * 金山词霸
-  > Use the losses and failures of the past as a reason for action, not inaction.
-  > 过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
+  > Idealism increases in direct proportion to one’s distance from the problem.
+  > 一个人离问题愈远就愈理想主义。
 
 * 扇贝单词
-  > Try a little harder to be a little better.
-  > 多做点努力，让自己变得更好一点。
+  > The older I get, the less I listen to what people say and the more I look at what they do.
+  > 年龄越大，我越不会听人们嘴上怎么说，而是越会看他们怎么做。
 
 * 有道词典
-  > There's no one in the world like you.
-  > 你是这世上独一无二的存在。
+  > Take life as it comes.
+  > 既来之，则安之。
 
 ```
