@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-27已更新 
+2023-10-28已更新 
 ```
 * 金山词霸
-  > Idealism increases in direct proportion to one’s distance from the problem.
-  > 一个人离问题愈远就愈理想主义。
+  > Motivation will almost always beat mere talent.
+  > 动机总是能战胜天赋。
 
 * 扇贝单词
-  > The older I get, the less I listen to what people say and the more I look at what they do.
-  > 年龄越大，我越不会听人们嘴上怎么说，而是越会看他们怎么做。
+  > Great minds discuss ideas; average minds discuss events; small minds discuss people.
+  > 智者谈论思想；普通人谈论事情；小人谈论他人。
 
 * 有道词典
-  > Take life as it comes.
-  > 既来之，则安之。
+  > It takes courage to grow up.
+  > 成长需要勇气。
 
 ```
