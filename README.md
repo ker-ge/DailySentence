@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-28已更新 
+2023-10-29已更新 
 ```
 * 金山词霸
-  > Motivation will almost always beat mere talent.
-  > 动机总是能战胜天赋。
+  > Change before you have to.
+  > 在被迫改变之前自己先改变
 
 * 扇贝单词
-  > Great minds discuss ideas; average minds discuss events; small minds discuss people.
-  > 智者谈论思想；普通人谈论事情；小人谈论他人。
+  > The first duty of love is to listen.
+  > 爱的首要义务是倾听。
 
 * 有道词典
-  > It takes courage to grow up.
-  > 成长需要勇气。
+  > You are a bright shining star.
+  > 你如星星一般耀眼。
 
 ```
