@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-29已更新 
+2023-10-30已更新 
 ```
 * 金山词霸
-  > Change before you have to.
-  > 在被迫改变之前自己先改变
+  > Once you surrender to your vision, success begins to chase you.
+  > 当你把自已交给愿景后，成功开始追逐你。
 
 * 扇贝单词
-  > The first duty of love is to listen.
-  > 爱的首要义务是倾听。
+  > If you would be loved, love, and be loveable.
+  > 如果你想要被爱，就要去爱，并要让自己值得被爱。
 
 * 有道词典
-  > You are a bright shining star.
-  > 你如星星一般耀眼。
+  > Time flows like a river.
+  > 时光如河水般流逝。
 
 ```
