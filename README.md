@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-30已更新 
+2023-10-31已更新 
 ```
 * 金山词霸
-  > Once you surrender to your vision, success begins to chase you.
-  > 当你把自已交给愿景后，成功开始追逐你。
+  > You can't give up! If you give up, you're like everybody else.
+  > 不要放弃！ 一旦你放弃了，就跟一般人没什么两样了。
 
 * 扇贝单词
-  > If you would be loved, love, and be loveable.
-  > 如果你想要被爱，就要去爱，并要让自己值得被爱。
+  > That it will never come again is what makes life sweet.
+  > 生活不会重来，这正是它美好的原因。
 
 * 有道词典
-  > Time flows like a river.
-  > 时光如河水般流逝。
+  > I've always believed that in the darkest hour, a light shines brightest.
+  > 我坚信，在至暗时刻，总有光芒无比闪耀。
 
 ```
