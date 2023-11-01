@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-10-31已更新 
+2023-11-01已更新 
 ```
 * 金山词霸
-  > You can't give up! If you give up, you're like everybody else.
-  > 不要放弃！ 一旦你放弃了，就跟一般人没什么两样了。
+  > Never walk away from failure. On the contrary, study it carefully and imaginatively for its hidden assets.
+  > 遇到失败绝不要一走了之，相反的，为其隐藏的资产仔细并有想像力的研究。
 
 * 扇贝单词
-  > That it will never come again is what makes life sweet.
-  > 生活不会重来，这正是它美好的原因。
+  > The only way to have a friend is to be one.
+  > 获得朋友的唯一方法是成为别人的朋友。
 
 * 有道词典
-  > I've always believed that in the darkest hour, a light shines brightest.
-  > 我坚信，在至暗时刻，总有光芒无比闪耀。
+  > I want you to always, always, always pay attention to yourself first.
+  > 永远把自己放在第一位。。
 
 ```
