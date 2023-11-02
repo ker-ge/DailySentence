@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-01已更新 
+2023-11-02已更新 
 ```
 * 金山词霸
-  > Never walk away from failure. On the contrary, study it carefully and imaginatively for its hidden assets.
-  > 遇到失败绝不要一走了之，相反的，为其隐藏的资产仔细并有想像力的研究。
+  > There’s never any guarantee that anyone will like you. So if anyone likes you at all, you’ve already won.
+  > 永远无法保证有人会喜欢你。 所以如果有人喜欢你，你就已经赢了。
 
 * 扇贝单词
-  > The only way to have a friend is to be one.
-  > 获得朋友的唯一方法是成为别人的朋友。
+  > To love oneself is the beginning of a lifelong romance.
+  > 爱自己是终身浪漫的开始。
 
 * 有道词典
-  > I want you to always, always, always pay attention to yourself first.
-  > 永远把自己放在第一位。。
+  > Every star in the universe, we were going to see them all.
+  > 我们要一起看遍宇宙繁星。
 
 ```
