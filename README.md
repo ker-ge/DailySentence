@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-02已更新 
+2023-11-03已更新 
 ```
 * 金山词霸
-  > There’s never any guarantee that anyone will like you. So if anyone likes you at all, you’ve already won.
-  > 永远无法保证有人会喜欢你。 所以如果有人喜欢你，你就已经赢了。
+  > If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.
+  > 如果有人想提供一个绝佳的成长机会给你，千万别再问对方有哪些机会选择，先把握住就对了。
 
 * 扇贝单词
-  > To love oneself is the beginning of a lifelong romance.
-  > 爱自己是终身浪漫的开始。
+  > A real friend is one who walks in when the rest of the world walks out.
+  > 真正的朋友会在全世界与你为敌时站在你身边。
 
 * 有道词典
-  > Every star in the universe, we were going to see them all.
-  > 我们要一起看遍宇宙繁星。
+  > I'm not concerned to the past, only the future.
+  > 我不关心过去，只着眼于未来。
 
 ```
