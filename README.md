@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-03已更新 
+2023-11-04已更新 
 ```
 * 金山词霸
-  > If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.
-  > 如果有人想提供一个绝佳的成长机会给你，千万别再问对方有哪些机会选择，先把握住就对了。
+  > Eloquent speech is not from lip to ear, but rather from heart to heart.
+  > 在有说服力的演讲，讯息的传递不是由口到耳，而是由心到心。
 
 * 扇贝单词
-  > A real friend is one who walks in when the rest of the world walks out.
-  > 真正的朋友会在全世界与你为敌时站在你身边。
+  > One word frees us of all the weight and pain of life: That word is love.
+  > 有一个字能让我们摆脱生活的压力与痛苦，这个字就是“爱”。
 
 * 有道词典
-  > I'm not concerned to the past, only the future.
-  > 我不关心过去，只着眼于未来。
+  > We live and learn..
+  > 活到老，学到老。
 
 ```
