@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-04已更新 
+2023-11-05已更新 
 ```
 * 金山词霸
-  > Eloquent speech is not from lip to ear, but rather from heart to heart.
-  > 在有说服力的演讲，讯息的传递不是由口到耳，而是由心到心。
+  > The harder you work, the luckier you get. 
+  > 越努力就能越幸运。
 
 * 扇贝单词
-  > One word frees us of all the weight and pain of life: That word is love.
-  > 有一个字能让我们摆脱生活的压力与痛苦，这个字就是“爱”。
+  > The future belongs to those who believe in the beauty of their dreams.
+  > 未来属于那些相信梦想之美的人。
 
 * 有道词典
-  > We live and learn..
-  > 活到老，学到老。
+  > Freedom is about being yourself.
+  > 坚持自我，方获自由。
 
 ```
