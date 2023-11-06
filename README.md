@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-05已更新 
+2023-11-06已更新 
 ```
 * 金山词霸
-  > The harder you work, the luckier you get. 
-  > 越努力就能越幸运。
+  > If you're going through hell, keep going.
+  > 如果你正在经历困境苦难的途中，请继续前进。
 
 * 扇贝单词
-  > The future belongs to those who believe in the beauty of their dreams.
-  > 未来属于那些相信梦想之美的人。
+  > Happiness depends upon ourselves.
+  > 幸福与否我们自己说了算。
 
 * 有道词典
-  > Freedom is about being yourself.
-  > 坚持自我，方获自由。
+  > Everything has a price.
+  > 凡事皆有代价。
 
 ```
