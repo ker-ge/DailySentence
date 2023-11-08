@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-07已更新 
+2023-11-08已更新 
 ```
 * 金山词霸
-  > Cherish forever what makes you unique, cuz you’re really a yawn if it goes.
-  > 感恩让能你与众不同的一切，因为失去这些差异你将会过的索然无味。
+  > Nothing is impossible; the word itself says 'I'm possible!
+  > 没有什么是不可能的 ; 这个词本意就是“我有一切可能” 。
 
 * 扇贝单词
-  > You'll never be alone if you've got a book.
-  > 只要手捧书卷，你就永远不会感到孤独。
+  > Positive thinking will let you do everything better than negative thinking will.
+  > 比起悲观，乐观会让你把所有事情做得更好。
 
 * 有道词典
-  > We can venture into the blackest night and shine a light on the darkness.
-  > 走进黑暗的夜晚，并投下一束光。
+  > Winter is coming.
+  > 冬天来了。
 
 ```
