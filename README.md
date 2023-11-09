@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-08已更新 
+2023-11-09已更新 
 ```
 * 金山词霸
-  > Nothing is impossible; the word itself says 'I'm possible!
-  > 没有什么是不可能的 ; 这个词本意就是“我有一切可能” 。
+  > Whatever you are, be a good one.
+  > 无论你是谁，请当好的那一位。
 
 * 扇贝单词
-  > Positive thinking will let you do everything better than negative thinking will.
-  > 比起悲观，乐观会让你把所有事情做得更好。
+  > That man is richest whose pleasures are cheapest.
+  > 能轻易获得快乐的人最富有。
 
 * 有道词典
-  > Winter is coming.
-  > 冬天来了。
+  > You sail the high seas. You go where nobody goes.
+  > 你应遨游瀚海，征服无人之境。
 
 ```
