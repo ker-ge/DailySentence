@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-09已更新 
+2023-11-10已更新 
 ```
 * 金山词霸
-  > Whatever you are, be a good one.
-  > 无论你是谁，请当好的那一位。
+  > The road to Easy Street goes through the sewer.
+  > 前往「康庄大道」的路途中，你得先经历过下水道。
 
 * 扇贝单词
-  > That man is richest whose pleasures are cheapest.
-  > 能轻易获得快乐的人最富有。
+  > A day without laughter is a day wasted.
+  > 如果一天里没有欢笑，那这一天就被浪费了。
 
 * 有道词典
-  > You sail the high seas. You go where nobody goes.
-  > 你应遨游瀚海，征服无人之境。
+  > Life is full of sunshine and rainbows.
+  > 生活中充满阳光和彩虹。
 
 ```
