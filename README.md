@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-10已更新 
+2023-11-11已更新 
 ```
 * 金山词霸
-  > The road to Easy Street goes through the sewer.
-  > 前往「康庄大道」的路途中，你得先经历过下水道。
+  > Life is short, and it’s up to you to make it sweet.
+  > 生命短暂，而你可以决定让它活出灿烂。
 
 * 扇贝单词
-  > A day without laughter is a day wasted.
-  > 如果一天里没有欢笑，那这一天就被浪费了。
+  > There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+  > 成功没有诀窍。成功是筹备，苦干以及在失败中汲取教训的结果。
 
 * 有道词典
-  > Life is full of sunshine and rainbows.
-  > 生活中充满阳光和彩虹。
+  > My life is my life, my choices.
+  > 我的人生，由我选择。
 
 ```
