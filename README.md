@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-11已更新 
+2023-11-12已更新 
 ```
 * 金山词霸
-  > Life is short, and it’s up to you to make it sweet.
-  > 生命短暂，而你可以决定让它活出灿烂。
+  > Either run the day or the day runs you.
+  > 成功的人主宰时间，失败的人被时间主宰。
 
 * 扇贝单词
-  > There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
-  > 成功没有诀窍。成功是筹备，苦干以及在失败中汲取教训的结果。
+  > Progress is the activity of today and the assurance of tomorrow.
+  > 进步是今天的动力、明日的保证。
 
 * 有道词典
-  > My life is my life, my choices.
-  > 我的人生，由我选择。
+  > Make your own way.
+  > 闯出自己的一片天。
 
 ```
