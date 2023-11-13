@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-12已更新 
+2023-11-13已更新 
 ```
 * 金山词霸
-  > Either run the day or the day runs you.
-  > 成功的人主宰时间，失败的人被时间主宰。
+  > There’s so much creativity in brokeness. Brokeness will have you making it work. 
+  > 跳脱常规激发更多的创造力，同时可以造就不凡的成功。
 
 * 扇贝单词
-  > Progress is the activity of today and the assurance of tomorrow.
-  > 进步是今天的动力、明日的保证。
+  > You have to believe in yourself. That's the secret of success.
+  > 你必须相信自己，这是成功的秘诀。
 
 * 有道词典
-  > Make your own way.
-  > 闯出自己的一片天。
+  > A friend is a second self.
+  > 朋友是另一个自己。
 
 ```
