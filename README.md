@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-13已更新 
+2023-11-14已更新 
 ```
 * 金山词霸
-  > There’s so much creativity in brokeness. Brokeness will have you making it work. 
-  > 跳脱常规激发更多的创造力，同时可以造就不凡的成功。
+  > If they don’t give you a seat at the table, bring a folding chair
+  > 即使没人给你上桌的机会，你依旧得想尽办法让自己参与其中。
 
 * 扇贝单词
-  > You have to believe in yourself. That's the secret of success.
-  > 你必须相信自己，这是成功的秘诀。
+  > Perseverance is failing nineteen times and succeeding the twentieth.
+  > 十九次失败，到第二十次获得成功，这就叫坚持。
 
 * 有道词典
-  > A friend is a second self.
-  > 朋友是另一个自己。
+  > Every cloud has a silver lining.
+  > 黑暗中总有一丝光明。
 
 ```
