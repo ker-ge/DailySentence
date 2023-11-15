@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-14已更新 
+2023-11-15已更新 
 ```
 * 金山词霸
-  > If they don’t give you a seat at the table, bring a folding chair
-  > 即使没人给你上桌的机会，你依旧得想尽办法让自己参与其中。
+  > I attribute my success to this: I never gave or took any excuse. 
+  > 我将成功归功于这一点：从不给或找任何借口。
 
 * 扇贝单词
-  > Perseverance is failing nineteen times and succeeding the twentieth.
-  > 十九次失败，到第二十次获得成功，这就叫坚持。
+  > Courage is resistance to fear, mastery of fear, not absence of fear.
+  > 勇敢并非没有恐惧，而是克服恐惧，战胜恐惧。
 
 * 有道词典
-  > Every cloud has a silver lining.
-  > 黑暗中总有一丝光明。
+  > Elegance is a journey.
+  > 飞启优雅之旅。
 
 ```
