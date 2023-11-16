@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-15已更新 
+2023-11-16已更新 
 ```
 * 金山词霸
-  > I attribute my success to this: I never gave or took any excuse. 
-  > 我将成功归功于这一点：从不给或找任何借口。
+  > Your attitude, not your aptitude, will determine your altitude.
+  > 你人生的高度取决于你的态度非你的能力。
 
 * 扇贝单词
-  > Courage is resistance to fear, mastery of fear, not absence of fear.
-  > 勇敢并非没有恐惧，而是克服恐惧，战胜恐惧。
+  > Action is the foundational key to all success.
+  > 行动是所有成功的根本。
 
 * 有道词典
-  > Elegance is a journey.
-  > 飞启优雅之旅。
+  > Goodness comes from within.
+  > 善意源自内心。
 
 ```
