@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-16已更新 
+2023-11-17已更新 
 ```
 * 金山词霸
-  > Your attitude, not your aptitude, will determine your altitude.
-  > 你人生的高度取决于你的态度非你的能力。
+  > Quality performance starts with a positive attitude. 
+  > 优质的表现始于积极的态度。
 
 * 扇贝单词
-  > Action is the foundational key to all success.
-  > 行动是所有成功的根本。
+  > Activity is the only road to knowledge.
+  > 行动是通往知识的唯一道路。
 
 * 有道词典
-  > Goodness comes from within.
-  > 善意源自内心。
+  > We write our own story.
+  > 人生由自己书写。
 
 ```
