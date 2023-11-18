@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-17已更新 
+2023-11-18已更新 
 ```
 * 金山词霸
-  > Quality performance starts with a positive attitude. 
-  > 优质的表现始于积极的态度。
+  > A life lived by choice is a life of conscious action. A life lived by chance is a life of unconscious reaction.
+  > 选择生活的人是有意识地行动的人。凭运气生活的人是无意识地反应的人。
 
 * 扇贝单词
-  > Activity is the only road to knowledge.
-  > 行动是通往知识的唯一道路。
+  > Winners don't believe in fate like others do. They simply cannot accept defeat.
+  > 赢家不像他人那样相信命运。他们只是不能接受失败。
 
 * 有道词典
-  > We write our own story.
-  > 人生由自己书写。
+  > It's always darkest before the dawn.
+  > 黎明前总是最黑暗的。
 
 ```
