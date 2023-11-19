@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-18已更新 
+2023-11-19已更新 
 ```
 * 金山词霸
-  > A life lived by choice is a life of conscious action. A life lived by chance is a life of unconscious reaction.
-  > 选择生活的人是有意识地行动的人。凭运气生活的人是无意识地反应的人。
+  >  Life shrinks or expands in proportion to one's courage.
+  > 生命是走向凋零还是兴盛与一个人的勇气成正比。
 
 * 扇贝单词
-  > Winners don't believe in fate like others do. They simply cannot accept defeat.
-  > 赢家不像他人那样相信命运。他们只是不能接受失败。
+  > Real magic in relationships means an absence of judgment of others.
+  > 良好人际关系的秘诀，在于不对他人做出评判。
 
 * 有道词典
-  > It's always darkest before the dawn.
-  > 黎明前总是最黑暗的。
+  > Muse is everywhere.
+  > 灵感无处不在。
 
 ```
