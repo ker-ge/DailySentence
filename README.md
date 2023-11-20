@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-19已更新 
+2023-11-20已更新 
 ```
 * 金山词霸
-  >  Life shrinks or expands in proportion to one's courage.
-  > 生命是走向凋零还是兴盛与一个人的勇气成正比。
+  > A man, as a general rule, owes very little to what he is born with – a man is what he makes of himself.
+  > 人一般而言，天生的能力对他影响不大， 他如何造就自己决定他的人生。
 
 * 扇贝单词
-  > Real magic in relationships means an absence of judgment of others.
-  > 良好人际关系的秘诀，在于不对他人做出评判。
+  > We all die. The goal isn't to live forever, the goal is to create something that will.
+  > 人终有一死。活着并不是为了不朽，而是为了创造不朽。
 
 * 有道词典
-  > Muse is everywhere.
-  > 灵感无处不在。
+  > No one can cage a man who truly wants to be free.
+  > 没人能关住一个真心想获得自由的人。
 
 ```
