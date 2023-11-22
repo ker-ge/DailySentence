@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-21已更新 
+2023-11-22已更新 
 ```
 * 金山词霸
-  >  Knowing is not enough; we must apply. 
-  > 光是知道是不够的; 我们必须能够应用。
+  > Wishing is not enough; we must do. 
+  >  光是许愿望是不够的; 我们必须行动。
 
 * 扇贝单词
-  > You make a life out of what you have, not what you're missing.
-  > 生活依靠的是自己所拥有的，而不是所缺少的东西。
+  > Be happy, but never satisfied.
+  > 要快乐，但永远不要满足。
 
 * 有道词典
-  > You're part of my life.
-  > 你是我生命的一部分。
+  > Do what comes naturally.
+  > 顺其自然。
 
 ```
