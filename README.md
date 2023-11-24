@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-23已更新 
+2023-11-24已更新 
 ```
 * 金山词霸
-  > All great achievements require time.
-  > 所有伟大的成就都需要时间的积累。
+  >  I have stood on a mountain of no’s for one yes.
+  > 我在所有反对声中抵达山顶，只为获得一个肯定。
 
 * 扇贝单词
-  > Put your heart, mind, intellect and soul even to your smallest acts. This is the secret of success.
-  > 把你的全身心，灵魂都投入到你所做的最微小的事上。那是成功的秘诀。
+  > No problem can withstand the assault of sustained thinking.
+  > 没有问题能经得起不断思考的攻坚。
 
 * 有道词典
-  > Fate strikes when you least expect it.
-  > 意想不到之时，命运悄然而至。
+  > I made a wish on a star, and the star answered me.
+  > 我对着一颗星星许了个愿，那颗星星回应了我。
 
 ```
