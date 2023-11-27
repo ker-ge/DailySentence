@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-26已更新 
+2023-11-27已更新 
 ```
 * 金山词霸
-  >  Knowing what must be done does away with fear. 
-  > 当清楚知道目标该做什么时，恐惧感就会自行远离。
+  > If you want to make money, you have to help someone else make money. 
+  > 如果你想赚到钱，你必须也能帮别人赚到钱。
 
 * 扇贝单词
-  > Imagination is the voice of daring.
-  > 想象力是大胆的体现。
+  > It never will rain roses. When we want to have more roses we must plant trees.
+  > 天上永远不会掉下玫瑰来，如果想要更多的玫瑰，必须自己种植。
 
 * 有道词典
-  > Look on the bright side.
-  > 凡事多往好处想。
+  > You stand as everything that is precious.
+  > 在这世间，你最珍贵。
 
 ```
