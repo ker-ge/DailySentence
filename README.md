@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-27已更新 
+2023-11-28已更新 
 ```
 * 金山词霸
-  > If you want to make money, you have to help someone else make money. 
-  > 如果你想赚到钱，你必须也能帮别人赚到钱。
+  >  If you don’t risk anything, you risk even more.
+  > 如果你不敢冒任何风险，那么你就会身处在更大的风险之中。
 
 * 扇贝单词
-  > It never will rain roses. When we want to have more roses we must plant trees.
-  > 天上永远不会掉下玫瑰来，如果想要更多的玫瑰，必须自己种植。
+  > The only limit to the height of your achievements is the reach of your dreams and your willingness to work hard for them.
+  > 唯一限制你成就高度的，是你梦想的限度，以及为之努力的意愿。
 
 * 有道词典
-  > You stand as everything that is precious.
-  > 在这世间，你最珍贵。
+  > It's now or never.
+  > 机不可失，失不再来。
 
 ```
