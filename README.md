@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-28已更新 
+2023-11-29已更新 
 ```
 * 金山词霸
-  >  If you don’t risk anything, you risk even more.
-  > 如果你不敢冒任何风险，那么你就会身处在更大的风险之中。
+  > Intelligence without ambition is a bird without wings.
+  > 聪明但没有抱负，就像没有翅膀的鸟。
 
 * 扇贝单词
-  > The only limit to the height of your achievements is the reach of your dreams and your willingness to work hard for them.
-  > 唯一限制你成就高度的，是你梦想的限度，以及为之努力的意愿。
+  > Winners lose more than losers, because they stay in the game.
+  > 胜利者比失败者输得场次更多，因为他们一直留在赛场上。
 
 * 有道词典
-  > It's now or never.
-  > 机不可失，失不再来。
+  > The clouds aren't hurting the sky. They were temporary.
+  > 乌云无法遮蔽天空，只能暂时停留。
 
 ```
