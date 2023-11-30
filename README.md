@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-29已更新 
+2023-11-30已更新 
 ```
 * 金山词霸
-  > Intelligence without ambition is a bird without wings.
-  > 聪明但没有抱负，就像没有翅膀的鸟。
+  > No one can make you feel inferior without your consent.
+  > 没有人能在取得你的同意前让你自己感到自卑。
 
 * 扇贝单词
-  > Winners lose more than losers, because they stay in the game.
-  > 胜利者比失败者输得场次更多，因为他们一直留在赛场上。
+  > To fall in love with yourself is the first secret to happiness.
+  > 爱上自己是通往幸福的第一条奥秘。
 
 * 有道词典
-  > The clouds aren't hurting the sky. They were temporary.
-  > 乌云无法遮蔽天空，只能暂时停留。
+  > You deserve to be heard.
+  > 你的声音，值得被听见。
 
 ```
