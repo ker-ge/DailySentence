@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-11-30已更新 
+2023-12-01已更新 
 ```
 * 金山词霸
-  > No one can make you feel inferior without your consent.
-  > 没有人能在取得你的同意前让你自己感到自卑。
+  >  When you undervalue what you do, the world will undervalue who you are. 
+  > 当你低估自己所做的事情时，世界同时也会低估你的价值。
 
 * 扇贝单词
-  > To fall in love with yourself is the first secret to happiness.
-  > 爱上自己是通往幸福的第一条奥秘。
+  > The secret of discipline is motivation. When a man is sufficiently motivated, discipline will take care of itself.
+  > 自律的关键是动机，当一个人的动力足够时，他自然就能自律。
 
 * 有道词典
-  > You deserve to be heard.
-  > 你的声音，值得被听见。
+  > The only true power comes from within.
+  > 真正的力量源自内心。
 
 ```
