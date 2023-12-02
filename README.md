@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-01已更新 
+2023-12-02已更新 
 ```
 * 金山词霸
-  >  When you undervalue what you do, the world will undervalue who you are. 
-  > 当你低估自己所做的事情时，世界同时也会低估你的价值。
+  > The man who has made up his mind to win will never say "impossible".
+  > 决心取得胜利的人从来不说“不可能”。
 
 * 扇贝单词
-  > The secret of discipline is motivation. When a man is sufficiently motivated, discipline will take care of itself.
-  > 自律的关键是动机，当一个人的动力足够时，他自然就能自律。
+  > We don't want to tell our dreams. We want to show them.
+  > 我们不想把梦想说出来，而是想展现出来。
 
 * 有道词典
-  > The only true power comes from within.
-  > 真正的力量源自内心。
+  > You are the light of my life.
+  > 你是我的生命之光。
 
 ```
