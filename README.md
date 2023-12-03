@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-02已更新 
+2023-12-03已更新 
 ```
 * 金山词霸
-  > The man who has made up his mind to win will never say "impossible".
-  > 决心取得胜利的人从来不说“不可能”。
+  >  If you want to lift yourself up, lift up someone else. 
+  > 如果你想振奋自己， 先振奋周遭的人。
 
 * 扇贝单词
-  > We don't want to tell our dreams. We want to show them.
-  > 我们不想把梦想说出来，而是想展现出来。
+  > Life isn't tied with a bow, but it's still a gift.
+  > 生活没有打上蝴蝶结，但它仍是一份礼物。
 
 * 有道词典
-  > You are the light of my life.
-  > 你是我的生命之光。
+  > We have seen our way through even the darkest nights.
+  > 即便在至暗黑夜，也能找到前进道路。
 
 ```
