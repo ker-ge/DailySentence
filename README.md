@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-03已更新 
+2023-12-04已更新 
 ```
 * 金山词霸
-  >  If you want to lift yourself up, lift up someone else. 
-  > 如果你想振奋自己， 先振奋周遭的人。
+  >  You just can't beat the person who never gives up. 
+  > 你无法打败那位永不放弃的人。
 
 * 扇贝单词
-  > Life isn't tied with a bow, but it's still a gift.
-  > 生活没有打上蝴蝶结，但它仍是一份礼物。
+  > True self-discovery begins where your comfort zone ends.
+  > 真正的自我发现，始于你踏出了你的舒适区。
 
 * 有道词典
-  > We have seen our way through even the darkest nights.
-  > 即便在至暗黑夜，也能找到前进道路。
+  > Seize the day. Gather your rosebuds while you may.
+  > 折花趁年华，莫负好时光。
 
 ```
