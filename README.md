@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-04已更新 
+2023-12-05已更新 
 ```
 * 金山词霸
-  >  You just can't beat the person who never gives up. 
-  > 你无法打败那位永不放弃的人。
+  > Develop your imagination – you can use it to create in your mind what you hope to create in your life.
+  > 发展你的想像力 – 你可以用它在心里创造你想在现实生活创造的东西。
 
 * 扇贝单词
-  > True self-discovery begins where your comfort zone ends.
-  > 真正的自我发现，始于你踏出了你的舒适区。
+  > Don't settle for what life gives you; make life better and build something.
+  > 不要满足于生活赋予你的，要有所创造，让人生变得更好。
 
 * 有道词典
-  > Seize the day. Gather your rosebuds while you may.
-  > 折花趁年华，莫负好时光。
+  > You can't let fear hold you back.
+  > 别让恐惧阻止你。
 
 ```
