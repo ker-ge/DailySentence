@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-05已更新 
+2023-12-06已更新 
 ```
 * 金山词霸
-  > Develop your imagination – you can use it to create in your mind what you hope to create in your life.
-  > 发展你的想像力 – 你可以用它在心里创造你想在现实生活创造的东西。
+  > One always has enough time, if one will apply it well.
+  > 人总是有足够的时间，如果他好好利用。
 
 * 扇贝单词
-  > Don't settle for what life gives you; make life better and build something.
-  > 不要满足于生活赋予你的，要有所创造，让人生变得更好。
+  > I am not afraid of tomorrow for I have seen yesterday and I love today.
+  > 我不害怕明天，因为我经历过昨天，又热爱今天。
 
 * 有道词典
-  > You can't let fear hold you back.
-  > 别让恐惧阻止你。
+  > If you've come this far, maybe you're willing to come a little further.
+  > 既然已跋涉至此，不妨一鼓作气，走得更远些。
 
 ```
