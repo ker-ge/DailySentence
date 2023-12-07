@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-06已更新 
+2023-12-07已更新 
 ```
 * 金山词霸
-  > One always has enough time, if one will apply it well.
-  > 人总是有足够的时间，如果他好好利用。
+  >  Leadership belongs to those who take it. 
+  > 领导权属于那些想获取它的人。
 
 * 扇贝单词
-  > I am not afraid of tomorrow for I have seen yesterday and I love today.
-  > 我不害怕明天，因为我经历过昨天，又热爱今天。
+  > So often people are working hard at the wrong thing. Working on the right thing is probably more important than working hard.
+  > 很多时候人们努力错了方向，在对的事情上努力可能比努力本身还重要。
 
 * 有道词典
-  > If you've come this far, maybe you're willing to come a little further.
-  > 既然已跋涉至此，不妨一鼓作气，走得更远些。
+  > You are scored on my heart.
+  > 你在我的心上留下了印记。
 
 ```
