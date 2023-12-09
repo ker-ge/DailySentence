@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-08已更新 
+2023-12-09已更新 
 ```
 * 金山词霸
-  > Beware of monotony; it's the mother of all deadly sins.
-  > 当心一成不变; 它是万恶之母。
+  >  I'd rather regret the things I've done than regret the things I haven't done.
+  > 我宁可后悔我曾做过的事，也不要懊悔我从未去做。
 
 * 扇贝单词
-  > If everything was perfect, you would never learn and you would never grow.
-  > 如果一切皆完美，你就永远不会学到东西，永远不会成长。
+  > Be careful how you judge people, most of all friends. You don't sum up a man's life in one moment.
+  > 小心你是怎么评判他人的，尤其是朋友。你不能在片刻间总结一个人的一生。
 
 * 有道词典
-  > Every good thing started with dreams.
-  > 世上所有的美好，都源于梦想。
+  > Sometimes we don't realize how important something is until it's gone.
+  > 有时，我们在失去后才懂得珍惜。
 
 ```
