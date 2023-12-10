@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-09已更新 
+2023-12-10已更新 
 ```
 * 金山词霸
-  >  I'd rather regret the things I've done than regret the things I haven't done.
-  > 我宁可后悔我曾做过的事，也不要懊悔我从未去做。
+  >  Learn from the mistakes of others. You can't live long enough to make them yourself.
+  > 试着从别人的错误当中学习，因为你没办法用自己的生命实际感受过每一个错误。
 
 * 扇贝单词
-  > Be careful how you judge people, most of all friends. You don't sum up a man's life in one moment.
-  > 小心你是怎么评判他人的，尤其是朋友。你不能在片刻间总结一个人的一生。
+  > Just trust yourself, then you will know how to live.
+  > 相信自己就对了，你将知道如何过日子。
 
 * 有道词典
-  > Sometimes we don't realize how important something is until it's gone.
-  > 有时，我们在失去后才懂得珍惜。
+  > The future is never truly set.
+  > 未来一切皆有可能。
 
 ```
