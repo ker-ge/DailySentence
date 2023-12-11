@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-10已更新 
+2023-12-11已更新 
 ```
 * 金山词霸
-  >  Learn from the mistakes of others. You can't live long enough to make them yourself.
-  > 试着从别人的错误当中学习，因为你没办法用自己的生命实际感受过每一个错误。
+  > If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+  > 如果你的行为鼓舞别人梦想更多、学习更多、行动更多及改变更多，你即是位领导者。
 
 * 扇贝单词
-  > Just trust yourself, then you will know how to live.
-  > 相信自己就对了，你将知道如何过日子。
+  > You don't love someone because they're perfect. You love them in spite of the fact that they're not.
+  > 不是因为一个人完美你才爱，而是即使那人不完美你也会去爱。
 
 * 有道词典
-  > The future is never truly set.
-  > 未来一切皆有可能。
+  > It is not too late to seek a newer world.
+  > 找寻你的新天地永远也不算晚。
 
 ```
