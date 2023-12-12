@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-11已更新 
+2023-12-12已更新 
 ```
 * 金山词霸
-  > If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
-  > 如果你的行为鼓舞别人梦想更多、学习更多、行动更多及改变更多，你即是位领导者。
+  > Growth and comfort do not coexist.
+  > 成长与舒适是不并存的。
 
 * 扇贝单词
-  > You don't love someone because they're perfect. You love them in spite of the fact that they're not.
-  > 不是因为一个人完美你才爱，而是即使那人不完美你也会去爱。
+  > That was my way of getting through difficult times of low confidence — hard work.
+  > 克服自信低潮的艰难时期，我只用一个方法：努力。
 
 * 有道词典
-  > It is not too late to seek a newer world.
-  > 找寻你的新天地永远也不算晚。
+  > I stand before you now with only one agenda. "To let you know my heart is yours."
+  > 我站在你面前，只有一事相许：我的心只属于你。
 
 ```
