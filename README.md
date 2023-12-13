@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-12已更新 
+2023-12-13已更新 
 ```
 * 金山词霸
-  > Growth and comfort do not coexist.
-  > 成长与舒适是不并存的。
+  > If you are not doing what you love, you are wasting your time.
+  > 若非在做你喜爱的事，你就是在浪费时间。
 
 * 扇贝单词
-  > That was my way of getting through difficult times of low confidence — hard work.
-  > 克服自信低潮的艰难时期，我只用一个方法：努力。
+  > ㅤ
+  > ㅤ
 
 * 有道词典
-  > I stand before you now with only one agenda. "To let you know my heart is yours."
-  > 我站在你面前，只有一事相许：我的心只属于你。
+  > We're going forward to the future, not back into the past.
+  > 我们要走向未来，而不是沉湎于过去。
 
 ```
