@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-13已更新 
+2023-12-14已更新 
 ```
 * 金山词霸
-  > If you are not doing what you love, you are wasting your time.
-  > 若非在做你喜爱的事，你就是在浪费时间。
+  > Alone we can do so little; together we can do so much. 
+  > 团结合作胜过于单打独斗。
 
 * 扇贝单词
-  > ㅤ
-  > ㅤ
+  > Happiness adds and multiplies, as we divide it with others.
+  > 与他人分享快乐，我们会收获加倍的快乐。
 
 * 有道词典
-  > We're going forward to the future, not back into the past.
-  > 我们要走向未来，而不是沉湎于过去。
+  > What is a friend? It's a single soul dwelling in two bodies.
+  > 什么是朋友？是拥有相同灵魂的两个人。
 
 ```
