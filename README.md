@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-14已更新 
+2023-12-15已更新 
 ```
 * 金山词霸
-  > Alone we can do so little; together we can do so much. 
-  > 团结合作胜过于单打独斗。
+  > Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+  > 人生不只是握有一付好牌，有时候也要把一付坏牌打好。
 
 * 扇贝单词
-  > Happiness adds and multiplies, as we divide it with others.
-  > 与他人分享快乐，我们会收获加倍的快乐。
+  > Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
+  > 梦想就像星星。也许你永远无法触碰，但如果你跟随它们，它们将引领你找到人生的路。
 
 * 有道词典
-  > What is a friend? It's a single soul dwelling in two bodies.
-  > 什么是朋友？是拥有相同灵魂的两个人。
+  > You will never age for me.
+  > 在我心中，你永远年轻。
 
 ```
