@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-15已更新 
+2023-12-16已更新 
 ```
 * 金山词霸
-  > Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
-  > 人生不只是握有一付好牌，有时候也要把一付坏牌打好。
+  >  If I have seen further, it is by standing on the shoulders of giants. 
+  > 如果我能看得更远，是因为站在巨人的肩膀上。
 
 * 扇贝单词
-  > Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
-  > 梦想就像星星。也许你永远无法触碰，但如果你跟随它们，它们将引领你找到人生的路。
+  > You make a life out of what you have, not what you're missing.
+  > 你是靠自己所拥有的，而不是所缺少的来过你的人生。
 
 * 有道词典
-  > You will never age for me.
-  > 在我心中，你永远年轻。
+  > I spent so long in the darkness. I'd almost forgotten how beautiful the moonlight is.
+  > 在黑暗中太久，都快忘却黑夜下月光的美。
 
 ```
