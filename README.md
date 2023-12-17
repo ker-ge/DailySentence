@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-16已更新 
+2023-12-17已更新 
 ```
 * 金山词霸
-  >  If I have seen further, it is by standing on the shoulders of giants. 
-  > 如果我能看得更远，是因为站在巨人的肩膀上。
+  > undefined
+  > undefined
 
 * 扇贝单词
-  > You make a life out of what you have, not what you're missing.
-  > 你是靠自己所拥有的，而不是所缺少的来过你的人生。
+  > Nothing is so strong as gentleness, nothing so gentle as real strength.
+  > 没有什么比温柔更有力量，也没有什么比真正的力量更温柔。
 
 * 有道词典
-  > I spent so long in the darkness. I'd almost forgotten how beautiful the moonlight is.
-  > 在黑暗中太久，都快忘却黑夜下月光的美。
+  > We may get knocked down, but we'll never be knocked out.
+  > 我们或许会被击倒，却绝不会被打败。
 
 ```
