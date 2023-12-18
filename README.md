@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-17已更新 
+2023-12-18已更新 
 ```
 * 金山词霸
-  > undefined
-  > undefined
+  > Coming together is a beginning, staying together is progress, and working together is success. 
+  > 同流是开端，持续相伴是进展，共同奋斗才是成功。
 
 * 扇贝单词
-  > Nothing is so strong as gentleness, nothing so gentle as real strength.
-  > 没有什么比温柔更有力量，也没有什么比真正的力量更温柔。
+  > Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.
+  > 爱情不识藩篱。它将跨栏杆、越栅栏、穿围墙，满怀憧憬地抵达终点。
 
 * 有道词典
-  > We may get knocked down, but we'll never be knocked out.
-  > 我们或许会被击倒，却绝不会被打败。
+  > With this hand, I will lift your sorrows.
+  > 尽我之力，解你烦忧。
 
 ```
