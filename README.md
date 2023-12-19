@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-18已更新 
+2023-12-19已更新 
 ```
 * 金山词霸
-  > Coming together is a beginning, staying together is progress, and working together is success. 
-  > 同流是开端，持续相伴是进展，共同奋斗才是成功。
+  > Talent wins games, but teamwork and intelligence win championships.
+  > 天赋可以赢得游戏，但团队合作及智慧可以赢得冠军。
 
 * 扇贝单词
-  > Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.
-  > 爱情不识藩篱。它将跨栏杆、越栅栏、穿围墙，满怀憧憬地抵达终点。
+  > You do not write your life with words. You write it with actions.
+  > 你不是用文字来书写你的人生的，而是用行动。
 
 * 有道词典
-  > With this hand, I will lift your sorrows.
-  > 尽我之力，解你烦忧。
+  > You never lose everything.
+  > 你永远不会失去一切。
 
 ```
