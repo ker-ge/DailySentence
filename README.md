@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-19已更新 
+2023-12-20已更新 
 ```
 * 金山词霸
-  > Talent wins games, but teamwork and intelligence win championships.
-  > 天赋可以赢得游戏，但团队合作及智慧可以赢得冠军。
+  >  It is literally true that you can succeed best and quickest by helping others to succeed. 
+  > 帮助他人成功是让自己最快获得成功的不二法门。
 
 * 扇贝单词
-  > You do not write your life with words. You write it with actions.
-  > 你不是用文字来书写你的人生的，而是用行动。
+  > It is our privilege and our adventure to discover our own special light.
+  > 去发现属于自己的独特光芒吧。这是我们的特权，也是我们的冒险。
 
 * 有道词典
-  > You never lose everything.
-  > 你永远不会失去一切。
+  > We can't leave our children in the world without hope.
+  > 我们不能让孩子们活在没有希望的世界。
 
 ```
