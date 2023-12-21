@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-20已更新 
+2023-12-21已更新 
 ```
 * 金山词霸
-  >  It is literally true that you can succeed best and quickest by helping others to succeed. 
-  > 帮助他人成功是让自己最快获得成功的不二法门。
+  > Love starts when we push aside our ego and make room for someone else.
+  > 爱始于把自我推到一旁，留些空间给别人。
 
 * 扇贝单词
-  > It is our privilege and our adventure to discover our own special light.
-  > 去发现属于自己的独特光芒吧。这是我们的特权，也是我们的冒险。
+  > Regardless of who you are or what you have been, you can be what you want to be.
+  > 无论你的现在和过去如何，你都可以决定你的将来。
 
 * 有道词典
-  > We can't leave our children in the world without hope.
-  > 我们不能让孩子们活在没有希望的世界。
+  > CHASE THE THRILL
+  > 驾「控」 触动心潮
 
 ```
