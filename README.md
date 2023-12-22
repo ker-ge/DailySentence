@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-21已更新 
+2023-12-22已更新 
 ```
 * 金山词霸
-  > Love starts when we push aside our ego and make room for someone else.
-  > 爱始于把自我推到一旁，留些空间给别人。
+  > At the courier station of Handan on Winter Solstice night, my arms clasping my knees, only my shadow is accompanying me.
+  > 邯郸驿里逢冬至，抱膝灯前影伴身。
 
 * 扇贝单词
-  > Regardless of who you are or what you have been, you can be what you want to be.
-  > 无论你的现在和过去如何，你都可以决定你的将来。
+  > The bravest sight in the world is to see a great man struggling against adversity.
+  > 世界上最勇敢的景象，便是勇者无畏地与逆境搏斗。
 
 * 有道词典
-  > CHASE THE THRILL
-  > 驾「控」 触动心潮
+  > Winter's a good time to stay in and cuddle.
+  > 冬天适合待在室内相互依偎。
 
 ```
