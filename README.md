@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-22已更新 
+2023-12-23已更新 
 ```
 * 金山词霸
-  > At the courier station of Handan on Winter Solstice night, my arms clasping my knees, only my shadow is accompanying me.
-  > 邯郸驿里逢冬至，抱膝灯前影伴身。
+  >  Individually, we are one drop. Together, we are an ocean.
+  > 单独来看， 我们都像是水滴。 当凝聚在一起， 我们就是一片海洋。
 
 * 扇贝单词
-  > The bravest sight in the world is to see a great man struggling against adversity.
-  > 世界上最勇敢的景象，便是勇者无畏地与逆境搏斗。
+  > A multitude of small delights constitute happiness.
+  > 幸福就是许多小确幸的总和。
 
 * 有道词典
-  > Winter's a good time to stay in and cuddle.
-  > 冬天适合待在室内相互依偎。
+  > People love what other people are passionate about.
+  > 充满热情的付出总是令人动容。
 
 ```
