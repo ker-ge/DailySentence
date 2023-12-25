@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-24已更新 
+2023-12-25已更新 
 ```
 * 金山词霸
-  > Christmas Eve blessing, for you around.
-  > 平安夜的祝福，为你围绕。
+  > May the Christmas candle bring you peace and happiness.
+  > 愿圣诞之夜的烛光，带给你温馨和芬芳。
 
 * 扇贝单词
-  > There was never a night or a problem that could defeat sunrise or hope.
-  > 黑夜永远无法阻止日出，困难也绝不会战胜希望。
+  > You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+  > 当你终于因为现实比梦境更美而无法入睡时，你便是陷入了爱情。
 
 * 有道词典
-  > The business of life is the acquisition of memories.
-  > 人生就是不断收获回忆的过程。
+  > This is Christmas! The season of perpetual hope.
+  > 生活充满希望，这就是圣诞节的模样！
 
 ```
