@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-25已更新 
+2023-12-26已更新 
 ```
 * 金山词霸
-  > May the Christmas candle bring you peace and happiness.
-  > 愿圣诞之夜的烛光，带给你温馨和芬芳。
+  >  If you want to go fast, go alone. If you want to go far, go together. 
+  > 一个人可以走很快，一群人可以走很远。
 
 * 扇贝单词
-  > You know you're in love when you can't fall asleep because reality is finally better than your dreams.
-  > 当你终于因为现实比梦境更美而无法入睡时，你便是陷入了爱情。
+  > We cannot change anything until we accept it.
+  > 我们无法改变任何事，直到我们接受它的存在。
 
 * 有道词典
-  > This is Christmas! The season of perpetual hope.
-  > 生活充满希望，这就是圣诞节的模样！
+  > It is the time that you have devoted to her that makes your rose so important.
+  > 正是你为你的玫瑰付出了时间，它才会如此重要。
 
 ```
