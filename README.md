@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-27已更新 
+2023-12-28已更新 
 ```
 * 金山词霸
-  >  Success is best when it's shared. 
-  > 能一起分享成功的喜悦才是最美好的时刻。
+  > It is not in the still calm of life, or in the repose of a pacific station, that great characters are formed.
+  > 伟大的人格特质，不是在平静的生活，或无风的太平洋港里形成。
 
 * 扇贝单词
-  > One can never consent to creep when one feels an impulse to soar.
-  > 一个人内心有了飞翔的冲动，就不会满足于在地上匍匐。
+  > Enjoy your youth. You'll never be younger than you are at this very moment.
+  > 享受年轻时光吧！下一刻的你再不会有此刻的青春。
 
 * 有道词典
-  > If you only do what you can do, you will never be more than you are now.
-  > 如果你只做自己能力范围之内的事情，就永远没法进步。
+  > I excel at many things, but getting over you wasn't one of them.
+  > 我擅长很多事，却做不到忘记你。
 
 ```
