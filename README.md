@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-28已更新 
+2023-12-29已更新 
 ```
 * 金山词霸
-  > It is not in the still calm of life, or in the repose of a pacific station, that great characters are formed.
-  > 伟大的人格特质，不是在平静的生活，或无风的太平洋港里形成。
+  > What I’ve really learned over time is that optimism is a very, very important part of leadership.
+  > 我在过去真正学到的是，乐观是领导非常、非常重要的一环。
 
 * 扇贝单词
-  > Enjoy your youth. You'll never be younger than you are at this very moment.
-  > 享受年轻时光吧！下一刻的你再不会有此刻的青春。
+  > There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.
+  > 对于下定决心的人来说，任何机遇、命数或运气都无法阻挠、控制其意志。
 
 * 有道词典
-  > I excel at many things, but getting over you wasn't one of them.
-  > 我擅长很多事，却做不到忘记你。
+  > Forgetting the trauma of childbirth is one of the great gifts of the universe.
+  > 拥有抚平童年创伤的能力，也是世界送你的礼物之一。
 
 ```
