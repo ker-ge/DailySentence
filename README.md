@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2023-12-30已更新 
+2023-12-31已更新 
 ```
 * 金山词霸
-  > The loving person makes other people feel good, and he is usually a happy person himself.
-  > 有爱心的人让人感到舒服，而他自己通常也是个快乐的人。
+  >  Satisfaction lies in the effort, not in the attainment. 
+  > 满足感的源头在于不断努力，而不是现有的成就。
 
 * 扇贝单词
-  > The way to get things done is not to mind who gets the credit for doing them.
-  > 把事情做好的方法，是不去在意谁会因此得到赞誉。
+  > True love comes quietly, without banners or flashing lights.
+  > 真爱都是悄然降临，既不旗幡招展，也不灯火辉煌。
 
 * 有道词典
-  > I would rather share one lifetime with you than face all the Ages of this world alone.
-  > 我愿与你携手一生，不愿独自面对沧桑变化。
+  > We will ring in the New Year together.
+  > 让我们一起敲响新年的钟声！
 
 ```
