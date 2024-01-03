@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-02已更新 
+2024-01-03已更新 
 ```
 * 金山词霸
-  > There’s no place like home.
-  > 没有一个地方可以和家相提并论。
+  > To make each day count.
+  > 要让每一天都值得。
 
 * 扇贝单词
-  > Life shrinks or expands in proportion to one's courage.
-  > 生活的充实与贫乏取决于一个人的勇气。
+  > Discovery consists of seeing what everybody has seen and thinking what nobody has thought.
+  > 要有所发现，就要见别人见过的，想没人想过的。
 
 * 有道词典
-  > You want to be with someone who appreciates you for what you are.
-  > 你选择的人，应该发自内心地欣赏你。
+  > Every man has his breaking point.
+  > 每个人都有极限。
 
 ```
