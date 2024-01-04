@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-03已更新 
+2024-01-04已更新 
 ```
 * 金山词霸
-  > To make each day count.
-  > 要让每一天都值得。
+  > There is no need to forgive, but it should not be forgotten.
+  > 可以不需要原谅,但不应该被遗忘。
 
 * 扇贝单词
-  > Discovery consists of seeing what everybody has seen and thinking what nobody has thought.
-  > 要有所发现，就要见别人见过的，想没人想过的。
+  > Learn from yesterday, live for today, hope for tomorrow.
+  > 借鉴昨天，活在今天，憧憬明天。
 
 * 有道词典
-  > Every man has his breaking point.
-  > 每个人都有极限。
+  > Falling in love with you was the easiest thing I have ever done.
+  > 爱上你，是我此生做过最容易的事。
 
 ```
