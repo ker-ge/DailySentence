@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-04已更新 
+2024-01-05已更新 
 ```
 * 金山词霸
-  > There is no need to forgive, but it should not be forgotten.
-  > 可以不需要原谅,但不应该被遗忘。
+  > Nothing is impossible to a willing heart.
+  > 心之所愿，无所不成。
 
 * 扇贝单词
-  > Learn from yesterday, live for today, hope for tomorrow.
-  > 借鉴昨天，活在今天，憧憬明天。
+  > The one thing we can never get enough of is love. And the one thing we never give enough of is love.
+  > 我们永远要不够的是爱，我们永远给得不够多的也是爱。
 
 * 有道词典
-  > Falling in love with you was the easiest thing I have ever done.
-  > 爱上你，是我此生做过最容易的事。
+  > For what it's worth, it's never too late.
+  > 只要是有意义的事，多晚去做都不迟。
 
 ```
