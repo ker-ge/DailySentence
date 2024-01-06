@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-05已更新 
+2024-01-06已更新 
 ```
 * 金山词霸
-  > Nothing is impossible to a willing heart.
-  > 心之所愿，无所不成。
+  > Do or do not. There is no try.
+  > 要么做，要么不做。没有试试看这一说。
 
 * 扇贝单词
-  > The one thing we can never get enough of is love. And the one thing we never give enough of is love.
-  > 我们永远要不够的是爱，我们永远给得不够多的也是爱。
+  > I'm sure we'll meet in the spring. And catch up on everything.
+  > 我们一定会在春天相见，好好聊个天。
 
 * 有道词典
-  > For what it's worth, it's never too late.
-  > 只要是有意义的事，多晚去做都不迟。
+  > Everyone likes the smell of fire on the first cold day of winter.
+  > 每个人都喜欢寒冬里的火焰。
 
 ```
