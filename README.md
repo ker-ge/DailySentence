@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-06已更新 
+2024-01-07已更新 
 ```
 * 金山词霸
-  > Do or do not. There is no try.
-  > 要么做，要么不做。没有试试看这一说。
+  > Choose what you like and love what you choose.
+  > 选择你所喜欢的，爱你所选择的。
 
 * 扇贝单词
-  > I'm sure we'll meet in the spring. And catch up on everything.
-  > 我们一定会在春天相见，好好聊个天。
+  > It is our choices that show what we truly are, far more than our abilities.
+  > 能展现真实的自我的，与其说是我们的能力，倒不如说我们所做的选择。
 
 * 有道词典
-  > Everyone likes the smell of fire on the first cold day of winter.
-  > 每个人都喜欢寒冬里的火焰。
+  > Our future's in bright hands.
+  > 我们的未来一片光明。
 
 ```
