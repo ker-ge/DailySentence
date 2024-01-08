@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-07已更新 
+2024-01-08已更新 
 ```
 * 金山词霸
-  > Choose what you like and love what you choose.
-  > 选择你所喜欢的，爱你所选择的。
+  > The establishment of civilization is not a machine but a thought.
+  > 文明的建立的不是机器而是思想。
 
 * 扇贝单词
-  > It is our choices that show what we truly are, far more than our abilities.
-  > 能展现真实的自我的，与其说是我们的能力，倒不如说我们所做的选择。
+  > I walk slowly, but I never walk backward.
+  > 我走得慢，但从不后退。
 
 * 有道词典
-  > Our future's in bright hands.
-  > 我们的未来一片光明。
+  > The best love is the kind that awakens the soul and makes us reach for more.
+  > 最好的爱情能唤醒灵魂，让我们一同奔向远方。
 
 ```
