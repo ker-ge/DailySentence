@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-08已更新 
+2024-01-09已更新 
 ```
 * 金山词霸
-  > The establishment of civilization is not a machine but a thought.
-  > 文明的建立的不是机器而是思想。
+  > Small deeds done are better than great deeds planned.
+  > 已经完成的小事胜过计划完成的大事。
 
 * 扇贝单词
-  > I walk slowly, but I never walk backward.
-  > 我走得慢，但从不后退。
+  > The art of being happy lies in the power of extracting happiness from common things.
+  > 幸福的诀窍在于能从平凡事物中提取快乐。
 
 * 有道词典
-  > The best love is the kind that awakens the soul and makes us reach for more.
-  > 最好的爱情能唤醒灵魂，让我们一同奔向远方。
+  > I just live by the ABC's: Adventurous, Brave, Creative.
+  > 爱冒险，有勇气，敢创新，这就是我的人生态度。
 
 ```
