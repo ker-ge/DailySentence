@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-10已更新 
+2024-01-11已更新 
 ```
 * 金山词霸
-  > The best preparation for tomorrow is doing your best today.
-  > 今天尽力是准备明天最好的方式。
+  > What is right to be done cannot be done too soon.
+  > 做对的事都不会嫌太早。
 
 * 扇贝单词
-  > Remember to keep the mind calm in difficult moments.
-  > 遇到困难时，记得保持冷静。
+  > Friends and good manners will carry you where money won't go.
+  > 朋友和教养带给你的世界，是金钱所不能及的。
 
 * 有道词典
-  > A real warrior never quits.
-  > 真正的武士永不言弃。
+  > Love is not love which alters when it alteration finds.
+  > 爱是矢志不渝的。
 
 ```
