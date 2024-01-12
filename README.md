@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-11已更新 
+2024-01-12已更新 
 ```
 * 金山词霸
-  > What is right to be done cannot be done too soon.
-  > 做对的事都不会嫌太早。
+  > The purpose of our lives is to be happy. 
+  > 快乐是我们活着的目的。
 
 * 扇贝单词
-  > Friends and good manners will carry you where money won't go.
-  > 朋友和教养带给你的世界，是金钱所不能及的。
+  > Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind.
+  > 爱，不是用眼睛看的，而是用心体会的，所以爱神丘比特的眼睛总是蒙着的。
 
 * 有道词典
-  > Love is not love which alters when it alteration finds.
-  > 爱是矢志不渝的。
+  > Look inside yourself and recognize that change starts with you.
+  > 审视自己的内心，从改变自己开始。
 
 ```
