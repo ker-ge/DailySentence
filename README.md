@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-12已更新 
+2024-01-13已更新 
 ```
 * 金山词霸
-  > The purpose of our lives is to be happy. 
-  > 快乐是我们活着的目的。
+  > lt's fun to have a challenge,isnt it？
+  > 有挑战才有意思，不是么？
 
 * 扇贝单词
-  > Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind.
-  > 爱，不是用眼睛看的，而是用心体会的，所以爱神丘比特的眼睛总是蒙着的。
+  > Curiosity is the wick in the candle of learning.
+  > 如果学习是一根蜡烛，那好奇心就是烛芯。
 
 * 有道词典
-  > Look inside yourself and recognize that change starts with you.
-  > 审视自己的内心，从改变自己开始。
+  > Our lives are defined by opportunities.
+  > 生活因机遇而变得更加精彩。
 
 ```
