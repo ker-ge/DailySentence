@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-13已更新 
+2024-01-14已更新 
 ```
 * 金山词霸
-  > lt's fun to have a challenge,isnt it？
-  > 有挑战才有意思，不是么？
+  > Man is created for thinking.
+  > 人是为了思考才被创造出来的。
 
 * 扇贝单词
-  > Curiosity is the wick in the candle of learning.
-  > 如果学习是一根蜡烛，那好奇心就是烛芯。
+  > Spend more time smiling than frowning and more time praising than criticizing.
+  > 多花时间微笑，少花时间蹙眉，多花时间表扬，少花时间批评。
 
 * 有道词典
-  > Our lives are defined by opportunities.
-  > 生活因机遇而变得更加精彩。
+  > You're going to the top of this mountain, broken legs and all.
+  > 残缺的身体无法阻挡你勇攀高峰。
 
 ```
