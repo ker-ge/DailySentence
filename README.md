@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-14已更新 
+2024-01-15已更新 
 ```
 * 金山词霸
-  > Man is created for thinking.
-  > 人是为了思考才被创造出来的。
+  > I would rather be lonely all my life than drift with the tide.
+  > 宁愿一生孤独，不愿随波逐流。
 
 * 扇贝单词
-  > Spend more time smiling than frowning and more time praising than criticizing.
-  > 多花时间微笑，少花时间蹙眉，多花时间表扬，少花时间批评。
+  > Jumping from failure to failure with undiminished enthusiasm is the big secret to success.
+  > 越过一次次失败，却不丧失热情，才是成功的伟大秘诀。
 
 * 有道词典
-  > You're going to the top of this mountain, broken legs and all.
-  > 残缺的身体无法阻挡你勇攀高峰。
+  > The job of your life is to know yourself.
+  > 人生的重任就是探索自我。
 
 ```
