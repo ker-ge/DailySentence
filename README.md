@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-15已更新 
+2024-01-16已更新 
 ```
 * 金山词霸
-  > I would rather be lonely all my life than drift with the tide.
-  > 宁愿一生孤独，不愿随波逐流。
+  > We can do more good by being good, than in any other way.
+  > 若想要做好事，成为好的人胜过所有方法。
 
 * 扇贝单词
-  > Jumping from failure to failure with undiminished enthusiasm is the big secret to success.
-  > 越过一次次失败，却不丧失热情，才是成功的伟大秘诀。
+  > Always seek out the seed of triumph in every adversity.
+  > 在每一次困境中都要寻找胜利的希望。
 
 * 有道词典
-  > The job of your life is to know yourself.
-  > 人生的重任就是探索自我。
+  > You have to decide what kind of person you are.
+  > 你要自己决定成为什么样的人。
 
 ```
