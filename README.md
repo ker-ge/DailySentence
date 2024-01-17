@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-16已更新 
+2024-01-17已更新 
 ```
 * 金山词霸
-  > We can do more good by being good, than in any other way.
-  > 若想要做好事，成为好的人胜过所有方法。
+  > Life is really simple, but we insist on making it complicated. 
+  > 世上本无事，庸人自扰之。
 
 * 扇贝单词
-  > Always seek out the seed of triumph in every adversity.
-  > 在每一次困境中都要寻找胜利的希望。
+  > Life begins at the end of your comfort zone.
+  > 走出舒适区，生活才算开始。
 
 * 有道词典
-  > You have to decide what kind of person you are.
-  > 你要自己决定成为什么样的人。
+  > Some of us may just have to find meaning in the little moments that make up life.
+  > 生活就是在平淡之中追寻点滴意义。
 
 ```
