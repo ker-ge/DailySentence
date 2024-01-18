@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-17已更新 
+2024-01-18已更新 
 ```
 * 金山词霸
-  > Life is really simple, but we insist on making it complicated. 
-  > 世上本无事，庸人自扰之。
+  > We become the most familiar strangers .
+  > 我们变成了世上最熟悉的陌生人。
 
 * 扇贝单词
-  > Life begins at the end of your comfort zone.
-  > 走出舒适区，生活才算开始。
+  > Our attitude toward life determines life's attitude towards us.
+  > 我们对生活的态度决定了生活对我们的态度。
 
 * 有道词典
-  > Some of us may just have to find meaning in the little moments that make up life.
-  > 生活就是在平淡之中追寻点滴意义。
+  > Love is not the problem. It's how you love that is.
+  > 爱不是问题，问题在于你如何去爱。
 
 ```
