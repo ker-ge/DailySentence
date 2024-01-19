@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-18已更新 
+2024-01-19已更新 
 ```
 * 金山词霸
-  > We become the most familiar strangers .
-  > 我们变成了世上最熟悉的陌生人。
+  > Beautiful things don't ask for attention.
+  > 草木有本心，何求美人折。
 
 * 扇贝单词
-  > Our attitude toward life determines life's attitude towards us.
-  > 我们对生活的态度决定了生活对我们的态度。
+  > Success is not final, failure is not fatal: it is the courage to continue that counts.
+  > 成功不是终点，失败也不足以致命，最可贵的是继续前进的勇气。
 
 * 有道词典
-  > Love is not the problem. It's how you love that is.
-  > 爱不是问题，问题在于你如何去爱。
+  > If we don't respect the past, it'll be harder to build our future.
+  > 不尊重过去，就无法创造未来。
 
 ```
