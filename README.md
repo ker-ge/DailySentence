@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-19已更新 
+2024-01-20已更新 
 ```
 * 金山词霸
-  > Beautiful things don't ask for attention.
-  > 草木有本心，何求美人折。
+  > All life is a game of luck.
+  > 生活本来就全靠运气。
 
 * 扇贝单词
-  > Success is not final, failure is not fatal: it is the courage to continue that counts.
-  > 成功不是终点，失败也不足以致命，最可贵的是继续前进的勇气。
+  > A fool sees not the same tree that a wise man sees.
+  > 同一棵树，在愚者和智者的眼中却有所不同。
 
 * 有道词典
-  > If we don't respect the past, it'll be harder to build our future.
-  > 不尊重过去，就无法创造未来。
+  > The short, freezing days of winter give way to the urgent awakening of spring.
+  > 冷冽的冬天将要结束，蓬勃的春天将要苏醒。
 
 ```
