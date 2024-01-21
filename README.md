@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-20已更新 
+2024-01-21已更新 
 ```
 * 金山词霸
-  > All life is a game of luck.
-  > 生活本来就全靠运气。
+  > I am prepared for the worst, but hope for the best.
+  > 我期待最好的，但为最坏的做好准备。
 
 * 扇贝单词
-  > A fool sees not the same tree that a wise man sees.
-  > 同一棵树，在愚者和智者的眼中却有所不同。
+  > Don't compare your life to others. You have no idea what they have been through.
+  > 不要和别人比生活，你不知道他们经历了什么。
 
 * 有道词典
-  > The short, freezing days of winter give way to the urgent awakening of spring.
-  > 冷冽的冬天将要结束，蓬勃的春天将要苏醒。
+  > Love is one of the most difficult things in life. Certainly the most beautiful one.
+  > 爱情是生活中最复杂却又最美妙的东西。
 
 ```
