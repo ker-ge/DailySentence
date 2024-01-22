@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-21已更新 
+2024-01-22已更新 
 ```
 * 金山词霸
-  > I am prepared for the worst, but hope for the best.
-  > 我期待最好的，但为最坏的做好准备。
+  > If a man unknown, can focus on.
+  > 人若无名，便可专心。
 
 * 扇贝单词
-  > Don't compare your life to others. You have no idea what they have been through.
-  > 不要和别人比生活，你不知道他们经历了什么。
+  > Be faithful in small things because it is in them that your strength lies.
+  > 要对微小的事物怀有信念，因为真正的力量存乎其中。
 
 * 有道词典
-  > Love is one of the most difficult things in life. Certainly the most beautiful one.
-  > 爱情是生活中最复杂却又最美妙的东西。
+  > undefined
+  > undefined
 
 ```
