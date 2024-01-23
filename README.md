@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-22已更新 
+2024-01-23已更新 
 ```
 * 金山词霸
-  > If a man unknown, can focus on.
-  > 人若无名，便可专心。
+  > It is impossible to win the great prizes in life without running risks.
+  > 不冒风险就不可能获得人生里的奖品。
 
 * 扇贝单词
-  > Be faithful in small things because it is in them that your strength lies.
-  > 要对微小的事物怀有信念，因为真正的力量存乎其中。
+  > The deepest principle in human nature is the craving to be appreciated.
+  > 人性中最深刻的本能就是渴望被欣赏。
 
 * 有道词典
-  > undefined
-  > undefined
+  > You are perfect just the way you are.
+  > 做自己就是最美的。
 
 ```
