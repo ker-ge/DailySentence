@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-23已更新 
+2024-01-24已更新 
 ```
 * 金山词霸
-  > It is impossible to win the great prizes in life without running risks.
-  > 不冒风险就不可能获得人生里的奖品。
+  > Happiness is about having each tiny wish come true.
+  > 幸福是每一个微小愿望的达成。
 
 * 扇贝单词
-  > The deepest principle in human nature is the craving to be appreciated.
-  > 人性中最深刻的本能就是渴望被欣赏。
+  > Vitality shows in not only the ability to persist but the ability to start over.
+  > 顽强的生命力不仅仅体现在坚持的力量，还有重新来过的能力。
 
 * 有道词典
-  > You are perfect just the way you are.
-  > 做自己就是最美的。
+  > Everything is a gift of the universe.
+  > 世间万物都是宇宙的恩赐。
 
 ```
