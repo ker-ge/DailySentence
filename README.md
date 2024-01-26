@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-25已更新 
+2024-01-26已更新 
 ```
 * 金山词霸
-  > The heavier with great power comes great responsibility.
-  > 能力越大，责任越重。
+  > You leave, or I go with you.
+  > 你留下，或者我跟你走。——《海角七号》
 
 * 扇贝单词
-  > A heavy dew refreshed the earth at night.
-  > 夜晚厚重的露水滋养着大地。
+  > It's the possibility of having a dream come true that makes life interesting.
+  > 梦想有可能成为现实，生活正是因此而有趣。
 
 * 有道词典
-  > Sometimes love isn't fireworks. Sometimes love just comes softly.
-  > 爱不是瞬间激情的火花，而是细水长流的积累。
+  > We choose which path we follow.
+  > 我们要自己选择未来的路。
 
 ```
