@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-26已更新 
+2024-01-27已更新 
 ```
 * 金山词霸
-  > You leave, or I go with you.
-  > 你留下，或者我跟你走。——《海角七号》
+  > Hard work beats talent when talent fails to work hard.
+  > 当天才不努力时，努力可以击倒天才。
 
 * 扇贝单词
-  > It's the possibility of having a dream come true that makes life interesting.
-  > 梦想有可能成为现实，生活正是因此而有趣。
+  > If opportunity doesn't knock, build a door.
+  > 如果机会没有来敲门，那就自己盖个门。
 
 * 有道词典
-  > We choose which path we follow.
-  > 我们要自己选择未来的路。
+  > I will answer injustice with justice.
+  > 我会用正义来回应所有的不公。
 
 ```
