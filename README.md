@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-27已更新 
+2024-01-28已更新 
 ```
 * 金山词霸
-  > Hard work beats talent when talent fails to work hard.
-  > 当天才不努力时，努力可以击倒天才。
+  > Don't try, or miss the event.
+  > 千万不要假戏真做，误了大事。——《十面埋伏》
 
 * 扇贝单词
-  > If opportunity doesn't knock, build a door.
-  > 如果机会没有来敲门，那就自己盖个门。
+  > Our growth depends not on how many experiences we devour, but on how many we digest.
+  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
 
 * 有道词典
-  > I will answer injustice with justice.
-  > 我会用正义来回应所有的不公。
+  > I hope you live a life you're proud of.
+  > 愿你会为自己的人生而自豪。
 
 ```
