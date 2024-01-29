@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-28已更新 
+2024-01-29已更新 
 ```
 * 金山词霸
-  > Don't try, or miss the event.
-  > 千万不要假戏真做，误了大事。——《十面埋伏》
+  > A soul preoccupied with great ideas best performs small duties.
+  > 心系伟大想法的人，把小事做到最好。
 
 * 扇贝单词
-  > Our growth depends not on how many experiences we devour, but on how many we digest.
-  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
+  > Adopting the right attitude can convert a negative stress into a positive one.
+  > 采取正确的态度可以将负面的压力转化为积极的动力。
 
 * 有道词典
-  > I hope you live a life you're proud of.
-  > 愿你会为自己的人生而自豪。
+  > I love you for who you are, not who you think you should be.
+  > 我爱你本身的模样，而非你想象中应成为的样子。
 
 ```
