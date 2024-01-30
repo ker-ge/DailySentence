@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-29已更新 
+2024-01-30已更新 
 ```
 * 金山词霸
-  > A soul preoccupied with great ideas best performs small duties.
-  > 心系伟大想法的人，把小事做到最好。
+  > Reading is to the mind what exercise is to the body.
+  > 阅读之于心灵，犹如运动之于身体。
 
 * 扇贝单词
-  > Adopting the right attitude can convert a negative stress into a positive one.
-  > 采取正确的态度可以将负面的压力转化为积极的动力。
+  > Try a little harder to be a little better.
+  > 多做点努力，让自己变得更好一点。
 
 * 有道词典
-  > I love you for who you are, not who you think you should be.
-  > 我爱你本身的模样，而非你想象中应成为的样子。
+  > Adventure awaits us.
+  > 新的冒险正等着我们。
 
 ```
