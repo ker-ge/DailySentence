@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-30已更新 
+2024-01-31已更新 
 ```
 * 金山词霸
-  > Reading is to the mind what exercise is to the body.
-  > 阅读之于心灵，犹如运动之于身体。
+  > The way to get started is to quit talking and begin doing. 
+  > 一切的起头就是不要只会说而是开始做。
 
 * 扇贝单词
-  > Try a little harder to be a little better.
-  > 多做点努力，让自己变得更好一点。
+  > The older I get, the less I listen to what people say and the more I look at what they do.
+  > 年龄越大，我越不会听人们嘴上怎么说，而是越会看他们怎么做。
 
 * 有道词典
-  > Adventure awaits us.
-  > 新的冒险正等着我们。
+  > Some journeys will last a lifetime, but they all begin with a first step.
+  > 无论旅途有多远，都要勇敢地迈出第一步。
 
 ```
