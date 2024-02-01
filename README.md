@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-01-31已更新 
+2024-02-01已更新 
 ```
 * 金山词霸
-  > The way to get started is to quit talking and begin doing. 
-  > 一切的起头就是不要只会说而是开始做。
+  > The only person you are destined to become is the person you decide to be. 
+  > 你注定成为你决定成为的人。
 
 * 扇贝单词
-  > The older I get, the less I listen to what people say and the more I look at what they do.
-  > 年龄越大，我越不会听人们嘴上怎么说，而是越会看他们怎么做。
+  > If winter comes, can spring be far behind?
+  > 冬天来了，春天还会远吗？
 
 * 有道词典
-  > Some journeys will last a lifetime, but they all begin with a first step.
-  > 无论旅途有多远，都要勇敢地迈出第一步。
+  > The problems of your future are my privilege.
+  > 参与你的未来是我的荣幸。
 
 ```
