@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-01已更新 
+2024-02-02已更新 
 ```
 * 金山词霸
-  > The only person you are destined to become is the person you decide to be. 
-  > 你注定成为你决定成为的人。
+  > There is more to come.
+  > 未来可期。
 
 * 扇贝单词
-  > If winter comes, can spring be far behind?
-  > 冬天来了，春天还会远吗？
+  > The worst loneliness is not to be comfortable with yourself.
+  > 最糟糕的孤独是无法舒适地和自己相处。
 
 * 有道词典
-  > The problems of your future are my privilege.
-  > 参与你的未来是我的荣幸。
+  > Just do whatever feels natural.
+  > 跟着感觉走。
 
 ```
