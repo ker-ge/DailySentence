@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-02已更新 
+2024-02-03已更新 
 ```
 * 金山词霸
-  > There is more to come.
-  > 未来可期。
+  > Winning isn't everything, but wanting to win is. 
+  > 获胜的结果不是一切，重要的是想获胜的心。
 
 * 扇贝单词
-  > The worst loneliness is not to be comfortable with yourself.
-  > 最糟糕的孤独是无法舒适地和自己相处。
+  > We have to do the best we are capable of. This is our sacred human responsibility.
+  > 我们必须尽力而为，这是我们生而为人的神圣责任。
 
 * 有道词典
-  > Just do whatever feels natural.
-  > 跟着感觉走。
+  > My heart will go on.
+  > 我心永恒。
 
 ```
