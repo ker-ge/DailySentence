@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-03已更新 
+2024-02-04已更新 
 ```
 * 金山词霸
-  > Winning isn't everything, but wanting to win is. 
-  > 获胜的结果不是一切，重要的是想获胜的心。
+  > Farewell to the cold winter snow, and welcome the warm spring breeze.
+  > 寒辞去冬雪，暖带入春风。
 
 * 扇贝单词
-  > We have to do the best we are capable of. This is our sacred human responsibility.
-  > 我们必须尽力而为，这是我们生而为人的神圣责任。
+  > Forgiveness does not change the past, but it does enlarge the future.
+  > 宽恕无法改变过去，却能拓宽未来。
 
 * 有道词典
-  > My heart will go on.
-  > 我心永恒。
+  > Each snowflake is water waiting to be released in spring.
+  > 每片雪花都将在春天融化，化作生命之泉。
 
 ```
