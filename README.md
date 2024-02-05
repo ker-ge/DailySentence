@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-04已更新 
+2024-02-05已更新 
 ```
 * 金山词霸
-  > Farewell to the cold winter snow, and welcome the warm spring breeze.
-  > 寒辞去冬雪，暖带入春风。
+  > Regardless of your past, take account of your present and future.
+  > 不管过去怎样，考虑现在和未来。
 
 * 扇贝单词
-  > Forgiveness does not change the past, but it does enlarge the future.
-  > 宽恕无法改变过去，却能拓宽未来。
+  > I have found that if you love life, life will love you back.
+  > 我发现，如果你爱生活，生活也会用爱来回报你。
 
 * 有道词典
-  > Each snowflake is water waiting to be released in spring.
-  > 每片雪花都将在春天融化，化作生命之泉。
+  > Stick to the light. Embrace it.
+  > 追寻光明，拥抱光明。
 
 ```
