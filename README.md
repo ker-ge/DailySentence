@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-05已更新 
+2024-02-06已更新 
 ```
 * 金山词霸
-  > Regardless of your past, take account of your present and future.
-  > 不管过去怎样，考虑现在和未来。
+  > The shortest answer is doing the thing.
+  > 行动是最直接的回应。
 
 * 扇贝单词
-  > I have found that if you love life, life will love you back.
-  > 我发现，如果你爱生活，生活也会用爱来回报你。
+  > Your children don't need you to be perfect. They just need you to believe in them.
+  > 孩子并不需要你是个完人，只需要你的信任。
 
 * 有道词典
-  > Stick to the light. Embrace it.
-  > 追寻光明，拥抱光明。
+  > It helps no one to dwell on the past.
+  > 沉溺于过去，并无好处。
 
 ```
