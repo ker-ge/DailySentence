@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-06已更新 
+2024-02-07已更新 
 ```
 * 金山词霸
-  > The shortest answer is doing the thing.
-  > 行动是最直接的回应。
+  >  An unexamined life is not worth living.
+  > 未经审视的生活不值得过。
 
 * 扇贝单词
-  > Your children don't need you to be perfect. They just need you to believe in them.
-  > 孩子并不需要你是个完人，只需要你的信任。
+  > I will love the light for it shows me the way, yet I will endure the darkness for it shows me the stars.
+  > 我将热爱光明，因为它为我指明道路，而我将忍受黑暗，因为它向我展示繁星。
 
 * 有道词典
-  > It helps no one to dwell on the past.
-  > 沉溺于过去，并无好处。
+  > Another day. Gotta keep it together.
+  > 新的一天，振作起来！
 
 ```
