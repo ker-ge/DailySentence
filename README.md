@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-07已更新 
+2024-02-08已更新 
 ```
 * 金山词霸
-  >  An unexamined life is not worth living.
-  > 未经审视的生活不值得过。
+  > Years fly by, but the heart stays in the same place.
+  > 时光飞逝，但我心依旧。
 
 * 扇贝单词
-  > I will love the light for it shows me the way, yet I will endure the darkness for it shows me the stars.
-  > 我将热爱光明，因为它为我指明道路，而我将忍受黑暗，因为它向我展示繁星。
+  > I'd rather regret the things I've done than regret the things I haven't done.
+  > 我宁愿为自己做过的事后悔，也不愿为自己没做的事遗憾。
 
 * 有道词典
-  > Another day. Gotta keep it together.
-  > 新的一天，振作起来！
+  > You had me at "hello."
+  > 你的一句问好，便已俘获我心。
 
 ```
