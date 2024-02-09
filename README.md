@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-08已更新 
+2024-02-09已更新 
 ```
 * 金山词霸
-  > Years fly by, but the heart stays in the same place.
-  > 时光飞逝，但我心依旧。
+  > Celebrate the new year together, welcoming and bidding farewell within one night.
+  > 共欢新故岁，迎送一宵中。——李世民《守岁》
 
 * 扇贝单词
-  > I'd rather regret the things I've done than regret the things I haven't done.
-  > 我宁愿为自己做过的事后悔，也不愿为自己没做的事遗憾。
+  > The memories we make with our family are everything.
+  > 我们和家人一起创造的记忆最为重要。
 
 * 有道词典
-  > You had me at "hello."
-  > 你的一句问好，便已俘获我心。
+  > May this year be everything you wish for.
+  > 祝你新的一年，心想事成。
 
 ```
