@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-09已更新 
+2024-02-10已更新 
 ```
 * 金山词霸
-  > Celebrate the new year together, welcoming and bidding farewell within one night.
-  > 共欢新故岁，迎送一宵中。——李世民《守岁》
+  > Best wishes for the holidays and happiness throughout the New Year.
+  > 恭贺新禧，万事如意。
 
 * 扇贝单词
-  > The memories we make with our family are everything.
-  > 我们和家人一起创造的记忆最为重要。
+  > New Year is a spring time! Open up like a flower! Let the world see your energy!
+  > 新的一年宛若春天！ 像花儿一样绽放吧！ 让世界看到你的能量！
 
 * 有道词典
-  > May this year be everything you wish for.
-  > 祝你新的一年，心想事成。
+  > New year. New life.
+  > 新的一年，新的生活。
 
 ```
