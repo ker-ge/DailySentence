@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-10已更新 
+2024-02-11已更新 
 ```
 * 金山词霸
-  > Best wishes for the holidays and happiness throughout the New Year.
-  > 恭贺新禧，万事如意。
+  > Home is where the heart is.
+  > 此心安处是吾乡。
 
 * 扇贝单词
-  > New Year is a spring time! Open up like a flower! Let the world see your energy!
-  > 新的一年宛若春天！ 像花儿一样绽放吧！ 让世界看到你的能量！
+  > A flower cannot blossom without sunshine, and man cannot live without love.
+  > 花儿没有阳光便不能绽放，人没有爱便不能生存。
 
 * 有道词典
-  > New year. New life.
-  > 新的一年，新的生活。
+  > It's every human being's right to know love.
+  > 每个人都有爱的权利。
 
 ```
