@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-11已更新 
+2024-02-12已更新 
 ```
 * 金山词霸
-  > Home is where the heart is.
-  > 此心安处是吾乡。
+  > All things in their being are good for something.
+  > 天生我材必有用。
 
 * 扇贝单词
-  > A flower cannot blossom without sunshine, and man cannot live without love.
-  > 花儿没有阳光便不能绽放，人没有爱便不能生存。
+  > How many a man has dated a new era in his life from the reading of a book.
+  > 有多少人因为读了一本书而开启了人生的新篇章呀！
 
 * 有道词典
-  > It's every human being's right to know love.
-  > 每个人都有爱的权利。
+  > There's no bravery without fear.
+  > 心怀畏惧，方能无畏。
 
 ```
