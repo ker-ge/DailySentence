@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-12已更新 
+2024-02-13已更新 
 ```
 * 金山词霸
-  > All things in their being are good for something.
-  > 天生我材必有用。
+  > Done is better than perfect.
+  > 完成比完美更重要。
 
 * 扇贝单词
-  > How many a man has dated a new era in his life from the reading of a book.
-  > 有多少人因为读了一本书而开启了人生的新篇章呀！
+  > Kites rise highest against the wind, not with it.
+  > 风筝逆风才能高飞——而不是顺风。
 
 * 有道词典
-  > There's no bravery without fear.
-  > 心怀畏惧，方能无畏。
+  > All humans are imperfect.
+  > 人无完人。
 
 ```
