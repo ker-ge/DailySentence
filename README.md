@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-13已更新 
+2024-02-14已更新 
 ```
 * 金山词霸
-  > Done is better than perfect.
-  > 完成比完美更重要。
+  > I want love or death.
+  > 生无爱，吾宁死。
 
 * 扇贝单词
-  > Kites rise highest against the wind, not with it.
-  > 风筝逆风才能高飞——而不是顺风。
+  > We are most alive when we're in love.
+  > 沉浸在爱中的生命是最鲜活的。
 
 * 有道词典
-  > All humans are imperfect.
-  > 人无完人。
+  > Loving you is worth everything to me.
+  > 爱你，胜过一切。
 
 ```
