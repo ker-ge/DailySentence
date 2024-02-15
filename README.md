@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-14已更新 
+2024-02-15已更新 
 ```
 * 金山词霸
-  > I want love or death.
-  > 生无爱，吾宁死。
+  > I would rather die of passion than of boredom. 
+  > 我宁愿死于激情也不愿死于无聊。
 
 * 扇贝单词
-  > We are most alive when we're in love.
-  > 沉浸在爱中的生命是最鲜活的。
+  > The trees that are slow to grow bear the best fruit.
+  > 长得很慢的树，能结出最好的果子。
 
 * 有道词典
-  > Loving you is worth everything to me.
-  > 爱你，胜过一切。
+  > The potential is limitless.
+  > 人的潜力是无限的。
 
 ```
