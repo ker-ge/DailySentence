@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-15已更新 
+2024-02-16已更新 
 ```
 * 金山词霸
-  > I would rather die of passion than of boredom. 
-  > 我宁愿死于激情也不愿死于无聊。
+  > Dreaming, after all, is a form of planning.
+  > 梦想，就是一种计划形式。
 
 * 扇贝单词
-  > The trees that are slow to grow bear the best fruit.
-  > 长得很慢的树，能结出最好的果子。
+  > Never assume that you're stuck with the way things are. Life changes, and so can you.
+  > 永远别认为你无法摆脱现状，人生会改变，你也会。
 
 * 有道词典
-  > The potential is limitless.
-  > 人的潜力是无限的。
+  > Giving up is for rookies.
+  > 退缩是懦弱的表现。
 
 ```
