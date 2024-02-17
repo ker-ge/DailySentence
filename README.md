@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-16已更新 
+2024-02-17已更新 
 ```
 * 金山词霸
-  > Dreaming, after all, is a form of planning.
-  > 梦想，就是一种计划形式。
+  > Forget your troubles and just get happy.
+  > 忘掉烦恼，高兴起来吧。
 
 * 扇贝单词
-  > Never assume that you're stuck with the way things are. Life changes, and so can you.
-  > 永远别认为你无法摆脱现状，人生会改变，你也会。
+  > You never find yourself until you face the truth.
+  > 面对现实才能认清自我。
 
 * 有道词典
-  > Giving up is for rookies.
-  > 退缩是懦弱的表现。
+  > Life only moves forward.
+  > 人生只能向前走，不能回头。
 
 ```
