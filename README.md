@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-17已更新 
+2024-02-18已更新 
 ```
 * 金山词霸
-  > Forget your troubles and just get happy.
-  > 忘掉烦恼，高兴起来吧。
+  > You can go as far as you want to go.
+  > 心有多远，你就能走多远。
 
 * 扇贝单词
-  > You never find yourself until you face the truth.
-  > 面对现实才能认清自我。
+  > Difficulties strengthen the mind, as labor does the body.
+  > 困难能磨练心志，正如劳动能强壮体魄。
 
 * 有道词典
-  > Life only moves forward.
-  > 人生只能向前走，不能回头。
+  > I never wish to be parted from you from this day on.
+  > 愿我们从今天起永不分离。
 
 ```
