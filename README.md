@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-19已更新 
+2024-02-20已更新 
 ```
 * 金山词霸
-  > You can't judge a place before you've ever seen it.
-  > 未知全貌，不予置评。
+  > It's only those who do nothing that make no mistakes.
+  > 只有那些没行动的人不会犯错。
 
 * 扇贝单词
-  > The most profound statements are often said in silence.
-  > 最深刻的语句，往往是在沉默中说出的。
+  > Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.
+  > 那些保护空气、水和野生动物的计划，实际上是为了保护人类自己。
 
 * 有道词典
-  > We can't rely on luck.
-  > 人不能只靠运气行事。
+  > undefined
+  > undefined
 
 ```
