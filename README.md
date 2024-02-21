@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-20已更新 
+2024-02-21已更新 
 ```
 * 金山词霸
-  > It's only those who do nothing that make no mistakes.
-  > 只有那些没行动的人不会犯错。
+  > A goal is a dream with a deadline.
+  > 目标就是给梦想一个期限。
 
 * 扇贝单词
-  > Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.
-  > 那些保护空气、水和野生动物的计划，实际上是为了保护人类自己。
+  > A dream that you don't fight for can haunt you for the rest of your life.
+  > 没有为之奋斗的梦想会纠缠你一辈子。
 
 * 有道词典
-  > undefined
-  > undefined
+  > I will always love you best.
+  > 你永远是我的最爱。
 
 ```
