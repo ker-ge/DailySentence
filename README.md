@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-21已更新 
+2024-02-22已更新 
 ```
 * 金山词霸
-  > A goal is a dream with a deadline.
-  > 目标就是给梦想一个期限。
+  > Each day brings a new beginning.
+  > 每天都是一个新开始。
 
 * 扇贝单词
-  > A dream that you don't fight for can haunt you for the rest of your life.
-  > 没有为之奋斗的梦想会纠缠你一辈子。
+  > We have only this moment, sparkling like a star in our hand... and melting like a snowflake.
+  > 我们只拥有此刻，星光一般闪过，雪花一般融逝的一瞬间。
 
 * 有道词典
-  > I will always love you best.
-  > 你永远是我的最爱。
+  > Tomorrow will bring a new world.
+  > 明天将是一个全新的世界。
 
 ```
