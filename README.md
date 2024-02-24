@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-23已更新 
+2024-02-24已更新 
 ```
 * 金山词霸
-  > Love is what makes life worth living.
-  > 爱，让生命有了意义。
+  > When the moon was on the willow's top,We'd met after dusk.
+  > 月上柳梢头，人约黄昏后。
 
 * 扇贝单词
-  > You gave me a forever within the numbered days, and I'm grateful.
-  > 在有限的日子里，你为我创造出了永恒。我很感激。
+  > To love is to receive a glimpse of heaven.
+  > 去爱，便能一窥天堂。
 
 * 有道词典
-  > From now onward, I will be prepared to be much stronger.
-  > 从现在开始，我将变得更加强大。
+  > Lanterns have not only lit up the night, but also illuminated hearts that long for home.
+  > 元宵节的灯笼不仅照亮了黑夜，也照亮了人们渴望回家的心。
 
 ```
