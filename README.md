@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-24已更新 
+2024-02-25已更新 
 ```
 * 金山词霸
-  > When the moon was on the willow's top,We'd met after dusk.
-  > 月上柳梢头，人约黄昏后。
+  > Wisdom is not wisdom when it is derived from books alone.
+  > 只是从书中获得的智慧不算是智慧。
 
 * 扇贝单词
-  > To love is to receive a glimpse of heaven.
-  > 去爱，便能一窥天堂。
+  > One doesn't discover new lands without consenting to lose sight of the shore for a very long time.
+  > 不愿在看不见海岸线的情况下久久漂流，是不会发现新大陆的。
 
 * 有道词典
-  > Lanterns have not only lit up the night, but also illuminated hearts that long for home.
-  > 元宵节的灯笼不仅照亮了黑夜，也照亮了人们渴望回家的心。
+  > Look beyond what you see.
+  > 不要局限于眼前所见。
 
 ```
