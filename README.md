@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-25已更新 
+2024-02-26已更新 
 ```
 * 金山词霸
-  > Wisdom is not wisdom when it is derived from books alone.
-  > 只是从书中获得的智慧不算是智慧。
+  > Patience is a bitter plant that produces sweet fruit.
+  > 耐心是苦涩的树，但它会长出甜美的果实。
 
 * 扇贝单词
-  > One doesn't discover new lands without consenting to lose sight of the shore for a very long time.
-  > 不愿在看不见海岸线的情况下久久漂流，是不会发现新大陆的。
+  > I'm gonna take all this negativity and use it as fuel and I'm gonna find a silver lining.
+  > 我要把所有的消极影响化作力量，我要找到失望中的一丝希望。
 
 * 有道词典
-  > Look beyond what you see.
-  > 不要局限于眼前所见。
+  > A true act of goodwill always sparks another.
+  > 真正的善举最能鼓舞人心。
 
 ```
