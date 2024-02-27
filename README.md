@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-26已更新 
+2024-02-27已更新 
 ```
 * 金山词霸
-  > Patience is a bitter plant that produces sweet fruit.
-  > 耐心是苦涩的树，但它会长出甜美的果实。
+  > Whatever you do, do not let go!
+  > 不管你做什么，都不要放弃！
 
 * 扇贝单词
-  > I'm gonna take all this negativity and use it as fuel and I'm gonna find a silver lining.
-  > 我要把所有的消极影响化作力量，我要找到失望中的一丝希望。
+  > The charm of sunset makes me want to scurry home.
+  > 日落的魅力，让我想快步赶回家。
 
 * 有道词典
-  > A true act of goodwill always sparks another.
-  > 真正的善举最能鼓舞人心。
+  > Look forward, never back.
+  > 向前看，永不回头。
 
 ```
