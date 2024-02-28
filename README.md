@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-27已更新 
+2024-02-28已更新 
 ```
 * 金山词霸
-  > Whatever you do, do not let go!
-  > 不管你做什么，都不要放弃！
+  > Take your time, good or bad.
+  > 慢慢来吧，好与不好都随缘而遇。
 
 * 扇贝单词
-  > The charm of sunset makes me want to scurry home.
-  > 日落的魅力，让我想快步赶回家。
+  > Wherever you go, no matter what the weather, always bring your own sunshine.
+  > 无论去哪儿，无论天气怎样，记得带上自己的阳光。
 
 * 有道词典
-  > Look forward, never back.
-  > 向前看，永不回头。
+  > Falling in love is an act of magic.
+  > 爱情本身就是一种魔法。
 
 ```
