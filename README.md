@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-28已更新 
+2024-02-29已更新 
 ```
 * 金山词霸
-  > Take your time, good or bad.
-  > 慢慢来吧，好与不好都随缘而遇。
+  > The time for action is now. It's never too late to do something.
+  > 现在就行动，采取行动永远不嫌太晚。
 
 * 扇贝单词
-  > Wherever you go, no matter what the weather, always bring your own sunshine.
-  > 无论去哪儿，无论天气怎样，记得带上自己的阳光。
+  > Your vision will become clear only when you can look into your own heart.
+  > 唯有审视内心，你的愿景才会清晰起来。
 
 * 有道词典
-  > Falling in love is an act of magic.
-  > 爱情本身就是一种魔法。
+  > The hardest thing is being forgotten.
+  > 被人遗忘才是最可怕的事情。
 
 ```
