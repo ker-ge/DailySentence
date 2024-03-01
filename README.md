@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-02-29已更新 
+2024-03-01已更新 
 ```
 * 金山词霸
-  > The time for action is now. It's never too late to do something.
-  > 现在就行动，采取行动永远不嫌太晚。
+  > A merry heart goes all the way. 
+  > 心旷神怡，事事顺利。 
 
 * 扇贝单词
-  > Your vision will become clear only when you can look into your own heart.
-  > 唯有审视内心，你的愿景才会清晰起来。
+  > Be steady and well-ordered in your life so that you can be fierce and original in your work.
+  > 生活中沉稳可靠、井井有条，方能在工作中脱颖而出、不同凡响。
 
 * 有道词典
-  > The hardest thing is being forgotten.
-  > 被人遗忘才是最可怕的事情。
+  > Never stop believing in yourself.
+  > 永远不要停止相信自己。
 
 ```
