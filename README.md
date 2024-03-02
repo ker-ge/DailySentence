@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-01已更新 
+2024-03-02已更新 
 ```
 * 金山词霸
-  > A merry heart goes all the way. 
-  > 心旷神怡，事事顺利。 
+  > when life gets you down, just keep moving.
+  > 当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
 
 * 扇贝单词
-  > Be steady and well-ordered in your life so that you can be fierce and original in your work.
-  > 生活中沉稳可靠、井井有条，方能在工作中脱颖而出、不同凡响。
+  > We first make our habits, then our habits make us.
+  > 我们养成习惯，接着习惯成就我们。
 
 * 有道词典
-  > Never stop believing in yourself.
-  > 永远不要停止相信自己。
+  > Love is magical.
+  > 爱情充满了魔力。
 
 ```
