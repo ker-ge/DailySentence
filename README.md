@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-02已更新 
+2024-03-03已更新 
 ```
 * 金山词霸
-  > when life gets you down, just keep moving.
-  > 当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
+  > Fearless is having fears but jumping anyway.
+  > 无畏是心有所惧，但仍勇往直前。 ——泰勒·斯威夫特
 
 * 扇贝单词
-  > We first make our habits, then our habits make us.
-  > 我们养成习惯，接着习惯成就我们。
+  > Every individual has a place to fill in the world.
+  > 每一个来到这个世界上的人，都有一个属于他自己的位置。
 
 * 有道词典
-  > Love is magical.
-  > 爱情充满了魔力。
+  > You don't know until you try.
+  > 不尝试，就不会知道结果。
 
 ```
