@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-03已更新 
+2024-03-04已更新 
 ```
 * 金山词霸
-  > Fearless is having fears but jumping anyway.
-  > 无畏是心有所惧，但仍勇往直前。 ——泰勒·斯威夫特
+  > You reap what you sow.
+  > 种瓜得瓜，种豆得豆。 
 
 * 扇贝单词
-  > Every individual has a place to fill in the world.
-  > 每一个来到这个世界上的人，都有一个属于他自己的位置。
+  > If the moon smiled, she would resemble you.
+  > 月亮要是笑起来，她就会和你一样。
 
 * 有道词典
-  > You don't know until you try.
-  > 不尝试，就不会知道结果。
+  > Enjoy your life. And love your parents.
+  > 好好生活，好好爱你的父母。
 
 ```
