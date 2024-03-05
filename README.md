@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-04已更新 
+2024-03-05已更新 
 ```
 * 金山词霸
-  > You reap what you sow.
-  > 种瓜得瓜，种豆得豆。 
+  > The best thing to hold onto in life is each other.
+  > 生命中最值得珍惜的便是彼此。——奥黛丽·赫本
 
 * 扇贝单词
-  > If the moon smiled, she would resemble you.
-  > 月亮要是笑起来，她就会和你一样。
+  > The landscape belongs to the person who looks at it.
+  > 风景属于那些看风景的人。
 
 * 有道词典
-  > Enjoy your life. And love your parents.
-  > 好好生活，好好爱你的父母。
+  > Caution is wise.
+  > 谨慎是明智的。
 
 ```
