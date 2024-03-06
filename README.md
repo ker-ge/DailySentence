@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-05已更新 
+2024-03-06已更新 
 ```
 * 金山词霸
-  > The best thing to hold onto in life is each other.
-  > 生命中最值得珍惜的便是彼此。——奥黛丽·赫本
+  > Quick at meal, quick at work.
+  > 吃得快，做得快。
 
 * 扇贝单词
-  > The landscape belongs to the person who looks at it.
-  > 风景属于那些看风景的人。
+  > What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.
+  > 无论是你的过去，还是将来，与你的内在相比，都微不足道。
 
 * 有道词典
-  > Caution is wise.
-  > 谨慎是明智的。
+  > To my eyes, you are perfect.
+  > 在我眼中，你最完美。
 
 ```
