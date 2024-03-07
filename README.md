@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-06已更新 
+2024-03-07已更新 
 ```
 * 金山词霸
-  > Quick at meal, quick at work.
-  > 吃得快，做得快。
+  > Sometimes things have to fall apart to make way for better things.
+  > 有时候要到达谷底，才会慢慢变好。
 
 * 扇贝单词
-  > What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.
-  > 无论是你的过去，还是将来，与你的内在相比，都微不足道。
+  > The desire to reach for the stars is ambitious. The desire to reach hearts is wise and most possible.
+  > 想要触摸天上星辰，志存高远；想要触碰心灵，明智且最可行。
 
 * 有道词典
-  > To my eyes, you are perfect.
-  > 在我眼中，你最完美。
+  > Let my fight beside you.
+  > 让我与你并肩战斗。
 
 ```
