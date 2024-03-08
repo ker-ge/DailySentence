@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-07已更新 
+2024-03-08已更新 
 ```
 * 金山词霸
-  > Sometimes things have to fall apart to make way for better things.
-  > 有时候要到达谷底，才会慢慢变好。
+  > You are beautiful just as you are.
+  > 你本来就很美。
 
 * 扇贝单词
-  > The desire to reach for the stars is ambitious. The desire to reach hearts is wise and most possible.
-  > 想要触摸天上星辰，志存高远；想要触碰心灵，明智且最可行。
+  > Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough.
+  > 生活中有半数烦恼，来自于答应得太快和拒绝得太慢。
 
 * 有道词典
-  > Let my fight beside you.
-  > 让我与你并肩战斗。
+  > Life is beautiful. The girls are beautiful.
+  > 生活美好，女孩美丽。
 
 ```
