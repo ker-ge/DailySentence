@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-08已更新 
+2024-03-09已更新 
 ```
 * 金山词霸
-  > You are beautiful just as you are.
-  > 你本来就很美。
+  > Don't be afraid to be yourself. Follow your own path.
+  > 不要害怕做与众不同的自己，走自己的路。
 
 * 扇贝单词
-  > Half of the troubles of this life can be traced to saying yes too quickly and not saying no soon enough.
-  > 生活中有半数烦恼，来自于答应得太快和拒绝得太慢。
+  > It is not worth the while to let our imperfections disturb us always.
+  > 犯不着总是为自己的不完美而烦恼。
 
 * 有道词典
-  > Life is beautiful. The girls are beautiful.
-  > 生活美好，女孩美丽。
+  > Always be yourself.
+  > 永远做你自己。
 
 ```
