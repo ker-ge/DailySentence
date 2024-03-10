@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-09已更新 
+2024-03-10已更新 
 ```
 * 金山词霸
-  > Don't be afraid to be yourself. Follow your own path.
-  > 不要害怕做与众不同的自己，走自己的路。
+  > There's nothing you can do that can't be done.
+  > 没有什么是你能做却做不到的。——披头士乐队
 
 * 扇贝单词
-  > It is not worth the while to let our imperfections disturb us always.
-  > 犯不着总是为自己的不完美而烦恼。
+  > There is a pleasure in the pathless woods; there is a rapture on the lonely shore.
+  > 无径之林，常有乐趣；无人之岸，几多欢喜。
 
 * 有道词典
-  > Always be yourself.
-  > 永远做你自己。
+  > First time is always the hardest.
+  > 万事开头难。
 
 ```
