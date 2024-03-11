@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-10已更新 
+2024-03-11已更新 
 ```
 * 金山词霸
-  > There's nothing you can do that can't be done.
-  > 没有什么是你能做却做不到的。——披头士乐队
+  > What we do willingly is easy.
+  > 世上无难事，只要肯登攀。
 
 * 扇贝单词
-  > There is a pleasure in the pathless woods; there is a rapture on the lonely shore.
-  > 无径之林，常有乐趣；无人之岸，几多欢喜。
+  > Whoever is careless with the truth in small matters cannot be trusted with important matters.
+  > 凡在小事上对真理持轻率态度的人，在大事上就不能被委以信任。
 
 * 有道词典
-  > First time is always the hardest.
-  > 万事开头难。
+  > There is no greater form of trust than love.
+  > 无保留地爱你，就是对你最大的信任。
 
 ```
