@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-11已更新 
+2024-03-12已更新 
 ```
 * 金山词霸
-  > What we do willingly is easy.
-  > 世上无难事，只要肯登攀。
+  > Never doubt that you are valuable and powerful.
+  > 永远都不要质疑你自己的价值和能力。——艾玛·沃特森
 
 * 扇贝单词
-  > Whoever is careless with the truth in small matters cannot be trusted with important matters.
-  > 凡在小事上对真理持轻率态度的人，在大事上就不能被委以信任。
+  > He who plants a tree, plants a hope.
+  > 种下一棵树，就是种下一个希望。
 
 * 有道词典
-  > There is no greater form of trust than love.
-  > 无保留地爱你，就是对你最大的信任。
+  > Plant your trees,watch them grow.
+  > 种下属于你的树，守护着它长大。
 
 ```
