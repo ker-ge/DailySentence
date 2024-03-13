@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-12已更新 
+2024-03-13已更新 
 ```
 * 金山词霸
-  > Never doubt that you are valuable and powerful.
-  > 永远都不要质疑你自己的价值和能力。——艾玛·沃特森
+  > Be slow to promise and be quick to perform.
+  > 勿轻诺，诺必果。
 
 * 扇贝单词
-  > He who plants a tree, plants a hope.
-  > 种下一棵树，就是种下一个希望。
+  > The golden rule is that there are no golden rules.
+  > 真正的金科玉律就是世上并无金科玉律。
 
 * 有道词典
-  > Plant your trees,watch them grow.
-  > 种下属于你的树，守护着它长大。
+  > Don't waste your gift!
+  > 不要浪费你的天赋！
 
 ```
