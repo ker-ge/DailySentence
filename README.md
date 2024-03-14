@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-13已更新 
+2024-03-14已更新 
 ```
 * 金山词霸
-  > Be slow to promise and be quick to perform.
-  > 勿轻诺，诺必果。
+  >  Virtue is the only true nobility.
+  > 唯有美德是真正高贵的。
 
 * 扇贝单词
-  > The golden rule is that there are no golden rules.
-  > 真正的金科玉律就是世上并无金科玉律。
+  > If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.
+  > 爱一个人，就要放手；若能回来，便永远属于你；若没回来，便从未属于过你。
 
 * 有道词典
-  > Don't waste your gift!
-  > 不要浪费你的天赋！
+  > I don't just seek justice, I stalk it.
+  > 我不仅要寻求正义，我还要追随正义。
 
 ```
