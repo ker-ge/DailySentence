@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-14已更新 
+2024-03-15已更新 
 ```
 * 金山词霸
-  >  Virtue is the only true nobility.
-  > 唯有美德是真正高贵的。
+  > To be a happy man.
+  > 做一个幸福的人。
 
 * 扇贝单词
-  > If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.
-  > 爱一个人，就要放手；若能回来，便永远属于你；若没回来，便从未属于过你。
+  > Personality is to a man what perfume is to a flower.
+  > 个性之于人正如芳香之于花。
 
 * 有道词典
-  > I don't just seek justice, I stalk it.
-  > 我不仅要寻求正义，我还要追随正义。
+  > It never hurts to be friendly.
+  > 对人友善点没什么坏处。
 
 ```
