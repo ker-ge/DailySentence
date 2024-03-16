@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-15已更新 
+2024-03-16已更新 
 ```
 * 金山词霸
-  > To be a happy man.
-  > 做一个幸福的人。
+  > Care and diligence bring luck.
+  > 谨慎和勤奋，带来好运气。
 
 * 扇贝单词
-  > Personality is to a man what perfume is to a flower.
-  > 个性之于人正如芳香之于花。
+  > The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do.
+  > 世界需要梦想家，也需要实践者，但这世界最需要的是能实践的梦想家。
 
 * 有道词典
-  > It never hurts to be friendly.
-  > 对人友善点没什么坏处。
+  > Sometimes things turn out the way they should.
+  > 有时，事物的发展都是自然而然的。
 
 ```
