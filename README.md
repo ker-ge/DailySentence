@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-16已更新 
+2024-03-17已更新 
 ```
 * 金山词霸
-  > Care and diligence bring luck.
-  > 谨慎和勤奋，带来好运气。
+  > A wise head makes a close mouth. 
+  > 真人不露相，露相非真人。
 
 * 扇贝单词
-  > The world needs dreamers and the world needs doers. But above all, the world needs dreamers who do.
-  > 世界需要梦想家，也需要实践者，但这世界最需要的是能实践的梦想家。
+  > Things turn out best for the people who make the best of the way things turn out.
+  > 充分利用既有结果的人，就会获得最佳结果。
 
 * 有道词典
-  > Sometimes things turn out the way they should.
-  > 有时，事物的发展都是自然而然的。
+  > There's no greater gift than love.
+  > 没有比爱更好的馈赠。
 
 ```
