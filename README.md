@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-17已更新 
+2024-03-18已更新 
 ```
 * 金山词霸
-  > A wise head makes a close mouth. 
-  > 真人不露相，露相非真人。
+  > The only person standing on your way is you.
+  > 唯一能阻碍你的人，是你自己。 ——《黑天鹅》
 
 * 扇贝单词
-  > Things turn out best for the people who make the best of the way things turn out.
-  > 充分利用既有结果的人，就会获得最佳结果。
+  > Keep your best wishes close to your heart and watch what happens.
+  > 心怀最美好的愿望，再看看会发生什么。
 
 * 有道词典
-  > There's no greater gift than love.
-  > 没有比爱更好的馈赠。
+  > Waiting is the hardest part.
+  > 等待是最难熬的。
 
 ```
