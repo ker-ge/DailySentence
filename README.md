@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-18已更新 
+2024-03-19已更新 
 ```
 * 金山词霸
-  > The only person standing on your way is you.
-  > 唯一能阻碍你的人，是你自己。 ——《黑天鹅》
+  > Go ahead. Take the chance.
+  > 去吧，去抓住机会。
 
 * 扇贝单词
-  > Keep your best wishes close to your heart and watch what happens.
-  > 心怀最美好的愿望，再看看会发生什么。
+  > If you saturate your mind with positive thoughts, it will sustain you in any situation.
+  > 让大脑装满积极的想法，能支撑你度过任何境遇。
 
 * 有道词典
-  > Waiting is the hardest part.
-  > 等待是最难熬的。
+  > Love is our true destiny.
+  > 命中注定我们相爱。
 
 ```
