@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-19已更新 
+2024-03-20已更新 
 ```
 * 金山词霸
-  > Go ahead. Take the chance.
-  > 去吧，去抓住机会。
+  > Spring is when life's alive in everything.
+  > 春天是万物复苏的时节。
 
 * 扇贝单词
-  > If you saturate your mind with positive thoughts, it will sustain you in any situation.
-  > 让大脑装满积极的想法，能支撑你度过任何境遇。
+  > When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+  > 当你感到似乎事事不顺时，记住，飞机都是逆风起飞的，不是顺风。
 
 * 有道词典
-  > Love is our true destiny.
-  > 命中注定我们相爱。
+  > There's a hint of spring in the air.
+  > 空气中弥漫着春天的气息。
 
 ```
