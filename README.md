@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-20已更新 
+2024-03-21已更新 
 ```
 * 金山词霸
-  > Spring is when life's alive in everything.
-  > 春天是万物复苏的时节。
+  > Eventually, you'll learn to cry that on the inside.
+  > 终有一天，你会学会让泪往心里流。——《破产姐妹》
 
 * 扇贝单词
-  > When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
-  > 当你感到似乎事事不顺时，记住，飞机都是逆风起飞的，不是顺风。
+  > People may hear your words, but they feel your attitude.
+  > 你的话，别人能听到，但你的态度才是别人能感受到的。
 
 * 有道词典
-  > There's a hint of spring in the air.
-  > 空气中弥漫着春天的气息。
+  > Whoever saves one life, saves the world entire.
+  > 挽救了一条生命，就等于挽救了整个世界。
 
 ```
