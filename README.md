@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-21已更新 
+2024-03-22已更新 
 ```
 * 金山词霸
-  > Eventually, you'll learn to cry that on the inside.
-  > 终有一天，你会学会让泪往心里流。——《破产姐妹》
+  > Every cloud has a silver lining.
+  > 天无绝人之路。
 
 * 扇贝单词
-  > People may hear your words, but they feel your attitude.
-  > 你的话，别人能听到，但你的态度才是别人能感受到的。
+  > Despite the forecast, live like it's spring.
+  > 无论天气预报怎样，把每天都当成春天来过。
 
 * 有道词典
-  > Whoever saves one life, saves the world entire.
-  > 挽救了一条生命，就等于挽救了整个世界。
+  > It is time to take the next step on your journey.
+  > 是时候开始你的下一段旅程了。
 
 ```
