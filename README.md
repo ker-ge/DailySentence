@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-22已更新 
+2024-03-23已更新 
 ```
 * 金山词霸
-  > Every cloud has a silver lining.
-  > 天无绝人之路。
+  > Time is a bird flying into eternity.
+  > 时间是一只永远在飞翔的鸟。
 
 * 扇贝单词
-  > Despite the forecast, live like it's spring.
-  > 无论天气预报怎样，把每天都当成春天来过。
+  > Opportunities are like sunrises. If you wait too long, you miss them.
+  > 机会如同日出，等得太久就会错过。
 
 * 有道词典
-  > It is time to take the next step on your journey.
-  > 是时候开始你的下一段旅程了。
+  > Winners will never retreat.
+  > 胜者永不言弃。
 
 ```
