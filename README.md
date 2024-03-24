@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-23已更新 
+2024-03-24已更新 
 ```
 * 金山词霸
-  > Time is a bird flying into eternity.
-  > 时间是一只永远在飞翔的鸟。
+  > If you obey all the rules, you'll miss all the fun.
+  > 凡事都墨守成规，就毫无乐趣了。
 
 * 扇贝单词
-  > Opportunities are like sunrises. If you wait too long, you miss them.
-  > 机会如同日出，等得太久就会错过。
+  > Take chances; make mistakes. That's how you grow.
+  > 去冒险，去犯错。你就是这样成长起来的。
 
 * 有道词典
-  > Winners will never retreat.
-  > 胜者永不言弃。
+  > You've got to make your own luck.
+  > 好运，掌握在自己手中。
 
 ```
