@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-24已更新 
+2024-03-25已更新 
 ```
 * 金山词霸
-  > If you obey all the rules, you'll miss all the fun.
-  > 凡事都墨守成规，就毫无乐趣了。
+  > Don't let yesterday take up too much of today.
+  > 别让昨日之事占据今日太多时间。
 
 * 扇贝单词
-  > Take chances; make mistakes. That's how you grow.
-  > 去冒险，去犯错。你就是这样成长起来的。
+  > They always say time changes things, but you actually have to change them yourself.
+  > 人们总说时间会改变一切，但改变还是要靠你自己。
 
 * 有道词典
-  > You've got to make your own luck.
-  > 好运，掌握在自己手中。
+  > Through the fire, we shall find the spring of new life.
+  > 浴火蜕变，方得新生。
 
 ```
