@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-25已更新 
+2024-03-26已更新 
 ```
 * 金山词霸
-  > Don't let yesterday take up too much of today.
-  > 别让昨日之事占据今日太多时间。
+  > Enjoy it while it lasts.
+  > 尽情享受当下吧。——《灰姑娘》
 
 * 扇贝单词
-  > They always say time changes things, but you actually have to change them yourself.
-  > 人们总说时间会改变一切，但改变还是要靠你自己。
+  > Happiness, it comes on unexpectedly. And goes beyond, really, any early morning talk about it.
+  > 幸福，在不经意间降临，它着实胜过每个谈论幸福的清晨。
 
 * 有道词典
-  > Through the fire, we shall find the spring of new life.
-  > 浴火蜕变，方得新生。
+  > We'll be together forever.
+  > 我们会永远在一起。
 
 ```
