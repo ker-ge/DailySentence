@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-26已更新 
+2024-03-27已更新 
 ```
 * 金山词霸
-  > Enjoy it while it lasts.
-  > 尽情享受当下吧。——《灰姑娘》
+  > Elegance is the only beauty that never fades.
+  > 优雅是唯一不会褪色的美。
 
 * 扇贝单词
-  > Happiness, it comes on unexpectedly. And goes beyond, really, any early morning talk about it.
-  > 幸福，在不经意间降临，它着实胜过每个谈论幸福的清晨。
+  > You can't cross the sea merely by standing and staring at the water.
+  > 光站在那里盯着海面，是没法穿越海洋的。
 
 * 有道词典
-  > We'll be together forever.
-  > 我们会永远在一起。
+  > Our destiny is our own!
+  > 命运由我们自己掌控！
 
 ```
