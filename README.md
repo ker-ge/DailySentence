@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-27已更新 
+2024-03-28已更新 
 ```
 * 金山词霸
-  > Elegance is the only beauty that never fades.
-  > 优雅是唯一不会褪色的美。
+  > Travel imparts new vigor to the mind.
+  > 旅行给思想带来新的活力。
 
 * 扇贝单词
-  > You can't cross the sea merely by standing and staring at the water.
-  > 光站在那里盯着海面，是没法穿越海洋的。
+  > Do something wonderful; people may imitate it.
+  > 去做美好的事，人们可能会效仿。
 
 * 有道词典
-  > Our destiny is our own!
-  > 命运由我们自己掌控！
+  > The more difficult something became, the more rewarding it was in the end.
+  > 越是困难的事情，最后得到的回报越大。
 
 ```
