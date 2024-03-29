@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-28已更新 
+2024-03-29已更新 
 ```
 * 金山词霸
-  > Travel imparts new vigor to the mind.
-  > 旅行给思想带来新的活力。
+  > A miss is as good as a mile. 
+  > 失之毫厘，差之千里。 
 
 * 扇贝单词
-  > Do something wonderful; people may imitate it.
-  > 去做美好的事，人们可能会效仿。
+  > All human wisdom is summed up in these two words: wait and hope.
+  > 人类所有的智慧可以归结为两个词：等待和希望。
 
 * 有道词典
-  > The more difficult something became, the more rewarding it was in the end.
-  > 越是困难的事情，最后得到的回报越大。
+  > I want to spend the rest of my life with you.
+  > 我愿与你共度余生。
 
 ```
