@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-30已更新 
+2024-03-31已更新 
 ```
 * 金山词霸
-  > Happy life lies in a peaceful mind.
-  > 幸福的生活存在于心绪的宁静之中。
+  > We will not go quietly into the night!
+  > 我们不会就此无声无息的步入黑暗。——美国电影《独立日》
 
 * 扇贝单词
-  > You're only here for a short visit. Don't hurry; don't worry. And be sure to smell the flowers along the way.
-  > 你只是到这作短暂停留而已，不要匆忙，不要忧愁，务必要去感受下沿途的花香。
+  > Time moves in one direction, memory in another.
+  > 时间向前流逝，而回忆却向后延展。
 
 * 有道词典
-  > Your biggest obligation is to your future self.
-  > 你最大的责任是对自己的未来负责。
+  > I'm trying to be a better person.
+  > 我想要变得更优秀。
 
 ```
