@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-03-31已更新 
+2024-04-01已更新 
 ```
 * 金山词霸
-  > We will not go quietly into the night!
-  > 我们不会就此无声无息的步入黑暗。——美国电影《独立日》
+  > It's April Fools' Day. If I believe you, I'm a noodle.
+  > 今天是愚人节，如果我相信你，我就是个傻瓜。
 
 * 扇贝单词
-  > Time moves in one direction, memory in another.
-  > 时间向前流逝，而回忆却向后延展。
+  > Not he who has much is rich, but he who gives much.
+  > 拥有的多并不算富有，给予的多才算富有。
 
 * 有道词典
-  > I'm trying to be a better person.
-  > 我想要变得更优秀。
+  > It is good to see you smile.
+  > 看到你的微笑真好。
 
 ```
