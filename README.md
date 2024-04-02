@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-01已更新 
+2024-04-02已更新 
 ```
 * 金山词霸
-  > It's April Fools' Day. If I believe you, I'm a noodle.
-  > 今天是愚人节，如果我相信你，我就是个傻瓜。
+  > A friend is easier lost than found.
+  > 得朋友难，失朋友易。
 
 * 扇贝单词
-  > Not he who has much is rich, but he who gives much.
-  > 拥有的多并不算富有，给予的多才算富有。
+  > Life is not merely being alive, but being well.
+  > 生活不只是活着，而是精彩地活着。
 
 * 有道词典
-  > It is good to see you smile.
-  > 看到你的微笑真好。
+  > This world has more secrets than we can possibly imagine.
+  > 这个世界还有更多的秘密超乎我们想象。
 
 ```
