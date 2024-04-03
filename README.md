@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-02已更新 
+2024-04-03已更新 
 ```
 * 金山词霸
-  > A friend is easier lost than found.
-  > 得朋友难，失朋友易。
+  > Patience is the best remedy.
+  > 忍耐是最好的药物。
 
 * 扇贝单词
-  > Life is not merely being alive, but being well.
-  > 生活不只是活着，而是精彩地活着。
+  > It always seems impossible until it's done.
+  > 事情未成功之前，总看似不可能完成。
 
 * 有道词典
-  > This world has more secrets than we can possibly imagine.
-  > 这个世界还有更多的秘密超乎我们想象。
+  > We get to decide what our story is.
+  > 书写自己的故事！
 
 ```
