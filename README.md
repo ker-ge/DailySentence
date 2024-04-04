@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-03已更新 
+2024-04-04已更新 
 ```
 * 金山词霸
-  > Patience is the best remedy.
-  > 忍耐是最好的药物。
+  > A drizzling rain falls like tears on the Mourning Day.
+  > 清明时节雨纷纷
 
 * 扇贝单词
-  > It always seems impossible until it's done.
-  > 事情未成功之前，总看似不可能完成。
+  > I truly believe there's always a solution to every problem.
+  > 我确信，每个问题都有解决方案。
 
 * 有道词典
-  > We get to decide what our story is.
-  > 书写自己的故事！
+  > You are in my memories. You walk among them.
+  > 你永远在我的记忆里穿行，不曾忘却。
 
 ```
