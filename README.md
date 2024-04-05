@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-04已更新 
+2024-04-05已更新 
 ```
 * 金山词霸
-  > A drizzling rain falls like tears on the Mourning Day.
-  > 清明时节雨纷纷
+  > The best way to achieve a goal is to devote 100% of your time and energy to it.
+  > 达到目标的最好办法就是投入百分之百的时间和精力！
 
 * 扇贝单词
-  > I truly believe there's always a solution to every problem.
-  > 我确信，每个问题都有解决方案。
+  > It is not in the stars to hold our destiny but in ourselves.
+  > 掌握命运的是我们自己，而不是天上的星星。
 
 * 有道词典
-  > You are in my memories. You walk among them.
-  > 你永远在我的记忆里穿行，不曾忘却。
+  > Home is the place when you leave you just miss it.
+  > 家，是你一离开就会开始想念的地方。
 
 ```
