@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-06已更新 
+2024-04-07已更新 
 ```
 * 金山词霸
-  > A good beginning makes a good ending.
-  > 善始者善终。
+  > Don’t lose hope.You never know what tomorrow brings.
+  > 别灰心，谁又知道明天会有怎样的惊喜。 --《摩登家庭》
 
 * 扇贝单词
-  > I never dreamed about success. I worked for it.
-  > 我从未梦想成功，我只向着成功努力。
+  > Only I can change my life. No one can do it for me.
+  > 能改变生活的只有我自己，没有人能替我改变。
 
 * 有道词典
-  > Keep your mind focused on your task.
-  > 专注于你要做的事。
+  > Let's hope tomorrow's better.
+  > 希望明天会更好！
 
 ```
