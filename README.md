@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-07已更新 
+2024-04-08已更新 
 ```
 * 金山词霸
-  > Don’t lose hope.You never know what tomorrow brings.
-  > 别灰心，谁又知道明天会有怎样的惊喜。 --《摩登家庭》
+  > Think less of gain and loss as long as you go all out and have a clear mind.
+  > 得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
 
 * 扇贝单词
-  > Only I can change my life. No one can do it for me.
-  > 能改变生活的只有我自己，没有人能替我改变。
+  > Nothing is more highly to be prized than the value of each day.
+  > 把握当下才是真。
 
 * 有道词典
-  > Let's hope tomorrow's better.
-  > 希望明天会更好！
+  > You are the love of my life, and I am yours.
+  > 你是我此生挚爱，我亦如此。
 
 ```
