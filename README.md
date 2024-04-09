@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-08已更新 
+2024-04-09已更新 
 ```
 * 金山词霸
-  > Think less of gain and loss as long as you go all out and have a clear mind.
-  > 得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
+  > The task will be hard. There may be dark days ahead.
+  > 任务将会困难重重，前路可能乌云密布 。
 
 * 扇贝单词
-  > Nothing is more highly to be prized than the value of each day.
-  > 把握当下才是真。
+  > Never bend your head. Always hold it high. Look the world straight in the face.
+  > 永远不要垂下头。要高昂着头，直面这世界。
 
 * 有道词典
-  > You are the love of my life, and I am yours.
-  > 你是我此生挚爱，我亦如此。
+  > I will always be proud of you.
+  > 我将永远以你为荣。
 
 ```
