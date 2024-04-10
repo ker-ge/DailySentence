@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-09已更新 
+2024-04-10已更新 
 ```
 * 金山词霸
-  > The task will be hard. There may be dark days ahead.
-  > 任务将会困难重重，前路可能乌云密布 。
+  > You can't obtain something for nothing.
+  > 没有付出就没有收获。 --《小美人鱼》
 
 * 扇贝单词
-  > Never bend your head. Always hold it high. Look the world straight in the face.
-  > 永远不要垂下头。要高昂着头，直面这世界。
+  > He who has a why to live can bear almost any how.
+  > 知生命之意者，可承生命之重。
 
 * 有道词典
-  > I will always be proud of you.
-  > 我将永远以你为荣。
+  > I will keep loving you until the end of time.
+  > 我永远爱你，至死不渝。
 
 ```
