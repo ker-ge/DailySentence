@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-10已更新 
+2024-04-11已更新 
 ```
 * 金山词霸
-  > You can't obtain something for nothing.
-  > 没有付出就没有收获。 --《小美人鱼》
+  > All good things come to those who wait.
+  > 所有美好的事物都值得等待。 --《浪人》
 
 * 扇贝单词
-  > He who has a why to live can bear almost any how.
-  > 知生命之意者，可承生命之重。
+  > The memories we make with our family are everything.
+  > 我们和家人一起创造的记忆最为重要。
 
 * 有道词典
-  > I will keep loving you until the end of time.
-  > 我永远爱你，至死不渝。
+  > One regret can't change an entire life.
+  > 一次遗憾无法改变整个人生。
 
 ```
