@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-12已更新 
+2024-04-13已更新 
 ```
 * 金山词霸
-  > No man is born wise or learned.
-  > 人非生而知之。
+  > Beauty lies in the love's eyes.
+  > 情人眼里出西施。
 
 * 扇贝单词
-  > I am not a product of my circumstances. I am a product of my decisions.
-  > 我并非由环境造就，乃是由我所做出的决定造就。
+  > The foolish man seeks happiness in the distance, the wise grows it under his feet.
+  > 愚者追求远方的快乐，智者播种脚下的幸福。
 
 * 有道词典
-  > Remember, you are absolutely, truly amazing.
-  > 记住，你真的很了不起。
+  > A friend is important to you.
+  > 朋友是很重要的。
 
 ```
