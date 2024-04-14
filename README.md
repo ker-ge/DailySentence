@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-13已更新 
+2024-04-14已更新 
 ```
 * 金山词霸
-  > Beauty lies in the love's eyes.
-  > 情人眼里出西施。
+  > Ever tried. Ever failed. No matter. Try again.
+  > 屡战屡败，屡败屡战。 --《权利的游戏》
 
 * 扇贝单词
-  > The foolish man seeks happiness in the distance, the wise grows it under his feet.
-  > 愚者追求远方的快乐，智者播种脚下的幸福。
+  > Action may not always bring happiness; but there is no happiness without action.
+  > 行动不一定能带来快乐，但不行动一定不能。
 
 * 有道词典
-  > A friend is important to you.
-  > 朋友是很重要的。
+  > Be bold and fearless.
+  > 去做一个勇敢无畏的人！
 
 ```
