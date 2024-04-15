@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-14已更新 
+2024-04-15已更新 
 ```
 * 金山词霸
-  > Ever tried. Ever failed. No matter. Try again.
-  > 屡战屡败，屡败屡战。 --《权利的游戏》
+  > Sometimes I'm still not sure which side of the wall I'm on.
+  > 有时候我不确定自己是在墙的哪一边。 --《钢琴家》
 
 * 扇贝单词
-  > Action may not always bring happiness; but there is no happiness without action.
-  > 行动不一定能带来快乐，但不行动一定不能。
+  > Nothing is so common as the wish to be remarkable.
+  > 没有什么比希望不平凡而更平凡的了。
 
 * 有道词典
-  > Be bold and fearless.
-  > 去做一个勇敢无畏的人！
+  > Everyone deserves love.
+  > 每个人都值得被爱。
 
 ```
