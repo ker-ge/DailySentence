@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-15已更新 
+2024-04-16已更新 
 ```
 * 金山词霸
-  > Sometimes I'm still not sure which side of the wall I'm on.
-  > 有时候我不确定自己是在墙的哪一边。 --《钢琴家》
+  > You have nothing but still cheer for my dreams.
+  > 你什么都没有，却还为我的梦想加油。 --周杰伦《说好不哭》
 
 * 扇贝单词
-  > Nothing is so common as the wish to be remarkable.
-  > 没有什么比希望不平凡而更平凡的了。
+  > People are lonely because they build walls instead of bridges.
+  > 人们感到孤独，是因为他们为自己修起了围墙而不是桥梁。
 
 * 有道词典
-  > Everyone deserves love.
-  > 每个人都值得被爱。
+  > People love humility.
+  > 人们喜欢谦逊的人。
 
 ```
