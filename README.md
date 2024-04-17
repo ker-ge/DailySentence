@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-16已更新 
+2024-04-17已更新 
 ```
 * 金山词霸
-  > You have nothing but still cheer for my dreams.
-  > 你什么都没有，却还为我的梦想加油。 --周杰伦《说好不哭》
+  > Winners are simply willing to do what losers won't.
+  > 胜者注重实践，败者光说不练。-《百万美元宝贝》
 
 * 扇贝单词
-  > People are lonely because they build walls instead of bridges.
-  > 人们感到孤独，是因为他们为自己修起了围墙而不是桥梁。
+  > One should eat to live, not live to eat.
+  > 人生应为生而食，不应为食而生。
 
 * 有道词典
-  > People love humility.
-  > 人们喜欢谦逊的人。
+  > We will build a life together.
+  > 我们将一起创造人生。
 
 ```
