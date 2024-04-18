@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-17已更新 
+2024-04-18已更新 
 ```
 * 金山词霸
-  > Winners are simply willing to do what losers won't.
-  > 胜者注重实践，败者光说不练。-《百万美元宝贝》
+  > Jack of all trades，master of none.
+  > 门门精通，样样稀松。
 
 * 扇贝单词
-  > One should eat to live, not live to eat.
-  > 人生应为生而食，不应为食而生。
+  > The only true wisdom is in knowing you know nothing.
+  > 真正的智慧是知道自己一无所知。
 
 * 有道词典
-  > We will build a life together.
-  > 我们将一起创造人生。
+  > Nothing worthwhile in life comes easy.
+  > 人生中值得珍惜的都来之不易。
 
 ```
