@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-18已更新 
+2024-04-19已更新 
 ```
 * 金山词霸
-  > Jack of all trades，master of none.
-  > 门门精通，样样稀松。
+  > Youth means limitless possibilities.
+  > 年轻就有无限的可能。
 
 * 扇贝单词
-  > The only true wisdom is in knowing you know nothing.
-  > 真正的智慧是知道自己一无所知。
+  > Knowledge is of no value unless you put it into practice.
+  > 只有付诸实践，知识才有价值。
 
 * 有道词典
-  > Nothing worthwhile in life comes easy.
-  > 人生中值得珍惜的都来之不易。
+  > You are capable of great things.
+  > 你有能力成就大事。
 
 ```
