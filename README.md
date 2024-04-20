@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-19已更新 
+2024-04-20已更新 
 ```
 * 金山词霸
-  > Youth means limitless possibilities.
-  > 年轻就有无限的可能。
+  > You get in life what you have the courage to ask for.
+  > 勇敢去争取想要的生活，你终能得偿所愿。-–欧普拉‧温芙蕾
 
 * 扇贝单词
-  > Knowledge is of no value unless you put it into practice.
-  > 只有付诸实践，知识才有价值。
+  > Action is the foundational key to all success.
+  > 行动是所有成功的根本。
 
 * 有道词典
-  > You are capable of great things.
-  > 你有能力成就大事。
+  > Don't make promises you can't keep.
+  > 不要许下你无法兑现的承诺。
 
 ```
