@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-20已更新 
+2024-04-21已更新 
 ```
 * 金山词霸
-  > You get in life what you have the courage to ask for.
-  > 勇敢去争取想要的生活，你终能得偿所愿。-–欧普拉‧温芙蕾
+  > Gratitude is the sign of noble souls.
+  > 感恩是精神高尚的标志。
 
 * 扇贝单词
-  > Action is the foundational key to all success.
-  > 行动是所有成功的根本。
+  > Live as if you were to die tomorrow. Learn as if you were to live forever.
+  > 像你明天就会离世那样生活，像你可以永葆青春那样学习。
 
 * 有道词典
-  > Don't make promises you can't keep.
-  > 不要许下你无法兑现的承诺。
+  > Being a real hero takes time and experience.
+  > 成为真英雄需要时间与历练。
 
 ```
