@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-21已更新 
+2024-04-22已更新 
 ```
 * 金山词霸
-  > Gratitude is the sign of noble souls.
-  > 感恩是精神高尚的标志。
+  > Fortune knocks once at least at every man's gate.
+  > 风水轮流转。
 
 * 扇贝单词
-  > Live as if you were to die tomorrow. Learn as if you were to live forever.
-  > 像你明天就会离世那样生活，像你可以永葆青春那样学习。
+  > The difference between stupidity and genius is that genius has its limits.
+  > 愚蠢和天赋的区别在于，天赋是有极限的。
 
 * 有道词典
-  > Being a real hero takes time and experience.
-  > 成为真英雄需要时间与历练。
+  > My time and experiences without you are meaningless to me.
+  > 没有你的时光和旅程对我来说毫无意义。
 
 ```
