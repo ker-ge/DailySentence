@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-22已更新 
+2024-04-23已更新 
 ```
 * 金山词霸
-  > Fortune knocks once at least at every man's gate.
-  > 风水轮流转。
+  > All the splendor in the world is not worth a good friend.
+  > 人世间所有的荣华富贵不如一个好朋友。——法国思想家伏尔泰
 
 * 扇贝单词
-  > The difference between stupidity and genius is that genius has its limits.
-  > 愚蠢和天赋的区别在于，天赋是有极限的。
+  > If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+  > 不历严冬，春天不迷人；不尝艰辛，成功无欣喜。
 
 * 有道词典
-  > My time and experiences without you are meaningless to me.
-  > 没有你的时光和旅程对我来说毫无意义。
+  > True happiness is a lot closer than you think.
+  > 真正的幸福比你想象得更触手可及。
 
 ```
