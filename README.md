@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-25已更新 
+2024-04-26已更新 
 ```
 * 金山词霸
-  > A friend without faults will never be found.
-  > 没有十全十美的朋友。
+  > Never judge a book by its cover.
+  > 不要以貌取人。
 
 * 扇贝单词
-  > Knowing is not enough; we must apply. Willing is not enough; we must do.
-  > 获得知识并不够，还要去应用；立下志向也不够，还要去行动。
+  > The secret of getting ahead is getting started.
+  > 前进的秘诀是着手开始。
 
 * 有道词典
-  > In the darkness, there's always a crack. It's how the light gets in.
-  > 在黑暗中，总会有一道裂缝，那便是光照进来的地方。
+  > Confidence is not something you have. It's something you create.
+  > 自信不是与生俱来的，而是自己赋予的。
 
 ```
