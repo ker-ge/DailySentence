@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-26已更新 
+2024-04-27已更新 
 ```
 * 金山词霸
-  > Never judge a book by its cover.
-  > 不要以貌取人。
+  > Children are what the mothers are.
+  > 耳濡目染，言传身教。
 
 * 扇贝单词
-  > The secret of getting ahead is getting started.
-  > 前进的秘诀是着手开始。
+  > Don't criticize what you can't understand.
+  > 不懂的，不要随意批判。
 
 * 有道词典
-  > Confidence is not something you have. It's something you create.
-  > 自信不是与生俱来的，而是自己赋予的。
+  > I live to be the ruler of life, not a slave.
+  > 我要主宰自己的生活，绝不屈服。
 
 ```
