@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-27已更新 
+2024-04-28已更新 
 ```
 * 金山词霸
-  > Children are what the mothers are.
-  > 耳濡目染，言传身教。
+  > The honest man takes pains, and then enjoys pleasure.
+  > 正直的人先经历痛苦，然后享受欢乐。
 
 * 扇贝单词
-  > Don't criticize what you can't understand.
-  > 不懂的，不要随意批判。
+  > If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.
+  > 如果不能飞，那就跑；如果跑不动，那就走；实在走不了，那就爬。无论做什么，你都要勇往直前。
 
 * 有道词典
-  > I live to be the ruler of life, not a slave.
-  > 我要主宰自己的生活，绝不屈服。
+  > There are infinite paths and infinite possibilities, but you must open the door.
+  > 前方有无尽的道路，亦有无限的可能，但你必须先打开那扇门。
 
 ```
