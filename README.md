@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-28已更新 
+2024-04-29已更新 
 ```
 * 金山词霸
-  > The honest man takes pains, and then enjoys pleasure.
-  > 正直的人先经历痛苦，然后享受欢乐。
+  > Speech is the image of actions.
+  > 语言是行动的反映。
 
 * 扇贝单词
-  > If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.
-  > 如果不能飞，那就跑；如果跑不动，那就走；实在走不了，那就爬。无论做什么，你都要勇往直前。
+  > Always do your best. What you plant now, you will harvest later.
+  > 永远要全力以赴，今日播下的种子，终会得到丰收。
 
 * 有道词典
-  > There are infinite paths and infinite possibilities, but you must open the door.
-  > 前方有无尽的道路，亦有无限的可能，但你必须先打开那扇门。
+  > In every young man's life, there are milestones along the road to independence.
+  > 每个少年通往独立的路上都会经过许多关卡。
 
 ```
