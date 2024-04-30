@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-29已更新 
+2024-04-30已更新 
 ```
 * 金山词霸
-  > Speech is the image of actions.
-  > 语言是行动的反映。
+  > A cat may look at a king.
+  > 人人平等。
 
 * 扇贝单词
-  > Always do your best. What you plant now, you will harvest later.
-  > 永远要全力以赴，今日播下的种子，终会得到丰收。
+  > Good manners and soft words have brought many a difficult thing to pass.
+  > 礼貌的行为和温柔的话语会让很多难题迎刃而解。
 
 * 有道词典
-  > In every young man's life, there are milestones along the road to independence.
-  > 每个少年通往独立的路上都会经过许多关卡。
+  > Everyday with you is an adventure.
+  > 和你在一起的每天都是场奇遇。
 
 ```
