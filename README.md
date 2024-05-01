@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-04-30已更新 
+2024-05-01已更新 
 ```
 * 金山词霸
-  > A cat may look at a king.
-  > 人人平等。
+  > Labor is the most reliable wealth.
+  > 劳动是最可靠的财富。
 
 * 扇贝单词
-  > Good manners and soft words have brought many a difficult thing to pass.
-  > 礼貌的行为和温柔的话语会让很多难题迎刃而解。
+  > The most wasted of all days is one without laughter.
+  > 没有欢笑的一天便最是虚度。
 
 * 有道词典
-  > Everyday with you is an adventure.
-  > 和你在一起的每天都是场奇遇。
+  > Hard work is the price of greatness.
+  > 努力奋斗方能成就伟大。
 
 ```
