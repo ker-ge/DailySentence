@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-01已更新 
+2024-05-02已更新 
 ```
 * 金山词霸
-  > Labor is the most reliable wealth.
-  > 劳动是最可靠的财富。
+  > Sweat is the lubricant of success.
+  > 汗水是成功的润滑剂。
 
 * 扇贝单词
-  > The most wasted of all days is one without laughter.
-  > 没有欢笑的一天便最是虚度。
+  > You can't help getting older, but you don't have to get old.
+  > 你无法阻止衰老，但你不一定要变老。
 
 * 有道词典
-  > Hard work is the price of greatness.
-  > 努力奋斗方能成就伟大。
+  > Everyone’s beautiful in their own peculiar way.
+  > 每个人都有自己独特的美。
 
 ```
