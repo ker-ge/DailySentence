@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-02已更新 
+2024-05-03已更新 
 ```
 * 金山词霸
-  > Sweat is the lubricant of success.
-  > 汗水是成功的润滑剂。
+  > The apple doesn't fall far from the tree.
+  > 树上掉下的苹果离树能有多远。
 
 * 扇贝单词
-  > You can't help getting older, but you don't have to get old.
-  > 你无法阻止衰老，但你不一定要变老。
+  > Only those who risk going too far can possibly find out how far they can go.
+  > 唯有那些敢于冒险大步向前的人，才能够了解自己能走多远。
 
 * 有道词典
-  > Everyone’s beautiful in their own peculiar way.
-  > 每个人都有自己独特的美。
+  > Friendship is vowing toward immortality.
+  > 友谊是不朽的誓言。
 
 ```
