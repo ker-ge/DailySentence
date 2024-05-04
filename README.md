@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-03已更新 
+2024-05-04已更新 
 ```
 * 金山词霸
-  > The apple doesn't fall far from the tree.
-  > 树上掉下的苹果离树能有多远。
+  > Just hold to your dream and never give up. 
+  > 坚持你的梦想，永不放弃。
 
 * 扇贝单词
-  > Only those who risk going too far can possibly find out how far they can go.
-  > 唯有那些敢于冒险大步向前的人，才能够了解自己能走多远。
+  > Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.
+  > 不要被头脑中的恐惧牵制，让心中的梦想指引着你。
 
 * 有道词典
-  > Friendship is vowing toward immortality.
-  > 友谊是不朽的誓言。
+  > Enjoy your youth while you can.
+  > 趁现在，好好享受青春吧。
 
 ```
