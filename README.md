@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-04已更新 
+2024-05-05已更新 
 ```
 * 金山词霸
-  > Just hold to your dream and never give up. 
-  > 坚持你的梦想，永不放弃。
+  > Great hopes make great men.
+  > 伟大的理想造就伟大的人。
 
 * 扇贝单词
-  > Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.
-  > 不要被头脑中的恐惧牵制，让心中的梦想指引着你。
+  > One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+  > 只要一个人透过爱、友谊、义愤或怜悯，使他人的生活变美好，他的生命就有价值。
 
 * 有道词典
-  > Enjoy your youth while you can.
-  > 趁现在，好好享受青春吧。
+  > It's headed towards summer.
+  > 夏日将至。
 
 ```
