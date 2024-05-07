@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-06已更新 
+2024-05-07已更新 
 ```
 * 金山词霸
-  > Speech is the image of actions.
-  > 语言是行动的反映。
+  > Don't wait to be lonely to recognize the value of a friend.
+  > 不要等到孤独了，才明白朋友的价值。
 
 * 扇贝单词
-  > To do nothing is the way to be nothing.
-  > 无所事事终将一事无成。
+  > An ounce of action is worth a ton of theory.
+  > 一盎司的行动，价值相当于一吨的理论。
 
 * 有道词典
-  > Love is patient, love is kind.
-  > 爱是忍耐与仁慈。
+  > Anyone can be anything.
+  > 任何人都能成为自己想成为的人。
 
 ```
