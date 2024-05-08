@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-07已更新 
+2024-05-08已更新 
 ```
 * 金山词霸
-  > Don't wait to be lonely to recognize the value of a friend.
-  > 不要等到孤独了，才明白朋友的价值。
+  > I wish I could be more like you.
+  > 我要像你一样就好了。
 
 * 扇贝单词
-  > An ounce of action is worth a ton of theory.
-  > 一盎司的行动，价值相当于一吨的理论。
+  > If I have seen further, it is by standing on the shoulders of giants.
+  > 如果我看得更远，那是因为我站在巨人的肩膀上。
 
 * 有道词典
-  > Anyone can be anything.
-  > 任何人都能成为自己想成为的人。
+  > If you don't like where you are, just picture where you wanna be.
+  > 你若不满此刻的境遇，就想想自己所憧憬的世界。
 
 ```
