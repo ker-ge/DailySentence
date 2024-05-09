@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-08已更新 
+2024-05-09已更新 
 ```
 * 金山词霸
-  > I wish I could be more like you.
-  > 我要像你一样就好了。
+  > Whatever comes, I'll love you, just as I do now. Until I die.
+  > 无论发生什么事，我都会像现在一样爱你，直到永远。
 
 * 扇贝单词
-  > If I have seen further, it is by standing on the shoulders of giants.
-  > 如果我看得更远，那是因为我站在巨人的肩膀上。
+  > Don't be afraid of your fears. They're there to let you know that something is worth it.
+  > 别害怕自己的恐惧，它让你知道有些事情值得去做。
 
 * 有道词典
-  > If you don't like where you are, just picture where you wanna be.
-  > 你若不满此刻的境遇，就想想自己所憧憬的世界。
+  > Life's full of possibilities.
+  > 人生充满无限可能。
 
 ```
