@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-09已更新 
+2024-05-10已更新 
 ```
 * 金山词霸
-  > Whatever comes, I'll love you, just as I do now. Until I die.
-  > 无论发生什么事，我都会像现在一样爱你，直到永远。
+  > There is always a better way.
+  > 总有更好的办法。
 
 * 扇贝单词
-  > Don't be afraid of your fears. They're there to let you know that something is worth it.
-  > 别害怕自己的恐惧，它让你知道有些事情值得去做。
+  > No amount of anxiety makes any difference to anything that is going to happen.
+  > 再焦虑也不能改变即将要发生的事。
 
 * 有道词典
-  > Life's full of possibilities.
-  > 人生充满无限可能。
+  > You are lucky to be alive. So live every day to the fullest.
+  > 活着已是幸运，所以每天都要活得精彩。
 
 ```
