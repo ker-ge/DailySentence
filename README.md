@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-10已更新 
+2024-05-11已更新 
 ```
 * 金山词霸
-  > There is always a better way.
-  > 总有更好的办法。
+  > Life is too short for us to wake up in the morning with regrets.
+  > 人生苦短，所以每天不要带着遗憾醒来。
 
 * 扇贝单词
-  > No amount of anxiety makes any difference to anything that is going to happen.
-  > 再焦虑也不能改变即将要发生的事。
+  > Deciding what not to do is as important as deciding what to do.
+  > 决定不做什么同决定做什么一样重要。
 
 * 有道词典
-  > You are lucky to be alive. So live every day to the fullest.
-  > 活着已是幸运，所以每天都要活得精彩。
+  > Persistence is the secret to success in exam preparation.
+  > 坚持，是备考成功的秘诀。
 
 ```
