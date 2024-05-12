@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-11已更新 
+2024-05-12已更新 
 ```
 * 金山词霸
-  > Life is too short for us to wake up in the morning with regrets.
-  > 人生苦短，所以每天不要带着遗憾醒来。
+  > A mother's arms are more comforting than anyone else's.
+  > 妈妈的怀抱是最舒服的。——黛安娜王妃
 
 * 扇贝单词
-  > Deciding what not to do is as important as deciding what to do.
-  > 决定不做什么同决定做什么一样重要。
+  > They invented hugs to let people know you love them without saying anything.
+  > 拥抱，是让你一句话也不用说，就让别人知道你爱他们。
 
 * 有道词典
-  > Persistence is the secret to success in exam preparation.
-  > 坚持，是备考成功的秘诀。
+  > There are 5 billion people on this planet and you're the perfect mom for me.
+  > 这个地球上有50亿人，而你是我最好的妈妈。
 
 ```
