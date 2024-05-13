@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-12已更新 
+2024-05-13已更新 
 ```
 * 金山词霸
-  > A mother's arms are more comforting than anyone else's.
-  > 妈妈的怀抱是最舒服的。——黛安娜王妃
+  > Inside of every problem lies an opportunity.
+  > 每个问题里都藏着一个机会。
 
 * 扇贝单词
-  > They invented hugs to let people know you love them without saying anything.
-  > 拥抱，是让你一句话也不用说，就让别人知道你爱他们。
+  > No matter how many goals you have achieved, you must set your sights on a higher one.
+  > 不管你实现了多少目标，总要定睛于下一个更远大的。
 
 * 有道词典
-  > There are 5 billion people on this planet and you're the perfect mom for me.
-  > 这个地球上有50亿人，而你是我最好的妈妈。
+  > Life is a journey.
+  > 生命是一场旅程。
 
 ```
