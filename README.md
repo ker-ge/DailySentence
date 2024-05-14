@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-13已更新 
+2024-05-14已更新 
 ```
 * 金山词霸
-  > Inside of every problem lies an opportunity.
-  > 每个问题里都藏着一个机会。
+  > Mankind was born on Earth. It was never meant to die here.
+  > 人类生在地球， 但绝不应该在这里灭亡。——《星际穿越》
 
 * 扇贝单词
-  > No matter how many goals you have achieved, you must set your sights on a higher one.
-  > 不管你实现了多少目标，总要定睛于下一个更远大的。
+  > The greatest test of courage is to bear defeat without losing heart.
+  > 接受失败而不气馁是对勇气最大的考验。
 
 * 有道词典
-  > Life is a journey.
-  > 生命是一场旅程。
+  > We are born ceaselessly into the future.
+  > 生而奋斗，永不止步。
 
 ```
