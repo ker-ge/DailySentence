@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-14已更新 
+2024-05-15已更新 
 ```
 * 金山词霸
-  > Mankind was born on Earth. It was never meant to die here.
-  > 人类生在地球， 但绝不应该在这里灭亡。——《星际穿越》
+  > If you are ever in trouble, don't try to be brave, just run, just run away.
+  > 你若遇上麻烦，不要逞强，你就跑，远远跑开。
 
 * 扇贝单词
-  > The greatest test of courage is to bear defeat without losing heart.
-  > 接受失败而不气馁是对勇气最大的考验。
+  > Happiness is the natural flower of duty.
+  > 幸福是责任自然而然生出的花朵。
 
 * 有道词典
-  > We are born ceaselessly into the future.
-  > 生而奋斗，永不止步。
+  > My life is naught without you.
+  > 没有你，我的人生将毫无意义。
 
 ```
