@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-15已更新 
+2024-05-16已更新 
 ```
 * 金山词霸
-  > If you are ever in trouble, don't try to be brave, just run, just run away.
-  > 你若遇上麻烦，不要逞强，你就跑，远远跑开。
+  > Love is the one thing that transcends time and space.
+  > 只有爱可以穿越时空。
 
 * 扇贝单词
-  > Happiness is the natural flower of duty.
-  > 幸福是责任自然而然生出的花朵。
+  > Always bear in mind that your own resolution to succeed is more important than any other one thing.
+  > 牢记一点，你想要成功的决心比其他任何事情都重要。
 
 * 有道词典
-  > My life is naught without you.
-  > 没有你，我的人生将毫无意义。
+  > Dreams don't come for free.
+  > 梦想不会平白实现。
 
 ```
