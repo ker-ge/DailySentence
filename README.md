@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-16已更新 
+2024-05-17已更新 
 ```
 * 金山词霸
-  > Love is the one thing that transcends time and space.
-  > 只有爱可以穿越时空。
+  > Death is just a part of life, something we’re all destined to do.
+  > 死亡是生命的一部分，是我们注定要面对的一件事。
 
 * 扇贝单词
-  > Always bear in mind that your own resolution to succeed is more important than any other one thing.
-  > 牢记一点，你想要成功的决心比其他任何事情都重要。
+  > In the end, life teaches us what is important, and that is family.
+  > 生活最终会让我们明白什么最重要，那就是家庭。
 
 * 有道词典
-  > Dreams don't come for free.
-  > 梦想不会平白实现。
+  > Take chances you never imaged you would.
+  > 抓住来之不易的机会。
 
 ```
