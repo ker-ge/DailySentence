@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-17已更新 
+2024-05-18已更新 
 ```
 * 金山词霸
-  > Death is just a part of life, something we’re all destined to do.
-  > 死亡是生命的一部分，是我们注定要面对的一件事。
+  > There are only the pursued, the pursuing, the busy and the tired.
+  > 世界上只有被追求者和追求者，忙碌者和疲惫者。　　
 
 * 扇贝单词
-  > In the end, life teaches us what is important, and that is family.
-  > 生活最终会让我们明白什么最重要，那就是家庭。
+  > You are not beaten until you admit it.
+  > 在你承认之前，你尚未失败。
 
 * 有道词典
-  > Take chances you never imaged you would.
-  > 抓住来之不易的机会。
+  > You should always be yourself.
+  > 忠于自己。
 
 ```
