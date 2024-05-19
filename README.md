@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-18已更新 
+2024-05-19已更新 
 ```
 * 金山词霸
-  > There are only the pursued, the pursuing, the busy and the tired.
-  > 世界上只有被追求者和追求者，忙碌者和疲惫者。　　
+  > Life is expensive. You know, you have to be responsible.
+  > 生活很昂贵，你需要负责。
 
 * 扇贝单词
-  > You are not beaten until you admit it.
-  > 在你承认之前，你尚未失败。
+  > Life is the sum of all your choices.
+  > 你做的所有抉择造就了你的人生。
 
 * 有道词典
-  > You should always be yourself.
-  > 忠于自己。
+  > Exams are not only tests of knowledge but also of willpower.
+  > 考试是知识的检验，备考是意志的历练。
 
 ```
