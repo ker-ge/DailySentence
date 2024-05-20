@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-19已更新 
+2024-05-20已更新 
 ```
 * 金山词霸
-  > Life is expensive. You know, you have to be responsible.
-  > 生活很昂贵，你需要负责。
+  > Above all, don't lie to yourself.
+  > 最重要的是不要欺骗自己。
 
 * 扇贝单词
-  > Life is the sum of all your choices.
-  > 你做的所有抉择造就了你的人生。
+  > And so rock bottom became the solid foundation on which I rebuilt my life.
+  > 人生的低谷成为了我重建生活的坚实基础。
 
 * 有道词典
-  > Exams are not only tests of knowledge but also of willpower.
-  > 考试是知识的检验，备考是意志的历练。
+  > Loving someone and being loved means so much to me.
+  > 对我而言，爱人与被爱都意义非凡。
 
 ```
