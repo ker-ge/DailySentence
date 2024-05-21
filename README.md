@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-20已更新 
+2024-05-21已更新 
 ```
 * 金山词霸
-  > Above all, don't lie to yourself.
-  > 最重要的是不要欺骗自己。
+  > People who truly loved once are far more likely to love again.
+  > 真爱过的人很难再恋爱。
 
 * 扇贝单词
-  > And so rock bottom became the solid foundation on which I rebuilt my life.
-  > 人生的低谷成为了我重建生活的坚实基础。
+  > Skill and confidence are an unconquered army.
+  > 技能和信心是一支不可战胜的军队。
 
 * 有道词典
-  > Loving someone and being loved means so much to me.
-  > 对我而言，爱人与被爱都意义非凡。
+  > The one thing I cannot live without is you.
+  > 我的生命中唯独不能没有你。
 
 ```
