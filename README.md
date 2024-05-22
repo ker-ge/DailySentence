@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-21已更新 
+2024-05-22已更新 
 ```
 * 金山词霸
-  > People who truly loved once are far more likely to love again.
-  > 真爱过的人很难再恋爱。
+  > It is easier to get than to keep it.
+  > 创业容易守成难。
 
 * 扇贝单词
-  > Skill and confidence are an unconquered army.
-  > 技能和信心是一支不可战胜的军队。
+  > Change your thoughts and you change your world.
+  > 改变你的想法，就是改变了你的世界。
 
 * 有道词典
-  > The one thing I cannot live without is you.
-  > 我的生命中唯独不能没有你。
+  > You're going to the top of this mountain, broken legs and all.
+  > 哪怕遍体鳞伤，也要登上顶峰。
 
 ```
