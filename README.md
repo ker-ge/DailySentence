@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-22已更新 
+2024-05-23已更新 
 ```
 * 金山词霸
-  > It is easier to get than to keep it.
-  > 创业容易守成难。
+  > If I could, I surely would.
+  > 如果可以，我绝对愿意！
 
 * 扇贝单词
-  > Change your thoughts and you change your world.
-  > 改变你的想法，就是改变了你的世界。
+  > Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
+  > 尊重他人的感受。这对你可能无关紧要，但可能对他人十分重要。
 
 * 有道词典
-  > You're going to the top of this mountain, broken legs and all.
-  > 哪怕遍体鳞伤，也要登上顶峰。
+  > We are all different.
+  > 每个人都是独特的。
 
 ```
