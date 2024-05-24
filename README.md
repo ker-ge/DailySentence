@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-23已更新 
+2024-05-24已更新 
 ```
 * 金山词霸
-  > If I could, I surely would.
-  > 如果可以，我绝对愿意！
+  > Look before you leap.
+  > 三思而后行。
 
 * 扇贝单词
-  > Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
-  > 尊重他人的感受。这对你可能无关紧要，但可能对他人十分重要。
+  > In the middle of every difficulty comes opportunity.
+  > 每一个困境中都会出现机会。
 
 * 有道词典
-  > We are all different.
-  > 每个人都是独特的。
+  > Feel the fear and do it anyway.
+  > 直面恐惧，勇往直前。
 
 ```
