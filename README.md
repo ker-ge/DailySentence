@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-24已更新 
+2024-05-25已更新 
 ```
 * 金山词霸
-  > Look before you leap.
-  > 三思而后行。
+  > Rome was not built in a day.
+  > 罗马不是一天造成的。
 
 * 扇贝单词
-  > In the middle of every difficulty comes opportunity.
-  > 每一个困境中都会出现机会。
+  > Where there is ruin, there is hope for a treasure.
+  > 凡是有废墟的地方，就有可能藏着宝藏。
 
 * 有道词典
-  > Feel the fear and do it anyway.
-  > 直面恐惧，勇往直前。
+  > From now on, I gonna say yes -- yes to love, yes to adventure, yes to life.
+  > 从现在开始，我要积极地接受一切，去爱，去挑战，去拥抱生活。
 
 ```
