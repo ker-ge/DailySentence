@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-25已更新 
+2024-05-26已更新 
 ```
 * 金山词霸
-  > Rome was not built in a day.
-  > 罗马不是一天造成的。
+  > To be, or not to be - that is the question.
+  > 生存还是毁灭，这是一个问题。——《哈姆雷特》
 
 * 扇贝单词
-  > Where there is ruin, there is hope for a treasure.
-  > 凡是有废墟的地方，就有可能藏着宝藏。
+  > The power of imagination makes us infinite.
+  > 想象力让我们突破极限。
 
 * 有道词典
-  > From now on, I gonna say yes -- yes to love, yes to adventure, yes to life.
-  > 从现在开始，我要积极地接受一切，去爱，去挑战，去拥抱生活。
+  > You can't let the past define who you are.
+  > 别让过去定义现在的你。
 
 ```
