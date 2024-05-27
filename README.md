@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-26已更新 
+2024-05-27已更新 
 ```
 * 金山词霸
-  > To be, or not to be - that is the question.
-  > 生存还是毁灭，这是一个问题。——《哈姆雷特》
+  > If you don't try, you'll never know.
+  > 如果不尝试，你永远不会知道结果。
 
 * 扇贝单词
-  > The power of imagination makes us infinite.
-  > 想象力让我们突破极限。
+  > All achievements, all earned riches, have their beginning in an idea.
+  > 所有的成就和财富都是从一个想法开始的。
 
 * 有道词典
-  > You can't let the past define who you are.
-  > 别让过去定义现在的你。
+  > Life is worth fighting for.
+  > 人生值得奋斗。
 
 ```
