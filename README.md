@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-27已更新 
+2024-05-28已更新 
 ```
 * 金山词霸
-  > If you don't try, you'll never know.
-  > 如果不尝试，你永远不会知道结果。
+  > Love is a game that two can play and both win.
+  > 爱是两个人玩的双赢游戏。
 
 * 扇贝单词
-  > All achievements, all earned riches, have their beginning in an idea.
-  > 所有的成就和财富都是从一个想法开始的。
+  > The more things you do, the more you can do.
+  > 你做的事情越多，能做到的事情就越多。
 
 * 有道词典
-  > Life is worth fighting for.
-  > 人生值得奋斗。
+  > Mortality gives meaning to human life.
+  > 死亡赋予了生的意义。
 
 ```
