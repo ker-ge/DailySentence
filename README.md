@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-29已更新 
+2024-05-30已更新 
 ```
 * 金山词霸
-  > No fear of words, no fear of years.
-  > 不惧人言，不畏岁月。
+  > You can't be perfect, but you can be unique.
+  > 你不能十全十美，但你能独一无二。
 
 * 扇贝单词
-  > To know yourself is the first and most important step in pursuing your dreams and goals.
-  > 了解自己是追求梦想和目标的第一步，也是最重要的一步。
+  > Do something today that your future self will thank you for.
+  > 你今天做的事要让未来的你心存感激。
 
 * 有道词典
-  > If you weren't my friend, there'd be a hole in my life!
-  > 如果没有你这个朋友，我的人生将不再完整。
+  > You're gonna be a big success.
+  > 你必将大有作为。
 
 ```
