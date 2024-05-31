@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-30已更新 
+2024-05-31已更新 
 ```
 * 金山词霸
-  > You can't be perfect, but you can be unique.
-  > 你不能十全十美，但你能独一无二。
+  > Only you can control your future.
+  > 只有你自己可以掌控你的未来。
 
 * 扇贝单词
-  > Do something today that your future self will thank you for.
-  > 你今天做的事要让未来的你心存感激。
+  > It's not so much how busy you are, but why you are busy.
+  > 重要的不是你有多忙，而是你为何而忙。
 
 * 有道词典
-  > You're gonna be a big success.
-  > 你必将大有作为。
+  > Life here is pretty near perfect.
+  > 我们的生活近乎完美。
 
 ```
