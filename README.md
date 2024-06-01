@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-05-31已更新 
+2024-06-01已更新 
 ```
 * 金山词霸
-  > Only you can control your future.
-  > 只有你自己可以掌控你的未来。
+  > Children see magic because they look for it.
+  > 孩子之所以能看到魔法，是因为他们在寻找。
 
 * 扇贝单词
-  > It's not so much how busy you are, but why you are busy.
-  > 重要的不是你有多忙，而是你为何而忙。
+  > Love is just a word until someone comes along and gives it meaning.
+  > 爱不过是一个词而已，直到有一个人来到你面前，赋予它意义。
 
 * 有道词典
-  > Life here is pretty near perfect.
-  > 我们的生活近乎完美。
+  > Always stay young at heart.
+  > 童心永驻。
 
 ```
