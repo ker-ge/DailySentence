@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-01已更新 
+2024-06-02已更新 
 ```
 * 金山词霸
-  > Children see magic because they look for it.
-  > 孩子之所以能看到魔法，是因为他们在寻找。
+  > Time cures all things.
+  > 时间可抚平一切创伤。
 
 * 扇贝单词
-  > Love is just a word until someone comes along and gives it meaning.
-  > 爱不过是一个词而已，直到有一个人来到你面前，赋予它意义。
+  > Expect the best. Prepare for the worst. Capitalize on what comes.
+  > 要抱最大的希望，做最坏的打算，从结果中学习。
 
 * 有道词典
-  > Always stay young at heart.
-  > 童心永驻。
+  > Sweep away hunger, power stands by my side.
+  > 横扫饥饿，战斗力与我同在。
 
 ```
