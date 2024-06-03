@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-02已更新 
+2024-06-03已更新 
 ```
 * 金山词霸
-  > Time cures all things.
-  > 时间可抚平一切创伤。
+  > You miss 100% of the shots you don't take.
+  > 你不尝试，就不可能成功。
 
 * 扇贝单词
-  > Expect the best. Prepare for the worst. Capitalize on what comes.
-  > 要抱最大的希望，做最坏的打算，从结果中学习。
+  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
+  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > Sweep away hunger, power stands by my side.
-  > 横扫饥饿，战斗力与我同在。
+  > Take the first step at becoming the person you were truly meant to be.
+  > 勇敢迈出第一步，探索真正的自我。
 
 ```
