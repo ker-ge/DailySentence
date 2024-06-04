@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-03已更新 
+2024-06-04已更新 
 ```
 * 金山词霸
-  > You miss 100% of the shots you don't take.
-  > 你不尝试，就不可能成功。
+  > Joy shared with others are more enjoyed.
+  > 与人同乐，其乐无穷。
 
 * 扇贝单词
   > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
   > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > Take the first step at becoming the person you were truly meant to be.
-  > 勇敢迈出第一步，探索真正的自我。
+  > You should feel nothing but great about what you've done.
+  > 你应该为你的成就感到骄傲。
 
 ```
