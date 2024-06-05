@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-04已更新 
+2024-06-05已更新 
 ```
 * 金山词霸
-  > Joy shared with others are more enjoyed.
-  > 与人同乐，其乐无穷。
+  > It takes all sorts to make a world.
+  > 世界之大，无奇不有。
 
 * 扇贝单词
-  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
-  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
+  > Forever is composed of nows.
+  > 永恒是由每一个当下组成的。
 
 * 有道词典
-  > You should feel nothing but great about what you've done.
-  > 你应该为你的成就感到骄傲。
+  > Everyone started off with their own stride, their own pace.
+  > 每个人都有自己的人生节奏。
 
 ```
