@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-05已更新 
+2024-06-06已更新 
 ```
 * 金山词霸
-  > It takes all sorts to make a world.
-  > 世界之大，无奇不有。
+  > Be bold. You don't have so many audiences.
+  > 大胆点生活，其实你没有那么多观众。
 
 * 扇贝单词
-  > Forever is composed of nows.
-  > 永恒是由每一个当下组成的。
+  > Art washes away from the soul the dust of everyday life.
+  > 艺术能洗去日常生活覆在灵魂上的尘埃。
 
 * 有道词典
-  > Everyone started off with their own stride, their own pace.
-  > 每个人都有自己的人生节奏。
+  > Every mountain is unclimbable until someone climbs it.
+  > 每座山都是高不可攀的，直到有人登顶。
 
 ```
