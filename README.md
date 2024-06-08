@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-07已更新 
+2024-06-08已更新 
 ```
 * 金山词霸
-  > Successful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees.
-  > 春风得意马蹄疾，一日看尽长安花。
+  > It is never too late to fall in love.
+  > 爱永远不会嫌晚。
 
 * 扇贝单词
-  > One of the most important things you can do on this earth is to let people know they are not alone.
-  > 在这个世界上，你所能做的最重要的事情之一，就是让别人知道他们并不孤单。
+  > It's kind of fun to do the impossible.
+  > 去做不可能的事情，是相当有趣的。
 
 * 有道词典
-  > I'm not hanging back.
-  > 我绝不会退缩。
+  > Experience everything. Live all your dreams.
+  > 肆意生长，尽情圆梦。
 
 ```
