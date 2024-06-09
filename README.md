@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-08已更新 
+2024-06-09已更新 
 ```
 * 金山词霸
-  > It is never too late to fall in love.
-  > 爱永远不会嫌晚。
+  > Remember to bring a little smile every day in this messy life.
+  > 记得在这杂乱的生活里每天带点笑意。
 
 * 扇贝单词
-  > It's kind of fun to do the impossible.
-  > 去做不可能的事情，是相当有趣的。
+  > From now on, I'm gonna say yes — yes to love, yes to adventure, yes to life.
+  > 从今天起，我要积极接受一切，接受爱，迎接挑战，拥抱生活。
 
 * 有道词典
-  > Experience everything. Live all your dreams.
-  > 肆意生长，尽情圆梦。
+  > To struggle against great odds.
+  > 在逆境面前奋力抗争。
 
 ```
