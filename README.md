@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-09已更新 
+2024-06-10已更新 
 ```
 * 金山词霸
-  > Remember to bring a little smile every day in this messy life.
-  > 记得在这杂乱的生活里每天带点笑意。
+  > When the Cang-lang's waters are clear,I can wash my hat-strings in them.
+  > 沧浪之水清兮，可以濯吾缨。
 
 * 扇贝单词
-  > From now on, I'm gonna say yes — yes to love, yes to adventure, yes to life.
-  > 从今天起，我要积极接受一切，接受爱，迎接挑战，拥抱生活。
+  > You'll find that life is still worthwhile, if you just smile.
+  > 微笑吧，你会发现，人间依旧值得。
 
 * 有道词典
-  > To struggle against great odds.
-  > 在逆境面前奋力抗争。
+  > May you be blessed with happiness, health, prosperity.
+  > 愿你幸福安康，生活富足。
 
 ```
