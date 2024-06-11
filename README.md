@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-10已更新 
+2024-06-11已更新 
 ```
 * 金山词霸
-  > When the Cang-lang's waters are clear,I can wash my hat-strings in them.
-  > 沧浪之水清兮，可以濯吾缨。
+  > It is worthwhile to travel all over the world.
+  > 遍历山河，人间值得。
 
 * 扇贝单词
-  > You'll find that life is still worthwhile, if you just smile.
-  > 微笑吧，你会发现，人间依旧值得。
+  > Sometimes our light goes out but is blown into flame by another human being.
+  > 有时我们心中的火焰会熄灭。但当遇到另一个人时，它又会再次燃烧起来。
 
 * 有道词典
-  > May you be blessed with happiness, health, prosperity.
-  > 愿你幸福安康，生活富足。
+  > Love is rare.
+  > 爱很珍贵。
 
 ```
