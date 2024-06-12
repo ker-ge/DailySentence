@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-11已更新 
+2024-06-12已更新 
 ```
 * 金山词霸
-  > It is worthwhile to travel all over the world.
-  > 遍历山河，人间值得。
+  > Image a new story for your life and start living it. 
+  > 为你的生命想一个全新剧本，并去倾情出演吧！
 
 * 扇贝单词
-  > Sometimes our light goes out but is blown into flame by another human being.
-  > 有时我们心中的火焰会熄灭。但当遇到另一个人时，它又会再次燃烧起来。
+  > Everyone wants to be appreciated, so if you appreciate someone, don't keep it a secret.
+  > 每个人都想被赏识，所以如果你欣赏一个人，别藏在心里。
 
 * 有道词典
-  > Love is rare.
-  > 爱很珍贵。
+  > You know how perfect you are to me.
+  > 对我而言，你就是完美的。
 
 ```
