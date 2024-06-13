@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-12已更新 
+2024-06-13已更新 
 ```
 * 金山词霸
-  > Image a new story for your life and start living it. 
-  > 为你的生命想一个全新剧本，并去倾情出演吧！
+  > It's better to burn out than to fade away.
+  > 与其凋零不如燃烧。
 
 * 扇贝单词
-  > Everyone wants to be appreciated, so if you appreciate someone, don't keep it a secret.
-  > 每个人都想被赏识，所以如果你欣赏一个人，别藏在心里。
+  > Love one another, but make not a bond of love: let it rather be a moving sea between the shores of your souls.
+  > 相爱吧！但别让爱成为羁绊，爱应当是两个灵魂间涌动的海洋。
 
 * 有道词典
-  > You know how perfect you are to me.
-  > 对我而言，你就是完美的。
+  > You have to live your life for you, the real you.
+  > 活出真正的自我。
 
 ```
