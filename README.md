@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-13已更新 
+2024-06-14已更新 
 ```
 * 金山词霸
-  > It's better to burn out than to fade away.
-  > 与其凋零不如燃烧。
+  > No man is rich enough to buy back his own past.
+  > 没有人富有到可以赎回自己的过去。
 
 * 扇贝单词
-  > Love one another, but make not a bond of love: let it rather be a moving sea between the shores of your souls.
-  > 相爱吧！但别让爱成为羁绊，爱应当是两个灵魂间涌动的海洋。
+  > All your life you wait, and then it finally comes, and are you ready?
+  > 你一生都在等待，当所等之事终于到来时，你是否准备好了？
 
 * 有道词典
-  > You have to live your life for you, the real you.
-  > 活出真正的自我。
+  > Nothing just happens. It's all part of a plan!
+  > 万事皆有其因果。
 
 ```
