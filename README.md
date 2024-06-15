@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-14已更新 
+2024-06-15已更新 
 ```
 * 金山词霸
-  > No man is rich enough to buy back his own past.
-  > 没有人富有到可以赎回自己的过去。
+  > Follow your heart, but take your brain with you.
+  > 跟随自己的心，但要保持清醒的头脑。
 
 * 扇贝单词
-  > All your life you wait, and then it finally comes, and are you ready?
-  > 你一生都在等待，当所等之事终于到来时，你是否准备好了？
+  > We lose ourselves in things we love. We find ourselves there, too.
+  > 我们会在所爱之事中失去自己，但也会在其中找到自己。
 
 * 有道词典
-  > Nothing just happens. It's all part of a plan!
-  > 万事皆有其因果。
+  > Sometimes, less is more.
+  > 简单也是另一种美。
 
 ```
