@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-15已更新 
+2024-06-16已更新 
 ```
 * 金山词霸
-  > Follow your heart, but take your brain with you.
-  > 跟随自己的心，但要保持清醒的头脑。
+  > All my love to the dearest father in the world.
+  > 将我全部的爱，献给最亲爱的爸爸。
 
 * 扇贝单词
-  > We lose ourselves in things we love. We find ourselves there, too.
-  > 我们会在所爱之事中失去自己，但也会在其中找到自己。
+  > If you see someone without a smile, give them one of yours.
+  > 如果看见有人愁眉不展，就把你的微笑分享给他们吧！
 
 * 有道词典
-  > Sometimes, less is more.
-  > 简单也是另一种美。
+  > My dad is my hero.
+  > 父亲是我心里的英雄。
 
 ```
