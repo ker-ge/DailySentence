@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-16已更新 
+2024-06-17已更新 
 ```
 * 金山词霸
-  > All my love to the dearest father in the world.
-  > 将我全部的爱，献给最亲爱的爸爸。
+  > The warmest heart from the best loved ones. 
+  > 最暖心的温情来自最爱的人。
 
 * 扇贝单词
-  > If you see someone without a smile, give them one of yours.
-  > 如果看见有人愁眉不展，就把你的微笑分享给他们吧！
+  > A bird doesn't sing because it has an answer, it sings because it has a song.
+  > 鸟儿歌唱不是因为它知道答案，而是因为它心中有一支歌。
 
 * 有道词典
-  > My dad is my hero.
-  > 父亲是我心里的英雄。
+  > A good book is a loyal and constant friend.
+  > 读到一本好书，如同交到挚友。
 
 ```
