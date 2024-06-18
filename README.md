@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-17已更新 
+2024-06-18已更新 
 ```
 * 金山词霸
-  > The warmest heart from the best loved ones. 
-  > 最暖心的温情来自最爱的人。
+  > Friendship is a sheltering tree.
+  > 友情犹如大树，为你遮风挡雨。
 
 * 扇贝单词
-  > A bird doesn't sing because it has an answer, it sings because it has a song.
-  > 鸟儿歌唱不是因为它知道答案，而是因为它心中有一支歌。
+  > You're braver than you believe, stronger than you seem, and smarter than you think.
+  > 你比你想象中更勇敢，比你看起来更强大，也比你以为的更聪明。
 
 * 有道词典
-  > A good book is a loyal and constant friend.
-  > 读到一本好书，如同交到挚友。
+  > Your life is happening now.
+  > 你的奇遇人生正在开启。
 
 ```
