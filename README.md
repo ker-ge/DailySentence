@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-18已更新 
+2024-06-19已更新 
 ```
 * 金山词霸
-  > Friendship is a sheltering tree.
-  > 友情犹如大树，为你遮风挡雨。
+  > Happiness depends upon ourselves.
+  > 幸福与否我们自己说了算。
 
 * 扇贝单词
-  > You're braver than you believe, stronger than you seem, and smarter than you think.
-  > 你比你想象中更勇敢，比你看起来更强大，也比你以为的更聪明。
+  > Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.
+  > 不要害怕你的生活会结束，应该担心你的生活从未真正开始过。
 
 * 有道词典
-  > Your life is happening now.
-  > 你的奇遇人生正在开启。
+  > Treasure the few years you've got because that's all there is.
+  > 正因余生有限，才更值得珍惜。
 
 ```
