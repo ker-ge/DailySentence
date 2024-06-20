@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-19已更新 
+2024-06-20已更新 
 ```
 * 金山词霸
-  > Happiness depends upon ourselves.
-  > 幸福与否我们自己说了算。
+  > I hope we can all be as brave as each other.
+  > 希望我们都能像对方一样勇敢。
 
 * 扇贝单词
-  > Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.
-  > 不要害怕你的生活会结束，应该担心你的生活从未真正开始过。
+  > One part of wisdom is knowing what you don't need anymore and letting it go.
+  > 有种智慧是知道自己不再需要什么，然后学会放手。
 
 * 有道词典
-  > Treasure the few years you've got because that's all there is.
-  > 正因余生有限，才更值得珍惜。
+  > You are my best friend, the greatest joy in my life.
+  > 你是我最好的朋友，是我生命中最大的快乐。
 
 ```
