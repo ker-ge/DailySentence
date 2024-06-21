@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-20已更新 
+2024-06-21已更新 
 ```
 * 金山词霸
-  > I hope we can all be as brave as each other.
-  > 希望我们都能像对方一样勇敢。
+  > Shall I compare you to a summer's day?
+  > 我能否将你比作夏天？——莎士比亚
 
 * 扇贝单词
-  > One part of wisdom is knowing what you don't need anymore and letting it go.
-  > 有种智慧是知道自己不再需要什么，然后学会放手。
+  > All cowardice comes from not loving or not loving well, which is the same thing.
+  > 所有的懦弱都出自于不爱或爱得不彻底，这两者一样。
 
 * 有道词典
-  > You are my best friend, the greatest joy in my life.
-  > 你是我最好的朋友，是我生命中最大的快乐。
+  > What a beautiful, perfect summer it's been.
+  > 多么美好的夏天啊！
 
 ```
