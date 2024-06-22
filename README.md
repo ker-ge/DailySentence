@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-21已更新 
+2024-06-22已更新 
 ```
 * 金山词霸
-  > Shall I compare you to a summer's day?
-  > 我能否将你比作夏天？——莎士比亚
+  > There are always people with intentions and romance.
+  > 总有人用心，总有人浪漫。
 
 * 扇贝单词
-  > All cowardice comes from not loving or not loving well, which is the same thing.
-  > 所有的懦弱都出自于不爱或爱得不彻底，这两者一样。
+  > Every flower is a soul blossoming in nature.
+  > 每朵花都是大自然中绽放的灵魂。
 
 * 有道词典
-  > What a beautiful, perfect summer it's been.
-  > 多么美好的夏天啊！
+  > Tomorrow can only be better.
+  > 明天会更好。
 
 ```
