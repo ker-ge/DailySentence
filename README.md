@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-22已更新 
+2024-06-23已更新 
 ```
 * 金山词霸
-  > There are always people with intentions and romance.
-  > 总有人用心，总有人浪漫。
+  > The course of true love never did run smooth.
+  > 通向真爱的路从无坦途。——《仲夏夜之梦》
 
 * 扇贝单词
-  > Every flower is a soul blossoming in nature.
-  > 每朵花都是大自然中绽放的灵魂。
+  > If life throws you a few bad notes or vibrations, don't let them interrupt or alter your song.
+  > 即便生活给了你一些不和谐的音符，也别让它们破坏你的人生之歌。
 
 * 有道词典
-  > Tomorrow can only be better.
-  > 明天会更好。
+  > Hope is a good thing, maybe the best of things.
+  > 希望是美好的，也许是世间最美好的。
 
 ```
