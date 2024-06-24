@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-23已更新 
+2024-06-24已更新 
 ```
 * 金山词霸
-  > The course of true love never did run smooth.
-  > 通向真爱的路从无坦途。——《仲夏夜之梦》
+  > Grasp all, lose all.
+  > 贪得无厌，终将一无所获。
 
 * 扇贝单词
-  > If life throws you a few bad notes or vibrations, don't let them interrupt or alter your song.
-  > 即便生活给了你一些不和谐的音符，也别让它们破坏你的人生之歌。
+  > Happiness often sneaks in through a door you didn't know you left open.
+  > 幸福，往往从你不经意间打开的门中不期而至。
 
 * 有道词典
-  > Hope is a good thing, maybe the best of things.
-  > 希望是美好的，也许是世间最美好的。
+  > You deserve some joy in your life.
+  > 享受生活的乐趣。
 
 ```
