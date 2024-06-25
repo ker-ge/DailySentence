@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-24已更新 
+2024-06-25已更新 
 ```
 * 金山词霸
-  > Grasp all, lose all.
-  > 贪得无厌，终将一无所获。
+  > A little learning is a dangerous thing.
+  > 一知半解，危险至极。
 
 * 扇贝单词
-  > Happiness often sneaks in through a door you didn't know you left open.
-  > 幸福，往往从你不经意间打开的门中不期而至。
+  > Regrets about the journey, maybe, but not the destination.
+  > 也许过程并不尽如人意，但别为自己有过目标而后悔。
 
 * 有道词典
-  > You deserve some joy in your life.
-  > 享受生活的乐趣。
+  > I would gladly step in front of traffic for you.
+  > 为你，我义无反顾。
 
 ```
