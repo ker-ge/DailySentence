@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-25已更新 
+2024-06-26已更新 
 ```
 * 金山词霸
-  > A little learning is a dangerous thing.
-  > 一知半解，危险至极。
+  > Happiness is a journey,not a destination.
+  > 幸福是一段旅程，而不是终点。
 
 * 扇贝单词
-  > Regrets about the journey, maybe, but not the destination.
-  > 也许过程并不尽如人意，但别为自己有过目标而后悔。
+  > Climb mountains not so the world can see you, but so you can see the world.
+  > 爬上山顶并不是为了让世界看到你，而是为了让你看到整个世界。
 
 * 有道词典
-  > I would gladly step in front of traffic for you.
-  > 为你，我义无反顾。
+  > Positive attitudes lead to positive outcomes.
+  > 积极的心态会带来好的结果。
 
 ```
