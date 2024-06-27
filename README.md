@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-26已更新 
+2024-06-27已更新 
 ```
 * 金山词霸
-  > Happiness is a journey,not a destination.
-  > 幸福是一段旅程，而不是终点。
+  > A loyal friend is a rare treasure.
+  > 挚友难寻。
 
 * 扇贝单词
-  > Climb mountains not so the world can see you, but so you can see the world.
-  > 爬上山顶并不是为了让世界看到你，而是为了让你看到整个世界。
+  > If you only shine light on your flaws, all your perfects will dim.
+  > 如果只看到自己的缺点，你所有的美好都会黯然失色。
 
 * 有道词典
-  > Positive attitudes lead to positive outcomes.
-  > 积极的心态会带来好的结果。
+  > You should do everything you love with passion.
+  > 去做你真正热爱的一切。
 
 ```
