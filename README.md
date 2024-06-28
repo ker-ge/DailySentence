@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-27已更新 
+2024-06-28已更新 
 ```
 * 金山词霸
-  > A loyal friend is a rare treasure.
-  > 挚友难寻。
+  > Live a good life and meet slowly.
+  > 好好生活，慢慢相遇。
 
 * 扇贝单词
-  > If you only shine light on your flaws, all your perfects will dim.
-  > 如果只看到自己的缺点，你所有的美好都会黯然失色。
+  > Distance never separates two hearts that really care.
+  > 距离，从不会分开两颗真正在乎彼此的心。 ​​​​
 
 * 有道词典
-  > You should do everything you love with passion.
-  > 去做你真正热爱的一切。
+  > While there is life, there is hope.
+  > 生命不息，希望不止。
 
 ```
