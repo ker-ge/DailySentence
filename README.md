@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-29已更新 
+2024-06-30已更新 
 ```
 * 金山词霸
-  > Cross the stars over the moon to meet your better self.
-  > 跨过星河迈过月亮去迎接更好的自己。
+  > If it happens, it happens.
+  > 既来之，则安之。
 
 * 扇贝单词
-  > Love is not finding someone to live with. It's finding someone you can't live without.
-  > 爱情，不是找一个与你一起生活的人，而是要找一个于你不可或缺的人。
+  > People make mistakes. It's why they put rubbers on the ends of pencils.
+  > 人都会犯错误，这就是为何他们会在铅笔上装橡皮头。
 
 * 有道词典
-  > Our love does not end in death.
-  > 爱意至死不渝。
+  > It's important to keep exploring.
+  > 坚持探索至关重要。
 
 ```
