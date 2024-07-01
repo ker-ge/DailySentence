@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-06-30已更新 
+2024-07-01已更新 
 ```
 * 金山词霸
-  > If it happens, it happens.
-  > 既来之，则安之。
+  > Whoever saves one life, saves the world entire.
+  > 当你挽救了一条生命，就等于挽救了全世界。
 
 * 扇贝单词
-  > People make mistakes. It's why they put rubbers on the ends of pencils.
-  > 人都会犯错误，这就是为何他们会在铅笔上装橡皮头。
+  > Work hard in silence, let your success be your noise.
+  > 在沉默中努力吧，让成功为你发声。
 
 * 有道词典
-  > It's important to keep exploring.
-  > 坚持探索至关重要。
+  > Love is eternal.
+  > 爱是永恒的。
 
 ```
