@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-01已更新 
+2024-07-02已更新 
 ```
 * 金山词霸
-  > Whoever saves one life, saves the world entire.
-  > 当你挽救了一条生命，就等于挽救了全世界。
+  > There's nothing easy about grown-up life.
+  > 成年人的生活里没有容易二字。
 
 * 扇贝单词
-  > Work hard in silence, let your success be your noise.
-  > 在沉默中努力吧，让成功为你发声。
+  > Acceptance is to love and embrace everything that we find within ourselves like a mother embraces her child.
+  > 所谓的接纳，就是去爱并拥抱我们内心的一切，像一个母亲拥抱自己的孩子一样。
 
 * 有道词典
-  > Love is eternal.
-  > 爱是永恒的。
+  > Make peace with life.
+  > 与生活和解。
 
 ```
