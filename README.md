@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-02已更新 
+2024-07-03已更新 
 ```
 * 金山词霸
-  > There's nothing easy about grown-up life.
-  > 成年人的生活里没有容易二字。
+  > You are braver than you believe.— Winnie the Pooh
+  > 你比你相信的更勇敢。 —《小熊维尼》
 
 * 扇贝单词
-  > Acceptance is to love and embrace everything that we find within ourselves like a mother embraces her child.
-  > 所谓的接纳，就是去爱并拥抱我们内心的一切，像一个母亲拥抱自己的孩子一样。
+  > Health and cheerfulness naturally beget each other.
+  > 安康喜乐，相生相成。
 
 * 有道词典
-  > Make peace with life.
-  > 与生活和解。
+  > I will always think of you.
+  > 我会永远想念你。
 
 ```
