@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-03已更新 
+2024-07-04已更新 
 ```
 * 金山词霸
-  > You are braver than you believe.— Winnie the Pooh
-  > 你比你相信的更勇敢。 —《小熊维尼》
+  > There will be generations because of what you did.
+  > 因为你的善行，生命才得以传承下去。
 
 * 扇贝单词
-  > Health and cheerfulness naturally beget each other.
-  > 安康喜乐，相生相成。
+  > Happiness is not a station you arrive at, but a manner of traveling.
+  > 幸福并不是你所抵达的站点，而是一种旅行的方式。
 
 * 有道词典
-  > I will always think of you.
-  > 我会永远想念你。
+  > Time heals all wounds.
+  > 时间会抚平一切伤痛。
 
 ```
