@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-04已更新 
+2024-07-05已更新 
 ```
 * 金山词霸
-  > There will be generations because of what you did.
-  > 因为你的善行，生命才得以传承下去。
+  > Life is the flower for which love is the honey.
+  > 生命如花，爱情是蜜。
 
 * 扇贝单词
-  > Happiness is not a station you arrive at, but a manner of traveling.
-  > 幸福并不是你所抵达的站点，而是一种旅行的方式。
+  > A happy family is but an earlier heaven.
+  > 幸福的家庭犹如人间天堂。
 
 * 有道词典
-  > Time heals all wounds.
-  > 时间会抚平一切伤痛。
+  > Take charge of your own life.
+  > 主宰自己的人生。
 
 ```
