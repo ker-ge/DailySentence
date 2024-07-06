@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-05已更新 
+2024-07-06已更新 
 ```
 * 金山词霸
-  > Life is the flower for which love is the honey.
-  > 生命如花，爱情是蜜。
+  > Every man is a poet when he is in love.
+  > 每个恋爱中的人都是诗人。
 
 * 扇贝单词
-  > A happy family is but an earlier heaven.
-  > 幸福的家庭犹如人间天堂。
+  > The most wasted of all days is one without laughter.
+  > 没有欢笑的一天便最是虚度。
 
 * 有道词典
-  > Take charge of your own life.
-  > 主宰自己的人生。
+  > We're not quitters.
+  > 我们永不退缩。
 
 ```
