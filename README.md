@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-06已更新 
+2024-07-07已更新 
 ```
 * 金山词霸
-  > Every man is a poet when he is in love.
-  > 每个恋爱中的人都是诗人。
+  > A boy's best friend is his mother.
+  > 男孩最好的朋友是他的母亲。
 
 * 扇贝单词
-  > The most wasted of all days is one without laughter.
-  > 没有欢笑的一天便最是虚度。
+  > You can't help getting older, but you don't have to get old.
+  > 你无法阻止衰老，但你不一定要变老。
 
 * 有道词典
-  > We're not quitters.
-  > 我们永不退缩。
+  > We're meant to be together.
+  > 我们天生一对。
 
 ```
