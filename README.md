@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-07已更新 
+2024-07-08已更新 
 ```
 * 金山词霸
-  > A boy's best friend is his mother.
-  > 男孩最好的朋友是他的母亲。
+  > To laugh at yourself is to love yourself.
+  > 学会自嘲也是爱自己的一种表现。
 
 * 扇贝单词
-  > You can't help getting older, but you don't have to get old.
-  > 你无法阻止衰老，但你不一定要变老。
+  > Only those who risk going too far can possibly find out how far they can go.
+  > 唯有那些敢于冒险大步向前的人，才能够了解自己能走多远。
 
 * 有道词典
-  > We're meant to be together.
-  > 我们天生一对。
+  > Life is all about perseverance.
+  > 人生的真谛在于坚持。
 
 ```
