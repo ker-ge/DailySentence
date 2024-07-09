@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-08已更新 
+2024-07-09已更新 
 ```
 * 金山词霸
-  > To laugh at yourself is to love yourself.
-  > 学会自嘲也是爱自己的一种表现。
+  > The only limit is your soul.— Ratatouille
+  > 唯一的限制就是你的灵魂。 —《料理鼠王》
 
 * 扇贝单词
-  > Only those who risk going too far can possibly find out how far they can go.
-  > 唯有那些敢于冒险大步向前的人，才能够了解自己能走多远。
+  > Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.
+  > 不要被头脑中的恐惧牵制，让心中的梦想指引着你。
 
 * 有道词典
-  > Life is all about perseverance.
-  > 人生的真谛在于坚持。
+  > I shall turn out to be the hero of my own life.
+  > 与生活和解。
 
 ```
