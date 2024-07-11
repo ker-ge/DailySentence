@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-10已更新 
+2024-07-11已更新 
 ```
 * 金山词霸
-  > The very things that hold you down are going to lift you up. — Dumbo
-  > 让你跌到谷底的事情，往往也是你重新站起的原因。 —《小飞象》
+  > Who says my dreams have to stay dreams? — The Little Mermaid
+  > 谁说梦想只能是梦想呢？ —小美人鱼
 
 * 扇贝单词
-  > One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
-  > 只要一个人透过爱、友谊、义愤或怜悯，使他人的生活变美好，他的生命就有价值。
+  > To do nothing is the way to be nothing.
+  > 无所事事终将一事无成。
 
 * 有道词典
-  > People living deeply have no fear of death.
-  > 生则尽兴，死亦无惧。
+  > You can't compare yourself to other people. You'll do it your way.
+  > 不必和他人比较，你有自己的人生节奏。
 
 ```
