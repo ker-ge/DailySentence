@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-11已更新 
+2024-07-12已更新 
 ```
 * 金山词霸
-  > Who says my dreams have to stay dreams? — The Little Mermaid
-  > 谁说梦想只能是梦想呢？ —小美人鱼
+  > Talent without working hard is nothing.
+  > 没有努力，天份不代表什么。
 
 * 扇贝单词
-  > To do nothing is the way to be nothing.
-  > 无所事事终将一事无成。
+  > An ounce of action is worth a ton of theory.
+  > 一盎司的行动，价值相当于一吨的理论。
 
 * 有道词典
-  > You can't compare yourself to other people. You'll do it your way.
-  > 不必和他人比较，你有自己的人生节奏。
+  > Journeys end in lovers meeting.
+  > 遇见对的人，从此便不再漂泊无依。
 
 ```
