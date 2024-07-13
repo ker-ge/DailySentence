@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-12已更新 
+2024-07-13已更新 
 ```
 * 金山词霸
-  > Talent without working hard is nothing.
-  > 没有努力，天份不代表什么。
+  > May the Force be with you.
+  > 愿原力与你同在。——《星球大战》
 
 * 扇贝单词
-  > An ounce of action is worth a ton of theory.
-  > 一盎司的行动，价值相当于一吨的理论。
+  > If I have seen further, it is by standing on the shoulders of giants.
+  > 如果我看得更远，那是因为我站在巨人的肩膀上。
 
 * 有道词典
-  > Journeys end in lovers meeting.
-  > 遇见对的人，从此便不再漂泊无依。
+  > I love you for who you are, not who the world wants you to be.
+  > 我爱你，只因为是你，与世界对你的期待无关。
 
 ```
