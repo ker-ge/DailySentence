@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-13已更新 
+2024-07-14已更新 
 ```
 * 金山词霸
-  > May the Force be with you.
-  > 愿原力与你同在。——《星球大战》
+  > You can't handle the truth!
+  > 你不能操纵事实!——《义海雄风》
 
 * 扇贝单词
-  > If I have seen further, it is by standing on the shoulders of giants.
-  > 如果我看得更远，那是因为我站在巨人的肩膀上。
+  > Don't be afraid of your fears. They're there to let you know that something is worth it.
+  > 别害怕自己的恐惧，它让你知道有些事情值得去做。
 
 * 有道词典
-  > I love you for who you are, not who the world wants you to be.
-  > 我爱你，只因为是你，与世界对你的期待无关。
+  > The greatest thing you'll ever learn is to love.
+  > 学会去爱，是人生最有意义的事情。
 
 ```
