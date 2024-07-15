@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-14已更新 
+2024-07-15已更新 
 ```
 * 金山词霸
-  > You can't handle the truth!
-  > 你不能操纵事实!——《义海雄风》
+  > As God is my witness，I'll never be hungry again.
+  > 上帝为我作证，我不会再让自己挨饿了。——《乱世佳人》
 
 * 扇贝单词
-  > Don't be afraid of your fears. They're there to let you know that something is worth it.
-  > 别害怕自己的恐惧，它让你知道有些事情值得去做。
+  > No amount of anxiety makes any difference to anything that is going to happen.
+  > 再焦虑也不能改变即将要发生的事。
 
 * 有道词典
-  > The greatest thing you'll ever learn is to love.
-  > 学会去爱，是人生最有意义的事情。
+  > Life is a gift.
+  > 生命是一份礼物。
 
 ```
