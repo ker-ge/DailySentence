@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-15已更新 
+2024-07-16已更新 
 ```
 * 金山词霸
-  > As God is my witness，I'll never be hungry again.
-  > 上帝为我作证，我不会再让自己挨饿了。——《乱世佳人》
+  > I have always depended on the kindness of strangers.
+  > 我总是非常依赖陌生人的仁慈。——《欲望号街车》
 
 * 扇贝单词
-  > No amount of anxiety makes any difference to anything that is going to happen.
-  > 再焦虑也不能改变即将要发生的事。
+  > They invented hugs to let people know you love them without saying anything.
+  > 拥抱，是让你一句话也不用说，就让别人知道你爱他们。
 
 * 有道词典
-  > Life is a gift.
-  > 生命是一份礼物。
+  > We are soulmates tied together by the beautiful threads of fate.
+  > 我们是命中注定的灵魂伴侣。
 
 ```
