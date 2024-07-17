@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-16已更新 
+2024-07-17已更新 
 ```
 * 金山词霸
-  > I have always depended on the kindness of strangers.
-  > 我总是非常依赖陌生人的仁慈。——《欲望号街车》
+  > Just keep swimming.
+  > 一直向前游。—《海底总动员》
 
 * 扇贝单词
-  > They invented hugs to let people know you love them without saying anything.
-  > 拥抱，是让你一句话也不用说，就让别人知道你爱他们。
+  > Deciding what not to do is as important as deciding what to do.
+  > 决定不做什么同决定做什么一样重要。
 
 * 有道词典
-  > We are soulmates tied together by the beautiful threads of fate.
-  > 我们是命中注定的灵魂伴侣。
+  > We all have to deal with mountains.
+  > 每个人都有自己需要越过的高山。
 
 ```
