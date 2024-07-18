@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-17已更新 
+2024-07-18已更新 
 ```
 * 金山词霸
-  > Just keep swimming.
-  > 一直向前游。—《海底总动员》
+  > There is no royal road to learning. 
+  > 学习没有捷径。
 
 * 扇贝单词
-  > Deciding what not to do is as important as deciding what to do.
-  > 决定不做什么同决定做什么一样重要。
+  > No matter how many goals you have achieved, you must set your sights on a higher one.
+  > 不管你实现了多少目标，总要定睛于下一个更远大的。
 
 * 有道词典
-  > We all have to deal with mountains.
-  > 每个人都有自己需要越过的高山。
+  > Live your best life.
+  > 活出精彩人生。
 
 ```
