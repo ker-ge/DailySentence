@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-18已更新 
+2024-07-19已更新 
 ```
 * 金山词霸
-  > There is no royal road to learning. 
-  > 学习没有捷径。
+  > Time and tide wait for no man. 
+  > 时光如逝水，岁月不待人。
 
 * 扇贝单词
-  > No matter how many goals you have achieved, you must set your sights on a higher one.
-  > 不管你实现了多少目标，总要定睛于下一个更远大的。
+  > The greatest test of courage is to bear defeat without losing heart.
+  > 接受失败而不气馁是对勇气最大的考验。
 
 * 有道词典
-  > Live your best life.
-  > 活出精彩人生。
+  > I love you and I always will.
+  > 我爱你，直到永远。
 
 ```
