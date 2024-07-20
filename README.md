@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-19已更新 
+2024-07-20已更新 
 ```
 * 金山词霸
-  > Time and tide wait for no man. 
-  > 时光如逝水，岁月不待人。
+  > Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994
+  > 妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
 
 * 扇贝单词
-  > The greatest test of courage is to bear defeat without losing heart.
-  > 接受失败而不气馁是对勇气最大的考验。
+  > Happiness is the natural flower of duty.
+  > 幸福是责任自然而然生出的花朵。
 
 * 有道词典
-  > I love you and I always will.
-  > 我爱你，直到永远。
+  > Love is a journey.
+  > 爱是一场旅程。
 
 ```
