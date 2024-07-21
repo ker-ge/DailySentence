@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-20已更新 
+2024-07-21已更新 
 ```
 * 金山词霸
-  > Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994
-  > 妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
+  > I laugh in the face of danger.
+  > 越危险就越合我心意。
 
 * 扇贝单词
-  > Happiness is the natural flower of duty.
-  > 幸福是责任自然而然生出的花朵。
+  > Always bear in mind that your own resolution to succeed is more important than any other one thing.
+  > 牢记一点，你想要成功的决心比其他任何事情都重要。
 
 * 有道词典
-  > Love is a journey.
-  > 爱是一场旅程。
+  > From the moment we met, I felt there was something special between us.
+  > 相遇的那一刻，我们在冥冥之中便有了羁绊。
 
 ```
