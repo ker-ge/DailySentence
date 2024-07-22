@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-21已更新 
+2024-07-22已更新 
 ```
 * 金山词霸
-  > I laugh in the face of danger.
-  > 越危险就越合我心意。
+  > It made me look like a duck in water.
+  > 它让我如鱼得水。
 
 * 扇贝单词
-  > Always bear in mind that your own resolution to succeed is more important than any other one thing.
-  > 牢记一点，你想要成功的决心比其他任何事情都重要。
+  > In the end, life teaches us what is important, and that is family.
+  > 生活最终会让我们明白什么最重要，那就是家庭。
 
 * 有道词典
-  > From the moment we met, I felt there was something special between us.
-  > 相遇的那一刻，我们在冥冥之中便有了羁绊。
+  > I'll never forget that beautiful summer's day.
+  > 我永远不会忘记那美丽的夏日。
 
 ```
