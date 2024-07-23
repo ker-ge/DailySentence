@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-22已更新 
+2024-07-23已更新 
 ```
 * 金山词霸
-  > It made me look like a duck in water.
-  > 它让我如鱼得水。
+  > You just couldn't see an end to that city.
+  > 这个城市似乎没有尽头。
 
 * 扇贝单词
-  > In the end, life teaches us what is important, and that is family.
-  > 生活最终会让我们明白什么最重要，那就是家庭。
+  > You are not beaten until you admit it.
+  > 在你承认之前，你尚未失败。
 
 * 有道词典
-  > I'll never forget that beautiful summer's day.
-  > 我永远不会忘记那美丽的夏日。
+  > Energy and persistence conquer all things.
+  > 保持动力与坚持可以战胜一切。
 
 ```
