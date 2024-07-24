@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-23已更新 
+2024-07-24已更新 
 ```
 * 金山词霸
-  > You just couldn't see an end to that city.
-  > 这个城市似乎没有尽头。
+  > I was born on this ship, and the world passed me by.
+  > 我生于船，长与船，世界千变万化。
 
 * 扇贝单词
-  > You are not beaten until you admit it.
-  > 在你承认之前，你尚未失败。
+  > Life is the sum of all your choices.
+  > 你做的所有抉择造就了你的人生。
 
 * 有道词典
-  > Energy and persistence conquer all things.
-  > 保持动力与坚持可以战胜一切。
+  > Love is the strongest thing in the world.
+  > 爱是世界上最强大的存在。
 
 ```
