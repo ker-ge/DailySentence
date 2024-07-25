@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-24已更新 
+2024-07-25已更新 
 ```
 * 金山词霸
-  > I was born on this ship, and the world passed me by.
-  > 我生于船，长与船，世界千变万化。
+  > I don't want to survive. I want to live.
+  > 我不要只是生存，我要活得有意义。
 
 * 扇贝单词
-  > Life is the sum of all your choices.
-  > 你做的所有抉择造就了你的人生。
+  > And so rock bottom became the solid foundation on which I rebuilt my life.
+  > 人生的低谷成为了我重建生活的坚实基础。
 
 * 有道词典
-  > Love is the strongest thing in the world.
-  > 爱是世界上最强大的存在。
+  > You've gotta make your own magic.
+  > 创造属于自己的奇迹。
 
 ```
