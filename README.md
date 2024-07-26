@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-25已更新 
+2024-07-26已更新 
 ```
 * 金山词霸
-  > I don't want to survive. I want to live.
-  > 我不要只是生存，我要活得有意义。
+  > I'm the king of the world!
+  > 我是世界之王！
 
 * 扇贝单词
-  > And so rock bottom became the solid foundation on which I rebuilt my life.
-  > 人生的低谷成为了我重建生活的坚实基础。
+  > Faster, Higher, Stronger – Together
+  > 更快、更高、更强——更团结
 
 * 有道词典
-  > You've gotta make your own magic.
-  > 创造属于自己的奇迹。
+  > There's always a way to turn things around.
+  > 万事总有解决的方法。
 
 ```
