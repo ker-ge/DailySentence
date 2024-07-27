@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-26已更新 
+2024-07-27已更新 
 ```
 * 金山词霸
-  > I'm the king of the world!
-  > 我是世界之王！
+  > I feel the need — the need for speed!
+  > 我感觉到一种需要——速度的需要!
 
 * 扇贝单词
-  > Faster, Higher, Stronger – Together
-  > 更快、更高、更强——更团结
+  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
+  > 奥运会的意义不是赢得奖牌，而是参与其中。
 
 * 有道词典
-  > There's always a way to turn things around.
-  > 万事总有解决的方法。
+  > Affection is desirable.
+  > 心动值得令人追寻。
 
 ```
