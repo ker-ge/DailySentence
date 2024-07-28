@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-27已更新 
+2024-07-28已更新 
 ```
 * 金山词霸
-  > I feel the need — the need for speed!
-  > 我感觉到一种需要——速度的需要!
+  > It's my best friend. Always happy. No questions.
+  > 它是我最好的朋友，总是很快乐，从不问问题。
 
 * 扇贝单词
-  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
-  > 奥运会的意义不是赢得奖牌，而是参与其中。
+  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
+  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
 
 * 有道词典
-  > Affection is desirable.
-  > 心动值得令人追寻。
+  > You are what I believe in.
+  > 你就是我的信仰。
 
 ```
