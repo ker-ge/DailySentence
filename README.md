@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-28已更新 
+2024-07-29已更新 
 ```
 * 金山词霸
-  > It's my best friend. Always happy. No questions.
-  > 它是我最好的朋友，总是很快乐，从不问问题。
+  > Being yourself is an honor, because nobody else can be you.
+  > 做自己是一种荣耀，因为没有任何人能成为你。
 
 * 扇贝单词
-  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
-  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
+  > I didn't set out to beat the world; I just set out to do my absolute best.
+  > 我并没有打算打败世界，我只是全力以赴。
 
 * 有道词典
-  > You are what I believe in.
-  > 你就是我的信仰。
+  > To make each day count.
+  > 让每一天都有意义。
 
 ```
