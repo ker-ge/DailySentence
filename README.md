@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-29已更新 
+2024-07-30已更新 
 ```
 * 金山词霸
-  > Being yourself is an honor, because nobody else can be you.
-  > 做自己是一种荣耀，因为没有任何人能成为你。
+  > I can look at the menu. Doesn't mean I'm gonna eat.
+  > 我看着菜单，并不代表我想吃! ——《越狱》
 
 * 扇贝单词
-  > I didn't set out to beat the world; I just set out to do my absolute best.
-  > 我并没有打算打败世界，我只是全力以赴。
+  > I've failed over and over and over again in my life and that is why I succeed.
+  > 我的人生经历了一次又一次的失败，正因为如此，我才能成功。
 
 * 有道词典
-  > To make each day count.
-  > 让每一天都有意义。
+  > There is always something you can do, and succeed at.
+  > 每个人都有自己的成功之路。
 
 ```
