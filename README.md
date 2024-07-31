@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-30已更新 
+2024-07-31已更新 
 ```
 * 金山词霸
-  > I can look at the menu. Doesn't mean I'm gonna eat.
-  > 我看着菜单，并不代表我想吃! ——《越狱》
+  > Life is short and you deserve to be happy.
+  > 生命短暂，你应该享受快乐 。
 
 * 扇贝单词
-  > I've failed over and over and over again in my life and that is why I succeed.
-  > 我的人生经历了一次又一次的失败，正因为如此，我才能成功。
+  > Faster, Higher, Stronger – Together
+  > 更快、更高、更强——更团结
 
 * 有道词典
-  > There is always something you can do, and succeed at.
-  > 每个人都有自己的成功之路。
+  > You only get one life. It's actually your duty to live it as fully as possible.
+  > 人生只此一次，不妨尽可能活得精彩一点。
 
 ```
