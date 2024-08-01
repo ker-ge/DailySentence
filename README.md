@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-07-31已更新 
+2024-08-01已更新 
 ```
 * 金山词霸
-  > Life is short and you deserve to be happy.
-  > 生命短暂，你应该享受快乐 。
+  > The journey of a thousand miles begins with one step. — Lao Tzu
+  > 千里之行，始于足下。 — 老子
 
 * 扇贝单词
-  > Faster, Higher, Stronger – Together
-  > 更快、更高、更强——更团结
+  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
+  > 奥运会的意义不是赢得奖牌，而是参与其中。
 
 * 有道词典
-  > You only get one life. It's actually your duty to live it as fully as possible.
-  > 人生只此一次，不妨尽可能活得精彩一点。
+  > I want us to be together, for as long as we've got.
+  > 余生的每一天，我都想和你在一起。
 
 ```
