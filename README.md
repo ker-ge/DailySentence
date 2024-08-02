@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-01已更新 
+2024-08-02已更新 
 ```
 * 金山词霸
-  > The journey of a thousand miles begins with one step. — Lao Tzu
-  > 千里之行，始于足下。 — 老子
+  > You had me at hello; it was love at first sight. — Friends
+  > 你一开口我就沦陷了；那是爱情的初见。—《老友记》
 
 * 扇贝单词
-  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
-  > 奥运会的意义不是赢得奖牌，而是参与其中。
+  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
+  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
 
 * 有道词典
-  > I want us to be together, for as long as we've got.
-  > 余生的每一天，我都想和你在一起。
+  > Anything is possible.
+  > 一切皆有可能。
 
 ```
