@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-02已更新 
+2024-08-03已更新 
 ```
 * 金山词霸
-  > You had me at hello; it was love at first sight. — Friends
-  > 你一开口我就沦陷了；那是爱情的初见。—《老友记》
+  > The truth is out there, and it's waiting. — The X-Files 
+  > 真相在外面，它在等待。 —《X档案》
 
 * 扇贝单词
-  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
-  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
+  > I didn't set out to beat the world; I just set out to do my absolute best.
+  > 我并没有打算打败世界，我只是全力以赴。
 
 * 有道词典
-  > Anything is possible.
-  > 一切皆有可能。
+  > Death is just a part of life. Something we're all destined to do.
+  > 死亡是人生必经的部分，我们终将勇敢面对它。
 
 ```
