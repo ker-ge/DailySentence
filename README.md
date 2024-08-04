@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-03已更新 
+2024-08-04已更新 
 ```
 * 金山词霸
-  > The truth is out there, and it's waiting. — The X-Files 
-  > 真相在外面，它在等待。 —《X档案》
+  > A goal without a plan is just a wish. — Antoine de Saint-Exupéry
+  > 没有计划的目标只是一个愿望。 — 安托万·德·圣-埃克苏佩里
 
 * 扇贝单词
-  > I didn't set out to beat the world; I just set out to do my absolute best.
-  > 我并没有打算打败世界，我只是全力以赴。
+  > I've failed over and over and over again in my life and that is why I succeed.
+  > 我的人生经历了一次又一次的失败，正因为如此，我才能成功。
 
 * 有道词典
-  > Death is just a part of life. Something we're all destined to do.
-  > 死亡是人生必经的部分，我们终将勇敢面对它。
+  > Don't obsess over the weight of life's problems.
+  > 别被生活中的困难打倒。
 
 ```
