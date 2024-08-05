@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-04已更新 
+2024-08-05已更新 
 ```
 * 金山词霸
-  > A goal without a plan is just a wish. — Antoine de Saint-Exupéry
-  > 没有计划的目标只是一个愿望。 — 安托万·德·圣-埃克苏佩里
+  > Why so serious? Let's put a smile on.— The Dark Knight 
+  > 为什么这么严肃？让我们笑起来。 —《黑暗骑士》
 
 * 扇贝单词
-  > I've failed over and over and over again in my life and that is why I succeed.
-  > 我的人生经历了一次又一次的失败，正因为如此，我才能成功。
+  > Faster, Higher, Stronger – Together
+  > 更快、更高、更强——更团结
 
 * 有道词典
-  > Don't obsess over the weight of life's problems.
-  > 别被生活中的困难打倒。
+  > You deserve to be happy.
+  > 你值得幸福。
 
 ```
