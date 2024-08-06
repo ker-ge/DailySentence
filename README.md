@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-05已更新 
+2024-08-06已更新 
 ```
 * 金山词霸
-  > Why so serious? Let's put a smile on.— The Dark Knight 
-  > 为什么这么严肃？让我们笑起来。 —《黑暗骑士》
+  > Love for all, hatred for none. — Khalifatul Masih III
+  > 爱众人，不恨人。 — 第三任哈里发
 
 * 扇贝单词
-  > Faster, Higher, Stronger – Together
-  > 更快、更高、更强——更团结
+  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
+  > 奥运会的意义不是赢得奖牌，而是参与其中。
 
 * 有道词典
-  > You deserve to be happy.
-  > 你值得幸福。
+  > You make your own destiny.
+  > 命运掌握在自己手中。
 
 ```
