@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-06已更新 
+2024-08-07已更新 
 ```
 * 金山词霸
-  > Love for all, hatred for none. — Khalifatul Masih III
-  > 爱众人，不恨人。 — 第三任哈里发
+  > Autumn is a second spring when every leaf is a flower. — Albert Camus
+  > 秋天是第二个春天，每一片叶子都是一朵花。— 阿尔贝·加缪
 
 * 扇贝单词
-  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
-  > 奥运会的意义不是赢得奖牌，而是参与其中。
+  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
+  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
 
 * 有道词典
-  > You make your own destiny.
-  > 命运掌握在自己手中。
+  > Autumn is coming.
+  > 秋日将至。
 
 ```
