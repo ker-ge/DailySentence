@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-07已更新 
+2024-08-08已更新 
 ```
 * 金山词霸
-  > Autumn is a second spring when every leaf is a flower. — Albert Camus
-  > 秋天是第二个春天，每一片叶子都是一朵花。— 阿尔贝·加缪
+  > In the end, we only regret the chances we didn't take. — Lewis Carroll
+  > 最终，我们只会后悔没有抓住的机会。 — 刘易斯·卡罗尔
 
 * 扇贝单词
-  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
-  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
+  > I didn't set out to beat the world; I just set out to do my absolute best.
+  > 我并没有打算打败世界，我只是全力以赴。
 
 * 有道词典
-  > Autumn is coming.
-  > 秋日将至。
+  > I'm happy no matter what we do. As long as it's together.
+  > 只要与你在一起，无论做什么都很开心。
 
 ```
