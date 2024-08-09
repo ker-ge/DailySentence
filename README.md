@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-08已更新 
+2024-08-09已更新 
 ```
 * 金山词霸
-  > In the end, we only regret the chances we didn't take. — Lewis Carroll
-  > 最终，我们只会后悔没有抓住的机会。 — 刘易斯·卡罗尔
+  > Everything has beauty, but not everyone sees it. — Confucius
+  > 万物皆有美，只是并非所有人都能看到。 — 孔子
 
 * 扇贝单词
-  > I didn't set out to beat the world; I just set out to do my absolute best.
-  > 我并没有打算打败世界，我只是全力以赴。
+  > I've failed over and over and over again in my life and that is why I succeed.
+  > 我的人生经历了一次又一次的失败，正因为如此，我才能成功。
 
 * 有道词典
-  > I'm happy no matter what we do. As long as it's together.
-  > 只要与你在一起，无论做什么都很开心。
+  > We are all born with a unique gift.
+  > 每个人都拥有独特的天赋。
 
 ```
