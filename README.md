@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-09已更新 
+2024-08-10已更新 
 ```
 * 金山词霸
-  > Everything has beauty, but not everyone sees it. — Confucius
-  > 万物皆有美，只是并非所有人都能看到。 — 孔子
+  >  Love is the only reality.— James M. Barrie, Peter Pan
+  > 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
 
 * 扇贝单词
-  > I've failed over and over and over again in my life and that is why I succeed.
-  > 我的人生经历了一次又一次的失败，正因为如此，我才能成功。
+  > Faster, Higher, Stronger – Together
+  > 更快、更高、更强——更团结
 
 * 有道词典
-  > We are all born with a unique gift.
-  > 每个人都拥有独特的天赋。
+  > Someday you'll meet someone special.
+  > 总有一天你会遇到特别的人。
 
 ```
