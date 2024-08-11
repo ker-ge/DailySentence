@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-10已更新 
+2024-08-11已更新 
 ```
 * 金山词霸
-  >  Love is the only reality.— James M. Barrie, Peter Pan
-  > 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
+  >  Do what you can, with what you have, where you are. — Theodore Roosevelt
+  > 尽力而为，随遇而安。 — 西奥多·罗斯福
 
 * 扇贝单词
-  > Faster, Higher, Stronger – Together
-  > 更快、更高、更强——更团结
+  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
+  > 奥运会的意义不是赢得奖牌，而是参与其中。
 
 * 有道词典
-  > Someday you'll meet someone special.
-  > 总有一天你会遇到特别的人。
+  > Life is something to be experienced.
+  > 人生的意义，在于体验。
 
 ```
