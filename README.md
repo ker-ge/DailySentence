@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-11已更新 
+2024-08-12已更新 
 ```
 * 金山词霸
-  >  Do what you can, with what you have, where you are. — Theodore Roosevelt
-  > 尽力而为，随遇而安。 — 西奥多·罗斯福
+  > You have to be a little crazy to stay sane.— Friends
+  > 你必须稍微疯狂一点才能保持理智。 —《老友记》
 
 * 扇贝单词
-  > Winning medals wasn't the point of the Olympics. It's the participating that counts.
-  > 奥运会的意义不是赢得奖牌，而是参与其中。
+  > You will never be able to escape from your heart. So it's better to listen to what it has to say.
+  > 既然无法逃避自己的心，不如就好好地听听它在说些什么。
 
 * 有道词典
-  > Life is something to be experienced.
-  > 人生的意义，在于体验。
+  > I will spend my life showing you how much I love you.
+  > 我将用一生向你证明我有多爱你。
 
 ```
