@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-12已更新 
+2024-08-13已更新 
 ```
 * 金山词霸
-  > You have to be a little crazy to stay sane.— Friends
-  > 你必须稍微疯狂一点才能保持理智。 —《老友记》
+  > I think this is the beginning of a beautiful friendship.— Casablanca
+  > 我认为这是美好友谊的开始。 —《卡萨布兰卡》
 
 * 扇贝单词
-  > You will never be able to escape from your heart. So it's better to listen to what it has to say.
-  > 既然无法逃避自己的心，不如就好好地听听它在说些什么。
+  > If you believe in yourself enough and know what you want, you're gonna make it happen.
+  > 如果你足够自信，也知道自己想要什么，就一定会实现心中所想。
 
 * 有道词典
-  > I will spend my life showing you how much I love you.
-  > 我将用一生向你证明我有多爱你。
+  > Some things are worth fighting for.
+  > 有些东西值得为之一搏。
 
 ```
