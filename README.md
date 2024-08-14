@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-13已更新 
+2024-08-14已更新 
 ```
 * 金山词霸
-  > I think this is the beginning of a beautiful friendship.— Casablanca
-  > 我认为这是美好友谊的开始。 —《卡萨布兰卡》
+  > Success is not the key to happiness. Happiness is the key to success. — Albert Schweitzer
+  > 成功不是幸福的钥匙。幸福是成功的钥匙。 — 阿尔伯特·施韦泽
 
 * 扇贝单词
-  > If you believe in yourself enough and know what you want, you're gonna make it happen.
-  > 如果你足够自信，也知道自己想要什么，就一定会实现心中所想。
+  > May your past be the sound of your feet upon the ground. Carry on.
+  > 愿你的过去只是你前进步伐所踏出的声响，继续前行吧。
 
 * 有道词典
-  > Some things are worth fighting for.
-  > 有些东西值得为之一搏。
+  > Self-reliance is the key to a good life.
+  > 自力更生是幸福的关键。
 
 ```
