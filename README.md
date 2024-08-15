@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-14已更新 
+2024-08-15已更新 
 ```
 * 金山词霸
-  > Success is not the key to happiness. Happiness is the key to success. — Albert Schweitzer
-  > 成功不是幸福的钥匙。幸福是成功的钥匙。 — 阿尔伯特·施韦泽
+  > Love is passion, obsession, someone you can't live without.— Meet Joe Black
+  > 爱是激情，痴迷，是你无法离开的人。—《遇见乔·布莱克》
 
 * 扇贝单词
-  > May your past be the sound of your feet upon the ground. Carry on.
-  > 愿你的过去只是你前进步伐所踏出的声响，继续前行吧。
+  > When I am with you, there's no place I'd rather be.
+  > 只要有你相伴，便无他处可比拟。
 
 * 有道词典
-  > Self-reliance is the key to a good life.
-  > 自力更生是幸福的关键。
+  > All we can do is try and move forward.
+  > 惟有努力向前。
 
 ```
