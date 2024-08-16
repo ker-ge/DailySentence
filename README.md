@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-15已更新 
+2024-08-16已更新 
 ```
 * 金山词霸
-  > Love is passion, obsession, someone you can't live without.— Meet Joe Black
-  > 爱是激情，痴迷，是你无法离开的人。—《遇见乔·布莱克》
+  > To love and be loved is to feel the sun from both sides. — David Viscott
+  > 爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
 
 * 扇贝单词
-  > When I am with you, there's no place I'd rather be.
-  > 只要有你相伴，便无他处可比拟。
+  > It's been my experience that you can nearly always enjoy something if you make up your mind firmly that you will.
+  > 我的经验是，事情只要下定决心去享受，就基本都能享受。
 
 * 有道词典
-  > All we can do is try and move forward.
-  > 惟有努力向前。
+  > Things are going to get much better.
+  > 未来会更好。
 
 ```
