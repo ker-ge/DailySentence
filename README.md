@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-16已更新 
+2024-08-17已更新 
 ```
 * 金山词霸
-  > To love and be loved is to feel the sun from both sides. — David Viscott
-  > 爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
+  > They call it a Royale with cheese.— Pulp Fiction 
+  > 他们称之为奶酪皇堡。—《低俗小说》
 
 * 扇贝单词
-  > It's been my experience that you can nearly always enjoy something if you make up your mind firmly that you will.
-  > 我的经验是，事情只要下定决心去享受，就基本都能享受。
+  > I have crossed oceans of time to find you.
+  > 我跨越了时间的瀚海来把你寻找。
 
 * 有道词典
-  > Things are going to get much better.
-  > 未来会更好。
+  > You never get any glory without a little pain.
+  > 不经历风雨，怎能见彩虹。
 
 ```
