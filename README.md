@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-17已更新 
+2024-08-18已更新 
 ```
 * 金山词霸
-  > They call it a Royale with cheese.— Pulp Fiction 
-  > 他们称之为奶酪皇堡。—《低俗小说》
+  > Change the world by being yourself. — Amy Poehler
+  > 做自己，改变世界。 — 艾米·波勒
 
 * 扇贝单词
-  > I have crossed oceans of time to find you.
-  > 我跨越了时间的瀚海来把你寻找。
+  > Life is a collection of moments. The idea is to have as many good ones as you can.
+  > 生命由一个个瞬间组成，宗旨就是尽可能多地拥抱美好瞬间。
 
 * 有道词典
-  > You never get any glory without a little pain.
-  > 不经历风雨，怎能见彩虹。
+  > Success is earned.
+  > 成功是争取来的。
 
 ```
