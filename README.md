@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-18已更新 
+2024-08-19已更新 
 ```
 * 金山词霸
-  > Change the world by being yourself. — Amy Poehler
-  > 做自己，改变世界。 — 艾米·波勒
+  > Difficult roads often lead to beautiful destinations.
+  > 艰难的道路常常通向美丽的目的地。
 
 * 扇贝单词
-  > Life is a collection of moments. The idea is to have as many good ones as you can.
-  > 生命由一个个瞬间组成，宗旨就是尽可能多地拥抱美好瞬间。
+  > In any given moment we have two options: to step forward into growth or to step back into safety.
+  > 任何时刻我们都有两个选择：往前走向成长，或退后走向安全。
 
 * 有道词典
-  > Success is earned.
-  > 成功是争取来的。
+  > Everyone needs a friend.
+  > 每个人都需要朋友。
 
 ```
