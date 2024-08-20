@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-19已更新 
+2024-08-20已更新 
 ```
 * 金山词霸
-  > Difficult roads often lead to beautiful destinations.
-  > 艰难的道路常常通向美丽的目的地。
+  > The best revenge is massive success. — Frank Sinatra
+  > 最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
 
 * 扇贝单词
-  > In any given moment we have two options: to step forward into growth or to step back into safety.
-  > 任何时刻我们都有两个选择：往前走向成长，或退后走向安全。
+  > Only one thing can make a soul complete, and that thing is love.
+  > 只有一样东西可以让灵魂完整，那就是爱。
 
 * 有道词典
-  > Everyone needs a friend.
-  > 每个人都需要朋友。
+  > You can't live your life according to maybes.
+  > 生活不单单依靠未知的可能。
 
 ```
