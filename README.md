@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-20已更新 
+2024-08-21已更新 
 ```
 * 金山词霸
-  > The best revenge is massive success. — Frank Sinatra
-  > 最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
+  > You complete me, and I will always cherish that.— Jerry Maguire
+  > 你使我完整，我将永远珍惜。 —《甜心先生》
 
 * 扇贝单词
-  > Only one thing can make a soul complete, and that thing is love.
-  > 只有一样东西可以让灵魂完整，那就是爱。
+  > Catch the moments of your life. Catch them while you're young and quick.
+  > 趁你还年轻利落，把握住生命中的每一个瞬间吧。
 
 * 有道词典
-  > You can't live your life according to maybes.
-  > 生活不单单依靠未知的可能。
+  > I'm capable of greatness.
+  > 我能成就一番伟业。
 
 ```
