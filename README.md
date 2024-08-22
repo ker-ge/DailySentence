@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-21已更新 
+2024-08-22已更新 
 ```
 * 金山词霸
-  > You complete me, and I will always cherish that.— Jerry Maguire
-  > 你使我完整，我将永远珍惜。 —《甜心先生》
+  > You're the only one who can save us now. — The 100 
+  > 你是唯一能拯救我们的人。 —《100%生存》
 
 * 扇贝单词
-  > Catch the moments of your life. Catch them while you're young and quick.
-  > 趁你还年轻利落，把握住生命中的每一个瞬间吧。
+  > We live in the world when we love it.
+  > 我们只有热爱这个世界，才算真正地活着。
 
 * 有道词典
-  > I'm capable of greatness.
-  > 我能成就一番伟业。
+  > Freedom comes from self-reliance.
+  > 学会自立，迈向自由。
 
 ```
