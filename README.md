@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-22已更新 
+2024-08-23已更新 
 ```
 * 金山词霸
-  > You're the only one who can save us now. — The 100 
-  > 你是唯一能拯救我们的人。 —《100%生存》
+  > I am the one who knocks, not you.— Breaking Bad 
+  > 我才是那个敲门的人，不是你。 —《绝命毒师》
 
 * 扇贝单词
-  > We live in the world when we love it.
-  > 我们只有热爱这个世界，才算真正地活着。
+  > You don't have to bend until you break. You just have to get up.
+  > 你不必一味屈服，让自己受伤，你只需打起精神做自己。
 
 * 有道词典
-  > Freedom comes from self-reliance.
-  > 学会自立，迈向自由。
+  > Pressure's an important part of success.
+  > 压力是成功的催化剂。
 
 ```
