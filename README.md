@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-23已更新 
+2024-08-24已更新 
 ```
 * 金山词霸
-  > I am the one who knocks, not you.— Breaking Bad 
-  > 我才是那个敲门的人，不是你。 —《绝命毒师》
+  > Winter is coming, and we must be prepared.— Game of Thrones
+  > 寒冬将至，我们必须做好准备。—《权力的游戏》
 
 * 扇贝单词
-  > You don't have to bend until you break. You just have to get up.
-  > 你不必一味屈服，让自己受伤，你只需打起精神做自己。
+  > Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
+  > 人生匆匆，如果不时常停下脚步四处瞧瞧，你可能就会错过它。
 
 * 有道词典
-  > Pressure's an important part of success.
-  > 压力是成功的催化剂。
+  > What's important to you is important to me.
+  > 对你而言重要的东西，我亦视为珍宝。
 
 ```
