@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-24已更新 
+2024-08-25已更新 
 ```
 * 金山词霸
-  > Winter is coming, and we must be prepared.— Game of Thrones
-  > 寒冬将至，我们必须做好准备。—《权力的游戏》
+  > I want to believe in something greater than myself.— The X-Files
+  > 我想相信比我自己更伟大的东西。 —《X档案》
 
 * 扇贝单词
-  > Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
-  > 人生匆匆，如果不时常停下脚步四处瞧瞧，你可能就会错过它。
+  > Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end.
+  > 记住没有小善之举这回事，每一次善行都会激起无穷尽的连锁反应。
 
 * 有道词典
-  > What's important to you is important to me.
-  > 对你而言重要的东西，我亦视为珍宝。
+  > Every moment is an audition. Because every moment counts.
+  > 人生就是一场又一场试镜，每一刻都作数。
 
 ```
