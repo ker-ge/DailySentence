@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-25已更新 
+2024-08-26已更新 
 ```
 * 金山词霸
-  > I want to believe in something greater than myself.— The X-Files
-  > 我想相信比我自己更伟大的东西。 —《X档案》
+  > This is the way we must follow, no turning back. — The Mandalorian
+  > 这就是我们必须遵循的道路，不可回头。—《曼达洛人》
 
 * 扇贝单词
-  > Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end.
-  > 记住没有小善之举这回事，每一次善行都会激起无穷尽的连锁反应。
+  > It is by acts and not by ideas that people live.
+  > 人依靠行动而活，而非想法。
 
 * 有道词典
-  > Every moment is an audition. Because every moment counts.
-  > 人生就是一场又一场试镜，每一刻都作数。
+  > You know more than you think you do.
+  > 你远比自己想象的更了不起。
 
 ```
