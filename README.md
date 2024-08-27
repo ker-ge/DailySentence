@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-26已更新 
+2024-08-27已更新 
 ```
 * 金山词霸
-  > This is the way we must follow, no turning back. — The Mandalorian
-  > 这就是我们必须遵循的道路，不可回头。—《曼达洛人》
+  > Success usually comes to those who are too busy to be looking for it. — Henry David Thoreau
+  > 成功通常降临在那些忙得没时间找它的人身上。 — 亨利·戴维·梭罗
 
 * 扇贝单词
-  > It is by acts and not by ideas that people live.
-  > 人依靠行动而活，而非想法。
+  > Do you know that there's still a chance for you？Cause there's a spark in you.
+  > 你知道吗？你还有机会，因为你心中藏有火花。
 
 * 有道词典
-  > You know more than you think you do.
-  > 你远比自己想象的更了不起。
+  > Everyone needs help sometimes.
+  > 每个人都有需要帮助的时候。
 
 ```
