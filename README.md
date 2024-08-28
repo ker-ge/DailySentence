@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-27已更新 
+2024-08-28已更新 
 ```
 * 金山词霸
-  > Success usually comes to those who are too busy to be looking for it. — Henry David Thoreau
-  > 成功通常降临在那些忙得没时间找它的人身上。 — 亨利·戴维·梭罗
+  > Don't wait. The time will never be just right. — Napoleon Hill
+  > 不要等待。时机永远不会完全合适。 — 拿破仑·希尔
 
 * 扇贝单词
-  > Do you know that there's still a chance for you？Cause there's a spark in you.
-  > 你知道吗？你还有机会，因为你心中藏有火花。
+  > Why are you trying so hard to fit in when you are born to stand out？
+  > 你本就生而不凡，为何还要拼命去融入大众呢？
 
 * 有道词典
-  > Everyone needs help sometimes.
-  > 每个人都有需要帮助的时候。
+  > Not a day shall pass that I don't miss your smile.
+  > 我每天都在想念你的笑颜。
 
 ```
