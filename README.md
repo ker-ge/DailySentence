@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-28已更新 
+2024-08-29已更新 
 ```
 * 金山词霸
-  > Don't wait. The time will never be just right. — Napoleon Hill
-  > 不要等待。时机永远不会完全合适。 — 拿破仑·希尔
+  > You only live once, but if you do it right, once is enough. — Mae West
+  > 你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
 
 * 扇贝单词
-  > Why are you trying so hard to fit in when you are born to stand out？
-  > 你本就生而不凡，为何还要拼命去融入大众呢？
+  > Never does nature say one thing and wisdom another.
+  > 自然与智慧永不相悖。
 
 * 有道词典
-  > Not a day shall pass that I don't miss your smile.
-  > 我每天都在想念你的笑颜。
+  > Be the protagonist in your own story.
+  > 做自己人生的主角。
 
 ```
