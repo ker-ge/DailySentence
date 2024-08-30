@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-29已更新 
+2024-08-30已更新 
 ```
 * 金山词霸
-  > You only live once, but if you do it right, once is enough. — Mae West
-  > 你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
+  > The only limit to our realization of tomorrow is our doubts today. — The West Wing
+  > 对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
 
 * 扇贝单词
-  > Never does nature say one thing and wisdom another.
-  > 自然与智慧永不相悖。
+  > Not having the best situation, but seeing the best in your situation is the key to happiness.
+  > 快乐的关键在于，即便境遇不是最佳，但依然能看到处境中最好的一面。
 
 * 有道词典
-  > Be the protagonist in your own story.
-  > 做自己人生的主角。
+  > Trust your instincts.
+  > 相信你的直觉。
 
 ```
