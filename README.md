@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-30已更新 
+2024-08-31已更新 
 ```
 * 金山词霸
-  > The only limit to our realization of tomorrow is our doubts today. — The West Wing
-  > 对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
+  > Turn your wounds into wisdom. — Oprah Winfrey
+  > 把伤口变成智慧。 — 奥普拉·温弗瑞
 
 * 扇贝单词
-  > Not having the best situation, but seeing the best in your situation is the key to happiness.
-  > 快乐的关键在于，即便境遇不是最佳，但依然能看到处境中最好的一面。
+  > You can't sweep other people off their feet, if you can't be swept off your own.
+  > 如果你自己都不欣赏自己，别人也不会为你倾倒。
 
 * 有道词典
-  > Trust your instincts.
-  > 相信你的直觉。
+  > Courage is our creed.
+  > 勇往直前是我们的人生信条。
 
 ```
