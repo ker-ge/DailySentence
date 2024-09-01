@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-08-31已更新 
+2024-09-01已更新 
 ```
 * 金山词霸
-  > Turn your wounds into wisdom. — Oprah Winfrey
-  > 把伤口变成智慧。 — 奥普拉·温弗瑞
+  >  Do not dwell in the past, do not dream of the future.
+  > 不要沉湎于过去，不要幻想未来。
 
 * 扇贝单词
-  > You can't sweep other people off their feet, if you can't be swept off your own.
-  > 如果你自己都不欣赏自己，别人也不会为你倾倒。
+  > People grow through experience if they meet life honestly and courageously.
+  > 如果人诚实、勇敢地面对生活，就能从经历中获得成长。
 
 * 有道词典
-  > Courage is our creed.
-  > 勇往直前是我们的人生信条。
+  > Life is like a mountain road with a new adventure around every corner.
+  > 人生犹如山间小路，每个转角都有新的奇遇在等着你。
 
 ```
