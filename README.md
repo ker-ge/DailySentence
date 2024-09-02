@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-01已更新 
+2024-09-02已更新 
 ```
 * 金山词霸
-  >  Do not dwell in the past, do not dream of the future.
-  > 不要沉湎于过去，不要幻想未来。
+  > All we have is now.
+  > 我们拥有的只有现在。
 
 * 扇贝单词
-  > People grow through experience if they meet life honestly and courageously.
-  > 如果人诚实、勇敢地面对生活，就能从经历中获得成长。
+  > Do not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.
+  > 不要流连于采集花朵，只管向前走，一路上自会有百花盛开。
 
 * 有道词典
-  > Life is like a mountain road with a new adventure around every corner.
-  > 人生犹如山间小路，每个转角都有新的奇遇在等着你。
+  > The world is my oyster.
+  > 天地之间，我自翱翔。
 
 ```
