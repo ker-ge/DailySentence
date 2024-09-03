@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-02已更新 
+2024-09-03已更新 
 ```
 * 金山词霸
-  > All we have is now.
-  > 我们拥有的只有现在。
+  > In the end, we will remember not the words of our enemies, but the silence of our friends.
+  > 最终，我们记住的不是敌人的话语，而是朋友的沉默。
 
 * 扇贝单词
-  > Do not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.
-  > 不要流连于采集花朵，只管向前走，一路上自会有百花盛开。
+  > All your lights are red, but I'm green to go.
+  > 你哪怕示以红灯拒我前行，我也会心向绿灯一刻不停。
 
 * 有道词典
-  > The world is my oyster.
-  > 天地之间，我自翱翔。
+  > Life will find a way.
+  > 生命自有出路。
 
 ```
