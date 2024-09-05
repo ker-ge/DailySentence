@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-04已更新 
+2024-09-05已更新 
 ```
 * 金山词霸
-  > Good artists copy, great artists steal.
-  > 好艺术家复制，伟大艺术家偷窃。
+  > Injustice anywhere is a threat to justice everywhere.
+  > 任何地方的不公正都是对所有地方公正的威胁。
 
 * 扇贝单词
-  > It's supposed to be hard. If it wasn't hard, everyone would do it.
-  > 要做成一件事情本来就不容易，要是不难，岂不是谁都会去做？
+  > The best way out is always through.
+  > 找到出口的最好方式就是一路走到底。
 
 * 有道词典
-  > Hope is faith holding out its hand in the dark.
-  > 希望是黑暗中不灭的信念。
+  > Perseverance is the soul of success.
+  > 坚毅是成功的灵魂。
 
 ```
