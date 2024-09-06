@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-05已更新 
+2024-09-06已更新 
 ```
 * 金山词霸
-  > Injustice anywhere is a threat to justice everywhere.
-  > 任何地方的不公正都是对所有地方公正的威胁。
+  > Life is a beautiful struggle.
+  > 生活是一场美丽的挣扎。
 
 * 扇贝单词
-  > The best way out is always through.
-  > 找到出口的最好方式就是一路走到底。
+  > Change your thoughts and you change your world.
+  > 改变你的想法，就是改变了你的世界。
 
 * 有道词典
-  > Perseverance is the soul of success.
-  > 坚毅是成功的灵魂。
+  > Take some responsibility for once in your life.
+  > 为自己的人生负责。
 
 ```
