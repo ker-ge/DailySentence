@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-07已更新 
+2024-09-08已更新 
 ```
 * 金山词霸
-  > Success is not how high you have climbed, but how you make a positive difference.
-  > 成功不是你攀登的高度，而是你做出的积极差异。
+  > Happiness is a warm gun.
+  > 幸福是一把温暖的枪。
 
 * 扇贝单词
-  > Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
-  > 尊重他人的感受。这对你可能无关紧要，但可能对他人十分重要。
+  > In the middle of every difficulty comes opportunity.
+  > 每一个困境中都会出现机会。
 
 * 有道词典
-  > I'm the king of the world!
-  > 世界在我脚下。
+  > Hard things will happen to us. We'll recover. We'll grow more resilient because of it.
+  > 苦难在所难免，但我们终会重新站起，而变得更加坚强。
 
 ```
