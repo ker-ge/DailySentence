@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-08已更新 
+2024-09-09已更新 
 ```
 * 金山词霸
-  > Happiness is a warm gun.
-  > 幸福是一把温暖的枪。
+  > The night is dark and full of terrors.
+  > 黑夜幽暗，充满恐惧。
 
 * 扇贝单词
-  > In the middle of every difficulty comes opportunity.
-  > 每一个困境中都会出现机会。
+  > Where there is ruin, there is hope for a treasure.
+  > 凡是有废墟的地方，就有可能藏着宝藏。
 
 * 有道词典
-  > Hard things will happen to us. We'll recover. We'll grow more resilient because of it.
-  > 苦难在所难免，但我们终会重新站起，而变得更加坚强。
+  > Be brave enough to be yourself.
+  > 勇敢做自己！
 
 ```
