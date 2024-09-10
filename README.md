@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-09已更新 
+2024-09-10已更新 
 ```
 * 金山词霸
-  > The night is dark and full of terrors.
-  > 黑夜幽暗，充满恐惧。
+  > Teaching is the one profession that creates all other professions.
+  > 教育是一切职业之母。
 
 * 扇贝单词
-  > Where there is ruin, there is hope for a treasure.
-  > 凡是有废墟的地方，就有可能藏着宝藏。
+  > The power of imagination makes us infinite.
+  > 想象力让我们突破极限。
 
 * 有道词典
-  > Be brave enough to be yourself.
-  > 勇敢做自己！
+  > I was encouraged by my teachers to explore my curiosity.
+  > 老师赋予我勇气去探索好奇心。
 
 ```
