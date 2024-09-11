@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-10已更新 
+2024-09-11已更新 
 ```
 * 金山词霸
-  > Teaching is the one profession that creates all other professions.
-  > 教育是一切职业之母。
+  > Fasten your seatbelts, it's going to be a bumpy night.
+  > 系好安全带，这将是一个颠簸的夜晚。
 
 * 扇贝单词
-  > The power of imagination makes us infinite.
-  > 想象力让我们突破极限。
+  > All achievements, all earned riches, have their beginning in an idea.
+  > 所有的成就和财富都是从一个想法开始的。
 
 * 有道词典
-  > I was encouraged by my teachers to explore my curiosity.
-  > 老师赋予我勇气去探索好奇心。
+  > Music has charms.
+  > 音乐使人心旷神怡。
 
 ```
