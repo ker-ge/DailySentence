@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-11已更新 
+2024-09-12已更新 
 ```
 * 金山词霸
-  > Fasten your seatbelts, it's going to be a bumpy night.
-  > 系好安全带，这将是一个颠簸的夜晚。
+  > Fall seven times and stand up eight.
+  > 跌倒七次，站起来八次。
 
 * 扇贝单词
-  > All achievements, all earned riches, have their beginning in an idea.
-  > 所有的成就和财富都是从一个想法开始的。
+  > The more things you do, the more you can do.
+  > 你做的事情越多，能做到的事情就越多。
 
 * 有道词典
-  > Music has charms.
-  > 音乐使人心旷神怡。
+  > Good things happen to good people.
+  > 好人总会有好报。
 
 ```
