@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-12已更新 
+2024-09-13已更新 
 ```
 * 金山词霸
-  > Fall seven times and stand up eight.
-  > 跌倒七次，站起来八次。
+  > I could have been a contender.
+  > 我本可以成为强者。
 
 * 扇贝单词
-  > The more things you do, the more you can do.
-  > 你做的事情越多，能做到的事情就越多。
+  > To know yourself is the first and most important step in pursuing your dreams and goals.
+  > 了解自己是追求梦想和目标的第一步，也是最重要的一步。
 
 * 有道词典
-  > Good things happen to good people.
-  > 好人总会有好报。
+  > The only thing we have to fear is fear itself.
+  > 超越恐惧，其他皆不足为惧。
 
 ```
