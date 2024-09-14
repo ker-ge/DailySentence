@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-13已更新 
+2024-09-14已更新 
 ```
 * 金山词霸
-  > I could have been a contender.
-  > 我本可以成为强者。
+  > What lies behind us and what lies before us are tiny matters.
+  > 我们背后和面前的事情都是小事。
 
 * 扇贝单词
-  > To know yourself is the first and most important step in pursuing your dreams and goals.
-  > 了解自己是追求梦想和目标的第一步，也是最重要的一步。
+  > Do something today that your future self will thank you for.
+  > 你今天做的事要让未来的你心存感激。
 
 * 有道词典
-  > The only thing we have to fear is fear itself.
-  > 超越恐惧，其他皆不足为惧。
+  > Every morning is a miracle.
+  > 每个早晨都是一个奇迹。
 
 ```
