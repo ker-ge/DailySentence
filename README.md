@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-14已更新 
+2024-09-15已更新 
 ```
 * 金山词霸
-  > What lies behind us and what lies before us are tiny matters.
-  > 我们背后和面前的事情都是小事。
+  >  I'm not a smart man, but I know what love is.
+  > 我不是个聪明人，但我知道什么是爱。
 
 * 扇贝单词
-  > Do something today that your future self will thank you for.
-  > 你今天做的事要让未来的你心存感激。
+  > It's not so much how busy you are, but why you are busy.
+  > 重要的不是你有多忙，而是你为何而忙。
 
 * 有道词典
-  > Every morning is a miracle.
-  > 每个早晨都是一个奇迹。
+  > You can do things that no one else can.
+  > 你的能力，与众不同。
 
 ```
