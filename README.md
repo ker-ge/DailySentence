@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-15已更新 
+2024-09-16已更新 
 ```
 * 金山词霸
-  >  I'm not a smart man, but I know what love is.
-  > 我不是个聪明人，但我知道什么是爱。
+  > The stuff that dreams are made of.
+  > 梦想的原料。
 
 * 扇贝单词
-  > It's not so much how busy you are, but why you are busy.
-  > 重要的不是你有多忙，而是你为何而忙。
+  > The successful warrior is the average man, with laser-like focus.
+  > 成功的勇士也是普通人，但却具有激光般的专注力。
 
 * 有道词典
-  > You can do things that no one else can.
-  > 你的能力，与众不同。
+  > Keep on going.
+  > 勇往直前，决不放弃。
 
 ```
