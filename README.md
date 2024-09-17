@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-16已更新 
+2024-09-17已更新 
 ```
 * 金山词霸
-  > The stuff that dreams are made of.
-  > 梦想的原料。
+  > The moon is a friend for the lonesome to talk to.
+  > 月亮是孤独者的朋友，愿倾听他们的心声。
 
 * 扇贝单词
-  > The successful warrior is the average man, with laser-like focus.
-  > 成功的勇士也是普通人，但却具有激光般的专注力。
+  > I'll spend forever wondering if you knew I was enchanted to meet you.
+  > 遇见你，我心花怒放，愿用一生去猜你是否明了。
 
 * 有道词典
-  > Keep on going.
-  > 勇往直前，决不放弃。
+  > The full moon means the full attendance of family members.
+  > 月圆之际，家人共聚。
 
 ```
