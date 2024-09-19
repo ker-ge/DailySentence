@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-18已更新 
+2024-09-19已更新 
 ```
 * 金山词霸
-  > I can accept failure, everyone fails at something.
-  > 我可以接受失败，每个人都会在某些事情上失败。
+  > Life is what happens when you're busy making other plans.
+  > 生活是在你忙着制定其他计划时发生的。
 
 * 扇贝单词
-  > I see that I am a little piece of a big, big universe, and that makes things right.
-  > 我知道我只是这浩瀚宇宙的一粒尘埃，但却是不可或缺的一份子。
+  > If you don't imagine, nothing ever happens at all.
+  > 想象都不去想象，就什么都不会发生。
 
 * 有道词典
-  > Love is unpredictable. Love is creative.
-  > 爱情是不可预测的，爱情是富有创造性的。
+  > Elegance is a journey.
+  > 飞启优雅之旅。
 
 ```
