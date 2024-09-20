@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-19已更新 
+2024-09-20已更新 
 ```
 * 金山词霸
-  > Life is what happens when you're busy making other plans.
-  > 生活是在你忙着制定其他计划时发生的。
+  > Not all those who wander are lost.
+  > 不是所有徘徊的人都迷失了。
 
 * 扇贝单词
-  > If you don't imagine, nothing ever happens at all.
-  > 想象都不去想象，就什么都不会发生。
+  > Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.
+  > 岁月留痕，只及肌肤；激情不再，皱起心灵。
 
 * 有道词典
-  > Elegance is a journey.
-  > 飞启优雅之旅。
+  > All of human wisdom can be summed up in these two words: wait and hope.
+  > 人类所有的智慧皆可归结为两个词：等待与希望。
 
 ```
