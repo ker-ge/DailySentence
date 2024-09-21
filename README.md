@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-20已更新 
+2024-09-21已更新 
 ```
 * 金山词霸
-  > Not all those who wander are lost.
-  > 不是所有徘徊的人都迷失了。
+  > You must be the change you wish to see in the world.
+  > 你必须成为你希望在世界上看到的改变。
 
 * 扇贝单词
-  > Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.
-  > 岁月留痕，只及肌肤；激情不再，皱起心灵。
+  > Life is only interesting if life is wide.
+  > 生活只有变得宽广，才会有趣。
 
 * 有道词典
-  > All of human wisdom can be summed up in these two words: wait and hope.
-  > 人类所有的智慧皆可归结为两个词：等待与希望。
+  > What matters is not the temptation, but the fact that you conquered it.
+  > 重要的不是诱惑本身，而是你战胜了它。
 
 ```
