@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-21已更新 
+2024-09-22已更新 
 ```
 * 金山词霸
-  > You must be the change you wish to see in the world.
-  > 你必须成为你希望在世界上看到的改变。
+  > All animals are equal, but some are more equal.
+  > 所有动物生而平等，但有些更平等。
 
 * 扇贝单词
-  > Life is only interesting if life is wide.
-  > 生活只有变得宽广，才会有趣。
+  > Challenges make you discover things about yourself that you never really knew.
+  > 挑战能让你发现自己都不曾了解过的一面。
 
 * 有道词典
-  > What matters is not the temptation, but the fact that you conquered it.
-  > 重要的不是诱惑本身，而是你战胜了它。
+  > Love is our guide.
+  > 爱，是引领我们前行的灯塔。
 
 ```
