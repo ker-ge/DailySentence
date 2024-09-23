@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-22已更新 
+2024-09-23已更新 
 ```
 * 金山词霸
-  > All animals are equal, but some are more equal.
-  > 所有动物生而平等，但有些更平等。
+  > I will not be silent.
+  > 我不会保持沉默。
 
 * 扇贝单词
-  > Challenges make you discover things about yourself that you never really knew.
-  > 挑战能让你发现自己都不曾了解过的一面。
+  > Keep your best wishes, close to your heart and watch what happens.
+  > 一直怀揣着最美的愿望，倾听内心的声音，再看看会发生什么。
 
 * 有道词典
-  > Love is our guide.
-  > 爱，是引领我们前行的灯塔。
+  > I've made something of myself.
+  > 我闯出了自己的一份事业。
 
 ```
