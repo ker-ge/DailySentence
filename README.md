@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-23已更新 
+2024-09-24已更新 
 ```
 * 金山词霸
-  > I will not be silent.
-  > 我不会保持沉默。
+  > I'm just one stomach flu away from my goal weight.
+  > 我只需得一次肠胃炎就能达到目标体重。—《穿普拉达的女王》
 
 * 扇贝单词
-  > Keep your best wishes, close to your heart and watch what happens.
-  > 一直怀揣着最美的愿望，倾听内心的声音，再看看会发生什么。
+  > It is easy to live for others, everybody does. I call on you to live for yourself.
+  > 为他人而活很简单，每个人都可以做到。我号召你们为自己而活。
 
 * 有道词典
-  > I've made something of myself.
-  > 我闯出了自己的一份事业。
+  > undefined
+  > undefined
 
 ```
