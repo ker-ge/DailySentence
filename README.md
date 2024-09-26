@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-25已更新 
+2024-09-26已更新 
 ```
 * 金山词霸
-  > All the world's a stage, and all the men and women merely players.
-  > 世界是个大舞台，男人女人皆为演员。
+  > Keep calm and carry on.
+  > 保持冷静，继续前行。
 
 * 扇贝单词
-  > Change, like healing, takes time.
-  > 改变犹如伤口愈合，需要时间。
+  > Above all, be the heroine of your life, not the victim.
+  > 成为人生的女主角，而不是受害者，这才是最重要的。
 
 * 有道词典
-  > Tomorrow, we will run faster.
-  > 明天，我们将跑得更快。
+  > We dedicate ourselves to an endless fight against the current.
+  > 我们在逆境中战斗，永不言弃。
 
 ```
