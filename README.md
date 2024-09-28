@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-27已更新 
+2024-09-28已更新 
 ```
 * 金山词霸
-  > There's no crying in baseball!
-  > 棒球里不许哭泣！
+  > Failure is simply the opportunity to begin again, this time more intelligently.
+  > 失败只是重新开始的机会，这次更加聪明。
 
 * 扇贝单词
-  > If you do not believe you can do it, then you have no chance at all.
-  > 如果你不相信自己能做到，你就永远没有机会做到。
+  > Dripping water hollows out stone, not through force but through persistence.
+  > 水滴石穿非力之所能为，乃能持之以恒也。
 
 * 有道词典
-  > We stand here together, as one.
-  > 我们并肩作战，携手共进！
+  > To create art is to be human.
+  > 艺术，是人类表达自我的方式。
 
 ```
