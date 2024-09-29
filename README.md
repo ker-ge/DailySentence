@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-28已更新 
+2024-09-29已更新 
 ```
 * 金山词霸
-  > Failure is simply the opportunity to begin again, this time more intelligently.
-  > 失败只是重新开始的机会，这次更加聪明。
+  > It's kind of a funny story.
+  > 这有点像个有趣的故事。
 
 * 扇贝单词
-  > Dripping water hollows out stone, not through force but through persistence.
-  > 水滴石穿非力之所能为，乃能持之以恒也。
+  > The beginning is the most important part of the work.
+  > 工作中最重要的部分是开始阶段。
 
 * 有道词典
-  > To create art is to be human.
-  > 艺术，是人类表达自我的方式。
+  > We seek perfection and settle for nothing less.
+  > 我们追求完美，绝不退求其次。
 
 ```
