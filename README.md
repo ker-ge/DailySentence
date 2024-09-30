@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-29已更新 
+2024-09-30已更新 
 ```
 * 金山词霸
-  > It's kind of a funny story.
-  > 这有点像个有趣的故事。
+  > The only real mistake is the one from which we learn nothing.
+  > 唯一真正的错误是我们没有从中学到任何东西。
 
 * 扇贝单词
-  > The beginning is the most important part of the work.
-  > 工作中最重要的部分是开始阶段。
+  > We go where our vision is.
+  > 我们的视野有多远，就能走多远。
 
 * 有道词典
-  > We seek perfection and settle for nothing less.
-  > 我们追求完美，绝不退求其次。
+  > A winner never runs away from a fight!
+  > 勇者从不惧怕挑战。
 
 ```
