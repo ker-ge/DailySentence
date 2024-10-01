@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-09-30已更新 
+2024-10-01已更新 
 ```
 * 金山词霸
-  > The only real mistake is the one from which we learn nothing.
-  > 唯一真正的错误是我们没有从中学到任何东西。
+  > We are all part of one great nation.
+  > 我们都是伟大国家的一部分。
 
 * 扇贝单词
-  > We go where our vision is.
-  > 我们的视野有多远，就能走多远。
+  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
+  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > A winner never runs away from a fight!
-  > 勇者从不惧怕挑战。
+  > May our country prosper and the people live a peaceful life!
+  > 愿祖国繁荣富强，人民安居乐业！
 
 ```
