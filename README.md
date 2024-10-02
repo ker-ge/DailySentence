@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-01已更新 
+2024-10-02已更新 
 ```
 * 金山词霸
-  > We are all part of one great nation.
-  > 我们都是伟大国家的一部分。
+  > The autumn leaves remind us of the beauty of aging.
+  > 秋叶提醒我们衰老的美丽。
 
 * 扇贝单词
-  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
-  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
+  > Courage is doing what you're afraid to do. There can be no courage unless you're scared.
+  > 行畏惧之事可谓勇；无畏则无勇。
 
 * 有道词典
-  > May our country prosper and the people live a peaceful life!
-  > 愿祖国繁荣富强，人民安居乐业！
+  > Friends are forever.
+  > 友谊地久天长。
 
 ```
