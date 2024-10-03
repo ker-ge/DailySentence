@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-02已更新 
+2024-10-03已更新 
 ```
 * 金山词霸
-  > The autumn leaves remind us of the beauty of aging.
-  > 秋叶提醒我们衰老的美丽。
+  > Act as if what you do makes a difference. It does.
+  > 行动吧，就好像你的所作所为会带来改变。确实如此。
 
 * 扇贝单词
-  > Courage is doing what you're afraid to do. There can be no courage unless you're scared.
-  > 行畏惧之事可谓勇；无畏则无勇。
+  > Nothing great was ever achieved without enthusiasm.
+  > 世界上任何伟业的成就都离不开热情。
 
 * 有道词典
-  > Friends are forever.
-  > 友谊地久天长。
+  > Optimism is about embracing problems.
+  > 乐观的人，敢于拥抱困难。
 
 ```
