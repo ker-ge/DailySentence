@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-03已更新 
+2024-10-04已更新 
 ```
 * 金山词霸
-  > Act as if what you do makes a difference. It does.
-  > 行动吧，就好像你的所作所为会带来改变。确实如此。
+  > Don't watch the clock; do what it does. Keep going.
+  > 不要看时间，做自己该做的事。继续前进。
 
 * 扇贝单词
-  > Nothing great was ever achieved without enthusiasm.
-  > 世界上任何伟业的成就都离不开热情。
+  > Every sweet has its sour; every evil its good.
+  > 甘饴有其酸涩，恶人亦有善行。
 
 * 有道词典
-  > Optimism is about embracing problems.
-  > 乐观的人，敢于拥抱困难。
+  > No obstacle is insurmountable.
+  > 没有过不去的坎。
 
 ```
