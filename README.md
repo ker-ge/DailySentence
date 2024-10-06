@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-05已更新 
+2024-10-06已更新 
 ```
 * 金山词霸
-  > Success is how high you bounce when you hit bottom.
-  > 成功是你跌到谷底时反弹的高度。
+  > The best way to predict the future is to invent it.
+  > 预测未来的最好方法是去创造它。
 
 * 扇贝单词
-  > Faith doesn't mean you never doubt. It only means you never act upon your doubts.
-  > 拥有信念并不代表毫无疑虑，它只意味着你从不带着疑虑行事。
+  > True life is lived when tiny changes occur.
+  > 生命中有了细小的变化，才算是真正地活着。
 
 * 有道词典
-  > Courage is daring to do what is right.
-  > 勇气是敢于去做对的事。
+  > True skill is not a blazing flame.
+  > 真本事不是昙花一现的。
 
 ```
