@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-06已更新 
+2024-10-07已更新 
 ```
 * 金山词霸
-  > The best way to predict the future is to invent it.
-  > 预测未来的最好方法是去创造它。
+  > Do one thing every day that scares you.
+  > 每天做一件让你害怕的事。
 
 * 扇贝单词
-  > True life is lived when tiny changes occur.
-  > 生命中有了细小的变化，才算是真正地活着。
+  > Difficulties increase the nearer we get to the goal.
+  > 我们越接近目标，就会遇到越多困难。
 
 * 有道词典
-  > True skill is not a blazing flame.
-  > 真本事不是昙花一现的。
+  > Joy is the gift of love.
+  > 爱予人笑颜。
 
 ```
