@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-07已更新 
+2024-10-08已更新 
 ```
 * 金山词霸
-  > Do one thing every day that scares you.
-  > 每天做一件让你害怕的事。
+  > The only source of knowledge is experience.
+  > 知识的唯一来源是经验。
 
 * 扇贝单词
-  > Difficulties increase the nearer we get to the goal.
-  > 我们越接近目标，就会遇到越多困难。
+  > First find out what you are capable of, then decide who you are.
+  > 先找出你的能力所在，然后再决定你是谁。
 
 * 有道词典
-  > Joy is the gift of love.
-  > 爱予人笑颜。
+  > The Cold Dew is the season when pomegranates are ripe.
+  > 寒露轻抚，石榴红透。
 
 ```
