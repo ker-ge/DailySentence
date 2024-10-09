@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-08已更新 
+2024-10-09已更新 
 ```
 * 金山词霸
-  > The only source of knowledge is experience.
-  > 知识的唯一来源是经验。
+  > What we think, we become.
+  > 我们想什么，就成为什么。
 
 * 扇贝单词
-  > First find out what you are capable of, then decide who you are.
-  > 先找出你的能力所在，然后再决定你是谁。
+  > You must remember what you are and what you have chosen to become, and the significance of what you are doing.
+  > 你必须记着自己是什么人，你选择要成为什么人，记住你正在从事的东西的重要意义。
 
 * 有道词典
-  > The Cold Dew is the season when pomegranates are ripe.
-  > 寒露轻抚，石榴红透。
+  > Everyone is gifted.
+  > 每个人都有自己独有的天赋。
 
 ```
