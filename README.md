@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-09已更新 
+2024-10-10已更新 
 ```
 * 金山词霸
-  > What we think, we become.
-  > 我们想什么，就成为什么。
+  > Happiness is not something ready-made. It comes from your own actions.
+  > 幸福不是现成的东西，它来自你自己的行动。
 
 * 扇贝单词
-  > You must remember what you are and what you have chosen to become, and the significance of what you are doing.
-  > 你必须记着自己是什么人，你选择要成为什么人，记住你正在从事的东西的重要意义。
+  > Love is what you've been through with somebody.
+  > 爱，就是你和某个人一起经历的一切。
 
 * 有道词典
-  > Everyone is gifted.
-  > 每个人都有自己独有的天赋。
+  > A mother's love is the strongest love.
+  > 母爱，是世间强大的力量。
 
 ```
