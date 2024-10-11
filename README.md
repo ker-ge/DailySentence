@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-10已更新 
+2024-10-11已更新 
 ```
 * 金山词霸
-  > Happiness is not something ready-made. It comes from your own actions.
-  > 幸福不是现成的东西，它来自你自己的行动。
+  > Cherish the moments with family, for they are fleeting.
+  > 珍惜与家人在一起的时光，因为它们稍纵即逝。
 
 * 扇贝单词
-  > Love is what you've been through with somebody.
-  > 爱，就是你和某个人一起经历的一切。
+  > Whomever you become, whatever you make yourself into, that is who you always were.
+  > 无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。
 
 * 有道词典
-  > A mother's love is the strongest love.
-  > 母爱，是世间强大的力量。
+  > I'll face the thorns and finally find the blooms.
+  > 我将穿越荆棘，最终寻得花海。
 
 ```
