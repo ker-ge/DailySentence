@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-11已更新 
+2024-10-12已更新 
 ```
 * 金山词霸
-  > Cherish the moments with family, for they are fleeting.
-  > 珍惜与家人在一起的时光，因为它们稍纵即逝。
+  > Freedom is never given; it is won.
+  > 自由从未被赋予；它是赢得的。
 
 * 扇贝单词
-  > Whomever you become, whatever you make yourself into, that is who you always were.
-  > 无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。
+  > The sun always has ways to reach us.
+  > 太阳总有办法照到我们，不管我们在哪里。
 
 * 有道词典
-  > I'll face the thorns and finally find the blooms.
-  > 我将穿越荆棘，最终寻得花海。
+  > Compassion is ethics.
+  > 同情心是一种美德。
 
 ```
