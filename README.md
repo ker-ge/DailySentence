@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-12已更新 
+2024-10-13已更新 
 ```
 * 金山词霸
-  > Freedom is never given; it is won.
-  > 自由从未被赋予；它是赢得的。
+  > The only way to have a friend is to be one.
+  > 拥有朋友的唯一方式就是成为朋友。
 
 * 扇贝单词
-  > The sun always has ways to reach us.
-  > 太阳总有办法照到我们，不管我们在哪里。
+  > Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of songs.
+  > 父亲们不过是群普通人，但爱让他们化身英雄、探险家、说书人和歌者。
 
 * 有道词典
-  > Compassion is ethics.
-  > 同情心是一种美德。
+  > I hope you get to live, and die, as you wish.
+  > 愿一生如你所愿。
 
 ```
