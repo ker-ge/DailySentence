@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-13已更新 
+2024-10-14已更新 
 ```
 * 金山词霸
-  > The only way to have a friend is to be one.
-  > 拥有朋友的唯一方式就是成为朋友。
+  > Every moment is a fresh beginning.
+  > 每一刻都是新的开始。
 
 * 扇贝单词
-  > Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of songs.
-  > 父亲们不过是群普通人，但爱让他们化身英雄、探险家、说书人和歌者。
+  > If one does not know to which port one is sailing, no wind is favorable.
+  > 如果你不知道要驶向哪个港口，任何风向都毫无助益。
 
 * 有道词典
-  > I hope you get to live, and die, as you wish.
-  > 愿一生如你所愿。
+  > Courage is the mastery of fear, not the absence of it.
+  > 勇气是战胜恐惧，而非逃避恐惧。
 
 ```
