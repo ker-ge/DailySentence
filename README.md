@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-15已更新 
+2024-10-16已更新 
 ```
 * 金山词霸
-  > If you want to live a happy life, tie it to a goal.
-  > 如果你想过上幸福的生活，把它与目标联系起来。
+  > We are what we repeatedly do.
+  > 我们就是我们反复做的事情。
 
 * 扇贝单词
-  > Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.
-  > 那些保护空气、水和野生动物的计划，实际上是为了保护人类自己。
+  > All of us, at certain moments of our lives, need to take advice and to receive help from other people.
+  > 在生命的某些时刻，我们每个人都需要听取他人的意见，接受他人的帮助。
 
 * 有道词典
-  > Opportunities are endless.
-  > 机遇无限。
+  > If you want the rainbow, you have to deal with the rain.
+  > 历经风雨，方见彩虹。
 
 ```
