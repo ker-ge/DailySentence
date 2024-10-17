@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-16已更新 
+2024-10-17已更新 
 ```
 * 金山词霸
-  > We are what we repeatedly do.
-  > 我们就是我们反复做的事情。
+  > The only impossible journey is the one you never begin.
+  > 唯一不可能的旅程是你从未开始的旅程。
 
 * 扇贝单词
-  > All of us, at certain moments of our lives, need to take advice and to receive help from other people.
-  > 在生命的某些时刻，我们每个人都需要听取他人的意见，接受他人的帮助。
+  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
+  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
 
 * 有道词典
-  > If you want the rainbow, you have to deal with the rain.
-  > 历经风雨，方见彩虹。
+  > Every journey begins with a first step.
+  > 千里之行，始于足下。
 
 ```
