@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-17已更新 
+2024-10-18已更新 
 ```
 * 金山词霸
-  > The only impossible journey is the one you never begin.
-  > 唯一不可能的旅程是你从未开始的旅程。
+  > A person who never made a mistake never tried anything new.
+  > 从未犯错的人从未尝试过任何新事物。
 
 * 扇贝单词
-  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
-  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
+  > Life is the flower for which love is the honey.
+  > 生命如花，爱情是蜜。
 
 * 有道词典
-  > Every journey begins with a first step.
-  > 千里之行，始于足下。
+  > We're going to save our friends!
+  > 拯救朋友，刻不容缓！
 
 ```
