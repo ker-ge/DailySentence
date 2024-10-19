@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-18已更新 
+2024-10-19已更新 
 ```
 * 金山词霸
-  > A person who never made a mistake never tried anything new.
-  > 从未犯错的人从未尝试过任何新事物。
+  > In every hardship lies opportunity.
+  > 每个困难中都蕴藏着机会。
 
 * 扇贝单词
-  > Life is the flower for which love is the honey.
-  > 生命如花，爱情是蜜。
+  > Not life, but good life, is to be chiefly valued.
+  > 最重要的不是生命，而是美好的生命。
 
 * 有道词典
-  > We're going to save our friends!
-  > 拯救朋友，刻不容缓！
+  > You fought your way out.
+  > 你闯出了一片自己的天地。
 
 ```
