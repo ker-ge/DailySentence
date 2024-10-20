@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-19已更新 
+2024-10-20已更新 
 ```
 * 金山词霸
-  > In every hardship lies opportunity.
-  > 每个困难中都蕴藏着机会。
+  > Success is the sum of small efforts, repeated day in and day out.
+  > 成功是日复一日重复的微小努力的总和。
 
 * 扇贝单词
-  > Not life, but good life, is to be chiefly valued.
-  > 最重要的不是生命，而是美好的生命。
+  > Success is not how high you have climbed, but how you make a positive difference to the world.
+  > 成功不是你爬了多高，而是你如何为这个世界带来积极的影响。
 
 * 有道词典
-  > You fought your way out.
-  > 你闯出了一片自己的天地。
+  > Opportunities exist, but only for those who are bold enough to seize them.
+  > 机会是留给那些勇敢抓住它的人。
 
 ```
