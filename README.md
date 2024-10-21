@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-20已更新 
+2024-10-21已更新 
 ```
 * 金山词霸
-  > Success is the sum of small efforts, repeated day in and day out.
-  > 成功是日复一日重复的微小努力的总和。
+  > Life is either a daring adventure or nothing at all.
+  > 生活要么是一场大胆的冒险，要么毫无意义。
 
 * 扇贝单词
-  > Success is not how high you have climbed, but how you make a positive difference to the world.
-  > 成功不是你爬了多高，而是你如何为这个世界带来积极的影响。
+  > Don't cry when the sun is gone, because the tears won't let you see the stars.
+  > 不要在太阳落下时哭泣，因为泪水会让你错过星星。
 
 * 有道词典
-  > Opportunities exist, but only for those who are bold enough to seize them.
-  > 机会是留给那些勇敢抓住它的人。
+  > All obstacles will surely be overcome.
+  > 勇往直前，没有过不去的坎。
 
 ```
