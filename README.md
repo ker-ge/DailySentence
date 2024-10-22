@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-21已更新 
+2024-10-22已更新 
 ```
 * 金山词霸
-  > Life is either a daring adventure or nothing at all.
-  > 生活要么是一场大胆的冒险，要么毫无意义。
+  > Success is not in what you have, but who you are.
+  > 成功不在于你拥有什么，而在于你是谁。
 
 * 扇贝单词
-  > Don't cry when the sun is gone, because the tears won't let you see the stars.
-  > 不要在太阳落下时哭泣，因为泪水会让你错过星星。
+  > Ill habits gather unseen degrees, as brooks make rivers, rivers run to seas.
+  > 正如小溪汇聚成河流，河流汇入大海，坏习惯也会不知不觉积重难返。
 
 * 有道词典
-  > All obstacles will surely be overcome.
-  > 勇往直前，没有过不去的坎。
+  > All day, every day, we fight against the current.
+  > 日复一日，我们逆流而上。
 
 ```
