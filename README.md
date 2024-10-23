@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-22已更新 
+2024-10-23已更新 
 ```
 * 金山词霸
-  > Success is not in what you have, but who you are.
-  > 成功不在于你拥有什么，而在于你是谁。
+  > If you can dream it, you can do it.
+  > 只要有梦想，就一定能实现。
 
 * 扇贝单词
-  > Ill habits gather unseen degrees, as brooks make rivers, rivers run to seas.
-  > 正如小溪汇聚成河流，河流汇入大海，坏习惯也会不知不觉积重难返。
+  > The farther behind I leave the past, the closer I am to forging my own character.
+  > 我把过去抛得越远，便越接近于我自己锻造的自我。
 
 * 有道词典
-  > All day, every day, we fight against the current.
-  > 日复一日，我们逆流而上。
+  > The sun always shines after a downpour.
+  > 阳光总在风雨后。
 
 ```
