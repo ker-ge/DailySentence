@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-23已更新 
+2024-10-24已更新 
 ```
 * 金山词霸
-  > If you can dream it, you can do it.
-  > 只要有梦想，就一定能实现。
+  > Life is short, and it is here to be lived.
+  > 生命是短暂的，是用来生活的。
 
 * 扇贝单词
-  > The farther behind I leave the past, the closer I am to forging my own character.
-  > 我把过去抛得越远，便越接近于我自己锻造的自我。
+  > Only an open heart will allow you to float equally between everyone.
+  > 唯有一颗坦诚的心才能使你平等地对待每个人。
 
 * 有道词典
-  > The sun always shines after a downpour.
-  > 阳光总在风雨后。
+  > When two people love each other, no problem is insurmountable.
+  > 相爱抵万难。
 
 ```
