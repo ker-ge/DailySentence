@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-24已更新 
+2024-10-25已更新 
 ```
 * 金山词霸
-  > Life is short, and it is here to be lived.
-  > 生命是短暂的，是用来生活的。
+  > The mind is everything.
+  > 思想决定一切。
 
 * 扇贝单词
-  > Only an open heart will allow you to float equally between everyone.
-  > 唯有一颗坦诚的心才能使你平等地对待每个人。
+  > The most wasted day of all is that on which we have not laughed.
+  > 没有笑声的一天就是最虚度的一天。
 
 * 有道词典
-  > When two people love each other, no problem is insurmountable.
-  > 相爱抵万难。
+  > I'm with you to the end.
+  > 我会陪你到最后一刻。
 
 ```
