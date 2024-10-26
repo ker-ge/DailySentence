@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-25已更新 
+2024-10-26已更新 
 ```
 * 金山词霸
-  > The mind is everything.
-  > 思想决定一切。
+  > Use the losses and failures of the past as a reason for action, not inaction.
+  > 过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
 
 * 扇贝单词
-  > The most wasted day of all is that on which we have not laughed.
-  > 没有笑声的一天就是最虚度的一天。
+  > Love is when you are as concerned about someone else's situation as you are about your own.
+  > 爱就是像关心自己一样去关心别人。
 
 * 有道词典
-  > I'm with you to the end.
-  > 我会陪你到最后一刻。
+  > Nothing can stop you.
+  > 没有什么可以阻挡你。
 
 ```
