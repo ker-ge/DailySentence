@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-26已更新 
+2024-10-27已更新 
 ```
 * 金山词霸
-  > Use the losses and failures of the past as a reason for action, not inaction.
-  > 过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
+  > Idealism increases in direct proportion to one’s distance from the problem.
+  > 一个人离问题愈远就愈理想主义。
 
 * 扇贝单词
-  > Love is when you are as concerned about someone else's situation as you are about your own.
-  > 爱就是像关心自己一样去关心别人。
+  > Anything looked at closely becomes wonderful.
+  > 在近距离的观察下，任何事物都会显得美妙无比。
 
 * 有道词典
-  > Nothing can stop you.
-  > 没有什么可以阻挡你。
+  > Water is the softest thing, yet it can penetrate mountains.
+  > 水至柔，但滴水穿石。
 
 ```
