@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-27已更新 
+2024-10-28已更新 
 ```
 * 金山词霸
-  > Idealism increases in direct proportion to one’s distance from the problem.
-  > 一个人离问题愈远就愈理想主义。
+  > Don't count the days, make the days count.
+  > 不要数日子，让日子有意义。
 
 * 扇贝单词
-  > Anything looked at closely becomes wonderful.
-  > 在近距离的观察下，任何事物都会显得美妙无比。
+  > The most important thing in life is to learn how to give out love, and to let it come in.
+  > 生命中最重要的是学会给予爱，同时也要学会接纳爱。
 
 * 有道词典
-  > Water is the softest thing, yet it can penetrate mountains.
-  > 水至柔，但滴水穿石。
+  > We must choose our own destiny!
+  > 我们必须选择我们自己的命运！
 
 ```
