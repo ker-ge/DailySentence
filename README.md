@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-28已更新 
+2024-10-29已更新 
 ```
 * 金山词霸
-  > Don't count the days, make the days count.
-  > 不要数日子，让日子有意义。
+  > If life were predictable, it would cease to be life.
+  > 如果生活是可预测的，它就不再是生活。
 
 * 扇贝单词
-  > The most important thing in life is to learn how to give out love, and to let it come in.
-  > 生命中最重要的是学会给予爱，同时也要学会接纳爱。
+  > Health and cheerfulness naturally beget each other.
+  > 安康喜乐，相生相成。
 
 * 有道词典
-  > We must choose our own destiny!
-  > 我们必须选择我们自己的命运！
+  > The real secret to success is patience.
+  > 成功的秘诀就在于耐心。
 
 ```
