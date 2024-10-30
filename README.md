@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-29已更新 
+2024-10-30已更新 
 ```
 * 金山词霸
-  > If life were predictable, it would cease to be life.
-  > 如果生活是可预测的，它就不再是生活。
+  > The only true wisdom is in knowing you know nothing.
+  > 唯一真正的智慧在于知道你一无所知。
 
 * 扇贝单词
-  > Health and cheerfulness naturally beget each other.
-  > 安康喜乐，相生相成。
+  > Happiness is not a station you arrive at, but a manner of traveling.
+  > 幸福并不是你所抵达的站点，而是一种旅行的方式。
 
 * 有道词典
-  > The real secret to success is patience.
-  > 成功的秘诀就在于耐心。
+  > Make hay while the sun is still shining.
+  > 把握当下，及时行动。
 
 ```
