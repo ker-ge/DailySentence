@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-30已更新 
+2024-10-31已更新 
 ```
 * 金山词霸
-  > The only true wisdom is in knowing you know nothing.
-  > 唯一真正的智慧在于知道你一无所知。
+  > It's Halloween; the one night a year when we can be anything we want.
+  > 这是万圣节；一年中我们可以成为任何人的夜晚。
 
 * 扇贝单词
-  > Happiness is not a station you arrive at, but a manner of traveling.
-  > 幸福并不是你所抵达的站点，而是一种旅行的方式。
+  > A happy family is but an earlier heaven.
+  > 幸福的家庭犹如人间天堂。
 
 * 有道词典
-  > Make hay while the sun is still shining.
-  > 把握当下，及时行动。
+  > You have to get broken down to get raised back up!
+  > 在磨难中重生，在低谷时反弹。
 
 ```
