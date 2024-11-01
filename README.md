@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-10-31已更新 
+2024-11-01已更新 
 ```
 * 金山词霸
-  > It's Halloween; the one night a year when we can be anything we want.
-  > 这是万圣节；一年中我们可以成为任何人的夜晚。
+  > More dreams are lost to self-doubt than to failure.
+  > 因自我怀疑而失去的梦想比因失败而失去的更多。
 
 * 扇贝单词
-  > A happy family is but an earlier heaven.
-  > 幸福的家庭犹如人间天堂。
+  > All great achievements require time.
+  > 所有伟大的成就都需要时间的历练。
 
 * 有道词典
-  > You have to get broken down to get raised back up!
-  > 在磨难中重生，在低谷时反弹。
+  > Time's arrow neither stands still nor reverses.
+  > 光阴似箭，不停不退。
 
 ```
