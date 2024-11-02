@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-01已更新 
+2024-11-02已更新 
 ```
 * 金山词霸
-  > More dreams are lost to self-doubt than to failure.
-  > 因自我怀疑而失去的梦想比因失败而失去的更多。
+  > Life is short; Live it!
+  > 人生苦短，活出精彩。
 
 * 扇贝单词
-  > All great achievements require time.
-  > 所有伟大的成就都需要时间的历练。
+  > You do not write your life with words. You write it with actions.
+  > 你不是用文字来书写你的人生的，而是用行动。
 
 * 有道词典
-  > Time's arrow neither stands still nor reverses.
-  > 光阴似箭，不停不退。
+  > This is our time.
+  > 这是属于我们的时代。
 
 ```
