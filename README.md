@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-02已更新 
+2024-11-03已更新 
 ```
 * 金山词霸
-  > Life is short; Live it!
-  > 人生苦短，活出精彩。
+  > Happiness depends on your mindset.
+  > 幸福取决于你的心态。
 
 * 扇贝单词
-  > You do not write your life with words. You write it with actions.
-  > 你不是用文字来书写你的人生的，而是用行动。
+  > Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.
+  > 爱情不识藩篱。它将跨栏杆、越栅栏、穿围墙，满怀憧憬地抵达终点。
 
 * 有道词典
-  > This is our time.
-  > 这是属于我们的时代。
+  > I'm on top of the world.
+  > 我已站在世界之巅。
 
 ```
