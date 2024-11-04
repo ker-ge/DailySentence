@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-03已更新 
+2024-11-04已更新 
 ```
 * 金山词霸
-  > Happiness depends on your mindset.
-  > 幸福取决于你的心态。
+  > Every accomplishment starts with the decision to try.
+  > 每一项成就都始于尝试的决定。
 
 * 扇贝单词
-  > Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.
-  > 爱情不识藩篱。它将跨栏杆、越栅栏、穿围墙，满怀憧憬地抵达终点。
+  > Nothing is so strong as gentleness, nothing so gentle as real strength.
+  > 没有什么比温柔更有力量，也没有什么比真正的力量更温柔。
 
 * 有道词典
-  > I'm on top of the world.
-  > 我已站在世界之巅。
+  > May the sun shine warm upon your face.
+  > 愿阳光温暖你的脸庞。
 
 ```
