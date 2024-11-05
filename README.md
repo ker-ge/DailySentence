@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-04已更新 
+2024-11-05已更新 
 ```
 * 金山词霸
-  > Every accomplishment starts with the decision to try.
-  > 每一项成就都始于尝试的决定。
+  > Take in courage and let fear fade away.
+  > 吸入勇气，呼出恐惧。
 
 * 扇贝单词
-  > Nothing is so strong as gentleness, nothing so gentle as real strength.
-  > 没有什么比温柔更有力量，也没有什么比真正的力量更温柔。
+  > You make a life out of what you have, not what you're missing.
+  > 你是靠自己所拥有的，而不是所缺少的来过你的人生。
 
 * 有道词典
-  > May the sun shine warm upon your face.
-  > 愿阳光温暖你的脸庞。
+  > Life has its poetry.
+  > 人生如诗，岁月如歌。
 
 ```
