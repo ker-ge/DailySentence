@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-05已更新 
+2024-11-06已更新 
 ```
 * 金山词霸
-  > Take in courage and let fear fade away.
-  > 吸入勇气，呼出恐惧。
+  > The future depends on what you do today.
+  > 未来取决于你今天的所作所为。
 
 * 扇贝单词
-  > You make a life out of what you have, not what you're missing.
-  > 你是靠自己所拥有的，而不是所缺少的来过你的人生。
+  > Never regret. If it's good, it's wonderful. If it's bad, it's experience.
+  > 永远别去后悔。若结果美好，那很精彩。若结果糟糕，那是经历。
 
 * 有道词典
-  > Life has its poetry.
-  > 人生如诗，岁月如歌。
+  > What you earn depends on what you learn.
+  > 一分耕耘，一分收获。
 
 ```
