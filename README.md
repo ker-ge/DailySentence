@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-06已更新 
+2024-11-07已更新 
 ```
 * 金山词霸
-  > The future depends on what you do today.
-  > 未来取决于你今天的所作所为。
+  > Winter is not a season, but a celebration.
+  > 冬天不是一个季节，而是一个庆典。
 
 * 扇贝单词
-  > Never regret. If it's good, it's wonderful. If it's bad, it's experience.
-  > 永远别去后悔。若结果美好，那很精彩。若结果糟糕，那是经历。
+  > You miss 100% of the shots you don't take.
+  > 你不去射门的话，就百分之百进不了球。
 
 * 有道词典
-  > What you earn depends on what you learn.
-  > 一分耕耘，一分收获。
+  > Forge ahead with your lives.
+  > 在生活中勇往直前。
 
 ```
