@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-07已更新 
+2024-11-08已更新 
 ```
 * 金山词霸
-  > Winter is not a season, but a celebration.
-  > 冬天不是一个季节，而是一个庆典。
+  > You must do the things you think you cannot do.
+  > 你必须做你认为自己做不到的事情。
 
 * 扇贝单词
-  > You miss 100% of the shots you don't take.
-  > 你不去射门的话，就百分之百进不了球。
+  > Life's a mixed bag, no matter who you are.
+  > 生活总是喜忧参半，无论你是谁。
 
 * 有道词典
-  > Forge ahead with your lives.
-  > 在生活中勇往直前。
+  > It's a big job.
+  > 重任在肩。
 
 ```
