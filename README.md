@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-08已更新 
+2024-11-09已更新 
 ```
 * 金山词霸
-  > You must do the things you think you cannot do.
-  > 你必须做你认为自己做不到的事情。
+  > The greatest risk is not taking one.
+  > 最大的风险是不冒风险。
 
 * 扇贝单词
-  > Life's a mixed bag, no matter who you are.
-  > 生活总是喜忧参半，无论你是谁。
+  > How lucky I am to have something that makes saying goodbye so hard.
+  > 能拥有一些难以割舍的东西，这是多么幸运啊。
 
 * 有道词典
-  > It's a big job.
-  > 重任在肩。
+  > All the world is a stage.
+  > 世界就是座舞台。
 
 ```
