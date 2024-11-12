@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-11已更新 
+2024-11-12已更新 
 ```
 * 金山词霸
-  > Your life is your message.
-  > 你的生活就是你的信息。
+  > Time flies over us, but leaves its shadow behind.
+  > 时间飞逝，但它的影子留下了。
 
 * 扇贝单词
-  > Happiness adds and multiplies, as we divide it with others.
-  > 与他人分享快乐，我们会收获加倍的快乐。
+  > That was my way of getting through difficult times of low confidence — hard work.
+  > 克服自信低潮的艰难时期，我只用一个方法：努力。
 
 * 有道词典
-  > Nothing is impossible if you believe.
-  > 心存信念，无所不能。
+  > Good things come to those who wait.
+  > 耐心等待，好事自会到来。
 
 ```
