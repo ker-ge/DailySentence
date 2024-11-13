@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-12已更新 
+2024-11-13已更新 
 ```
 * 金山词霸
-  > Time flies over us, but leaves its shadow behind.
-  > 时间飞逝，但它的影子留下了。
+  > Keep going. Be all in.
+  > 继续前行，全力以赴。
 
 * 扇贝单词
-  > That was my way of getting through difficult times of low confidence — hard work.
-  > 克服自信低潮的艰难时期，我只用一个方法：努力。
+  > Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
+  > 昨天的我聪明，所以我想改变世界；今天的我明智，所以我选择改变自己。
 
 * 有道词典
-  > Good things come to those who wait.
-  > 耐心等待，好事自会到来。
+  > The eyes are the windows to the soul.
+  > 眼睛是心灵的窗户。
 
 ```
