@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-13已更新 
+2024-11-14已更新 
 ```
 * 金山词霸
-  > Keep going. Be all in.
-  > 继续前行，全力以赴。
+  > Silence is an answer too.
+  > 沉默也是一种回答。
 
 * 扇贝单词
-  > Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
-  > 昨天的我聪明，所以我想改变世界；今天的我明智，所以我选择改变自己。
+  > You've always had the power my dear, you just had to learn it for yourself.
+  > 其实你一直有那份力量，你只是需要学着去使用它。
 
 * 有道词典
-  > The eyes are the windows to the soul.
-  > 眼睛是心灵的窗户。
+  > Life is a gamble, but at least you're rolling the dice.
+  > 人生如赌局，但至少是你在掌掷骰子。
 
 ```
