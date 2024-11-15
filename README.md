@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-14已更新 
+2024-11-15已更新 
 ```
 * 金山词霸
-  > Silence is an answer too.
-  > 沉默也是一种回答。
+  > Time is the most valuable thing a man can spend.
+  > 时间是一个人最宝贵的财富。
 
 * 扇贝单词
-  > You've always had the power my dear, you just had to learn it for yourself.
-  > 其实你一直有那份力量，你只是需要学着去使用它。
+  > You don't love someone because they're perfect. You love them in spite of the fact that they're not.
+  > 不是因为一个人完美你才爱，而是即使那人不完美你也会去爱。
 
 * 有道词典
-  > Life is a gamble, but at least you're rolling the dice.
-  > 人生如赌局，但至少是你在掌掷骰子。
+  > The years go by in the blink of an eye.
+  > 时光荏苒，年华易逝。
 
 ```
