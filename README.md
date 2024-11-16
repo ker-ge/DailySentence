@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-15已更新 
+2024-11-16已更新 
 ```
 * 金山词霸
-  > Time is the most valuable thing a man can spend.
-  > 时间是一个人最宝贵的财富。
+  > Dreams are the touchstones of our character.
+  > 梦想是我们性格的基石。
 
 * 扇贝单词
-  > You don't love someone because they're perfect. You love them in spite of the fact that they're not.
-  > 不是因为一个人完美你才爱，而是即使那人不完美你也会去爱。
+  > What is right is not always popular, and what is popular is not always right.
+  > 对的事不见得都受欢迎，受欢迎的事不见得都是对的。
 
 * 有道词典
-  > The years go by in the blink of an eye.
-  > 时光荏苒，年华易逝。
+  > No time is like the present.
+  > 现在就是最好的时光。
 
 ```
