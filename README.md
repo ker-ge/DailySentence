@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-16已更新 
+2024-11-17已更新 
 ```
 * 金山词霸
-  > Dreams are the touchstones of our character.
-  > 梦想是我们性格的基石。
+  > Courage is grace under pressure.
+  > 勇气是在压力下保持优雅。
 
 * 扇贝单词
-  > What is right is not always popular, and what is popular is not always right.
-  > 对的事不见得都受欢迎，受欢迎的事不见得都是对的。
+  > Just trust yourself, then you will know how to live.
+  > 相信自己就对了，你将知道如何过日子。
 
 * 有道词典
-  > No time is like the present.
-  > 现在就是最好的时光。
+  > To see the world in a grain of sand, and a heaven in a wild flower.
+  > 一沙一世界，一花一天堂。
 
 ```
