@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-17已更新 
+2024-11-18已更新 
 ```
 * 金山词霸
-  > Courage is grace under pressure.
-  > 勇气是在压力下保持优雅。
+  > Everything you can imagine is real.
+  > 你能想象的一切都是真实的。
 
 * 扇贝单词
-  > Just trust yourself, then you will know how to live.
-  > 相信自己就对了，你将知道如何过日子。
+  > Be careful how you judge people, most of all friends. You don't sum up a man's life in one moment.
+  > 小心你是怎么评判他人的，尤其是朋友。你不能在片刻间总结一个人的一生。
 
 * 有道词典
-  > To see the world in a grain of sand, and a heaven in a wild flower.
-  > 一沙一世界，一花一天堂。
+  > Life is an adventure.
+  > 生活是场冒险。
 
 ```
