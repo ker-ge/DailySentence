@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-18已更新 
+2024-11-19已更新 
 ```
 * 金山词霸
-  > Everything you can imagine is real.
-  > 你能想象的一切都是真实的。
+  > Be the hero of your own story.
+  > 做你自己故事里的英雄。
 
 * 扇贝单词
-  > Be careful how you judge people, most of all friends. You don't sum up a man's life in one moment.
-  > 小心你是怎么评判他人的，尤其是朋友。你不能在片刻间总结一个人的一生。
+  > Dew turns into frost since tonight; the moon viewed at home is more bright.
+  > 露从今夜白，月是故乡明。
 
 * 有道词典
-  > Life is an adventure.
-  > 生活是场冒险。
+  > Knowledge and wisdom is the real power.
+  > 知识和智慧才是真正的力量。
 
 ```
