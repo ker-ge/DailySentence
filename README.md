@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-19已更新 
+2024-11-20已更新 
 ```
 * 金山词霸
-  > Be the hero of your own story.
-  > 做你自己故事里的英雄。
+  > Be yourself, but always your better self.
+  > 做你自己，但永远要成为更好的自己。
 
 * 扇贝单词
-  > Dew turns into frost since tonight; the moon viewed at home is more bright.
-  > 露从今夜白，月是故乡明。
+  > If everything was perfect, you would never learn and you would never grow.
+  > 如果一切皆完美，你就永远不会学到东西，永远不会成长。
 
 * 有道词典
-  > Knowledge and wisdom is the real power.
-  > 知识和智慧才是真正的力量。
+  > The future holds the promise.
+  > 未来孕育着希望。
 
 ```
