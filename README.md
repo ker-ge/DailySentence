@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-20已更新 
+2024-11-21已更新 
 ```
 * 金山词霸
-  > Be yourself, but always your better self.
-  > 做你自己，但永远要成为更好的自己。
+  > A smooth sea never made a skilled sailor.
+  > 一帆风顺的大海造就不了熟练的水手。
 
 * 扇贝单词
-  > If everything was perfect, you would never learn and you would never grow.
-  > 如果一切皆完美，你就永远不会学到东西，永远不会成长。
+  > I'm not afraid of storms, for I'm learning how to sail my ship.
+  > 我不惧怕暴风雨，因为我正在学习如何驾驭我的船。
 
 * 有道词典
-  > The future holds the promise.
-  > 未来孕育着希望。
+  > Love is a beacon of light.
+  > 爱是一座在黑夜中闪烁的灯塔。
 
 ```
