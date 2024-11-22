@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-21已更新 
+2024-11-22已更新 
 ```
 * 金山词霸
-  > A smooth sea never made a skilled sailor.
-  > 一帆风顺的大海造就不了熟练的水手。
+  > No snowflake ever falls in the wrong place.
+  > 没有一片雪花会落在错误的地方。
 
 * 扇贝单词
-  > I'm not afraid of storms, for I'm learning how to sail my ship.
-  > 我不惧怕暴风雨，因为我正在学习如何驾驭我的船。
+  > So often people are working hard at the wrong thing. Working on the right thing is probably more important than working hard.
+  > 很多时候人们努力错了方向，在对的事情上努力可能比努力本身还重要。
 
 * 有道词典
-  > Love is a beacon of light.
-  > 爱是一座在黑夜中闪烁的灯塔。
+  > Confidence is the necessary spark before everything that follows.
+  > 自信是点燃一切的火花。
 
 ```
