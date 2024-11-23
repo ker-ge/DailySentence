@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-22已更新 
+2024-11-23已更新 
 ```
 * 金山词霸
-  > No snowflake ever falls in the wrong place.
-  > 没有一片雪花会落在错误的地方。
+  > Don't dream your life, but live your dream.
+  > 不要梦想你的生活，而要实现你的梦想。
 
 * 扇贝单词
-  > So often people are working hard at the wrong thing. Working on the right thing is probably more important than working hard.
-  > 很多时候人们努力错了方向，在对的事情上努力可能比努力本身还重要。
+  > The minute you think, 'Oh, this is how life is', life finds a way of surprising you.
+  > 当你想着“哦，生活就是这样的”的时候，生活总会给你带来惊喜。
 
 * 有道词典
-  > Confidence is the necessary spark before everything that follows.
-  > 自信是点燃一切的火花。
+  > You couldn't change the direction of the wind, but you adjusted your sails to use it wisely.
+  > 你无法改变风的方向，但可以调整风帆，选择远航的方向。
 
 ```
