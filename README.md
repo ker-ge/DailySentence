@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-23已更新 
+2024-11-24已更新 
 ```
 * 金山词霸
-  > Don't dream your life, but live your dream.
-  > 不要梦想你的生活，而要实现你的梦想。
+  > You don't have to be great to start, but you have to start to be great.
+  > 你不需要伟大才能开始，但你必须开始才能伟大。
 
 * 扇贝单词
-  > The minute you think, 'Oh, this is how life is', life finds a way of surprising you.
-  > 当你想着“哦，生活就是这样的”的时候，生活总会给你带来惊喜。
+  > It took me 17 years and 114 days to become an overnight success.
+  > 我花了17年又114天的时间才在一夕之间成功。
 
 * 有道词典
-  > You couldn't change the direction of the wind, but you adjusted your sails to use it wisely.
-  > 你无法改变风的方向，但可以调整风帆，选择远航的方向。
+  > Laughter is the best medicine for despair.
+  > 笑容是绝望时最好的解药。
 
 ```
