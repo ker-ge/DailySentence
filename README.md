@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-24已更新 
+2024-11-25已更新 
 ```
 * 金山词霸
-  > You don't have to be great to start, but you have to start to be great.
-  > 你不需要伟大才能开始，但你必须开始才能伟大。
+  > Do small things with great love.
+  > 以爱去做小事。
 
 * 扇贝单词
-  > It took me 17 years and 114 days to become an overnight success.
-  > 我花了17年又114天的时间才在一夕之间成功。
+  > I am not afraid of tomorrow for I have seen yesterday and I love today.
+  > 我不害怕明天，因为我经历过昨天，又热爱今天。
 
 * 有道词典
-  > Laughter is the best medicine for despair.
-  > 笑容是绝望时最好的解药。
+  > You learn more from disappointment than you do from success.
+  > 相较于成功，失败能教会你更多。
 
 ```
