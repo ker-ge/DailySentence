@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-25已更新 
+2024-11-26已更新 
 ```
 * 金山词霸
-  > Do small things with great love.
-  > 以爱去做小事。
+  > Courage is knowing what not to fear.
+  > 勇气是知道什么不该害怕。
 
 * 扇贝单词
-  > I am not afraid of tomorrow for I have seen yesterday and I love today.
-  > 我不害怕明天，因为我经历过昨天，又热爱今天。
+  > We can't all be heroes, because somebody has to sit on the curb and applaud when they go by.
+  > 我们不可能都成为英雄，总得有人在英雄走过的时候坐在路边鼓掌。
 
 * 有道词典
-  > You learn more from disappointment than you do from success.
-  > 相较于成功，失败能教会你更多。
+  > Be as strong as the stormy seas and as proud as an eagle's scream.
+  > 愿你如汹涌波涛般坚强，如鹰啸长空般骄傲。
 
 ```
