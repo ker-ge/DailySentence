@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-26已更新 
+2024-11-27已更新 
 ```
 * 金山词霸
-  > Courage is knowing what not to fear.
-  > 勇气是知道什么不该害怕。
+  > We may encounter many defeats but we must not be defeated.
+  > 我们可能会遇到许多失败，但我们不能被打败。
 
 * 扇贝单词
-  > We can't all be heroes, because somebody has to sit on the curb and applaud when they go by.
-  > 我们不可能都成为英雄，总得有人在英雄走过的时候坐在路边鼓掌。
+  > Youth is happy because it has the capacity to see beauty. Anyone who keeps the ability to see beauty never grows old.
+  > 青春之欢愉在于发现美的能力。而所有能发现美的人，会永远年轻。
 
 * 有道词典
-  > Be as strong as the stormy seas and as proud as an eagle's scream.
-  > 愿你如汹涌波涛般坚强，如鹰啸长空般骄傲。
+  > Friendship is the foundation of any lasting relationship.
+  > 友谊是维系长久关系的基石。
 
 ```
