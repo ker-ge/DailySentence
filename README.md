@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-27已更新 
+2024-11-28已更新 
 ```
 * 金山词霸
-  > We may encounter many defeats but we must not be defeated.
-  > 我们可能会遇到许多失败，但我们不能被打败。
+  > Thanksgiving is a time of togetherness and gratitude.
+  > 感恩节是团聚与感恩的时刻。
 
 * 扇贝单词
-  > Youth is happy because it has the capacity to see beauty. Anyone who keeps the ability to see beauty never grows old.
-  > 青春之欢愉在于发现美的能力。而所有能发现美的人，会永远年轻。
+  > Don't settle for what life gives you; make life better and build something.
+  > 不要满足于生活赋予你的，要有所创造，让人生变得更好。
 
 * 有道词典
-  > Friendship is the foundation of any lasting relationship.
-  > 友谊是维系长久关系的基石。
+  > Communication is the key, and trust is the lock.
+  > 沟通是开启信任的钥匙。
 
 ```
