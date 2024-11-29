@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-28已更新 
+2024-11-29已更新 
 ```
 * 金山词霸
-  > Thanksgiving is a time of togetherness and gratitude.
-  > 感恩节是团聚与感恩的时刻。
+  > What you do today can improve all your tomorrows.
+  > 你今天所做的一切，可以改善你所有的明天。
 
 * 扇贝单词
-  > Don't settle for what life gives you; make life better and build something.
-  > 不要满足于生活赋予你的，要有所创造，让人生变得更好。
+  > True self-discovery begins where your comfort zone ends.
+  > 真正的自我发现，始于你踏出了你的舒适区。
 
 * 有道词典
-  > Communication is the key, and trust is the lock.
-  > 沟通是开启信任的钥匙。
+  > Courage is a must.
+  > 勇气是必不可少的。
 
 ```
