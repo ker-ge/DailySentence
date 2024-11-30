@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-29已更新 
+2024-11-30已更新 
 ```
 * 金山词霸
-  > What you do today can improve all your tomorrows.
-  > 你今天所做的一切，可以改善你所有的明天。
+  > No one can make you feel inferior without your consent.
+  > 没有人能在取得你的同意前让你自己感到自卑。
 
 * 扇贝单词
-  > True self-discovery begins where your comfort zone ends.
-  > 真正的自我发现，始于你踏出了你的舒适区。
+  > Life isn't tied with a bow, but it's still a gift.
+  > 生活没有打上蝴蝶结，但它仍是一份礼物。
 
 * 有道词典
-  > Courage is a must.
-  > 勇气是必不可少的。
+  > We look for shelter in the storm.
+  > 风暴之中，当觅避风之港。
 
 ```
