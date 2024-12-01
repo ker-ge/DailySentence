@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-11-30已更新 
+2024-12-01已更新 
 ```
 * 金山词霸
-  > No one can make you feel inferior without your consent.
-  > 没有人能在取得你的同意前让你自己感到自卑。
+  > To be yourself is all that you can do.
+  > 做自己就是你所能做的一切。
 
 * 扇贝单词
-  > Life isn't tied with a bow, but it's still a gift.
-  > 生活没有打上蝴蝶结，但它仍是一份礼物。
+  > We don't want to tell our dreams. We want to show them.
+  > 我们不想把梦想说出来，而是想展现出来。
 
 * 有道词典
-  > We look for shelter in the storm.
-  > 风暴之中，当觅避风之港。
+  > Life was busy and happy for us.
+  > 生活匆忙，亦满欢畅。
 
 ```
