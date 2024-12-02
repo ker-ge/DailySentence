@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-01已更新 
+2024-12-02已更新 
 ```
 * 金山词霸
-  > To be yourself is all that you can do.
-  > 做自己就是你所能做的一切。
+  > The heart has its reasons.
+  > 心有它的理由。
 
 * 扇贝单词
-  > We don't want to tell our dreams. We want to show them.
-  > 我们不想把梦想说出来，而是想展现出来。
+  > The secret of discipline is motivation. When a man is sufficiently motivated, discipline will take care of itself.
+  > 自律的关键是动机，当一个人的动力足够时，他自然就能自律。
 
 * 有道词典
-  > Life was busy and happy for us.
-  > 生活匆忙，亦满欢畅。
+  > You created your own destiny.
+  > 你主宰自己的命运。
 
 ```
