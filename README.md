@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-04已更新 
+2024-12-05已更新 
 ```
 * 金山词霸
-  > The only way to do great work is to love what you do.
-  > 做出伟大工作的唯一方式是热爱你所做的事。
+  > Joy is the simplest form of gratitude.
+  > 快乐是最简单的感恩形式。
 
 * 扇贝单词
-  > The most beautiful discovery true friends make is that they can grow separately without growing apart.
-  > 朋友间最美妙的经历，莫过于成长道路不同，却并不因此生出隔阂。
+  > To accept ourselves as we are means to value our imperfections as much as our perfections.
+  > 所谓接受自己，意味着既重视自己的完美，也珍视自己的不完美。
 
 * 有道词典
-  > We are reborn. We're starting anew.
-  > 我们重获新生，开启新篇章。
+  > It's time to create and to grow.
+  > 是时候去创造，去成长了。
 
 ```
