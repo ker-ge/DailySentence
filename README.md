@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-05已更新 
+2024-12-06已更新 
 ```
 * 金山词霸
-  > Joy is the simplest form of gratitude.
-  > 快乐是最简单的感恩形式。
+  > Opportunities don't happen. You create them.
+  > 机会不会发生，是你创造了它们。
 
 * 扇贝单词
-  > To accept ourselves as we are means to value our imperfections as much as our perfections.
-  > 所谓接受自己，意味着既重视自己的完美，也珍视自己的不完美。
+  > An animal's eyes have the power to speak a great language.
+  > 动物的眼睛有一种神奇的力量，诉说着千言万语。
 
 * 有道词典
-  > It's time to create and to grow.
-  > 是时候去创造，去成长了。
+  > I dwell in possibility.
+  > 我栖息于无限可能。
 
 ```
