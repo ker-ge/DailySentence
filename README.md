@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-06已更新 
+2024-12-07已更新 
 ```
 * 金山词霸
-  > Opportunities don't happen. You create them.
-  > 机会不会发生，是你创造了它们。
+  > Perseverance is not a long race; it is many short races one after the other.
+  > 坚持不是一场长跑，而是一次次短跑。
 
 * 扇贝单词
-  > An animal's eyes have the power to speak a great language.
-  > 动物的眼睛有一种神奇的力量，诉说着千言万语。
+  > Let your joy be in your journey — not in some distant goal.
+  > 让你的喜悦来自旅途中，而非一个遥远的目标。
 
 * 有道词典
-  > I dwell in possibility.
-  > 我栖息于无限可能。
+  > All the best things in my life came to me unexpected.
+  > 美好之事总是不期而至。
 
 ```
