@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-08已更新 
+2024-12-09已更新 
 ```
 * 金山词霸
-  > Simplicity is the ultimate sophistication.
-  > 简单是终极的智慧。
+  > No act of kindness, no matter how small, is ever wasted.
+  > 任何一份善意，无论多么微小，都不会被浪费。
 
 * 扇贝单词
-  > A warm smile is the universal language of kindness.
-  > 温暖的笑容是放之四海皆准的善意表达。
+  > Travel and change of place impart new vigor to the mind.
+  > 去新的地方旅行，能让思维焕发新的活力。
 
 * 有道词典
-  > Never hurry through the world, but walk slowly, and bow often.
-  > 莫匆匆于世，宜缓步而行，常怀鞠躬之心。
+  > Let's give it a shot. To the small things in life.
+  > 去试试生活中那些点滴小事。
 
 ```
