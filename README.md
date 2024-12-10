@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-09已更新 
+2024-12-10已更新 
 ```
 * 金山词霸
-  > No act of kindness, no matter how small, is ever wasted.
-  > 任何一份善意，无论多么微小，都不会被浪费。
+  > Wisdom begins in wonder.
+  > 智慧始于好奇。
 
 * 扇贝单词
-  > Travel and change of place impart new vigor to the mind.
-  > 去新的地方旅行，能让思维焕发新的活力。
+  > Do you want to meet the love of your life? Look in the mirror.
+  > 想见见你的毕生所爱吗？看看镜中吧。
 
 * 有道词典
-  > Let's give it a shot. To the small things in life.
-  > 去试试生活中那些点滴小事。
+  > Learn to lighten up. Learn to like the little things in life.
+  > 要学会放松，去珍惜生活中的点滴。
 
 ```
