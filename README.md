@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-10已更新 
+2024-12-11已更新 
 ```
 * 金山词霸
-  > Wisdom begins in wonder.
-  > 智慧始于好奇。
+  > It is not the years in your life but the life in your years.
+  > 不是生命中的岁月，而是岁月中的生命。
 
 * 扇贝单词
-  > Do you want to meet the love of your life? Look in the mirror.
-  > 想见见你的毕生所爱吗？看看镜中吧。
+  > A poet is a man who puts up a ladder to a star and climbs it while playing a violin.
+  > 诗人就是对着星空搭起天梯，然后边向上爬边拉小提琴的人。
 
 * 有道词典
-  > Learn to lighten up. Learn to like the little things in life.
-  > 要学会放松，去珍惜生活中的点滴。
+  > When you become comfortable with uncertainty, infinite possibilities open up in your life.
+  > 学会接受不确定性，你的生活将充满无限可能。
 
 ```
