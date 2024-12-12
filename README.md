@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-11已更新 
+2024-12-12已更新 
 ```
 * 金山词霸
-  > It is not the years in your life but the life in your years.
-  > 不是生命中的岁月，而是岁月中的生命。
+  > Every flower must grow through dirt.
+  > 每朵花都必须从泥土中成长。
 
 * 扇贝单词
-  > A poet is a man who puts up a ladder to a star and climbs it while playing a violin.
-  > 诗人就是对着星空搭起天梯，然后边向上爬边拉小提琴的人。
+  > Until you start believing in yourself, you ain't gonna have a life.
+  > 直到你开始相信自己，你的人生才真正开始。
 
 * 有道词典
-  > When you become comfortable with uncertainty, infinite possibilities open up in your life.
-  > 学会接受不确定性，你的生活将充满无限可能。
+  > I exist as I am — that is enough.
+  > 我就是我，这已足够。
 
 ```
