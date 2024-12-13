@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-12已更新 
+2024-12-13已更新 
 ```
 * 金山词霸
-  > Every flower must grow through dirt.
-  > 每朵花都必须从泥土中成长。
+  > Small deeds can make a big difference.
+  > 小小的善举可以带来巨大的改变。
 
 * 扇贝单词
-  > Until you start believing in yourself, you ain't gonna have a life.
-  > 直到你开始相信自己，你的人生才真正开始。
+  > ㅤ
+  > ㅤ
 
 * 有道词典
-  > I exist as I am — that is enough.
-  > 我就是我，这已足够。
+  > I am rooted, but I flow.
+  > 脚踏实地，亦随生命流动。
 
 ```
