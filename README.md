@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-14已更新 
+2024-12-15已更新 
 ```
 * 金山词霸
-  > You only fail when you stop trying.
-  > 只有停止尝试时，你才会失败。
+  > The harder the conflict, the greater the triumph.
+  > 冲突越难，胜利越大。
 
 * 扇贝单词
-  > Don't tell me the sky's the limit when there are footprints on the moon.
-  > 别对我说天空就是极限，毕竟连月球上都有了人类的脚印。
+  > The best day of your life is the one on which you decide your life is your own.
+  > 你生命中最美好的一天，就是你决定让你的人生属于你自己的那一天。
 
 * 有道词典
-  > We will stand.
-  > 我们将屹立不倒。
+  > Fear doesn't shut you down. It wakes you up.
+  > 恐惧不会打垮你，它会唤醒你。
 
 ```
