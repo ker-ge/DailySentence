@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-15已更新 
+2024-12-16已更新 
 ```
 * 金山词霸
-  > The harder the conflict, the greater the triumph.
-  > 冲突越难，胜利越大。
+  > Stars can't shine without darkness.
+  > 没有黑暗，星星无法闪耀。
 
 * 扇贝单词
-  > The best day of your life is the one on which you decide your life is your own.
-  > 你生命中最美好的一天，就是你决定让你的人生属于你自己的那一天。
+  > You may forget with whom you laughed, but you will never forget with whom you wept.
+  > 你可能会忘记和你一同笑过的人，却会永远记得和你一同哭过的人。
 
 * 有道词典
-  > Fear doesn't shut you down. It wakes you up.
-  > 恐惧不会打垮你，它会唤醒你。
+  > The deepest and heaviest love must grow with time.
+  > 最深沉的爱需要时间的滋养。
 
 ```
