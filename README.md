@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-16已更新 
+2024-12-17已更新 
 ```
 * 金山词霸
-  > Stars can't shine without darkness.
-  > 没有黑暗，星星无法闪耀。
+  >  Mistakes are proof that you are trying.
+  > 犯错是你正在努力的证明。
 
 * 扇贝单词
-  > You may forget with whom you laughed, but you will never forget with whom you wept.
-  > 你可能会忘记和你一同笑过的人，却会永远记得和你一同哭过的人。
+  > Everything you've ever wanted is on the other side of fear.
+  > 你想要的一切，都在恐惧的彼端。
 
 * 有道词典
-  > The deepest and heaviest love must grow with time.
-  > 最深沉的爱需要时间的滋养。
+  > Don't hate your enemy, or you will make a wrong judgment.
+  > 莫仇敌，免误判。
 
 ```
