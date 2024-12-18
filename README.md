@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-17已更新 
+2024-12-18已更新 
 ```
 * 金山词霸
-  >  Mistakes are proof that you are trying.
-  > 犯错是你正在努力的证明。
+  > Hardships often prepare ordinary people for extraordinary destiny.
+  > 艰难常常为普通人准备非凡的命运。
 
 * 扇贝单词
-  > Everything you've ever wanted is on the other side of fear.
-  > 你想要的一切，都在恐惧的彼端。
+  > Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
+  > 二十年后，比起你做过的事，你会更遗憾于那些你没有去做的事。
 
 * 有道词典
-  > Don't hate your enemy, or you will make a wrong judgment.
-  > 莫仇敌，免误判。
+  > Remembrance is a form of meeting.
+  > 记忆是一种无声的聚首。
 
 ```
