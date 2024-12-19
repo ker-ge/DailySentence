@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-18已更新 
+2024-12-19已更新 
 ```
 * 金山词霸
-  > Hardships often prepare ordinary people for extraordinary destiny.
-  > 艰难常常为普通人准备非凡的命运。
+  > Hope is the heartbeat of the soul.
+  > 希望是灵魂的心跳。
 
 * 扇贝单词
-  > Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
-  > 二十年后，比起你做过的事，你会更遗憾于那些你没有去做的事。
+  > When life is sweet, say thank you and celebrate. And when life is bitter, say thank you and grow.
+  > 日子愉快时，道声谢谢，庆贺吧；日子苦难时，道声谢谢，成长吧。
 
 * 有道词典
-  > Remembrance is a form of meeting.
-  > 记忆是一种无声的聚首。
+  > Do not go gentle into that good night.
+  > 不要温和地走入那良夜。
 
 ```
