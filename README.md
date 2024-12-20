@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-19已更新 
+2024-12-20已更新 
 ```
 * 金山词霸
-  > Hope is the heartbeat of the soul.
-  > 希望是灵魂的心跳。
+  > Let your faith be bigger than your fear.
+  > 让你的信念比恐惧更强大。
 
 * 扇贝单词
-  > When life is sweet, say thank you and celebrate. And when life is bitter, say thank you and grow.
-  > 日子愉快时，道声谢谢，庆贺吧；日子苦难时，道声谢谢，成长吧。
+  > Speak your mind even if your voice shakes.
+  > 勇敢说出你的想法，哪怕声音会颤抖。
 
 * 有道词典
-  > Do not go gentle into that good night.
-  > 不要温和地走入那良夜。
+  > With the new day comes new strength and new thoughts.
+  > 每一天都孕育新的力量与思想。
 
 ```
