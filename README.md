@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-20已更新 
+2024-12-21已更新 
 ```
 * 金山词霸
-  > Let your faith be bigger than your fear.
-  > 让你的信念比恐惧更强大。
+  > To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.
+  > 要欣赏雪花的美丽，就必须站在寒冷中。
 
 * 扇贝单词
-  > Speak your mind even if your voice shakes.
-  > 勇敢说出你的想法，哪怕声音会颤抖。
+  > There is meaning in every journey that is unknown to the traveler.
+  > 每段旅程里都有不为旅行者所知的意义。
 
 * 有道词典
-  > With the new day comes new strength and new thoughts.
-  > 每一天都孕育新的力量与思想。
+  > Nothing warms the heart more than a family reunited.
+  > 没什么比家人团聚更温暖人心了。
 
 ```
