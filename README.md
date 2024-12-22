@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-21已更新 
+2024-12-22已更新 
 ```
 * 金山词霸
-  > To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.
-  > 要欣赏雪花的美丽，就必须站在寒冷中。
+  > Happiness is a warm puppy.
+  > 幸福是一只温暖的小狗。
 
 * 扇贝单词
-  > There is meaning in every journey that is unknown to the traveler.
-  > 每段旅程里都有不为旅行者所知的意义。
+  > Rivers know this: there is no hurry. We shall get there some day.
+  > 河流知道这一点：无需匆忙。我们终有一日会到达。
 
 * 有道词典
-  > Nothing warms the heart more than a family reunited.
-  > 没什么比家人团聚更温暖人心了。
+  > Without the dark, we'd never see the stars.
+  > 未有黑暗，何以见繁星璀璨。
 
 ```
