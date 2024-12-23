@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-22已更新 
+2024-12-23已更新 
 ```
 * 金山词霸
-  > Happiness is a warm puppy.
-  > 幸福是一只温暖的小狗。
+  > Keep looking up; that's the secret of life.
+  > 抬头看天，这是生活的秘诀。
 
 * 扇贝单词
-  > Rivers know this: there is no hurry. We shall get there some day.
-  > 河流知道这一点：无需匆忙。我们终有一日会到达。
+  > Growth begins when we begin to accept our own weakness.
+  > 成长始于接受自己的弱点。
 
 * 有道词典
-  > Without the dark, we'd never see the stars.
-  > 未有黑暗，何以见繁星璀璨。
+  > Trying to shake things up, be a bit more bold.
+  > 试着打破常规，增添几分果敢。
 
 ```
