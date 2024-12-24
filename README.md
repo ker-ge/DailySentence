@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-23已更新 
+2024-12-24已更新 
 ```
 * 金山词霸
-  > Keep looking up; that's the secret of life.
-  > 抬头看天，这是生活的秘诀。
+  > All is calm, all is bright.
+  > 一切安详，一切明亮。
 
 * 扇贝单词
-  > Growth begins when we begin to accept our own weakness.
-  > 成长始于接受自己的弱点。
+  > It is love that will heal you. It is what heals us all.
+  > 爱会治愈你，会治愈我们所有人。
 
 * 有道词典
-  > Trying to shake things up, be a bit more bold.
-  > 试着打破常规，增添几分果敢。
+  > On Christmas Eve, the lights glow bright, we decorate our tree tonight.
+  > 平安夜的灯光璀璨夺目，今夜我们共同装点圣诞树。
 
 ```
