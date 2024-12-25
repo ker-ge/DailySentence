@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-24已更新 
+2024-12-25已更新 
 ```
 * 金山词霸
-  > All is calm, all is bright.
-  > 一切安详，一切明亮。
+  > Christmas is not a date. It is a state of mind.
+  > 圣诞节不是一个日期，而是一种心境。
 
 * 扇贝单词
-  > It is love that will heal you. It is what heals us all.
-  > 爱会治愈你，会治愈我们所有人。
+  > Education is not the filling of a pail, but the lighting of a fire.
+  > 教育不是注满一桶水，而是点燃一把火。
 
 * 有道词典
-  > On Christmas Eve, the lights glow bright, we decorate our tree tonight.
-  > 平安夜的灯光璀璨夺目，今夜我们共同装点圣诞树。
+  > The joyous carols, and the pinewood scents fill the air.
+  > 圣歌悠扬，松香氤氲，弥漫于空气之中。
 
 ```
