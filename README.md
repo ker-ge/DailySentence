@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-25已更新 
+2024-12-26已更新 
 ```
 * 金山词霸
-  > Christmas is not a date. It is a state of mind.
-  > 圣诞节不是一个日期，而是一种心境。
+  > Life is tough, but so are you.
+  > 生活很艰难，但你也很坚强。
 
 * 扇贝单词
-  > Education is not the filling of a pail, but the lighting of a fire.
-  > 教育不是注满一桶水，而是点燃一把火。
+  > Friendship is the breathing rose, with sweets in every fold.
+  > 友谊是鲜活的玫瑰，每一道褶皱里都溢着甜香。
 
 * 有道词典
-  > The joyous carols, and the pinewood scents fill the air.
-  > 圣歌悠扬，松香氤氲，弥漫于空气之中。
+  > Things we lose have a way of coming back to us in the end.
+  > 我们所失去的事物，终会以某种方式回到我们身旁。
 
 ```
