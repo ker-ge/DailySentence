@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-26已更新 
+2024-12-27已更新 
 ```
 * 金山词霸
-  > Life is tough, but so are you.
-  > 生活很艰难，但你也很坚强。
+  > Live in the sunshine, swim in the sea, and drink the wild air.
+  > 沐浴阳光，畅游海洋，呼吸自由的空气。
 
 * 扇贝单词
-  > Friendship is the breathing rose, with sweets in every fold.
-  > 友谊是鲜活的玫瑰，每一道褶皱里都溢着甜香。
+  > One never knows what each day is going to bring. The important thing is to be open and ready for it.
+  > 谁也不知道每一天都会带来什么。重要的是要敞开心扉，做好准备。
 
 * 有道词典
-  > Things we lose have a way of coming back to us in the end.
-  > 我们所失去的事物，终会以某种方式回到我们身旁。
+  > Everything happens at the exactly right moment.
+  > 一切都恰逢其时。
 
 ```
