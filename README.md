@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-28已更新 
+2024-12-29已更新 
 ```
 * 金山词霸
-  > The best time for new beginnings is now.
-  > 新的开始的最佳时机就是现在。
+  > Your vibe attracts your tribe.
+  > 你的气场吸引你的圈子。
 
 * 扇贝单词
-  > One of the best things in life is seeing a smile on a person's face and knowing that you put it there.
-  > 人生最美妙的事情，莫过于看到他人脸上的笑容，是因你而起。
+  > Live each day as if your life had just begun.
+  > 把每天，都当作生命刚开始一样去过吧！
 
 * 有道词典
-  > The worst enemy to creativity is self-doubt.
-  > 创造力最大的敌人是自我怀疑。
+  > I am as radiant as the sun.
+  > 我如太阳般耀眼。
 
 ```
