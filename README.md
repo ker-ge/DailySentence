@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-29已更新 
+2024-12-30已更新 
 ```
 * 金山词霸
-  > Your vibe attracts your tribe.
-  > 你的气场吸引你的圈子。
+  > Do something today that your future self will thank you for.
+  > 做些未来的你会感激的事情。
 
 * 扇贝单词
-  > Live each day as if your life had just begun.
-  > 把每天，都当作生命刚开始一样去过吧！
+  > Gardens are not made by sitting in the shade.
+  > 光在树荫下坐着，是建不成花园的。
 
 * 有道词典
-  > I am as radiant as the sun.
-  > 我如太阳般耀眼。
+  > Hope is the way.
+  > 希望指引我们前行。
 
 ```
