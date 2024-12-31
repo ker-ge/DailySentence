@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2024-12-30已更新 
+2024-12-31已更新 
 ```
 * 金山词霸
-  > Do something today that your future self will thank you for.
-  > 做些未来的你会感激的事情。
+  > Every sunset is an opportunity to reset.
+  > 每一次日落都是重启的机会。
 
 * 扇贝单词
-  > Gardens are not made by sitting in the shade.
-  > 光在树荫下坐着，是建不成花园的。
+  > Success is what comes after you stop making excuses.
+  > 当你不再找借口，成功才会到来。
 
 * 有道词典
-  > Hope is the way.
-  > 希望指引我们前行。
+  > Ring out the old, ring in the new.
+  > 与旧的一年告别，敲响新年的钟声。
 
 ```
