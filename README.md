@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-01已更新 
+2025-01-02已更新 
 ```
 * 金山词霸
-  > Every new beginning comes from some other beginning's end.
-  > 每一个新的开始都来自某个开始的结束。
+  > A single sunbeam is enough to drive away many shadows.
+  > 一束阳光足以驱散许多阴影。
 
 * 扇贝单词
-  > Your relationship with yourself sets the tone for every other relationship you have.
-  > 你和你自己的关系，会奠定你其他任何一段关系的基调。
+  > Everyone shines, given the right lighting.
+  > 在合适的光源下，每个人都会发光。
 
 * 有道词典
-  > A new heart for a New Year.
-  > 新年新心情，旧貌换新颜。
+  > It is only with the heart that one can see rightly.
+  > 只有通过内心，我们才能正确地看待一切。
 
 ```
