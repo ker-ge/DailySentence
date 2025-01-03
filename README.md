@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-02已更新 
+2025-01-03已更新 
 ```
 * 金山词霸
-  > A single sunbeam is enough to drive away many shadows.
-  > 一束阳光足以驱散许多阴影。
+  > The only thing constant in life is change.
+  > 生活中唯一不变的就是变化。
 
 * 扇贝单词
-  > Everyone shines, given the right lighting.
-  > 在合适的光源下，每个人都会发光。
+  > Do something today that your future self will thank you for.
+  > 你今天做的事要让未来的你心存感激。
 
 * 有道词典
-  > It is only with the heart that one can see rightly.
-  > 只有通过内心，我们才能正确地看待一切。
+  > May the odds be ever in your favor.
+  > 愿好运永远眷顾你。
 
 ```
