@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-03已更新 
+2025-01-04已更新 
 ```
 * 金山词霸
-  > The only thing constant in life is change.
-  > 生活中唯一不变的就是变化。
+  > You are never too old to set another goal or to dream a new dream.
+  > 无论多大年龄，你都可以重新设定目标或做新的梦。
 
 * 扇贝单词
-  > Do something today that your future self will thank you for.
-  > 你今天做的事要让未来的你心存感激。
+  > It's not so much how busy you are, but why you are busy.
+  > 重要的不是你有多忙，而是你为何而忙。
 
 * 有道词典
-  > May the odds be ever in your favor.
-  > 愿好运永远眷顾你。
+  > Life offers up these moments of joy despite everything.
+  > 尽管世事纷繁，生活仍会赐予我们欢乐时刻。
 
 ```
