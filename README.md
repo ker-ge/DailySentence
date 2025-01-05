@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-04已更新 
+2025-01-05已更新 
 ```
 * 金山词霸
-  > You are never too old to set another goal or to dream a new dream.
-  > 无论多大年龄，你都可以重新设定目标或做新的梦。
+  > Your life does not get better by chance, it gets better by change.
+  > 你的生活不会因偶然变好，而是因改变变好。
 
 * 扇贝单词
-  > It's not so much how busy you are, but why you are busy.
-  > 重要的不是你有多忙，而是你为何而忙。
+  > With self-discipline most anything is possible.
+  > 只要严于自律，大部分事情都可能做成。
 
 * 有道词典
-  > Life offers up these moments of joy despite everything.
-  > 尽管世事纷繁，生活仍会赐予我们欢乐时刻。
+  > Procrastination is the thief of time.
+  > 拖延会盗走时间。
 
 ```
