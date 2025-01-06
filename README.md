@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-05已更新 
+2025-01-06已更新 
 ```
 * 金山词霸
-  > Your life does not get better by chance, it gets better by change.
-  > 你的生活不会因偶然变好，而是因改变变好。
+  > Doubt kills more dreams than failure ever will.
+  > 怀疑比失败扼杀更多梦想。
 
 * 扇贝单词
-  > With self-discipline most anything is possible.
-  > 只要严于自律，大部分事情都可能做成。
+  > Life is a dream. Realize it.
+  > 生活是一个梦想，实现它。
 
 * 有道词典
-  > Procrastination is the thief of time.
-  > 拖延会盗走时间。
+  > There is always something left to love.
+  > 总有一些值得爱的东西。
 
 ```
