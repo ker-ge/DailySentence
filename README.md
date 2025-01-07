@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-06已更新 
+2025-01-07已更新 
 ```
 * 金山词霸
-  > Doubt kills more dreams than failure ever will.
-  > 怀疑比失败扼杀更多梦想。
+  > In the heart of winter, warmth is found in a bowl of porridge.
+  > 寒冬之中，温暖藏在一碗粥里。
 
 * 扇贝单词
-  > Life is a dream. Realize it.
-  > 生活是一个梦想，实现它。
+  > Build your own dreams, or someone else will hire you to build theirs.
+  > 筑造你自己的梦想吧，否则别人会雇你去建造他们的梦想。
 
 * 有道词典
-  > There is always something left to love.
-  > 总有一些值得爱的东西。
+  > Take nothing on its looks; take everything on evidence.
+  > 不要仅凭外观来判断；要基于证据来下结论。
 
 ```
