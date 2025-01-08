@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-07已更新 
+2025-01-08已更新 
 ```
 * 金山词霸
-  > In the heart of winter, warmth is found in a bowl of porridge.
-  > 寒冬之中，温暖藏在一碗粥里。
+  > Turn your face to the sun and the shadows fall behind you.
+  > 向阳而立，阴影自会落在身后。
 
 * 扇贝单词
-  > Build your own dreams, or someone else will hire you to build theirs.
-  > 筑造你自己的梦想吧，否则别人会雇你去建造他们的梦想。
+  > A warm smile is the universal language of kindness.
+  > 温暖的笑容是放之四海皆准的善意表达。
 
 * 有道词典
-  > Take nothing on its looks; take everything on evidence.
-  > 不要仅凭外观来判断；要基于证据来下结论。
+  > The quality of mercy is not strained.
+  > 慈悲之举，自然流露。
 
 ```
