@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-08已更新 
+2025-01-09已更新 
 ```
 * 金山词霸
-  > Turn your face to the sun and the shadows fall behind you.
-  > 向阳而立，阴影自会落在身后。
+  > Happiness is created now, not later.
+  > 幸福在当下，不在未来。
 
 * 扇贝单词
-  > A warm smile is the universal language of kindness.
-  > 温暖的笑容是放之四海皆准的善意表达。
+  > The secret of change is to focus all of your energy, not on fighting the old, but on building the new.
+  > 改变的秘诀，是集中所有精力去建造新的东西，而非与过去抗衡。
 
 * 有道词典
-  > The quality of mercy is not strained.
-  > 慈悲之举，自然流露。
+  > What doesn't come from the heart can't bring about real change.
+  > 发自内心的改变才能成真。
 
 ```
