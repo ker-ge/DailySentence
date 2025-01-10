@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-09已更新 
+2025-01-10已更新 
 ```
 * 金山词霸
-  > Happiness is created now, not later.
-  > 幸福在当下，不在未来。
+  > When words fail, music speaks.
+  > 当言语无力时，音乐能表达一切。
 
 * 扇贝单词
-  > The secret of change is to focus all of your energy, not on fighting the old, but on building the new.
-  > 改变的秘诀，是集中所有精力去建造新的东西，而非与过去抗衡。
+  > It is not beauty that endears, it's love that makes us see beauty.
+  > 并非美丽招人爱，而是爱让我们看到了美丽。
 
 * 有道词典
-  > What doesn't come from the heart can't bring about real change.
-  > 发自内心的改变才能成真。
+  > Have the courage to do what you know is right.
+  > 鼓起勇气去做你认为对的事。
 
 ```
