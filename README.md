@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-10已更新 
+2025-01-11已更新 
 ```
 * 金山词霸
-  > When words fail, music speaks.
-  > 当言语无力时，音乐能表达一切。
+  > You can't change the past, but you can change the ending.
+  > 你无法改变过去，但你可以改变结局。
 
 * 扇贝单词
-  > It is not beauty that endears, it's love that makes us see beauty.
-  > 并非美丽招人爱，而是爱让我们看到了美丽。
+  > Pessimism leads to weakness, optimism to power.
+  > 悲观导致软弱，乐观带来力量。
 
 * 有道词典
-  > Have the courage to do what you know is right.
-  > 鼓起勇气去做你认为对的事。
+  > My life today is in no way a cold copy of my life yesterday.
+  > 今日的生活绝不是昨天的简单重现。
 
 ```
