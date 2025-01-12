@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-11已更新 
+2025-01-12已更新 
 ```
 * 金山词霸
-  > You can't change the past, but you can change the ending.
-  > 你无法改变过去，但你可以改变结局。
+  > The biggest adventure you can take is to live the life of your dreams.
+  > 你能经历的最大冒险是活出梦想中的生活。
 
 * 扇贝单词
-  > Pessimism leads to weakness, optimism to power.
-  > 悲观导致软弱，乐观带来力量。
+  > No winter lasts forever; no spring skips its turn.
+  > 没有一个冬天不可逾越，没有一个春天不可来临。
 
 * 有道词典
-  > My life today is in no way a cold copy of my life yesterday.
-  > 今日的生活绝不是昨天的简单重现。
+  > Happiness will dock elsewhere.
+  > 幸福总会在某处停驻。
 
 ```
