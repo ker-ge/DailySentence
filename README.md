@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-12已更新 
+2025-01-13已更新 
 ```
 * 金山词霸
-  > The biggest adventure you can take is to live the life of your dreams.
-  > 你能经历的最大冒险是活出梦想中的生活。
+  > It's not what we have in life but who we have in life that matters.
+  > 生活中重要的不是我们拥有什么，而是我们拥有谁。
 
 * 扇贝单词
-  > No winter lasts forever; no spring skips its turn.
-  > 没有一个冬天不可逾越，没有一个春天不可来临。
+  > Gratitude is not only the greatest of virtues, but the parent of all others.
+  > 感恩不仅是最伟大的美德，而且是所有美德之母。
 
 * 有道词典
-  > Happiness will dock elsewhere.
-  > 幸福总会在某处停驻。
+  > There is more day to dawn.
+  > 来日方长。
 
 ```
