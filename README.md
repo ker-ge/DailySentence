@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-13已更新 
+2025-01-14已更新 
 ```
 * 金山词霸
-  > It's not what we have in life but who we have in life that matters.
-  > 生活中重要的不是我们拥有什么，而是我们拥有谁。
+  > Once you choose hope, anything's possible.
+  > 一旦选择了希望，一切皆有可能。
 
 * 扇贝单词
-  > Gratitude is not only the greatest of virtues, but the parent of all others.
-  > 感恩不仅是最伟大的美德，而且是所有美德之母。
+  > Once you make a decision, the universe conspires to make it happen.
+  > 一旦你下定决心，整个宇宙都会来帮你实现它。
 
 * 有道词典
-  > There is more day to dawn.
-  > 来日方长。
+  > No need to be anybody but oneself.
+  > 不必成为别人期望的样子，做你自己。
 
 ```
