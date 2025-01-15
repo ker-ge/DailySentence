@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-14已更新 
+2025-01-15已更新 
 ```
 * 金山词霸
-  > Once you choose hope, anything's possible.
-  > 一旦选择了希望，一切皆有可能。
+  > Dare to dream big, begin small, and act right away.
+  > 梦想要大，起步要小，行动要快。
 
 * 扇贝单词
-  > Once you make a decision, the universe conspires to make it happen.
-  > 一旦你下定决心，整个宇宙都会来帮你实现它。
+  > Problems are not stop signs; they are guidelines.
+  > 问题的出现不是让你止步，而是给你指路。
 
 * 有道词典
-  > No need to be anybody but oneself.
-  > 不必成为别人期望的样子，做你自己。
+  > Happiness is not a state, but a process.
+  > 幸福并非一种状态，而是一个过程。
 
 ```
