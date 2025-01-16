@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-15已更新 
+2025-01-16已更新 
 ```
 * 金山词霸
-  > Dare to dream big, begin small, and act right away.
-  > 梦想要大，起步要小，行动要快。
+  > What's within us matters most.
+  > 内心最重要。
 
 * 扇贝单词
-  > Problems are not stop signs; they are guidelines.
-  > 问题的出现不是让你止步，而是给你指路。
+  > We are made wise not by the recollection of our past, but by the responsibility for our future.
+  > 使我们明智的不是对过去的回忆，而是对未来的责任。
 
 * 有道词典
-  > Happiness is not a state, but a process.
-  > 幸福并非一种状态，而是一个过程。
+  > Let everything happen to you.
+  > 接受一切发生。
 
 ```
