@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-16已更新 
+2025-01-17已更新 
 ```
 * 金山词霸
-  > What's within us matters most.
-  > 内心最重要。
+  > Do what you feel in your heart to be right.
+  > 做你内心认为正确的事。
 
 * 扇贝单词
-  > We are made wise not by the recollection of our past, but by the responsibility for our future.
-  > 使我们明智的不是对过去的回忆，而是对未来的责任。
+  > Make the best use of what is in your power, and take the rest as it happens.
+  > 尽全力做到最好，接受接下来会发生的。
 
 * 有道词典
-  > Let everything happen to you.
-  > 接受一切发生。
+  > The future depends on what you do today.
+  > 未来取决于当下的行动。
 
 ```
