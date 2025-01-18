@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-17已更新 
+2025-01-18已更新 
 ```
 * 金山词霸
-  > Do what you feel in your heart to be right.
-  > 做你内心认为正确的事。
+  > We become the most familiar strangers .
+  > 我们变成了世上最熟悉的陌生人。
 
 * 扇贝单词
-  > Make the best use of what is in your power, and take the rest as it happens.
-  > 尽全力做到最好，接受接下来会发生的。
+  > We must be willing to get rid of the life we planned so as to have the life that is waiting for us.
+  > 我们必须放下规划好的人生，才能拥抱正在等待我们的生活。
 
 * 有道词典
-  > The future depends on what you do today.
-  > 未来取决于当下的行动。
+  > Life is a gift. We must celebrate it.
+  > 生活就是一份赠礼。我们要过好每一天。
 
 ```
