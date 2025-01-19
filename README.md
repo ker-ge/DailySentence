@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-18已更新 
+2025-01-19已更新 
 ```
 * 金山词霸
-  > We become the most familiar strangers .
-  > 我们变成了世上最熟悉的陌生人。
+  > Success is being content with yourself and how you achieve it.
+  > 成功是对自己和实现方式感到满意。
 
 * 扇贝单词
-  > We must be willing to get rid of the life we planned so as to have the life that is waiting for us.
-  > 我们必须放下规划好的人生，才能拥抱正在等待我们的生活。
+  > Enjoy when you can, and endure when you must.
+  > 有福享受时，尽情享受；必须承受时，默默忍受。
 
 * 有道词典
-  > Life is a gift. We must celebrate it.
-  > 生活就是一份赠礼。我们要过好每一天。
+  > The trace we trace in the passing of life is more precious than anything else.
+  > 生命中留下的轨迹是最珍贵的东西。
 
 ```
