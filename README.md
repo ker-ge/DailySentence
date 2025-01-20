@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-19已更新 
+2025-01-20已更新 
 ```
 * 金山词霸
-  > Success is being content with yourself and how you achieve it.
-  > 成功是对自己和实现方式感到满意。
+  > Your attitude determines your altitude.
+  > 你的态度决定了你的高度。
 
 * 扇贝单词
-  > Enjoy when you can, and endure when you must.
-  > 有福享受时，尽情享受；必须承受时，默默忍受。
+  > While there's life, there is hope.
+  > 生命不息，希望不止。
 
 * 有道词典
-  > The trace we trace in the passing of life is more precious than anything else.
-  > 生命中留下的轨迹是最珍贵的东西。
+  > I wish I could bottle this moment.
+  > 我想把这美好时刻封存起来。
 
 ```
