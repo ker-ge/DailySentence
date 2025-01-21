@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-20已更新 
+2025-01-21已更新 
 ```
 * 金山词霸
-  > Your attitude determines your altitude.
-  > 你的态度决定了你的高度。
+  > Happiness is in sharing, not owning.
+  > 幸福在分享，不在拥有。
 
 * 扇贝单词
-  > While there's life, there is hope.
-  > 生命不息，希望不止。
+  > Be true to your word and your work and your friend.
+  > 对诺言要信守，对工作要尽责，对朋友要忠诚。
 
 * 有道词典
-  > I wish I could bottle this moment.
-  > 我想把这美好时刻封存起来。
+  > Don't think, just do.
+  > 别瞻前顾后，放手去行动。
 
 ```
