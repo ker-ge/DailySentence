@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-21已更新 
+2025-01-22已更新 
 ```
 * 金山词霸
-  > Happiness is in sharing, not owning.
-  > 幸福在分享，不在拥有。
+  > Hope is a waking dream.
+  > 希望是清醒的梦。
 
 * 扇贝单词
-  > Be true to your word and your work and your friend.
-  > 对诺言要信守，对工作要尽责，对朋友要忠诚。
+  > Success usually comes to those who are too busy to be looking for it.
+  > 成功往往会降临在那些忙得没空寻找它的人身上。
 
 * 有道词典
-  > Don't think, just do.
-  > 别瞻前顾后，放手去行动。
+  > The Spring Festival is just around the corner.
+  > 春节的脚步近了。
 
 ```
