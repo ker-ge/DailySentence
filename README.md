@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-22已更新 
+2025-01-23已更新 
 ```
 * 金山词霸
-  > Hope is a waking dream.
-  > 希望是清醒的梦。
+  > Light tomorrow with today.
+  > 用今天点亮明天。
 
 * 扇贝单词
-  > Success usually comes to those who are too busy to be looking for it.
-  > 成功往往会降临在那些忙得没空寻找它的人身上。
+  > Keep your fears to yourself, but share your courage with others.
+  > 把恐惧留在自己心里，把勇气给大家分享。
 
 * 有道词典
-  > The Spring Festival is just around the corner.
-  > 春节的脚步近了。
+  > I'm not gonna give up. I'm just getting started.
+  > 我不会放弃，一切才刚刚开始。
 
 ```
