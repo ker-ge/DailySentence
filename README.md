@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-23已更新 
+2025-01-24已更新 
 ```
 * 金山词霸
-  > Light tomorrow with today.
-  > 用今天点亮明天。
+  > Don't be pushed by your problems. Be led by your dreams.
+  > 别被问题推着走，要被梦想引导着前进。
 
 * 扇贝单词
-  > Keep your fears to yourself, but share your courage with others.
-  > 把恐惧留在自己心里，把勇气给大家分享。
+  > Live as if you were to die tomorrow. Learn as if you were to live forever.
+  > 珍惜生活，就像死神即将来临；热爱学习，就像生命能够永恒。
 
 * 有道词典
-  > I'm not gonna give up. I'm just getting started.
-  > 我不会放弃，一切才刚刚开始。
+  > All I want is boundless love.
+  > 我所求的唯有无尽的爱。
 
 ```
