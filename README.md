@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-25已更新 
+2025-01-26已更新 
 ```
 * 金山词霸
-  > The heavier with great power comes great responsibility.
-  > 能力越大，责任越重。
+  > You leave, or I go with you.
+  > 你留下，或者我跟你走。——《海角七号》
 
 * 扇贝单词
-  > Never stand begging for that which you have the power to earn.
-  > 自己能挣到的，就别去乞求。
+  > The only source of knowledge is experience.
+  > 经验是知识的唯一来源。
 
 * 有道词典
-  > When you're lost in the darkness, look for the light.
-  > 当你在黑暗中迷失，也要努力去找到有光的路。
+  > Sometimes, rock bottom is your trampoline.
+  > 偶尔绝境之处亦是你腾飞的起点。
 
 ```
