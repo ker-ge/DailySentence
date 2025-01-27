@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-26已更新 
+2025-01-27已更新 
 ```
 * 金山词霸
-  > You leave, or I go with you.
-  > 你留下，或者我跟你走。——《海角七号》
+  > Hard work beats talent when talent fails to work hard.
+  > 当天才不努力时，努力可以击倒天才。
 
 * 扇贝单词
-  > The only source of knowledge is experience.
-  > 经验是知识的唯一来源。
+  > To be mature means to face, and not evade, every fresh crisis that comes.
+  > 成熟意味着去面对任何来临的危机，而不是逃避。
 
 * 有道词典
-  > Sometimes, rock bottom is your trampoline.
-  > 偶尔绝境之处亦是你腾飞的起点。
+  > I'll be there for you.
+  > 我会在你身边。
 
 ```
