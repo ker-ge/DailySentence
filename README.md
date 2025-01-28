@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-27已更新 
+2025-01-28已更新 
 ```
 * 金山词霸
-  > Hard work beats talent when talent fails to work hard.
-  > 当天才不努力时，努力可以击倒天才。
+  > The old year departs with gratitude, and the new one comes with hope.
+  > 旧年怀感恩而去，新年携希望而来。
 
 * 扇贝单词
-  > To be mature means to face, and not evade, every fresh crisis that comes.
-  > 成熟意味着去面对任何来临的危机，而不是逃避。
+  > He who controls others may be powerful, but he who has mastered himself is mightier still.
+  > 胜人者有力，自胜者强。
 
 * 有道词典
-  > I'll be there for you.
-  > 我会在你身边。
+  > Ring in the New Year.
+  > 敲响新年的钟声。
 
 ```
