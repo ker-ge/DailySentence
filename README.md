@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-28已更新 
+2025-01-29已更新 
 ```
 * 金山词霸
-  > The old year departs with gratitude, and the new one comes with hope.
-  > 旧年怀感恩而去，新年携希望而来。
+  > The joy of reunion makes the Spring Festival the happiest time of the year.
+  > 团聚的喜悦让春节成为一年中最幸福的时光。
 
 * 扇贝单词
-  > He who controls others may be powerful, but he who has mastered himself is mightier still.
-  > 胜人者有力，自胜者强。
+  > Never promise more than you can perform.
+  > 不要许下你无法兑现的承诺。
 
 * 有道词典
-  > Ring in the New Year.
-  > 敲响新年的钟声。
+  > New year. New chapter.
+  > 新的一年，新的篇章。
 
 ```
