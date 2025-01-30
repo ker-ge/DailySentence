@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-29已更新 
+2025-01-30已更新 
 ```
 * 金山词霸
-  > The joy of reunion makes the Spring Festival the happiest time of the year.
-  > 团聚的喜悦让春节成为一年中最幸福的时光。
+  > Reading is to the mind what exercise is to the body.
+  > 阅读之于心灵，犹如运动之于身体。
 
 * 扇贝单词
-  > Never promise more than you can perform.
-  > 不要许下你无法兑现的承诺。
+  > Judge a man by his questions rather than his answers.
+  > 评判一个人的依据是他所提的问题，而非他给出的答案。
 
 * 有道词典
-  > New year. New chapter.
-  > 新的一年，新的篇章。
+  > Be the miracle.
+  > 去成为奇迹吧。
 
 ```
