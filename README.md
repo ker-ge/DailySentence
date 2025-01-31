@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-30已更新 
+2025-01-31已更新 
 ```
 * 金山词霸
-  > Reading is to the mind what exercise is to the body.
-  > 阅读之于心灵，犹如运动之于身体。
+  > The way to get started is to quit talking and begin doing. 
+  > 一切的起头就是不要只会说而是开始做。
 
 * 扇贝单词
-  > Judge a man by his questions rather than his answers.
-  > 评判一个人的依据是他所提的问题，而非他给出的答案。
+  > When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+  > 当一切于你皆不利时，请记住，飞机也是逆风起飞的。
 
 * 有道词典
-  > Be the miracle.
-  > 去成为奇迹吧。
+  > Only the thought that we put into life is valuable.
+  > 只有我们投入到生活中的思考才是有价值的。
 
 ```
