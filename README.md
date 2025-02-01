@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-01-31已更新 
+2025-02-01已更新 
 ```
 * 金山词霸
-  > The way to get started is to quit talking and begin doing. 
-  > 一切的起头就是不要只会说而是开始做。
+  > Happiness is not having what you want. It is wanting what you have.
+  > 幸福不是拥有你想要的，而是珍惜你拥有的。
 
 * 扇贝单词
-  > When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
-  > 当一切于你皆不利时，请记住，飞机也是逆风起飞的。
+  > Nothing happens until something moves.
+  > 无为必将无获。
 
 * 有道词典
-  > Only the thought that we put into life is valuable.
-  > 只有我们投入到生活中的思考才是有价值的。
+  > If you want something in life, reach out and grab it.
+  > 如果你想要什么，就勇敢去争取，去把握。
 
 ```
