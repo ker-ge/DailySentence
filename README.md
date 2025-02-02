@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-01已更新 
+2025-02-02已更新 
 ```
 * 金山词霸
-  > Happiness is not having what you want. It is wanting what you have.
-  > 幸福不是拥有你想要的，而是珍惜你拥有的。
+  > Time is what we want most, but what we use worst.
+  > 时间是我们最需要却最浪费的东西。
 
 * 扇贝单词
-  > Nothing happens until something moves.
-  > 无为必将无获。
+  > The wisest mind has something yet to learn.
+  > 就算最聪明的头脑也需要学习。
 
 * 有道词典
-  > If you want something in life, reach out and grab it.
-  > 如果你想要什么，就勇敢去争取，去把握。
+  > Never let anything stop you from chasing your dream.
+  > 不要让任何事阻碍你追逐梦想。
 
 ```
