@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-02已更新 
+2025-02-03已更新 
 ```
 * 金山词霸
-  > Time is what we want most, but what we use worst.
-  > 时间是我们最需要却最浪费的东西。
+  > In spring, every leaf is a flower in the making.
+  > 在春天，每片叶子都是未来的花朵。
 
 * 扇贝单词
-  > The wisest mind has something yet to learn.
-  > 就算最聪明的头脑也需要学习。
+  > Things do not change. We change.
+  > 万物并没有改变，变的是我们。
 
 * 有道词典
-  > Never let anything stop you from chasing your dream.
-  > 不要让任何事阻碍你追逐梦想。
+  > Spring stimulates renewal and rebirth after a long winter's nap.
+  > 历经冬日的蛰伏，春日万象更新。
 
 ```
