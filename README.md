@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-03已更新 
+2025-02-04已更新 
 ```
 * 金山词霸
-  > In spring, every leaf is a flower in the making.
-  > 在春天，每片叶子都是未来的花朵。
+  > Small steps every day lead to big results.
+  > 每天迈出小步，终将收获大成果。
 
 * 扇贝单词
-  > Things do not change. We change.
-  > 万物并没有改变，变的是我们。
+  > All life is an experiment. The more experiments you make the better.
+  > 生活就是实验，实验的次数越多你就做得越好。
 
 * 有道词典
-  > Spring stimulates renewal and rebirth after a long winter's nap.
-  > 历经冬日的蛰伏，春日万象更新。
+  > To be a sailor of the world, bound for all ports.
+  > 做世界的水手，奔赴所有的港口。
 
 ```
