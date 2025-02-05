@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-04已更新 
+2025-02-05已更新 
 ```
 * 金山词霸
-  > Small steps every day lead to big results.
-  > 每天迈出小步，终将收获大成果。
+  > Great things never come from comfort zones.
+  > 伟大的成就从未源于舒适区。
 
 * 扇贝单词
-  > All life is an experiment. The more experiments you make the better.
-  > 生活就是实验，实验的次数越多你就做得越好。
+  > Life doesn't get easier or more forgiving; we get stronger and more resilient.
+  > 生活从未变得更加轻松或宽容，是我们在一点一点变强、变坚韧。
 
 * 有道词典
-  > To be a sailor of the world, bound for all ports.
-  > 做世界的水手，奔赴所有的港口。
+  > Fight for what matters to you.
+  > 为你珍视的事物而奋斗。
 
 ```
