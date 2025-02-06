@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-05已更新 
+2025-02-06已更新 
 ```
 * 金山词霸
-  > Great things never come from comfort zones.
-  > 伟大的成就从未源于舒适区。
+  > The shortest answer is doing the thing.
+  > 行动是最直接的回应。
 
 * 扇贝单词
-  > Life doesn't get easier or more forgiving; we get stronger and more resilient.
-  > 生活从未变得更加轻松或宽容，是我们在一点一点变强、变坚韧。
+  > You will never be able to escape from your heart. So it's better to listen to what it has to say.
+  > 既然无法逃避自己的心，不如就好好地听听它在说些什么。
 
 * 有道词典
-  > Fight for what matters to you.
-  > 为你珍视的事物而奋斗。
+  > I could push myself and make my life good.
+  > 用力推自己一把，创造更好的生活。
 
 ```
