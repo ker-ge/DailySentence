@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-06已更新 
+2025-02-07已更新 
 ```
 * 金山词霸
-  > The shortest answer is doing the thing.
-  > 行动是最直接的回应。
+  > Nothing will work unless you do.
+  > 除非你去做，否则什么都不会发生。
 
 * 扇贝单词
-  > You will never be able to escape from your heart. So it's better to listen to what it has to say.
-  > 既然无法逃避自己的心，不如就好好地听听它在说些什么。
+  > The best way out is always through.
+  > 找到出口的最好方式就是一路走到底。
 
 * 有道词典
-  > I could push myself and make my life good.
-  > 用力推自己一把，创造更好的生活。
+  > Nothing that's worthwhile is ever easy.
+  > 真正的有价值之事，并非一蹴而就的。
 
 ```
