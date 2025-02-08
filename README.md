@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-07已更新 
+2025-02-08已更新 
 ```
 * 金山词霸
-  > Nothing will work unless you do.
-  > 除非你去做，否则什么都不会发生。
+  > Years fly by, but the heart stays in the same place.
+  > 时光飞逝，但我心依旧。
 
 * 扇贝单词
-  > The best way out is always through.
-  > 找到出口的最好方式就是一路走到底。
+  > Ideas shape the course of history.
+  > 想法影响着历史进程。
 
 * 有道词典
-  > Nothing that's worthwhile is ever easy.
-  > 真正的有价值之事，并非一蹴而就的。
+  > Don't lie to yourself.
+  > 对自己坦诚。
 
 ```
