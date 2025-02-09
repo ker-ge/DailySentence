@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-08已更新 
+2025-02-09已更新 
 ```
 * 金山词霸
-  > Years fly by, but the heart stays in the same place.
-  > 时光飞逝，但我心依旧。
+  > Celebrate the new year together, welcoming and bidding farewell within one night.
+  > 共欢新故岁，迎送一宵中。——李世民《守岁》
 
 * 扇贝单词
-  > Ideas shape the course of history.
-  > 想法影响着历史进程。
+  > It's supposed to be hard. If it wasn't hard, everyone would do it.
+  > 要做成一件事情本来就不容易，要是不难，岂不是谁都会去做？
 
 * 有道词典
-  > Don't lie to yourself.
-  > 对自己坦诚。
+  > I take to the open road, the world before me leading wherever I choose.
+  > 我踏上这坦途，世界在我前方，指向我想去的任何地方。
 
 ```
