@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-09已更新 
+2025-02-10已更新 
 ```
 * 金山词霸
-  > Celebrate the new year together, welcoming and bidding farewell within one night.
-  > 共欢新故岁，迎送一宵中。——李世民《守岁》
+  > Best wishes for the holidays and happiness throughout the New Year.
+  > 恭贺新禧，万事如意。
 
 * 扇贝单词
-  > It's supposed to be hard. If it wasn't hard, everyone would do it.
-  > 要做成一件事情本来就不容易，要是不难，岂不是谁都会去做？
+  > Give light and people will find the way.
+  > 给予光亮，人们就能找到前方的路。
 
 * 有道词典
-  > I take to the open road, the world before me leading wherever I choose.
-  > 我踏上这坦途，世界在我前方，指向我想去的任何地方。
+  > Tragedy and delight, hand in hand.
+  > 欢乐与悲伤，相伴而行。
 
 ```
