@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-10已更新 
+2025-02-11已更新 
 ```
 * 金山词霸
-  > Best wishes for the holidays and happiness throughout the New Year.
-  > 恭贺新禧，万事如意。
+  > Home is where the heart is.
+  > 此心安处是吾乡。
 
 * 扇贝单词
-  > Give light and people will find the way.
-  > 给予光亮，人们就能找到前方的路。
+  > All your lights are red, but I'm green to go.
+  > 你哪怕示以红灯拒我前行，我也会心向绿灯一刻不停。
 
 * 有道词典
-  > Tragedy and delight, hand in hand.
-  > 欢乐与悲伤，相伴而行。
+  > We never lack friends with a warm heart.
+  > 我们身边从不缺暖心的朋友。
 
 ```
