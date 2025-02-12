@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-11已更新 
+2025-02-12已更新 
 ```
 * 金山词霸
-  > Home is where the heart is.
-  > 此心安处是吾乡。
+  > All things in their being are good for something.
+  > 天生我材必有用。
 
 * 扇贝单词
-  > All your lights are red, but I'm green to go.
-  > 你哪怕示以红灯拒我前行，我也会心向绿灯一刻不停。
+  > Do not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.
+  > 不要流连于采集花朵，只管向前走，一路上自会有百花盛开。
 
 * 有道词典
-  > We never lack friends with a warm heart.
-  > 我们身边从不缺暖心的朋友。
+  > Lanterns shine brightly on the Lantern Festival, bringing warmth and joy to all.
+  > 元宵节灯笼闪耀，给所有人带来温暖与欢乐。
 
 ```
