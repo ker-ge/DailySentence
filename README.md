@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-12已更新 
+2025-02-13已更新 
 ```
 * 金山词霸
-  > All things in their being are good for something.
-  > 天生我材必有用。
+  > Courage is like a muscle; it is strengthened by use.
+  > 勇气就像肌肉，用得越多越强壮。
 
 * 扇贝单词
-  > Do not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.
-  > 不要流连于采集花朵，只管向前走，一路上自会有百花盛开。
+  > People grow through experience if they meet life honestly and courageously.
+  > 如果人诚实、勇敢地面对生活，就能从经历中获得成长。
 
 * 有道词典
-  > Lanterns shine brightly on the Lantern Festival, bringing warmth and joy to all.
-  > 元宵节灯笼闪耀，给所有人带来温暖与欢乐。
+  > Courage is the ladder on which all the other virtues mount.
+  > 勇气是所有美好品格的阶梯。
 
 ```
