@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-13已更新 
+2025-02-14已更新 
 ```
 * 金山词霸
-  > Courage is like a muscle; it is strengthened by use.
-  > 勇气就像肌肉，用得越多越强壮。
+  > Love is the bridge between you and everything.
+  > 爱是你与一切之间的桥梁。
 
 * 扇贝单词
-  > People grow through experience if they meet life honestly and courageously.
-  > 如果人诚实、勇敢地面对生活，就能从经历中获得成长。
+  > I have crossed oceans of time to find you.
+  > 我跨越了时间的瀚海来把你寻找。
 
 * 有道词典
-  > Courage is the ladder on which all the other virtues mount.
-  > 勇气是所有美好品格的阶梯。
+  > We are most alive when we're in love.
+  > 当我们沐浴在爱中，生命才最为鲜活。
 
 ```
