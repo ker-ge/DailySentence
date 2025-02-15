@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-14已更新 
+2025-02-15已更新 
 ```
 * 金山词霸
-  > Love is the bridge between you and everything.
-  > 爱是你与一切之间的桥梁。
+  > I would rather die of passion than of boredom. 
+  > 我宁愿死于激情也不愿死于无聊。
 
 * 扇贝单词
-  > I have crossed oceans of time to find you.
-  > 我跨越了时间的瀚海来把你寻找。
+  > You can't sweep other people off their feet, if you can't be swept off your own.
+  > 如果你自己都不欣赏自己，别人也不会为你倾倒。
 
 * 有道词典
-  > We are most alive when we're in love.
-  > 当我们沐浴在爱中，生命才最为鲜活。
+  > I want a big life.
+  > 我想要过精彩的人生。
 
 ```
