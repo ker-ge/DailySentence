@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-15已更新 
+2025-02-16已更新 
 ```
 * 金山词霸
-  > I would rather die of passion than of boredom. 
-  > 我宁愿死于激情也不愿死于无聊。
+  > Dreaming, after all, is a form of planning.
+  > 梦想，就是一种计划形式。
 
 * 扇贝单词
-  > You can't sweep other people off their feet, if you can't be swept off your own.
-  > 如果你自己都不欣赏自己，别人也不会为你倾倒。
+  > Not having the best situation, but seeing the best in your situation is the key to happiness.
+  > 快乐的关键在于，即便境遇不是最佳，但依然能看到处境中最好的一面。
 
 * 有道词典
-  > I want a big life.
-  > 我想要过精彩的人生。
+  > Travel far enough. You meet yourself.
+  > 走过更远的路，方能遇见更真实的自己。
 
 ```
