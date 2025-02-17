@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-16已更新 
+2025-02-17已更新 
 ```
 * 金山词霸
-  > Dreaming, after all, is a form of planning.
-  > 梦想，就是一种计划形式。
+  > Learn from yesterday, live for today, hope for tomorrow.
+  > 从昨天学习，为今天而活，对明天充满希望。
 
 * 扇贝单词
-  > Not having the best situation, but seeing the best in your situation is the key to happiness.
-  > 快乐的关键在于，即便境遇不是最佳，但依然能看到处境中最好的一面。
+  > Never does nature say one thing and wisdom another.
+  > 自然与智慧永不相悖。
 
 * 有道词典
-  > Travel far enough. You meet yourself.
-  > 走过更远的路，方能遇见更真实的自己。
+  > All endings are also beginnings.
+  > 所有的结局亦是新的开始。
 
 ```
