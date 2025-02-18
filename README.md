@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-17已更新 
+2025-02-18已更新 
 ```
 * 金山词霸
-  > Learn from yesterday, live for today, hope for tomorrow.
-  > 从昨天学习，为今天而活，对明天充满希望。
+  > Dreams don't work unless you do.
+  > 梦想不会自己成真，除非你努力去实现。
 
 * 扇贝单词
-  > Never does nature say one thing and wisdom another.
-  > 自然与智慧永不相悖。
+  > Why are you trying so hard to fit in when you are born to stand out？
+  > 你本就生而不凡，为何还要拼命去融入大众呢？
 
 * 有道词典
-  > All endings are also beginnings.
-  > 所有的结局亦是新的开始。
+  > To define is to limit.
+  > 定义即设限。
 
 ```
