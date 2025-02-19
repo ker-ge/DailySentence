@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-18已更新 
+2025-02-19已更新 
 ```
 * 金山词霸
-  > Dreams don't work unless you do.
-  > 梦想不会自己成真，除非你努力去实现。
+  > The best time to plant a tree was 10 years ago. The second best time is now.
+  > 最好的种树时间是10年前，其次是现在。
 
 * 扇贝单词
-  > Why are you trying so hard to fit in when you are born to stand out？
-  > 你本就生而不凡，为何还要拼命去融入大众呢？
+  > Do you know that there's still a chance for you？Cause there's a spark in you.
+  > 你知道吗？你还有机会，因为你心中藏有火花。
 
 * 有道词典
-  > To define is to limit.
-  > 定义即设限。
+  > The only limits for tomorrow are the doubts we have today.
+  > 明日的唯一桎梏，就是我们当下的顾虑。
 
 ```
