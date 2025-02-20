@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-19已更新 
+2025-02-20已更新 
 ```
 * 金山词霸
-  > The best time to plant a tree was 10 years ago. The second best time is now.
-  > 最好的种树时间是10年前，其次是现在。
+  > No pressure, no diamonds.
+  > 没有压力，就没有钻石。
 
 * 扇贝单词
-  > Do you know that there's still a chance for you？Cause there's a spark in you.
-  > 你知道吗？你还有机会，因为你心中藏有火花。
+  > It is by acts and not by ideas that people live.
+  > 人依靠行动而活，而非想法。
 
 * 有道词典
-  > The only limits for tomorrow are the doubts we have today.
-  > 明日的唯一桎梏，就是我们当下的顾虑。
+  > A mind needs books as a sword needs a whetstone.
+  > 读书养智，磨剑生锋。
 
 ```
