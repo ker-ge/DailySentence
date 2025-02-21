@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-20已更新 
+2025-02-21已更新 
 ```
 * 金山词霸
-  > No pressure, no diamonds.
-  > 没有压力，就没有钻石。
+  > Your only limit is your mind.
+  > 唯一的限制是你的心态。
 
 * 扇贝单词
-  > It is by acts and not by ideas that people live.
-  > 人依靠行动而活，而非想法。
+  > Even the darkest night will end, and the sun will rise.
+  > 即使再黑暗的夜也会走到尽头，旭日终将升起。
 
 * 有道词典
-  > A mind needs books as a sword needs a whetstone.
-  > 读书养智，磨剑生锋。
+  > The greatest happiness of life is the conviction that we are loved.
+  > 深信被爱，方得人生极悦。
 
 ```
