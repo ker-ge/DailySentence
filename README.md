@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-21已更新 
+2025-02-22已更新 
 ```
 * 金山词霸
-  > Your only limit is your mind.
-  > 唯一的限制是你的心态。
+  > Each day brings a new beginning.
+  > 每天都是一个新开始。
 
 * 扇贝单词
-  > Even the darkest night will end, and the sun will rise.
-  > 即使再黑暗的夜也会走到尽头，旭日终将升起。
+  > Feel the fear and do it anyway.
+  > 感受恐惧，放胆去做。
 
 * 有道词典
-  > The greatest happiness of life is the conviction that we are loved.
-  > 深信被爱，方得人生极悦。
+  > I am the master of my fate.
+  > 我命由我不由天。
 
 ```
