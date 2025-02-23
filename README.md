@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-22已更新 
+2025-02-23已更新 
 ```
 * 金山词霸
-  > Each day brings a new beginning.
-  > 每天都是一个新开始。
+  > Love is what makes life worth living.
+  > 爱，让生命有了意义。
 
 * 扇贝单词
-  > Feel the fear and do it anyway.
-  > 感受恐惧，放胆去做。
+  > Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end.
+  > 记住没有小善之举这回事，每一次善行都会激起无穷尽的连锁反应。
 
 * 有道词典
-  > I am the master of my fate.
-  > 我命由我不由天。
+  > You've got to do what's right for you.
+  > 从心择路，方得始终。
 
 ```
