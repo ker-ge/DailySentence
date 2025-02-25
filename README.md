@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-24已更新 
+2025-02-25已更新 
 ```
 * 金山词霸
-  > Happiness is homemade.
-  > 幸福是自己创造的。
+  > Success is no accident.
+  > 成功不是偶然的。
 
 * 扇贝单词
-  > Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
-  > 人生匆匆，如果不时常停下脚步四处瞧瞧，你可能就会错过它。
+  > You don't have to bend until you break. You just have to get up.
+  > 你不必一味屈服，让自己受伤，你只需打起精神做自己。
 
 * 有道词典
-  > Go confidently in the direction of your dreams.
-  > 自信地朝着你的梦想前进。
+  > If you don't step forward, you're always in the same place.
+  > 原地踏步，终难破局。
 
 ```
