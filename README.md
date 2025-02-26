@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-25已更新 
+2025-02-26已更新 
 ```
 * 金山词霸
-  > Success is no accident.
-  > 成功不是偶然的。
+  > What we achieve inwardly will change outer reality.
+  > 我们内在的成就会改变外在的现实。
 
 * 扇贝单词
-  > You don't have to bend until you break. You just have to get up.
-  > 你不必一味屈服，让自己受伤，你只需打起精神做自己。
+  > We live in the world when we love it.
+  > 我们只有热爱这个世界，才算真正地活着。
 
 * 有道词典
-  > If you don't step forward, you're always in the same place.
-  > 原地踏步，终难破局。
+  > The core of man's spirit comes from new experiences.
+  > 灵魄之核，生于未历之境。
 
 ```
