@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-26已更新 
+2025-02-27已更新 
 ```
 * 金山词霸
-  > What we achieve inwardly will change outer reality.
-  > 我们内在的成就会改变外在的现实。
+  > Happiness is a direction, not a place.
+  > 幸福是一种方向，而不是一个地方。
 
 * 扇贝单词
-  > We live in the world when we love it.
-  > 我们只有热爱这个世界，才算真正地活着。
+  > Catch the moments of your life. Catch them while you're young and quick.
+  > 趁你还年轻利落，把握住生命中的每一个瞬间吧。
 
 * 有道词典
-  > The core of man's spirit comes from new experiences.
-  > 灵魄之核，生于未历之境。
+  > Hope is the oxygen of the soul.
+  > 希望若存，灵魄不息。
 
 ```
