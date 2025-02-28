@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-27已更新 
+2025-02-28已更新 
 ```
 * 金山词霸
-  > Happiness is a direction, not a place.
-  > 幸福是一种方向，而不是一个地方。
+  > Strength grows in the moments when you think you can’t go on but keep going anyway.
+  > 力量来自于你觉得撑不下去却依然坚持的时刻。
 
 * 扇贝单词
-  > Catch the moments of your life. Catch them while you're young and quick.
-  > 趁你还年轻利落，把握住生命中的每一个瞬间吧。
+  > Only one thing can make a soul complete, and that thing is love.
+  > 只有一样东西可以让灵魂完整，那就是爱。
 
 * 有道词典
-  > Hope is the oxygen of the soul.
-  > 希望若存，灵魄不息。
+  > To be soft is to be unbreakable.
+  > 以柔克刚，方为至坚。
 
 ```
