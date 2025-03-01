@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-02-28已更新 
+2025-03-01已更新 
 ```
 * 金山词霸
-  > Strength grows in the moments when you think you can’t go on but keep going anyway.
-  > 力量来自于你觉得撑不下去却依然坚持的时刻。
+  > A merry heart goes all the way. 
+  > 心旷神怡，事事顺利。 
 
 * 扇贝单词
-  > Only one thing can make a soul complete, and that thing is love.
-  > 只有一样东西可以让灵魂完整，那就是爱。
+  > In any given moment we have two options: to step forward into growth or to step back into safety.
+  > 任何时刻我们都有两个选择：往前走向成长，或退后走向安全。
 
 * 有道词典
-  > To be soft is to be unbreakable.
-  > 以柔克刚，方为至坚。
+  > The greatest stories are lived, not told.
+  > 人生史诗，行胜于言。
 
 ```
