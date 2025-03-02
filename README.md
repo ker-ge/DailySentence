@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-01已更新 
+2025-03-02已更新 
 ```
 * 金山词霸
-  > A merry heart goes all the way. 
-  > 心旷神怡，事事顺利。 
+  > When life gets you down, just keep moving.
+  > 当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
 
 * 扇贝单词
-  > In any given moment we have two options: to step forward into growth or to step back into safety.
-  > 任何时刻我们都有两个选择：往前走向成长，或退后走向安全。
+  > Life is a collection of moments. The idea is to have as many good ones as you can.
+  > 生命由一个个瞬间组成，宗旨就是尽可能多地拥抱美好瞬间。
 
 * 有道词典
-  > The greatest stories are lived, not told.
-  > 人生史诗，行胜于言。
+  > Be curious, not judgmental.
+  > 保持好奇，莫妄评判。
 
 ```
