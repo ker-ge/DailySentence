@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-02已更新 
+2025-03-03已更新 
 ```
 * 金山词霸
-  > When life gets you down, just keep moving.
-  > 当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
+  > The only way to fail is not to try.
+  > 失败的唯一方式是不去尝试。
 
 * 扇贝单词
-  > Life is a collection of moments. The idea is to have as many good ones as you can.
-  > 生命由一个个瞬间组成，宗旨就是尽可能多地拥抱美好瞬间。
+  > Don't let other people get in the way of what you really want.
+  > 不要让别人妨碍你追求你真正想要的。
 
 * 有道词典
-  > Be curious, not judgmental.
-  > 保持好奇，莫妄评判。
+  > We contain multitudes.
+  > 内在自有天地宽。
 
 ```
