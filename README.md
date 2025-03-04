@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-03已更新 
+2025-03-04已更新 
 ```
 * 金山词霸
-  > The only way to fail is not to try.
-  > 失败的唯一方式是不去尝试。
+  > Success depends on effort, not just desire.
+  > 成功源于努力，而非渴望。
 
 * 扇贝单词
-  > Don't let other people get in the way of what you really want.
-  > 不要让别人妨碍你追求你真正想要的。
+  > It's been my experience that you can nearly always enjoy something if you make up your mind firmly that you will.
+  > 我的经验是，事情只要下定决心去享受，就基本都能享受。
 
 * 有道词典
-  > We contain multitudes.
-  > 内在自有天地宽。
+  > The greatest rebellion is choosing joy in a world that sells despair.
+  > 世界兜售痛苦时，快乐即是抗争。
 
 ```
