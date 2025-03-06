@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-05已更新 
+2025-03-06已更新 
 ```
 * 金山词霸
-  > The more that you read, the more things you will know.
-  > 你读的书越多，你知道的事就越多。
+  > Don’t wait for opportunity. Create it.
+  > 不要等待机会，创造机会。
 
 * 扇贝单词
-  > When I am with you, there's no place I'd rather be.
-  > 只要有你相伴，便无他处可比拟。
+  > May your past be the sound of your feet upon the ground. Carry on.
+  > 愿你的过去只是你前进步伐所踏出的声响，继续前行吧。
 
 * 有道词典
-  > The only way to make sense out of change is to plunge into it.
-  > 接受变化，才能领悟其意义。
+  > Tomorrow is a song we haven't heard yet.
+  > 未来是待谱的乐章。
 
 ```
