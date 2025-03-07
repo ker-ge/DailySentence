@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-06已更新 
+2025-03-07已更新 
 ```
 * 金山词霸
-  > Don’t wait for opportunity. Create it.
-  > 不要等待机会，创造机会。
+  > Greatness comes from small, consistent efforts, not impulse.
+  > 伟大源于微小坚持，而非冲动。
 
 * 扇贝单词
-  > May your past be the sound of your feet upon the ground. Carry on.
-  > 愿你的过去只是你前进步伐所踏出的声响，继续前行吧。
+  > If you believe in yourself enough and know what you want, you're gonna make it happen.
+  > 如果你足够自信，也知道自己想要什么，就一定会实现心中所想。
 
 * 有道词典
-  > Tomorrow is a song we haven't heard yet.
-  > 未来是待谱的乐章。
+  > I get a job to do.
+  > 我有任务在身。
 
 ```
