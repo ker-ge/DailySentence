@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-07已更新 
+2025-03-08已更新 
 ```
 * 金山词霸
-  > Greatness comes from small, consistent efforts, not impulse.
-  > 伟大源于微小坚持，而非冲动。
+  > You are beautiful just as you are.
+  > 你本来就很美。
 
 * 扇贝单词
-  > If you believe in yourself enough and know what you want, you're gonna make it happen.
-  > 如果你足够自信，也知道自己想要什么，就一定会实现心中所想。
+  > When you finally go back to your old hometown, you find it wasn't the old home you missed but your childhood.
+  > 当你终于重归故里，你会发现自己思念的，不是故乡，而是童年。
 
 * 有道词典
-  > I get a job to do.
-  > 我有任务在身。
+  > Every woman's story deserves to be heard.
+  > 每位女性的故事都值得被倾听。
 
 ```
