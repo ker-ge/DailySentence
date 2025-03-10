@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-09已更新 
+2025-03-10已更新 
 ```
 * 金山词霸
-  > Don't be afraid to be yourself. Follow your own path.
-  > 不要害怕做与众不同的自己，走自己的路。
+  > Do not wait to strike till the iron is hot, but make it hot by striking.
+  > 不要等到铁烫热再去打它，而是通过打它让铁变热。
 
 * 扇贝单词
-  > Sometimes a problem is just an opportunity in disguise.
-  > 有时候问题不过是伪装起来的机会。
+  > Life is short; the world is wide, and I want to make some memories.
+  > 生命短暂，世界广阔，我想制造些回忆。
 
 * 有道词典
-  > The only way to grow is to embrace discomfort.
-  > 唯有直面不适，方能破茧成蝶。
+  > Kindness costs nothing but means everything.
+  > 善良无价但意义非凡。
 
 ```
