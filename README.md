@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-10已更新 
+2025-03-11已更新 
 ```
 * 金山词霸
-  > Do not wait to strike till the iron is hot, but make it hot by striking.
-  > 不要等到铁烫热再去打它，而是通过打它让铁变热。
+  > Hard work magnifies achievement’s joy.
+  > 越努力，成就感越强。
 
 * 扇贝单词
-  > Life is short; the world is wide, and I want to make some memories.
-  > 生命短暂，世界广阔，我想制造些回忆。
+  > Whatever happens tomorrow, we've had today.
+  > 不管明天会发生什么，至少我们拥有今天。
 
 * 有道词典
-  > Kindness costs nothing but means everything.
-  > 善良无价但意义非凡。
+  > The strongest trees grow in stormy winds.
+  > 疾风知劲木，烈火见真金。
 
 ```
