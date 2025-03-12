@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-11已更新 
+2025-03-12已更新 
 ```
 * 金山词霸
-  > Hard work magnifies achievement’s joy.
-  > 越努力，成就感越强。
+  > Don’t wish for it. Work for it.
+  > 不要仅仅希望它，去为它努力。
 
 * 扇贝单词
-  > Whatever happens tomorrow, we've had today.
-  > 不管明天会发生什么，至少我们拥有今天。
+  > How are you to imagine anything if the images are always provided for you?
+  > 如果你能想到的东西都在眼前，你的思维又如何插上想象的翅膀呢？
 
 * 有道词典
-  > The strongest trees grow in stormy winds.
-  > 疾风知劲木，烈火见真金。
+  > The best way to predict the future is to create it.
+  > 以行动书写未来。
 
 ```
