@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-12已更新 
+2025-03-13已更新 
 ```
 * 金山词霸
-  > Don’t wish for it. Work for it.
-  > 不要仅仅希望它，去为它努力。
+  > Challenges spark life; conquering them gives purpose.
+  > 挑战点亮生活，征服赋予意义。
 
 * 扇贝单词
-  > How are you to imagine anything if the images are always provided for you?
-  > 如果你能想到的东西都在眼前，你的思维又如何插上想象的翅膀呢？
+  > It's strange. I felt less lonely when I didn't know you.
+  > 真是奇怪。在认识你之前，我没有感到过如此孤单。
 
 * 有道词典
-  > The best way to predict the future is to create it.
-  > 以行动书写未来。
+  > The only thing you can do is be the best version of yourself.
+  > 你唯一能做的，就是成为最好的自己。
 
 ```
