@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-13已更新 
+2025-03-14已更新 
 ```
 * 金山词霸
-  > Challenges spark life; conquering them gives purpose.
-  > 挑战点亮生活，征服赋予意义。
+  > True success inspires others to act.
+  > 真正的成功是激励他人行动。
 
 * 扇贝单词
-  > It's strange. I felt less lonely when I didn't know you.
-  > 真是奇怪。在认识你之前，我没有感到过如此孤单。
+  > Selfishness is not living as one wishes to live. It is asking others to live as one wishes to live.
+  > 过自己想要的生活不是自私，要求别人按自己的意愿生活才是。
 
 * 有道词典
-  > The only thing you can do is be the best version of yourself.
-  > 你唯一能做的，就是成为最好的自己。
+  > You don't need to see the whole staircase, just take the first step.
+  > 启程无需答案，行动自有方向。
 
 ```
