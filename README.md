@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-14已更新 
+2025-03-15已更新 
 ```
 * 金山词霸
-  > True success inspires others to act.
-  > 真正的成功是激励他人行动。
+  > To be a happy man.
+  > 做一个幸福的人。
 
 * 扇贝单词
-  > Selfishness is not living as one wishes to live. It is asking others to live as one wishes to live.
-  > 过自己想要的生活不是自私，要求别人按自己的意愿生活才是。
+  > If you don't go after what you want, you'll never have it.
+  > 不去追逐你所渴求的，你就永远也无法拥有它。
 
 * 有道词典
-  > You don't need to see the whole staircase, just take the first step.
-  > 启程无需答案，行动自有方向。
+  > Don't wait. The time will never be just right.
+  > 别等待，永远没有完美时机。
 
 ```
