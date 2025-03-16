@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-15已更新 
+2025-03-16已更新 
 ```
 * 金山词霸
-  > To be a happy man.
-  > 做一个幸福的人。
+  > Care and diligence bring luck.
+  > 谨慎和勤奋，带来好运气。
 
 * 扇贝单词
-  > If you don't go after what you want, you'll never have it.
-  > 不去追逐你所渴求的，你就永远也无法拥有它。
+  > Where we love is home, home that our feet may leave, but not our hearts.
+  > 家，是爱之所在。也许我们脚步渐远，但心从未离开。
 
 * 有道词典
-  > Don't wait. The time will never be just right.
-  > 别等待，永远没有完美时机。
+  > You are never too old to set another goal or to dream a new dream.
+  > 人生何时都能启新程，逐新梦。
 
 ```
