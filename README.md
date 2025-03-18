@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-17已更新 
+2025-03-18已更新 
 ```
 * 金山词霸
-  > The key to success is to focus on goals, not obstacles.
-  > 成功的关键是专注于目标，而非障碍。
+  > Don't limit your challenges. Challenge your limits.
+  > 不要限制你的挑战，挑战你的极限。
 
 * 扇贝单词
-  > It is not the destination so much as the journey, they say.
-  > 人们说，旅行的目的地不如旅程来得重要。
+  > Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
+  > 毋庸置疑，生活赋予的最好礼物就是有机会努力去做值得做的事情。
 
 * 有道词典
-  > The world is full of magic things, patiently waiting for our senses to grow sharper.
-  > 世间万千奇迹，静候你我洞见。
+  > To love oneself is the beginning of a lifelong romance.
+  > 爱自己是终身浪漫的开始。
 
 ```
