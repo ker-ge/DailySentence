@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-18已更新 
+2025-03-19已更新 
 ```
 * 金山词霸
-  > Don't limit your challenges. Challenge your limits.
-  > 不要限制你的挑战，挑战你的极限。
+  > The only place where success comes before work is in the dictionary.
+  > 只有在字典里，成功才排在工作之前。
 
 * 扇贝单词
-  > Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
-  > 毋庸置疑，生活赋予的最好礼物就是有机会努力去做值得做的事情。
+  > Good teachers, they inspire you, they entertain you, and you end up learning a ton even when you don't know it.
+  > 好的老师会激励你，给你带来欢乐，悄然无声地教会你很多东西。
 
 * 有道词典
-  > To love oneself is the beginning of a lifelong romance.
-  > 爱自己是终身浪漫的开始。
+  > Unrestricted AI, easy-going YOGA.
+  > 随心AI，自在YOGA。
 
 ```
