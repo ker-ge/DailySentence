@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-19已更新 
+2025-03-20已更新 
 ```
 * 金山词霸
-  > The only place where success comes before work is in the dictionary.
-  > 只有在字典里，成功才排在工作之前。
+  > Spring will come and so will happiness.
+  > 春天会到来，幸福也会随之而来。
 
 * 扇贝单词
-  > Good teachers, they inspire you, they entertain you, and you end up learning a ton even when you don't know it.
-  > 好的老师会激励你，给你带来欢乐，悄然无声地教会你很多东西。
+  > Keep your head up in failure, and your head down in success.
+  > 失败时，要高昂起头；成功时，要保持谦逊。
 
 * 有道词典
-  > Unrestricted AI, easy-going YOGA.
-  > 随心AI，自在YOGA。
+  > Spring awakens pink blossoms as raindrops kiss fresh green grass.
+  > 春日唤醒粉红花朵，雨滴亲吻新绿的青草。
 
 ```
