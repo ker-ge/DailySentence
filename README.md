@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-20已更新 
+2025-03-21已更新 
 ```
 * 金山词霸
-  > Spring will come and so will happiness.
-  > 春天会到来，幸福也会随之而来。
+  > Success is becoming the best version of yourself.
+  > 成功是成为最好的自己。
 
 * 扇贝单词
-  > Keep your head up in failure, and your head down in success.
-  > 失败时，要高昂起头；成功时，要保持谦逊。
+  > Praising what is lost makes the remembrance dear.
+  > 赞美已经失去的事物，让回忆变得惹人喜爱。
 
 * 有道词典
-  > Spring awakens pink blossoms as raindrops kiss fresh green grass.
-  > 春日唤醒粉红花朵，雨滴亲吻新绿的青草。
+  > The soul that sees beauty may sometimes walk alone.
+  > 寻美多孤旅，独行载星河。
 
 ```
