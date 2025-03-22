@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-21已更新 
+2025-03-22已更新 
 ```
 * 金山词霸
-  > Success is becoming the best version of yourself.
-  > 成功是成为最好的自己。
+  > Every cloud has a silver lining.
+  > 天无绝人之路。
 
 * 扇贝单词
-  > Praising what is lost makes the remembrance dear.
-  > 赞美已经失去的事物，让回忆变得惹人喜爱。
+  > I think togetherness is a very important ingredient to family life.
+  > 在我看来，团聚于家庭生活而言不可或缺。
 
 * 有道词典
-  > The soul that sees beauty may sometimes walk alone.
-  > 寻美多孤旅，独行载星河。
+  > Grief is just love with nowhere to park.
+  > 悲伤不过是无处停泊的爱。
 
 ```
