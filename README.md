@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-22已更新 
+2025-03-23已更新 
 ```
 * 金山词霸
-  > Every cloud has a silver lining.
-  > 天无绝人之路。
+  > Time is a bird flying into eternity.
+  > 时间是一只永远在飞翔的鸟。
 
 * 扇贝单词
-  > I think togetherness is a very important ingredient to family life.
-  > 在我看来，团聚于家庭生活而言不可或缺。
+  > Water can carve its way even through stone and when trapped, water makes a new path.
+  > 水滴能穿石，即便困于一隅，也能另辟蹊径。
 
 * 有道词典
-  > Grief is just love with nowhere to park.
-  > 悲伤不过是无处停泊的爱。
+  > Courage is when you sing louder than your trembling.
+  > 勇气是让歌声压过颤抖的时刻。
 
 ```
