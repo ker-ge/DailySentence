@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-23已更新 
+2025-03-24已更新 
 ```
 * 金山词霸
-  > Time is a bird flying into eternity.
-  > 时间是一只永远在飞翔的鸟。
+  > A winner is a dreamer who never gives up.
+  > 一个成功者是一个永不放弃的梦想家。
 
 * 扇贝单词
-  > Water can carve its way even through stone and when trapped, water makes a new path.
-  > 水滴能穿石，即便困于一隅，也能另辟蹊径。
+  > You can tell a lot about a person by what's on their playlist.
+  > 通过一个人的播放列表，你可以了解到很多关于他的东西。
 
 * 有道词典
-  > Courage is when you sing louder than your trembling.
-  > 勇气是让歌声压过颤抖的时刻。
+  > We don't find light by escaping darkness, but by becoming fireflies in it.
+  > 避暗终无路，化萤即星辰。
 
 ```
