@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-24已更新 
+2025-03-25已更新 
 ```
 * 金山词霸
-  > A winner is a dreamer who never gives up.
-  > 一个成功者是一个永不放弃的梦想家。
+  > You can do anything, but not everything.
+  > 你可以做任何事，但不是所有事。
 
 * 扇贝单词
-  > You can tell a lot about a person by what's on their playlist.
-  > 通过一个人的播放列表，你可以了解到很多关于他的东西。
+  > Our growth depends not on how many experiences we devour, but on how many we digest.
+  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
 
 * 有道词典
-  > We don't find light by escaping darkness, but by becoming fireflies in it.
-  > 避暗终无路，化萤即星辰。
+  > Some people are born to be seasons, not destinations.
+  > 有些人注定成为逝去的季节，而非终点。
 
 ```
