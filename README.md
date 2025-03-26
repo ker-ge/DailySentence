@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-25已更新 
+2025-03-26已更新 
 ```
 * 金山词霸
-  > You can do anything, but not everything.
-  > 你可以做任何事，但不是所有事。
+  > The only thing we have to fear is fear itself.
+  > 我们唯一需要害怕的是害怕本身。
 
 * 扇贝单词
-  > Our growth depends not on how many experiences we devour, but on how many we digest.
-  > 成长靠的不是经历有多丰富，而是对过往经历的细细品味和领会。
+  > Whatever is worth doing at all is worth doing well.
+  > 任何值得做的事，都值得将其做好。
 
 * 有道词典
-  > Some people are born to be seasons, not destinations.
-  > 有些人注定成为逝去的季节，而非终点。
+  > What's meant for you will find its way to you.
+  > 属于你的，自会与你相逢。
 
 ```
