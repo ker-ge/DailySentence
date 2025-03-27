@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-26已更新 
+2025-03-27已更新 
 ```
 * 金山词霸
-  > The only thing we have to fear is fear itself.
-  > 我们唯一需要害怕的是害怕本身。
+  > Your greatest triumph is staying true to yourself.
+  > 忠于自我是最高成就。
 
 * 扇贝单词
-  > Whatever is worth doing at all is worth doing well.
-  > 任何值得做的事，都值得将其做好。
+  > A positive attitude will have positive results because attitudes are contagious.
+  > 积极的态度会带来积极的结果，因为态度是具有感染力的。
 
 * 有道词典
-  > What's meant for you will find its way to you.
-  > 属于你的，自会与你相逢。
+  > I am no bird; and no net ensnares me.
+  > 我生有翼，不落尘网。
 
 ```
