@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-27已更新 
+2025-03-28已更新 
 ```
 * 金山词霸
-  > Your greatest triumph is staying true to yourself.
-  > 忠于自我是最高成就。
+  > Trailblaze where no path exists.
+  > 在无路处开辟新径。
 
 * 扇贝单词
-  > A positive attitude will have positive results because attitudes are contagious.
-  > 积极的态度会带来积极的结果，因为态度是具有感染力的。
+  > Silence is the sleep that nourishes wisdom.
+  > 沉默，好比睡眠，会滋养出智慧。
 
 * 有道词典
-  > I am no bird; and no net ensnares me.
-  > 我生有翼，不落尘网。
+  > Love is an act of endless forgiveness, a tender look which becomes a habit.
+  > 爱是无尽宽恕的行为，是逐渐成习惯的温柔注视。
 
 ```
