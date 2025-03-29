@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-28已更新 
+2025-03-29已更新 
 ```
 * 金山词霸
-  > Trailblaze where no path exists.
-  > 在无路处开辟新径。
+  > A miss is as good as a mile. 
+  > 失之毫厘，差之千里。 
 
 * 扇贝单词
-  > Silence is the sleep that nourishes wisdom.
-  > 沉默，好比睡眠，会滋养出智慧。
+  > I wouldn't give up being myself for even one second.
+  > 我不会放弃做自己，哪怕一秒也不行。
 
 * 有道词典
-  > Love is an act of endless forgiveness, a tender look which becomes a habit.
-  > 爱是无尽宽恕的行为，是逐渐成习惯的温柔注视。
+  > The world is full of magic. Patiently, it waits for our senses to grow sharper.
+  > 世界充满神奇，待我们去发现。
 
 ```
