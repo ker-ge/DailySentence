@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-29已更新 
+2025-03-30已更新 
 ```
 * 金山词霸
-  > A miss is as good as a mile. 
-  > 失之毫厘，差之千里。 
+  > Happy life lies in a peaceful mind.
+  > 幸福的生活存在于心绪的宁静之中。
 
 * 扇贝单词
-  > I wouldn't give up being myself for even one second.
-  > 我不会放弃做自己，哪怕一秒也不行。
+  > Neither abstinence nor excess ever renders man happy.
+  > 不论是节制还是过度都不能给人带来快乐。
 
 * 有道词典
-  > The world is full of magic. Patiently, it waits for our senses to grow sharper.
-  > 世界充满神奇，待我们去发现。
+  > Love is the flower you've got to let grow.
+  > 爱如花，需放手滋养。
 
 ```
