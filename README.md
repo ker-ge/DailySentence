@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-30已更新 
+2025-03-31已更新 
 ```
 * 金山词霸
-  > Happy life lies in a peaceful mind.
-  > 幸福的生活存在于心绪的宁静之中。
+  > Cross oceans only by daring to leave shore.
+  > 有离开海岸的勇气，才能横渡海洋。
 
 * 扇贝单词
-  > Neither abstinence nor excess ever renders man happy.
-  > 不论是节制还是过度都不能给人带来快乐。
+  > If we're kind and polite, the world will be right.
+  > 如果我们温和善良、彬彬有礼的话，世界将会变美好。
 
 * 有道词典
-  > Love is the flower you've got to let grow.
-  > 爱如花，需放手滋养。
+  > Hope is the heartbeat of the unseen dawn.
+  > 希望是未至破晓的无声脉动。
 
 ```
