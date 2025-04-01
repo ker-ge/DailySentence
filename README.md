@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-03-31已更新 
+2025-04-01已更新 
 ```
 * 金山词霸
-  > Cross oceans only by daring to leave shore.
-  > 有离开海岸的勇气，才能横渡海洋。
+  > Every playful prank on April Fool's Day reminds us to live with laughter.
+  > 每个愚人节的恶作剧都提醒我们用笑声生活。
 
 * 扇贝单词
-  > If we're kind and polite, the world will be right.
-  > 如果我们温和善良、彬彬有礼的话，世界将会变美好。
+  > The only real failure is the failure to try and the measure of success is how we cope with disappointment.
+  > 唯一真正的失败是放弃尝试；衡量成功的标准是我们如何面对失望。
 
 * 有道词典
-  > Hope is the heartbeat of the unseen dawn.
-  > 希望是未至破晓的无声脉动。
+  > Play a trick, share the joy, and lighten the load!
+  > 玩笑开起来，欢乐传出去，压力退退退！
 
 ```
