@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-01已更新 
+2025-04-02已更新 
 ```
 * 金山词霸
-  > Every playful prank on April Fool's Day reminds us to live with laughter.
-  > 每个愚人节的恶作剧都提醒我们用笑声生活。
+  > A brave decision today can spark a lifetime of transformation.
+  > 今日的勇敢决断能激发一生的转变。
 
 * 扇贝单词
-  > The only real failure is the failure to try and the measure of success is how we cope with disappointment.
-  > 唯一真正的失败是放弃尝试；衡量成功的标准是我们如何面对失望。
+  > The time spent with you allowed me to feel again.
+  > 与你共度的时光，让我重新苏醒。
 
 * 有道词典
-  > Play a trick, share the joy, and lighten the load!
-  > 玩笑开起来，欢乐传出去，压力退退退！
+  > Roots dig deeper in dark soil.
+  > 泥土愈晦暗，根茎愈深劲。
 
 ```
