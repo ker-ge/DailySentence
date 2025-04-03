@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-02已更新 
+2025-04-03已更新 
 ```
 * 金山词霸
-  > A brave decision today can spark a lifetime of transformation.
-  > 今日的勇敢决断能激发一生的转变。
+  > Progress starts with one brave step forward.
+  > 进步始于一次勇敢的迈步。
 
 * 扇贝单词
-  > The time spent with you allowed me to feel again.
-  > 与你共度的时光，让我重新苏醒。
+  > If you want the best the world has to offer, offer the world your best.
+  > 若想得到世界上最好的东西，先向世界展现最好的你。
 
 * 有道词典
-  > Roots dig deeper in dark soil.
-  > 泥土愈晦暗，根茎愈深劲。
+  > Stars aren't afraid to glow in the dark.
+  > 星辰无惧暗夜生辉。
 
 ```
