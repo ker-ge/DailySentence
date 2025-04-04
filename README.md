@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-03已更新 
+2025-04-04已更新 
 ```
 * 金山词霸
-  > Progress starts with one brave step forward.
-  > 进步始于一次勇敢的迈步。
+  > Qingming Festival invites us to honor ancestors with quiet reflection and respect. 
+  > 清明节邀请我们以静思与敬意祭奠祖先。
 
 * 扇贝单词
-  > If you want the best the world has to offer, offer the world your best.
-  > 若想得到世界上最好的东西，先向世界展现最好的你。
+  > I like to feel his eyes on me when I look away.
+  > 我喜欢当我看向别处时他的目光停留在我身上的感觉。
 
 * 有道词典
-  > Stars aren't afraid to glow in the dark.
-  > 星辰无惧暗夜生辉。
+  > The departed are like the wind—invisible, yet forever brushing against our memories.
+  > 逝者如风，无形却永拂记忆。
 
 ```
