@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-04已更新 
+2025-04-05已更新 
 ```
 * 金山词霸
-  > Qingming Festival invites us to honor ancestors with quiet reflection and respect. 
-  > 清明节邀请我们以静思与敬意祭奠祖先。
+  > If you want to achieve greatness, stop asking for permission.
+  > 如果你想获得伟大，别再请求许可。
 
 * 扇贝单词
-  > I like to feel his eyes on me when I look away.
-  > 我喜欢当我看向别处时他的目光停留在我身上的感觉。
+  > You never know how far you can go unless you run.
+  > 你如果不跑起来，就永远不知道自己能走多远。
 
 * 有道词典
-  > The departed are like the wind—invisible, yet forever brushing against our memories.
-  > 逝者如风，无形却永拂记忆。
+  > Dig deeper than doubt; treasure lies beneath.
+  > 疑渊之下，藏有瑰宝。
 
 ```
