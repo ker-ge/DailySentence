@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-05已更新 
+2025-04-06已更新 
 ```
 * 金山词霸
-  > If you want to achieve greatness, stop asking for permission.
-  > 如果你想获得伟大，别再请求许可。
+  > Success is not in never falling, but in rising every time we fall.
+  > 成功不是从不跌倒，而是每次跌倒后都能重新站起来。
 
 * 扇贝单词
-  > You never know how far you can go unless you run.
-  > 你如果不跑起来，就永远不知道自己能走多远。
+  > A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power.
+  > 一个清晰的愿景，加以明确计划的支持，会给你极大的信心和个人力量。
 
 * 有道词典
-  > Dig deeper than doubt; treasure lies beneath.
-  > 疑渊之下，藏有瑰宝。
+  > Storms write symphonies on broken cliffs.
+  > 风暴在残崖上谱写乐章。
 
 ```
