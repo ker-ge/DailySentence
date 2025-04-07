@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-06已更新 
+2025-04-07已更新 
 ```
 * 金山词霸
-  > Success is not in never falling, but in rising every time we fall.
-  > 成功不是从不跌倒，而是每次跌倒后都能重新站起来。
+  > Laughter revives a tired spirit and mends a broken heart.
+  > 笑声能重燃疲惫的心灵，修复破碎的情感。
 
 * 扇贝单词
-  > A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power.
-  > 一个清晰的愿景，加以明确计划的支持，会给你极大的信心和个人力量。
+  > They say when you meet the love of your life, time stops, and that's true.
+  > 人们说当你遇上你的挚爱，时间会停止，事实的确如此。
 
 * 有道词典
-  > Storms write symphonies on broken cliffs.
-  > 风暴在残崖上谱写乐章。
+  > To carry fire is to be the light.
+  > 持火者，自成光。
 
 ```
