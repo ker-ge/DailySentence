@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-07已更新 
+2025-04-08已更新 
 ```
 * 金山词霸
-  > Laughter revives a tired spirit and mends a broken heart.
-  > 笑声能重燃疲惫的心灵，修复破碎的情感。
+  > Think less of gain and loss as long as you go all out and have a clear mind.
+  > 得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
 
 * 扇贝单词
-  > They say when you meet the love of your life, time stops, and that's true.
-  > 人们说当你遇上你的挚爱，时间会停止，事实的确如此。
+  > Everybody's got a job to do, and I do mine as best I can.
+  > 每个人都有自己的事情要做，我会竭尽全力把属于自己的做好。
 
 * 有道词典
-  > To carry fire is to be the light.
-  > 持火者，自成光。
+  > Tomorrow is a blank page. You hold the pen.
+  > 明天是未知的篇章，但由你执笔书写。
 
 ```
