@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-08已更新 
+2025-04-09已更新 
 ```
 * 金山词霸
-  > Think less of gain and loss as long as you go all out and have a clear mind.
-  > 得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
+  > Knowledge speaks, but wisdom listens.
+  > 知识在言说，智慧在倾听。
 
 * 扇贝单词
-  > Everybody's got a job to do, and I do mine as best I can.
-  > 每个人都有自己的事情要做，我会竭尽全力把属于自己的做好。
+  > Even if you're on the right track, you'll get run over if you just sit there.
+  > 即便你刚好处于正轨，如果你只坐在那里的话，还是会被撞翻。
 
 * 有道词典
-  > Tomorrow is a blank page. You hold the pen.
-  > 明天是未知的篇章，但由你执笔书写。
+  > Scars are the map where courage was written.
+  > 伤痕是勇气的篆刻之图。
 
 ```
