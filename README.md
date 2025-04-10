@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-09已更新 
+2025-04-10已更新 
 ```
 * 金山词霸
-  > Knowledge speaks, but wisdom listens.
-  > 知识在言说，智慧在倾听。
+  > Genuine effort turns challenges into stepping stones for real growth.
+  > 真诚的努力，能将阻碍转化为真正进步的垫脚石。
 
 * 扇贝单词
-  > Even if you're on the right track, you'll get run over if you just sit there.
-  > 即便你刚好处于正轨，如果你只坐在那里的话，还是会被撞翻。
+  > Either you run the day or the day runs you.
+  > 要么你主宰生活，要么让生活主宰你。
 
 * 有道词典
-  > Scars are the map where courage was written.
-  > 伤痕是勇气的篆刻之图。
+  > Your voice is the compass when stars go mute.
+  > 失去了星辰的指引，你的心就是方向。
 
 ```
