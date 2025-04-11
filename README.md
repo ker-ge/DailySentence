@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-10已更新 
+2025-04-11已更新 
 ```
 * 金山词霸
-  > Genuine effort turns challenges into stepping stones for real growth.
-  > 真诚的努力，能将阻碍转化为真正进步的垫脚石。
+  > Forward ever, backward never.
+  > 永远向前，绝不后退。
 
 * 扇贝单词
-  > Either you run the day or the day runs you.
-  > 要么你主宰生活，要么让生活主宰你。
+  > It's good to set limits for oneself, but there comes a moment when we must destroy what we have constructed.
+  > 为自己设限是不错，不过有时候我们必须打破自己一手建立的一切。
 
 * 有道词典
-  > Your voice is the compass when stars go mute.
-  > 失去了星辰的指引，你的心就是方向。
+  > The universe tends to unfold as it should.
+  > 宇宙自有其应许之轨。
 
 ```
