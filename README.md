@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-11已更新 
+2025-04-12已更新 
 ```
 * 金山词霸
-  > Forward ever, backward never.
-  > 永远向前，绝不后退。
+  > No man is born wise or learned.
+  > 人非生而知之。
 
 * 扇贝单词
-  > It's good to set limits for oneself, but there comes a moment when we must destroy what we have constructed.
-  > 为自己设限是不错，不过有时候我们必须打破自己一手建立的一切。
+  > The morning, which is the most memorable season of the day, is the awakening hour.
+  > 在一天之中，清晨最值得怀恋和纪念，这是一段让万物醒悟的光阴。
 
 * 有道词典
-  > The universe tends to unfold as it should.
-  > 宇宙自有其应许之轨。
+  > You are more than what you have become.
+  > 你的未来不该被现在定义。
 
 ```
