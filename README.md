@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-12已更新 
+2025-04-13已更新 
 ```
 * 金山词霸
-  > No man is born wise or learned.
-  > 人非生而知之。
+  > Beauty lies in the love's eyes.
+  > 情人眼里出西施。
 
 * 扇贝单词
-  > The morning, which is the most memorable season of the day, is the awakening hour.
-  > 在一天之中，清晨最值得怀恋和纪念，这是一段让万物醒悟的光阴。
+  > Happiness lies in the joy of achievement and the thrill of creative effort.
+  > 幸福来源于收获时的欢乐和创作时的激动。
 
 * 有道词典
-  > You are more than what you have become.
-  > 你的未来不该被现在定义。
+  > The flower that blooms in adversity is the rarest of all.
+  > 绝境之花，最是珍稀。
 
 ```
