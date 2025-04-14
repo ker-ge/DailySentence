@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-13已更新 
+2025-04-14已更新 
 ```
 * 金山词霸
-  > Beauty lies in the love's eyes.
-  > 情人眼里出西施。
+  > Family always remains a safe harbor in life's stormy sea.
+  > 家庭始终是风暴中最安全的港湾。
 
 * 扇贝单词
-  > Happiness lies in the joy of achievement and the thrill of creative effort.
-  > 幸福来源于收获时的欢乐和创作时的激动。
+  > Without deviation from the norm, progress is not possible.
+  > 不偏离常规，就无法取得进步。
 
 * 有道词典
-  > The flower that blooms in adversity is the rarest of all.
-  > 绝境之花，最是珍稀。
+  > A heart to love, and in that heart, courage to act.
+  > 怀爱之心，亦存践行之勇。
 
 ```
