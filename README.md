@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-14已更新 
+2025-04-15已更新 
 ```
 * 金山词霸
-  > Family always remains a safe harbor in life's stormy sea.
-  > 家庭始终是风暴中最安全的港湾。
+  > Calm moments reveal hidden beauty in the everyday world around us.
+  > 宁静时刻展现出我们周围日常生活中隐藏的美。
 
 * 扇贝单词
-  > Without deviation from the norm, progress is not possible.
-  > 不偏离常规，就无法取得进步。
+  > Life is a sum of all your choices. So, what are you doing today?
+  > 生活就是你所有选择的总和，那么，你今天要做什么？
 
 * 有道词典
-  > A heart to love, and in that heart, courage to act.
-  > 怀爱之心，亦存践行之勇。
+  > Even the smallest stone can change the river's song.
+  > 即便是一粒小石子，也能改写河流的旋律。
 
 ```
