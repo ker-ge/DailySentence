@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-15已更新 
+2025-04-16已更新 
 ```
 * 金山词霸
-  > Calm moments reveal hidden beauty in the everyday world around us.
-  > 宁静时刻展现出我们周围日常生活中隐藏的美。
+  > Action expresses priorities.
+  > 行动展示真正优先。
 
 * 扇贝单词
-  > Life is a sum of all your choices. So, what are you doing today?
-  > 生活就是你所有选择的总和，那么，你今天要做什么？
+  > Art doesn't have to do anything. It just has to be there for the fierce pleasure we take in doing it.
+  > 艺术不需要做什么。在我们从事艺术时，能让人感受到强烈的愉悦就够了。
 
 * 有道词典
-  > Even the smallest stone can change the river's song.
-  > 即便是一粒小石子，也能改写河流的旋律。
+  > You can't control life, but you can choose how to live it.
+  > 你无法掌控命运的走向，但能选择自己的活法。
 
 ```
