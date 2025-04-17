@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-16已更新 
+2025-04-17已更新 
 ```
 * 金山词霸
-  > Action expresses priorities.
-  > 行动展示真正优先。
+  > Live simply, so others may simply live.
+  > 简单生活，让他人也能简单生活。
 
 * 扇贝单词
-  > Art doesn't have to do anything. It just has to be there for the fierce pleasure we take in doing it.
-  > 艺术不需要做什么。在我们从事艺术时，能让人感受到强烈的愉悦就够了。
+  > Real generosity toward the future lies in giving all to the present.
+  > 将一切奉献给当下，就是对未来的真正慷慨。
 
 * 有道词典
-  > You can't control life, but you can choose how to live it.
-  > 你无法掌控命运的走向，但能选择自己的活法。
+  > True friends don't let you drown in your own chaos.
+  > 真朋友不会让你在混乱中沉沦。
 
 ```
