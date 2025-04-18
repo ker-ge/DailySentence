@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-17已更新 
+2025-04-18已更新 
 ```
 * 金山词霸
-  > Live simply, so others may simply live.
-  > 简单生活，让他人也能简单生活。
+  > Every effort, no matter how small, builds a better future.
+  > 每一分努力，不论多小，都构建更美好未来。
 
 * 扇贝单词
-  > Real generosity toward the future lies in giving all to the present.
-  > 将一切奉献给当下，就是对未来的真正慷慨。
+  > I am prepared for the worst, but hope for the best.
+  > 我已做好最坏的打算，但仍期待最好的结果。
 
 * 有道词典
-  > True friends don't let you drown in your own chaos.
-  > 真朋友不会让你在混乱中沉沦。
+  > Success isn't about being perfect, it's about being persistent.
+  > 成功无关完美，贵在坚持。
 
 ```
