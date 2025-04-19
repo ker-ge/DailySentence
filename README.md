@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-18已更新 
+2025-04-19已更新 
 ```
 * 金山词霸
-  > Every effort, no matter how small, builds a better future.
-  > 每一分努力，不论多小，都构建更美好未来。
+  > Youth means limitless possibilities.
+  > 年轻就有无限的可能。
 
 * 扇贝单词
-  > I am prepared for the worst, but hope for the best.
-  > 我已做好最坏的打算，但仍期待最好的结果。
+  > I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
+  > 我相信每个人的心跳次数有限，所以我不想浪费任何一下。
 
 * 有道词典
-  > Success isn't about being perfect, it's about being persistent.
-  > 成功无关完美，贵在坚持。
+  > Love is the compass that guides us through the darkest forests.
+  > 爱是指引我们穿越黑暗森林的罗盘。
 
 ```
