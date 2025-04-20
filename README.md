@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-19已更新 
+2025-04-20已更新 
 ```
 * 金山词霸
-  > Youth means limitless possibilities.
-  > 年轻就有无限的可能。
+  > You get in life what you have the courage to ask for.
+  > 勇敢去争取想要的生活，你终能得偿所愿。-–欧普拉‧温芙蕾
 
 * 扇贝单词
-  > I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
-  > 我相信每个人的心跳次数有限，所以我不想浪费任何一下。
+  > Most of us have far more courage than we ever dreamed we possessed.
+  > 我们大部分人所拥有的勇气比我们梦想得到的要多得多。
 
 * 有道词典
-  > Love is the compass that guides us through the darkest forests.
-  > 爱是指引我们穿越黑暗森林的罗盘。
+  > Chasing stars may leave you empty-handed, but it fills your soul with light.
+  > 追逐星辰或许空手而归，但灵魂会被光芒填满
 
 ```
