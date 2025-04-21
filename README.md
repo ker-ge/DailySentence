@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-20已更新 
+2025-04-21已更新 
 ```
 * 金山词霸
-  > You get in life what you have the courage to ask for.
-  > 勇敢去争取想要的生活，你终能得偿所愿。-–欧普拉‧温芙蕾
+  > Every act of honesty plants seeds for trust to eventually grow.
+  > 每个真诚行为都为信任播下种子。
 
 * 扇贝单词
-  > Most of us have far more courage than we ever dreamed we possessed.
-  > 我们大部分人所拥有的勇气比我们梦想得到的要多得多。
+  > Success is nothing more than a few simple disciplines, practiced every day.
+  > 成功不外乎是每天对一些基本技能的操练。
 
 * 有道词典
-  > Chasing stars may leave you empty-handed, but it fills your soul with light.
-  > 追逐星辰或许空手而归，但灵魂会被光芒填满
+  > Passion is a fire that warms even when the world turns cold.
+  > 热爱是寒冬中依旧温暖你的火焰。
 
 ```
