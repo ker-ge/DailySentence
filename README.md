@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-21已更新 
+2025-04-22已更新 
 ```
 * 金山词霸
-  > Every act of honesty plants seeds for trust to eventually grow.
-  > 每个真诚行为都为信任播下种子。
+  > Kindness transforms the world, one compassionate act at a time.
+  > 善良改变世界，每一次充满同情的行动都至关重要。
 
 * 扇贝单词
-  > Success is nothing more than a few simple disciplines, practiced every day.
-  > 成功不外乎是每天对一些基本技能的操练。
+  > No matter how many goals you have achieved, you must set your sights on a higher one.
+  > 不管你实现了多少目标，总要定睛于下一个更远大的。
 
 * 有道词典
-  > Passion is a fire that warms even when the world turns cold.
-  > 热爱是寒冬中依旧温暖你的火焰。
+  > True success is having the courage to rise with a smile after falling.
+  > 真正的成功，是跌倒时仍有勇气笑着起身。
 
 ```
