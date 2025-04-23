@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-22已更新 
+2025-04-23已更新 
 ```
 * 金山词霸
-  > Kindness transforms the world, one compassionate act at a time.
-  > 善良改变世界，每一次充满同情的行动都至关重要。
+  > Love transforms moments into magic that lingers in our memories.
+  > 爱将平凡时刻变为奇迹，长存于我们的记忆中。
 
 * 扇贝单词
-  > No matter how many goals you have achieved, you must set your sights on a higher one.
-  > 不管你实现了多少目标，总要定睛于下一个更远大的。
+  > When there is a strong woman character in a story — that always grabs me.
+  > 有坚强的女性角色的故事总能抓住我的心。
 
 * 有道词典
-  > True success is having the courage to rise with a smile after falling.
-  > 真正的成功，是跌倒时仍有勇气笑着起身。
+  > The power of passion lies in its ability to make the most ordinary days shine.
+  > 热爱的力量，在于它能让最平凡的日子闪闪发光。
 
 ```
