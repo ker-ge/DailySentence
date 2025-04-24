@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-23已更新 
+2025-04-24已更新 
 ```
 * 金山词霸
-  > Love transforms moments into magic that lingers in our memories.
-  > 爱将平凡时刻变为奇迹，长存于我们的记忆中。
+  > Books indeed open doors to worlds beyond our wildest dreams.
+  > 书籍确实开启了超越想象的世界之门。
 
 * 扇贝单词
-  > When there is a strong woman character in a story — that always grabs me.
-  > 有坚强的女性角色的故事总能抓住我的心。
+  > Either move or be moved.
+  > 要么主动寻求改变，要么被动接受改变。
 
 * 有道词典
-  > The power of passion lies in its ability to make the most ordinary days shine.
-  > 热爱的力量，在于它能让最平凡的日子闪闪发光。
+  > The purpose of pursuit isn't reaching the end, but every inch of awakening along the way.
+  > 追求的意义不在于抵达终点，而在于路上每一寸光明的觉醒。
 
 ```
