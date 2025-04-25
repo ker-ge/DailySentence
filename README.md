@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-24已更新 
+2025-04-25已更新 
 ```
 * 金山词霸
-  > Books indeed open doors to worlds beyond our wildest dreams.
-  > 书籍确实开启了超越想象的世界之门。
+  > Hope and love truly make every challenge a little easier.
+  > 希望与爱让每个挑战变得更容易。
 
 * 扇贝单词
-  > Either move or be moved.
-  > 要么主动寻求改变，要么被动接受改变。
+  > Do more of what makes you happy.
+  > 多做些让你快乐的事。
 
 * 有道词典
-  > The purpose of pursuit isn't reaching the end, but every inch of awakening along the way.
-  > 追求的意义不在于抵达终点，而在于路上每一寸光明的觉醒。
+  > Love is a silent lighthouse when others are lost.
+  > 爱是他人迷失时的无声灯塔。
 
 ```
