@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-25已更新 
+2025-04-26已更新 
 ```
 * 金山词霸
-  > Hope and love truly make every challenge a little easier.
-  > 希望与爱让每个挑战变得更容易。
+  > Your smile can warm a heart and light up a dark room.
+  > 你的笑容能温暖一颗心，照亮黑暗的房间。
 
 * 扇贝单词
-  > Do more of what makes you happy.
-  > 多做些让你快乐的事。
+  > When love and skill work together, expect a masterpiece.
+  > 当热爱与技巧融为一体，就能孕育出杰作。
 
 * 有道词典
-  > Love is a silent lighthouse when others are lost.
-  > 爱是他人迷失时的无声灯塔。
+  > The courage to seek truth gives wings to freedom itself.
+  > 追求真理的勇气，本身就是自由的翅膀。
 
 ```
