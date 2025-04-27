@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-26已更新 
+2025-04-27已更新 
 ```
 * 金山词霸
-  > Your smile can warm a heart and light up a dark room.
-  > 你的笑容能温暖一颗心，照亮黑暗的房间。
+  > Courage is the spark that ignites extraordinary achievements in life.
+  > 勇气是点燃非凡成就的火花。
 
 * 扇贝单词
-  > When love and skill work together, expect a masterpiece.
-  > 当热爱与技巧融为一体，就能孕育出杰作。
+  > When we have become completely free of the need to judge, we will also become completely free of the fear of being judged.
+  > 当我们无需评断别人时，就根本不用怕被别人评断了。
 
 * 有道词典
-  > The courage to seek truth gives wings to freedom itself.
-  > 追求真理的勇气，本身就是自由的翅膀。
+  > Success isn't a finish line, but the courage to keep chasing.
+  > 成功不是终点线，是持续追逐的勇气。
 
 ```
