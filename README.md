@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-27已更新 
+2025-04-28已更新 
 ```
 * 金山词霸
-  > Courage is the spark that ignites extraordinary achievements in life.
-  > 勇气是点燃非凡成就的火花。
+  > Gratitude turns little moments into abundant blessings each day.
+  > 感恩让平凡时刻化为每日的丰盛祝福。
 
 * 扇贝单词
-  > When we have become completely free of the need to judge, we will also become completely free of the fear of being judged.
-  > 当我们无需评断别人时，就根本不用怕被别人评断了。
+  > The more things you do, the more you can do.
+  > 你做的事情越多，能做到的事情就越多。
 
 * 有道词典
-  > Success isn't a finish line, but the courage to keep chasing.
-  > 成功不是终点线，是持续追逐的勇气。
+  > Love is the choice to stay even when walking away feels easier.
+  > 爱是明知离开更轻松却仍选择坚守。
 
 ```
