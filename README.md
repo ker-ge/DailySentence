@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-28已更新 
+2025-04-29已更新 
 ```
 * 金山词霸
-  > Gratitude turns little moments into abundant blessings each day.
-  > 感恩让平凡时刻化为每日的丰盛祝福。
+  > Simplicity clears clutter and illuminates the path to inner peace.
+  > 简单驱散纷扰，照亮通往内心平静的道路。
 
 * 扇贝单词
-  > The more things you do, the more you can do.
-  > 你做的事情越多，能做到的事情就越多。
+  > They invented hugs to let people know you love them without saying anything.
+  > 拥抱，是让你一句话也不用说，就让别人知道你爱他们。
 
 * 有道词典
-  > Love is the choice to stay even when walking away feels easier.
-  > 爱是明知离开更轻松却仍选择坚守。
+  > Pursuit begins when you refuse to be defined by others' doubts.
+  > 当拒绝被他人质疑定义时，追求才真正开始。
 
 ```
