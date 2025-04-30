@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-04-29已更新 
+2025-04-30已更新 
 ```
 * 金山词霸
-  > Simplicity clears clutter and illuminates the path to inner peace.
-  > 简单驱散纷扰，照亮通往内心平静的道路。
+  > Your dreams truly matter; pursue them with relentless passion every day.
+  > 你的梦想至关重要，每天都要以不懈热情追求。
 
 * 扇贝单词
-  > They invented hugs to let people know you love them without saying anything.
-  > 拥抱，是让你一句话也不用说，就让别人知道你爱他们。
+  > The best cure for the body is a quiet mind.
+  > 对身体最好的治疗就是让头脑安静。
 
 * 有道词典
-  > Pursuit begins when you refuse to be defined by others' doubts.
-  > 当拒绝被他人质疑定义时，追求才真正开始。
+  > Friendship grows brightest when shadows try to divide us.
+  > 当阴影试图割裂我们时，友情绽放最耀眼的光芒。
 
 ```
