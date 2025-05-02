@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-01已更新 
+2025-05-02已更新 
 ```
 * 金山词霸
-  > Labor is the most reliable wealth.
-  > 劳动是最可靠的财富。
+  > Sweat is the lubricant of success.
+  > 汗水是成功的润滑剂。
 
 * 扇贝单词
-  > One way to keep momentum going is to have constantly greater goals.
-  > 保持前进动力的方法就是，一直拥有更远大的目标。
+  > Do something today that your future self will thank you for.
+  > 你今天做的事要让未来的你心存感激。
 
 * 有道词典
-  > Hands weave time's fabric; sweat molds eternity's form.
-  > 双手编织岁月，汗水浇筑永恒。
+  > Chase the horizon not to catch it, but to become the kind of person who dares to run.
+  > 追逐地平线不是为了抵达，而是成为敢于奔跑的人。
 
 ```
