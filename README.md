@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-02已更新 
+2025-05-03已更新 
 ```
 * 金山词霸
-  > Sweat is the lubricant of success.
-  > 汗水是成功的润滑剂。
+  > Do your thing and don't care if they like it.
+  > 做你的事，别在意别人是否喜欢。
 
 * 扇贝单词
-  > Do something today that your future self will thank you for.
-  > 你今天做的事要让未来的你心存感激。
+  > Be strong and free from fear.
+  > 要坚强，毫不惧怕。
 
 * 有道词典
-  > Chase the horizon not to catch it, but to become the kind of person who dares to run.
-  > 追逐地平线不是为了抵达，而是成为敢于奔跑的人。
+  > Passion is the compass that outlives every storm.
+  > 热爱是历经风雨后依然坚定的指南针。
 
 ```
