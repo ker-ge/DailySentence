@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-03已更新 
+2025-05-04已更新 
 ```
 * 金山词霸
-  > Do your thing and don't care if they like it.
-  > 做你的事，别在意别人是否喜欢。
+  > Just hold to your dream and never give up. 
+  > 坚持你的梦想，永不放弃。
 
 * 扇贝单词
-  > Be strong and free from fear.
-  > 要坚强，毫不惧怕。
+  > There is no substitute for hard work. First in, last out.
+  > 没有什么能替代努力，要最先开始，最后离开。
 
 * 有道词典
-  > Passion is the compass that outlives every storm.
-  > 热爱是历经风雨后依然坚定的指南针。
+  > Youth is an inextinguishable flame, lighting paths yet unseen.
+  > 青春是永不熄灭的火焰，照亮未知的前路。
 
 ```
