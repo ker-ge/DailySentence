@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-04已更新 
+2025-05-05已更新 
 ```
 * 金山词霸
-  > Just hold to your dream and never give up. 
-  > 坚持你的梦想，永不放弃。
+  > Plan something big by starting with small steps.
+  > 从小处着手，规划大事。
 
 * 扇贝单词
-  > There is no substitute for hard work. First in, last out.
-  > 没有什么能替代努力，要最先开始，最后离开。
+  > Curiosity is the lust of the mind.
+  > 好奇心是大脑的渴望。
 
 * 有道词典
-  > Youth is an inextinguishable flame, lighting paths yet unseen.
-  > 青春是永不熄灭的火焰，照亮未知的前路。
+  > Belief is the spark that ignites paths through the darkest nights.
+  > 信念是火种，能在最深的黑暗中点燃道路。
 
 ```
