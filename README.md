@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-05已更新 
+2025-05-06已更新 
 ```
 * 金山词霸
-  > Plan something big by starting with small steps.
-  > 从小处着手，规划大事。
+  > Creating light for others naturally lights our own way.
+  > 为他人创造光明自然照亮我们之路。
 
 * 扇贝单词
-  > Curiosity is the lust of the mind.
-  > 好奇心是大脑的渴望。
+  > Don't be afraid of your fears. They're there to let you know that something is worth it.
+  > 别害怕自己的恐惧，它让你知道有些事情值得去做。
 
 * 有道词典
-  > Belief is the spark that ignites paths through the darkest nights.
-  > 信念是火种，能在最深的黑暗中点燃道路。
+  > When you want something, all the universe conspires in helping you achieve it.
+  > 当你渴望某物时，全宇宙会助你实现。
 
 ```
