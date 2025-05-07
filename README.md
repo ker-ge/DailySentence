@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-06已更新 
+2025-05-07已更新 
 ```
 * 金山词霸
-  > Creating light for others naturally lights our own way.
-  > 为他人创造光明自然照亮我们之路。
+  > A dead end is just a good place to turn around.
+  > 死胡同只是一个很好的转弯之处。
 
 * 扇贝单词
-  > Don't be afraid of your fears. They're there to let you know that something is worth it.
-  > 别害怕自己的恐惧，它让你知道有些事情值得去做。
+  > A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
+  > 你的一次无心的善举，不论多么微不足道，都可能对他人的生活产生巨大影响。
 
 * 有道词典
-  > When you want something, all the universe conspires in helping you achieve it.
-  > 当你渴望某物时，全宇宙会助你实现。
+  > Love is the lighthouse that never dims, even in the fiercest storm.
+  > 爱是灯塔，即使风暴肆虐也永不熄灭。
 
 ```
