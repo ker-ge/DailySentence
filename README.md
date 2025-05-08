@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-07已更新 
+2025-05-08已更新 
 ```
 * 金山词霸
-  > A dead end is just a good place to turn around.
-  > 死胡同只是一个很好的转弯之处。
+  > I’ve nothing to do today but smile.
+  > 你今天唯一能做的事就是微笑。
 
 * 扇贝单词
-  > A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.
-  > 你的一次无心的善举，不论多么微不足道，都可能对他人的生活产生巨大影响。
+  > I hope life isn't a big joke, because I don't get it.
+  > 希望生活不是个大笑话，因为我没抓住笑点。
 
 * 有道词典
-  > Love is the lighthouse that never dims, even in the fiercest storm.
-  > 爱是灯塔，即使风暴肆虐也永不熄灭。
+  > Family means no one gets left behind.
+  > 家人意味着永不抛弃彼此。
 
 ```
