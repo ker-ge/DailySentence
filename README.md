@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-09已更新 
+2025-05-10已更新 
 ```
 * 金山词霸
-  > You can, you should, and if you’re brave, you will.
-  > 你可以，你应该，若你勇敢，你会做到。
+  > There is always a better way.
+  > 总有更好的办法。
 
 * 扇贝单词
-  > Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
-  > 尊重他人的感受。这对你可能无关紧要，但对他人可能就十分重要。
+  > You are stronger than your challenges and your challenges are making you stronger.
+  > 你比你面对的挑战更强大，而这些挑战让你变得更加坚强。
 
 * 有道词典
-  > Courage is found in unlikely places.
-  > 勇气总在意想不到之处萌芽。
+  > Unity is strength when there is teamwork.
+  > 团结协作时，齐心即力量。
 
 ```
