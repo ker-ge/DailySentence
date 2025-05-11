@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-10已更新 
+2025-05-11已更新 
 ```
 * 金山词霸
-  > There is always a better way.
-  > 总有更好的办法。
+  > Life is too short for us to wake up in the morning with regrets.
+  > 人生苦短，所以每天不要带着遗憾醒来。
 
 * 扇贝单词
-  > You are stronger than your challenges and your challenges are making you stronger.
-  > 你比你面对的挑战更强大，而这些挑战让你变得更加坚强。
+  > What is a friend? A single soul dwelling in two bodies.
+  > 何谓朋友？一个灵魂孕育在两个躯体里。
 
 * 有道词典
-  > Unity is strength when there is teamwork.
-  > 团结协作时，齐心即力量。
+  > A friend is a soul that sings your song when you forget the words.
+  > 友情是灵魂的共鸣。
 
 ```
