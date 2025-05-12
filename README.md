@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-11已更新 
+2025-05-12已更新 
 ```
 * 金山词霸
-  > Life is too short for us to wake up in the morning with regrets.
-  > 人生苦短，所以每天不要带着遗憾醒来。
+  > Life is like riding a bicycle, you must keep moving.
+  > 生活像骑自行车，必须不断前进。
 
 * 扇贝单词
-  > What is a friend? A single soul dwelling in two bodies.
-  > 何谓朋友？一个灵魂孕育在两个躯体里。
+  > Be brave. Take risks. Nothing can substitute experience.
+  > 要敢于冒险，你的经历是无可替代的。
 
 * 有道词典
-  > A friend is a soul that sings your song when you forget the words.
-  > 友情是灵魂的共鸣。
+  > Family is the lighthouse that forever guides us home.
+  > 家庭是永远照亮归途的灯塔。
 
 ```
