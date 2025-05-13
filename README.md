@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-12已更新 
+2025-05-13已更新 
 ```
 * 金山词霸
-  > Life is like riding a bicycle, you must keep moving.
-  > 生活像骑自行车，必须不断前进。
+  > Destination is never a place, but a new perspective.
+  > 目的地不是地方，而是一种新视角。
 
 * 扇贝单词
-  > Be brave. Take risks. Nothing can substitute experience.
-  > 要敢于冒险，你的经历是无可替代的。
+  > Summertime is always the best of what might be.
+  > 万物最美一面，总在夏季展现。
 
 * 有道词典
-  > Family is the lighthouse that forever guides us home.
-  > 家庭是永远照亮归途的灯塔。
+  > Faith is the torch that guides through the darkest night.
+  > 信念是黑暗中的火把。
 
 ```
