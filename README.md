@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-13已更新 
+2025-05-14已更新 
 ```
 * 金山词霸
-  > Destination is never a place, but a new perspective.
-  > 目的地不是地方，而是一种新视角。
+  > Some look for a beautiful place, others make it beautiful.
+  > 有人寻找美丽之地，有人创造美丽之地。
 
 * 扇贝单词
-  > Summertime is always the best of what might be.
-  > 万物最美一面，总在夏季展现。
+  > Where words fail, music speaks.
+  > 言语无法表达时，音乐就会响起。
 
 * 有道词典
-  > Faith is the torch that guides through the darkest night.
-  > 信念是黑暗中的火把。
+  > Friendship is the silent symphony where souls dance together.
+  > 友谊是灵魂共舞的无声乐章。
 
 ```
