@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-14已更新 
+2025-05-15已更新 
 ```
 * 金山词霸
-  > Some look for a beautiful place, others make it beautiful.
-  > 有人寻找美丽之地，有人创造美丽之地。
+  > How you deal with failure determines your success.
+  > 你如何处理失败决定你的成功。
 
 * 扇贝单词
-  > Where words fail, music speaks.
-  > 言语无法表达时，音乐就会响起。
+  > We are who we choose to be.
+  > 要成为怎样的人，选择在于你自己。
 
 * 有道词典
-  > Friendship is the silent symphony where souls dance together.
-  > 友谊是灵魂共舞的无声乐章。
+  > The truth is not always beautiful, but the hunger for it is.
+  > 真相未必美好，但追寻真相的信念永远动人。
 
 ```
