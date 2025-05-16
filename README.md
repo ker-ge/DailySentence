@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-15已更新 
+2025-05-16已更新 
 ```
 * 金山词霸
-  > How you deal with failure determines your success.
-  > 你如何处理失败决定你的成功。
+  > I’ve found 10,000 ways that won’t work.
+  > 我找到了10,000种行不通的方法。
 
 * 扇贝单词
-  > We are who we choose to be.
-  > 要成为怎样的人，选择在于你自己。
+  > Beautiful things don't ask for attention.
+  > 真正美丽的东西， 并不会刻意寻求别人的注目。
 
 * 有道词典
-  > The truth is not always beautiful, but the hunger for it is.
-  > 真相未必美好，但追寻真相的信念永远动人。
+  > I do what I want when I want it.
+  > 我肆意体验人生。
 
 ```
