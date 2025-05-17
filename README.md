@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-16已更新 
+2025-05-17已更新 
 ```
 * 金山词霸
-  > I’ve found 10,000 ways that won’t work.
-  > 我找到了10,000种行不通的方法。
+  > Death is just a part of life, something we’re all destined to do.
+  > 死亡是生命的一部分，是我们注定要面对的一件事。
 
 * 扇贝单词
-  > Beautiful things don't ask for attention.
-  > 真正美丽的东西， 并不会刻意寻求别人的注目。
+  > Change in all things is sweet.
+  > 有改变就会有美好。
 
 * 有道词典
-  > I do what I want when I want it.
-  > 我肆意体验人生。
+  > Friendship is two solitudes protecting each other's light.
+  > 友情是两座孤岛守护彼此的光芒。
 
 ```
