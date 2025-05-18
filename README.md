@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-17已更新 
+2025-05-18已更新 
 ```
 * 金山词霸
-  > Death is just a part of life, something we’re all destined to do.
-  > 死亡是生命的一部分，是我们注定要面对的一件事。
+  > There are only the pursued, the pursuing, the busy and the tired.
+  > 世界上只有被追求者和追求者，忙碌者和疲惫者。　　
 
 * 扇贝单词
-  > Change in all things is sweet.
-  > 有改变就会有美好。
+  > You cannot change the circumstances but you can change yourself.
+  > 既然改变不了环境，那就改变自己。
 
 * 有道词典
-  > Friendship is two solitudes protecting each other's light.
-  > 友情是两座孤岛守护彼此的光芒。
+  > Family is the light that survives even when memories fade.
+  > 家庭是记忆褪色时依然存在的微光。
 
 ```
