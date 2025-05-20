@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-19已更新 
+2025-05-20已更新 
 ```
 * 金山词霸
-  > Time flies, but you’re the pilot of your life.
-  > 时间飞逝，但你是人生的飞行员。
+  > You make a life out of what you have.
+  > 你用拥有的东西创造生活。
 
 * 扇贝单词
-  > Curiosity is the wick in the candle of learning.
-  > 如果学习是一根蜡烛，那好奇心就是烛芯。
+  > Real love is always worth waiting for.
+  > 真爱永远值得等待。
 
 * 有道词典
-  > Roots don't break in storms; they grow deeper.
-  > 风暴中树根不会断裂，只会扎得更深。
+  > Love is the ink rewriting broken destinies.
+  > 爱是改写破碎命运的笔墨。
 
 ```
