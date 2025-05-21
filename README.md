@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-20已更新 
+2025-05-21已更新 
 ```
 * 金山词霸
-  > You make a life out of what you have.
-  > 你用拥有的东西创造生活。
+  > There are years that ask questions and years that answer.
+  > 有提问的年份，也有回答的年份。
 
 * 扇贝单词
-  > Real love is always worth waiting for.
-  > 真爱永远值得等待。
+  > Empty your cup so that it may be filled.
+  > 清空杯子，方能再装满。
 
 * 有道词典
-  > Love is the ink rewriting broken destinies.
-  > 爱是改写破碎命运的笔墨。
+  > Stars burn brightest when the night claims the earth.
+  > 当黑夜笼罩大地，星辰才绽放最耀眼的光。
 
 ```
