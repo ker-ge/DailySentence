@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-21已更新 
+2025-05-22已更新 
 ```
 * 金山词霸
-  > There are years that ask questions and years that answer.
-  > 有提问的年份，也有回答的年份。
+  > Decide what to do with the time given to us.
+  > 决定如何使用给予我们的时间。
 
 * 扇贝单词
-  > Empty your cup so that it may be filled.
-  > 清空杯子，方能再装满。
+  > I don't know anything with certainty, but seeing the stars makes me dream.
+  > 我不知道世间有什么事是确定不变的，但只要一看到星星，我就会开始做梦。
 
 * 有道词典
-  > Stars burn brightest when the night claims the earth.
-  > 当黑夜笼罩大地，星辰才绽放最耀眼的光。
+  > Rivers carve mountains not by force, but by persistence.
+  > 水滴石穿的力量源于日复一日的坚持。
 
 ```
