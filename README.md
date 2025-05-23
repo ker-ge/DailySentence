@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-22已更新 
+2025-05-23已更新 
 ```
 * 金山词霸
-  > Decide what to do with the time given to us.
-  > 决定如何使用给予我们的时间。
+  > Each of us is more than our worst mistake.
+  > 我们每个人都超越了自己最糟的错误。
 
 * 扇贝单词
-  > I don't know anything with certainty, but seeing the stars makes me dream.
-  > 我不知道世间有什么事是确定不变的，但只要一看到星星，我就会开始做梦。
+  > And if you really want to see what people are, all you have to do is look.
+  > 想真正了解他人，只需要用心去看。
 
 * 有道词典
-  > Rivers carve mountains not by force, but by persistence.
-  > 水滴石穿的力量源于日复一日的坚持。
+  > Love is the gravity that holds our chaos in orbit.
+  > 爱是让混沌保持运转的引力。
 
 ```
