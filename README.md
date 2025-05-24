@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-23已更新 
+2025-05-24已更新 
 ```
 * 金山词霸
-  > Each of us is more than our worst mistake.
-  > 我们每个人都超越了自己最糟的错误。
+  > Look before you leap.
+  > 三思而后行。
 
 * 扇贝单词
-  > And if you really want to see what people are, all you have to do is look.
-  > 想真正了解他人，只需要用心去看。
+  > Pleasure in the job puts perfection in the work.
+  > 乐于工作才有完美表现。
 
 * 有道词典
-  > Love is the gravity that holds our chaos in orbit.
-  > 爱是让混沌保持运转的引力。
+  > Justice delayed is justice denied, but never abandoned.
+  > 正义或许迟来，但永不缺席。
 
 ```
