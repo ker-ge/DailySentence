@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-24已更新 
+2025-05-25已更新 
 ```
 * 金山词霸
-  > Look before you leap.
-  > 三思而后行。
+  > Rome was not built in a day.
+  > 罗马不是一天造成的。
 
 * 扇贝单词
-  > Pleasure in the job puts perfection in the work.
-  > 乐于工作才有完美表现。
+  > Life has no limitations, except the ones you make.
+  > 生命无限，除非你自我设限。
 
 * 有道词典
-  > Justice delayed is justice denied, but never abandoned.
-  > 正义或许迟来，但永不缺席。
+  > You don't have to be great to start, but you have to start to be great.
+  > 伟大无需始于起点，但起点必通往伟大。
 
 ```
