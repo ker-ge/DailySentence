@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-25已更新 
+2025-05-26已更新 
 ```
 * 金山词霸
-  > Rome was not built in a day.
-  > 罗马不是一天造成的。
+  > Wishing takes as much energy as planning does.
+  > 许愿和计划需要同样的能量。
 
 * 扇贝单词
-  > Life has no limitations, except the ones you make.
-  > 生命无限，除非你自我设限。
+  > Soon is not as good as now.
+  > 别谈未来，现在就行动。
 
 * 有道词典
-  > You don't have to be great to start, but you have to start to be great.
-  > 伟大无需始于起点，但起点必通往伟大。
+  > Sometimes the right path is not the easiest one.
+  > 正确的道路往往荆棘密布。
 
 ```
