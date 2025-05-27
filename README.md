@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-26已更新 
+2025-05-27已更新 
 ```
 * 金山词霸
-  > Wishing takes as much energy as planning does.
-  > 许愿和计划需要同样的能量。
+  > You cannot change what you are, only what you do.
+  > 你无法改变本质，只能改变行为。
 
 * 扇贝单词
-  > Soon is not as good as now.
-  > 别谈未来，现在就行动。
+  > Make each day your masterpiece.
+  > 让你生命中的每一天都成为杰作。
 
 * 有道词典
-  > Sometimes the right path is not the easiest one.
-  > 正确的道路往往荆棘密布。
+  > Love is remembering the details of someone else's life.
+  > 爱意藏在对他人生轨迹的每一处铭记。
 
 ```
