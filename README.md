@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-27已更新 
+2025-05-28已更新 
 ```
 * 金山词霸
-  > You cannot change what you are, only what you do.
-  > 你无法改变本质，只能改变行为。
+  > A good mind is not enough; use it well.
+  > 好头脑不够，必须善加利用。
 
 * 扇贝单词
-  > Make each day your masterpiece.
-  > 让你生命中的每一天都成为杰作。
+  > Happiness is an inside job.
+  > 向内寻找，才能找到幸福。
 
 * 有道词典
-  > Love is remembering the details of someone else's life.
-  > 爱意藏在对他人生轨迹的每一处铭记。
+  > You were born to be real, not to be perfect.
+  > 真实比完美更值得追寻。
 
 ```
