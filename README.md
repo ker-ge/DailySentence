@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-28已更新 
+2025-05-29已更新 
 ```
 * 金山词霸
-  > A good mind is not enough; use it well.
-  > 好头脑不够，必须善加利用。
+  > Success begins the minute you decide to be successful.
+  > 成功的起点是你决定成功的那一刻。
 
 * 扇贝单词
-  > Happiness is an inside job.
-  > 向内寻找，才能找到幸福。
+  > Winning isn't everything, but wanting it is.
+  > 胜利并不能代表一切，而求胜心可以。
 
 * 有道词典
-  > You were born to be real, not to be perfect.
-  > 真实比完美更值得追寻。
+  > Hope is the thing that keeps you moving when the lights go out.
+  > 希望是灯火熄灭后仍支撑你前行的力量。
 
 ```
