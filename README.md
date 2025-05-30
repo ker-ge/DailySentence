@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-29已更新 
+2025-05-30已更新 
 ```
 * 金山词霸
-  > Success begins the minute you decide to be successful.
-  > 成功的起点是你决定成功的那一刻。
+  > No one is useless who lightens another’s burden.
+  > 减轻他人负担的人绝非无用。
 
 * 扇贝单词
-  > Winning isn't everything, but wanting it is.
-  > 胜利并不能代表一切，而求胜心可以。
+  > It is during our darkest moments that we must focus to see the light.
+  > 越是在艰难的时候就越要守住光明。
 
 * 有道词典
-  > Hope is the thing that keeps you moving when the lights go out.
-  > 希望是灯火熄灭后仍支撑你前行的力量。
+  > Our lives are the sum of our choices.
+  > 你的人生是你所有选择的总和。
 
 ```
