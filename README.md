@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-30已更新 
+2025-05-31已更新 
 ```
 * 金山词霸
-  > No one is useless who lightens another’s burden.
-  > 减轻他人负担的人绝非无用。
+  > Only you can control your future.
+  > 只有你自己可以掌控你的未来。
 
 * 扇贝单词
-  > It is during our darkest moments that we must focus to see the light.
-  > 越是在艰难的时候就越要守住光明。
+  > People love what other people are passionate about.
+  > 人总是会爱上别人倾注热情的事物。
 
 * 有道词典
-  > Our lives are the sum of our choices.
-  > 你的人生是你所有选择的总和。
+  > Sticky rice and red dates taste sweeter when shared around a family table.
+  > 一桌粽香，满屋团圆。
 
 ```
