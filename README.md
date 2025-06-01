@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-05-31已更新 
+2025-06-01已更新 
 ```
 * 金山词霸
-  > Only you can control your future.
-  > 只有你自己可以掌控你的未来。
+  > Children see magic because they look for it.
+  > 孩子之所以能看到魔法，是因为他们在寻找。
 
 * 扇贝单词
-  > People love what other people are passionate about.
-  > 人总是会爱上别人倾注热情的事物。
+  > Don't let the mistakes and disappointments of the past control and direct your future.
+  > 不要让未来的你被过去的错误与失望所掌控。
 
 * 有道词典
-  > Sticky rice and red dates taste sweeter when shared around a family table.
-  > 一桌粽香，满屋团圆。
+  > Laughter is the spark that turns ordinary days into childhood magic.
+  > 嘴角扬起的弧度，是童年最灵验的魔法。
 
 ```
