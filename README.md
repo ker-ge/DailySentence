@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-01已更新 
+2025-06-02已更新 
 ```
 * 金山词霸
-  > Children see magic because they look for it.
-  > 孩子之所以能看到魔法，是因为他们在寻找。
+  > Too much thinking about a thing prevents doing it.
+  > 过多思考一件事会阻碍行动。
 
 * 扇贝单词
-  > Don't let the mistakes and disappointments of the past control and direct your future.
-  > 不要让未来的你被过去的错误与失望所掌控。
+  > Don't be pushed by your problems. Be led by your dreams.
+  > 别为困难所迫，要以梦想为引。
 
 * 有道词典
-  > Laughter is the spark that turns ordinary days into childhood magic.
-  > 嘴角扬起的弧度，是童年最灵验的魔法。
+  > You don't have to be perfect to be worthy of love.
+  > 你无需完美，依然值得被爱。
 
 ```
