@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-02已更新 
+2025-06-03已更新 
 ```
 * 金山词霸
-  > Too much thinking about a thing prevents doing it.
-  > 过多思考一件事会阻碍行动。
+  > Anything is possible with sunshine and a little pink.
+  > 只要有一缕阳光和一抹淡粉，万事皆有可能。
 
 * 扇贝单词
-  > Don't be pushed by your problems. Be led by your dreams.
-  > 别为困难所迫，要以梦想为引。
+  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
+  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > You don't have to be perfect to be worthy of love.
-  > 你无需完美，依然值得被爱。
+  > Bravery is choosing to speak your truth even when your voice shakes.
+  > 真正的勇敢，是颤抖着也要说出心底的光。
 
 ```
