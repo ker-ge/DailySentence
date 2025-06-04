@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-03已更新 
+2025-06-04已更新 
 ```
 * 金山词霸
-  > Anything is possible with sunshine and a little pink.
-  > 只要有一缕阳光和一抹淡粉，万事皆有可能。
+  > Cherish victories, use them, but don’t settle for them.
+  > 珍惜胜利，利用它们，但别满足。
 
 * 扇贝单词
   > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
   > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > Bravery is choosing to speak your truth even when your voice shakes.
-  > 真正的勇敢，是颤抖着也要说出心底的光。
+  > The smallest act of kindness can rewrite someone's story.
+  > 点滴温暖，可成他人生命中的燎原星火。
 
 ```
