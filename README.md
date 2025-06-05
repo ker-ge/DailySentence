@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-04已更新 
+2025-06-05已更新 
 ```
 * 金山词霸
-  > Cherish victories, use them, but don’t settle for them.
-  > 珍惜胜利，利用它们，但别满足。
+  > You are wired for struggle, but worthy of love.
+  > 你天生适合奋斗，但值得被爱。
 
 * 扇贝单词
-  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
-  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
+  > A winner never stops trying.
+  > 胜者永不停止尝试。
 
 * 有道词典
-  > The smallest act of kindness can rewrite someone's story.
-  > 点滴温暖，可成他人生命中的燎原星火。
+  > No act of kindness, no matter how small, is ever wasted.
+  > 再微小的善意，亦是星火燎原。
 
 ```
