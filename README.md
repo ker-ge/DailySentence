@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-05已更新 
+2025-06-06已更新 
 ```
 * 金山词霸
-  > You are wired for struggle, but worthy of love.
-  > 你天生适合奋斗，但值得被爱。
+  > Whatever the mind can conceive and believe, it can achieve.
+  > 心智能想到并相信的，就能实现。
 
 * 扇贝单词
-  > A winner never stops trying.
-  > 胜者永不停止尝试。
+  > The most difficult thing is the decision to act; the rest is merely tenacity.
+  > 最困难的是下定决心去做，剩下的只是坚持而已。
 
 * 有道词典
-  > No act of kindness, no matter how small, is ever wasted.
-  > 再微小的善意，亦是星火燎原。
+  > Scars are not signs of brokenness, but proof of how we mended.
+  > 伤疤不是破碎的印记，而是愈合的勋章。
 
 ```
