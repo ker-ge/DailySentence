@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-06已更新 
+2025-06-07已更新 
 ```
 * 金山词霸
-  > Whatever the mind can conceive and believe, it can achieve.
-  > 心智能想到并相信的，就能实现。
+  > Successful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees.
+  > 春风得意马蹄疾，一日看尽长安花。
 
 * 扇贝单词
-  > The most difficult thing is the decision to act; the rest is merely tenacity.
-  > 最困难的是下定决心去做，剩下的只是坚持而已。
+  > Life is not only merriment. It is desire and determination.
+  > 生活并不只有欢声笑语，还得要有抱负和决心。
 
 * 有道词典
-  > Scars are not signs of brokenness, but proof of how we mended.
-  > 伤疤不是破碎的印记，而是愈合的勋章。
+  > Even the tiniest pebble can ripple an entire ocean.
+  > 微尘之力，可撼山海。
 
 ```
