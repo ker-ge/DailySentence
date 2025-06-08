@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-07已更新 
+2025-06-08已更新 
 ```
 * 金山词霸
-  > Successful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees.
-  > 春风得意马蹄疾，一日看尽长安花。
+  > It is never too late to fall in love.
+  > 爱永远不会嫌晚。
 
 * 扇贝单词
-  > Life is not only merriment. It is desire and determination.
-  > 生活并不只有欢声笑语，还得要有抱负和决心。
+  > What you seek is seeking you.
+  > 你正在寻找的东西也在找寻你。
 
 * 有道词典
-  > Even the tiniest pebble can ripple an entire ocean.
-  > 微尘之力，可撼山海。
+  > The world needs all kinds of minds to stitch its tapestry.
+  > 世界需要不同的灵魂，织就它的瑰丽画卷。
 
 ```
