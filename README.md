@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-08已更新 
+2025-06-09已更新 
 ```
 * 金山词霸
-  > It is never too late to fall in love.
-  > 爱永远不会嫌晚。
+  > Life is about making an impact, not making an income.
+  > 生活是关于产生影响，而不是赚钱。
 
 * 扇贝单词
-  > What you seek is seeking you.
-  > 你正在寻找的东西也在找寻你。
+  > It is the power of thought that gives man power over nature.
+  > 人类之所以能够驾驭自然，是因为思想的力量。
 
 * 有道词典
-  > The world needs all kinds of minds to stitch its tapestry.
-  > 世界需要不同的灵魂，织就它的瑰丽画卷。
+  > A friend's handprint on your heart never fades, even when they're gone.
+  > 挚友在心上留下的掌纹，纵使离别亦永不褪色。
 
 ```
