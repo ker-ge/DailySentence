@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-09已更新 
+2025-06-10已更新 
 ```
 * 金山词霸
-  > Life is about making an impact, not making an income.
-  > 生活是关于产生影响，而不是赚钱。
+  > You get in life what you courageously ask for.
+  > 你有勇气要求，生活就会给予。
 
 * 扇贝单词
-  > It is the power of thought that gives man power over nature.
-  > 人类之所以能够驾驭自然，是因为思想的力量。
+  > It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.
+  > 并不是因为事情难我们才不敢去做，而是因为我们不敢做事情才难。
 
 * 有道词典
-  > A friend's handprint on your heart never fades, even when they're gone.
-  > 挚友在心上留下的掌纹，纵使离别亦永不褪色。
+  > Plant your dreams in cracked soil—that's where roots dig deepest.
+  > 绝境中的希望，往往迸发最顽强的生命力。
 
 ```
