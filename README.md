@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-10已更新 
+2025-06-11已更新 
 ```
 * 金山词霸
-  > You get in life what you courageously ask for.
-  > 你有勇气要求，生活就会给予。
+  > Strive not to be a success, but rather to be of value.
+  > 不要追求成功，而要追求有价值。
 
 * 扇贝单词
-  > It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.
-  > 并不是因为事情难我们才不敢去做，而是因为我们不敢做事情才难。
+  > There is nothing so useless as doing efficiently that which should not be done at all.
+  > 最没用的，莫过于有效地做那些根本没必要做的事。
 
 * 有道词典
-  > Plant your dreams in cracked soil—that's where roots dig deepest.
-  > 绝境中的希望，往往迸发最顽强的生命力。
+  > Never dull your sparkle to fit into someone else's sky.
+  > 莫因他人眼中的天空，遮掩自身的光芒。
 
 ```
