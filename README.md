@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-12已更新 
+2025-06-13已更新 
 ```
 * 金山词霸
-  > Real wealth is when your kids hug you even when you have nothing.
-  > 真正的富有，是孩子在你一无所有时依然拥抱你。
+  > You miss 100% of the shots you don’t take.
+  > 你不射门，就永远得不了分。
 
 * 扇贝单词
-  > Don't allow your rituals to become ruts.
-  > 切忌墨守成规。
+  > If you can imagine it, you can achieve it. If you can dream it, you can become it.
+  > 凡是能想象到的，就能被实现，能够成为梦想的，就能够成真。
 
 * 有道词典
-  > Even the faintest glow can lead you home when the world feels too dark.
-  > 暗夜中的萤火，胜过白昼的骄阳。
+  > You have something none of us have.
+  > 你有他人所不具备的特质。
 
 ```
