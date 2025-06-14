@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-13已更新 
+2025-06-14已更新 
 ```
 * 金山词霸
-  > You miss 100% of the shots you don’t take.
-  > 你不射门，就永远得不了分。
+  > No man is rich enough to buy back his own past.
+  > 没有人富有到可以赎回自己的过去。
 
 * 扇贝单词
-  > If you can imagine it, you can achieve it. If you can dream it, you can become it.
-  > 凡是能想象到的，就能被实现，能够成为梦想的，就能够成真。
+  > Turn the page, maybe we'll find a brand new ending.
+  > 翻过陈旧的昨天，或许会迎来完全不一样的结局。
 
 * 有道词典
-  > You have something none of us have.
-  > 你有他人所不具备的特质。
+  > Turn your scars into compasses—they'll point you to where light waits.
+  > 伤疤是灵魂的地图，标记光来的方向。
 
 ```
