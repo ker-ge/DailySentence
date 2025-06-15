@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-14已更新 
+2025-06-15已更新 
 ```
 * 金山词霸
-  > No man is rich enough to buy back his own past.
-  > 没有人富有到可以赎回自己的过去。
+  > Follow your heart, but take your brain with you.
+  > 跟随自己的心，但要保持清醒的头脑。
 
 * 扇贝单词
-  > Turn the page, maybe we'll find a brand new ending.
-  > 翻过陈旧的昨天，或许会迎来完全不一样的结局。
+  > It's your life; you don't need someone's permission to live the life you want.
+  > 生活是你自己的，想过什么样的生活，不需要别人的许可。
 
 * 有道词典
-  > Turn your scars into compasses—they'll point you to where light waits.
-  > 伤疤是灵魂的地图，标记光来的方向。
+  > A song stitched with tears can still mend a thousand broken nights.
+  > 歌声是暗夜的针线，将心事缝成星辰。
 
 ```
