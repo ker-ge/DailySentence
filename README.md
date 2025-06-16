@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-15已更新 
+2025-06-16已更新 
 ```
 * 金山词霸
-  > Follow your heart, but take your brain with you.
-  > 跟随自己的心，但要保持清醒的头脑。
+  > Life is more about giving than taking.
+  > 人生重在给予，而非索取。
 
 * 扇贝单词
-  > It's your life; you don't need someone's permission to live the life you want.
-  > 生活是你自己的，想过什么样的生活，不需要别人的许可。
+  > Those are my principles, and if you don't like them… well, I have others.
+  > 那是我的原则，要是你不喜欢……那我还有其他原则。
 
 * 有道词典
-  > A song stitched with tears can still mend a thousand broken nights.
-  > 歌声是暗夜的针线，将心事缝成星辰。
+  > Strength isn't always a roar; sometimes it's the breath you hold to keep going.
+  > 沉默中的坚韧，震耳欲聋。
 
 ```
