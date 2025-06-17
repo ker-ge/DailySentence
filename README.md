@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-16已更新 
+2025-06-17已更新 
 ```
 * 金山词霸
-  > Life is more about giving than taking.
-  > 人生重在给予，而非索取。
+  > Education costs money. But then so does ignorance.
+  > 教育需要花钱，但无知也需要。
 
 * 扇贝单词
-  > Those are my principles, and if you don't like them… well, I have others.
-  > 那是我的原则，要是你不喜欢……那我还有其他原则。
+  > Life is about making an impact, not making an income.
+  > 生命在于影响他人，而非赚钱糊口。
 
 * 有道词典
-  > Strength isn't always a roar; sometimes it's the breath you hold to keep going.
-  > 沉默中的坚韧，震耳欲聋。
+  > You are not alone.
+  > 你并不孤独。
 
 ```
