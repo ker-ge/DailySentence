@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-17已更新 
+2025-06-18已更新 
 ```
 * 金山词霸
-  > Education costs money. But then so does ignorance.
-  > 教育需要花钱，但无知也需要。
+  > When I let go of what I am, I become what I might be.
+  > 我放下现在的自己，我才能成为可能的自己。
 
 * 扇贝单词
-  > Life is about making an impact, not making an income.
-  > 生命在于影响他人，而非赚钱糊口。
+  > Humanity is won by continuing to play in face of certain defeat.
+  > 就算可能失败，也要继续前行，可谓是真正的人。
 
 * 有道词典
-  > You are not alone.
-  > 你并不孤独。
+  > One candle lights another without losing its own flame.
+  > 善意如星火相传，愈赠愈明。
 
 ```
