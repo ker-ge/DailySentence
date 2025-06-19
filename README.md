@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-18已更新 
+2025-06-19已更新 
 ```
 * 金山词霸
-  > When I let go of what I am, I become what I might be.
-  > 我放下现在的自己，我才能成为可能的自己。
+  > Happiness is not something readymade. It comes from your own actions.
+  > 幸福不是现成的。它来自你的行动。
 
 * 扇贝单词
-  > Humanity is won by continuing to play in face of certain defeat.
-  > 就算可能失败，也要继续前行，可谓是真正的人。
+  > When someone loves you, the way they talk about you is different. You feel safe and comfortable.
+  > 爱你的人谈起你的方式是不一样的，你会觉得安全又舒服。
 
 * 有道词典
-  > One candle lights another without losing its own flame.
-  > 善意如星火相传，愈赠愈明。
+  > Time doesn't erase pain; it weaves it into your strength.
+  > 痛楚经年，终化绕指柔。
 
 ```
