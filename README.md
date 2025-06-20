@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-19已更新 
+2025-06-20已更新 
 ```
 * 金山词霸
-  > Happiness is not something readymade. It comes from your own actions.
-  > 幸福不是现成的。它来自你的行动。
+  > Too many of us are not living our dreams because we are living our fears.
+  > 我们太多人没有实现梦想，因为我们活在恐惧中。
 
 * 扇贝单词
-  > When someone loves you, the way they talk about you is different. You feel safe and comfortable.
-  > 爱你的人谈起你的方式是不一样的，你会觉得安全又舒服。
+  > Every day women and men become legends.
+  > 每天都有人书写不朽的传奇诗篇。
 
 * 有道词典
-  > Time doesn't erase pain; it weaves it into your strength.
-  > 痛楚经年，终化绕指柔。
+  > Kindness is my sword, and patience my armor.
+  > 以温柔为刃，以隐忍为甲。
 
 ```
