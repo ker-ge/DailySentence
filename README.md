@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-21已更新 
+2025-06-22已更新 
 ```
 * 金山词霸
-  > Shall I compare you to a summer's day?
-  > 我能否将你比作夏天？——莎士比亚
+  > Life gets exciting when we face and beat challenges.
+  > 迎接并战胜挑战，让生活充满意义。
 
 * 扇贝单词
-  > A lantern can give you light only when you light it.
-  > 灯笼若要闪亮，需要你去点亮。
+  > It's not what you say out of your mouth that determines your life; it's what you whisper to yourself that has the most power!
+  > 你嘴上说什么决定不了你的生活，起决定作用的是你在心里告诉自己什么！
 
 * 有道词典
-  > Heat pooled like spilled mercury, turning every shadow into a sanctuary.
-  > 暑气如水银倾泻成滩，每一寸阴影都成了朝圣之地。
+  > Grow where they said you'd never bloom.
+  > 他人眼中的荒原，恰是你的绽放之地。
 
 ```
