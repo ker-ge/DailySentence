@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-22已更新 
+2025-06-23已更新 
 ```
 * 金山词霸
-  > Life gets exciting when we face and beat challenges.
-  > 迎接并战胜挑战，让生活充满意义。
+  > Same actions bring same results.
+  > 重复旧行为，只会得到旧结果。
 
 * 扇贝单词
-  > It's not what you say out of your mouth that determines your life; it's what you whisper to yourself that has the most power!
-  > 你嘴上说什么决定不了你的生活，起决定作用的是你在心里告诉自己什么！
+  > Unable to perceive the shape of you, I find you all around me. Your presence fills my eyes with your love.
+  > 无法感知你的形状，但我能感到你就在我的四周。在我眼里，你的存在就是爱。
 
 * 有道词典
-  > Grow where they said you'd never bloom.
-  > 他人眼中的荒原，恰是你的绽放之地。
+  > You walk through the fog to find your road, not wait for it to clear.
+  > 迷障中的每一步，都是对方向的注解。
 
 ```
