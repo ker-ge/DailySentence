@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-24已更新 
+2025-06-25已更新 
 ```
 * 金山词霸
-  > Sometimes not getting what you want is good luck.
-  > 得不到想要的，有时反而是幸运。
+  > The only way to avoid criticism is to do nothing at all.
+  > 避免批评的唯一方法就是什么都不做。
 
 * 扇贝单词
-  > Go after what you really love and find a way to make that work for you, and then you'll be a happy person.
-  > 追求你真正热爱的，并能充分利用，你就是幸福的。
+  > You may be disappointed if you fail, but you are doomed if you don't try.
+  > 失败可能会让你失望，但若不去尝试，就必定会失败。
 
 * 有道词典
-  > You don't need to borrow light when you carry your own.
-  > 若你自带光芒，便无需向他人借火。
+  > The strongest trees grow roots you never see.
+  > 最坚韧的树，总在你看不见的深处扎根。
 
 ```
