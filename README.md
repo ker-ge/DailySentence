@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-25已更新 
+2025-06-26已更新 
 ```
 * 金山词霸
-  > The only way to avoid criticism is to do nothing at all.
-  > 避免批评的唯一方法就是什么都不做。
+  > I didn’t fail the test. I just found 100 ways to do it wrong.
+  > 我没有考试失败。我只是找到了100种做错的方法。
 
 * 扇贝单词
-  > You may be disappointed if you fail, but you are doomed if you don't try.
-  > 失败可能会让你失望，但若不去尝试，就必定会失败。
+  > Who can say where the road goes? Where the day flows? Only time.
+  > 谁能说得清道路向何方漫延，岁月向何方流逝？唯有时光。
 
 * 有道词典
-  > The strongest trees grow roots you never see.
-  > 最坚韧的树，总在你看不见的深处扎根。
+  > Mistakes are just paint splatters on a masterpiece-in-progress.
+  > 人生画卷上，没有一滴颜料是多余的。
 
 ```
