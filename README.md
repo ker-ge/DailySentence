@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-26已更新 
+2025-06-27已更新 
 ```
 * 金山词霸
-  > I didn’t fail the test. I just found 100 ways to do it wrong.
-  > 我没有考试失败。我只是找到了100种做错的方法。
+  > Great people do things before they are ready.
+  > 伟大的人在准备好前就行动。
 
 * 扇贝单词
-  > Who can say where the road goes? Where the day flows? Only time.
-  > 谁能说得清道路向何方漫延，岁月向何方流逝？唯有时光。
+  > Love is when the other person's happiness is more important than your own.
+  > 情是君喜胜于己欢。
 
 * 有道词典
-  > Mistakes are just paint splatters on a masterpiece-in-progress.
-  > 人生画卷上，没有一滴颜料是多余的。
+  > Even shattered glass refracts rainbows.
+  > 破碎的玻璃也能折射彩虹。
 
 ```
