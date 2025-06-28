@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-27已更新 
+2025-06-28已更新 
 ```
 * 金山词霸
-  > Great people do things before they are ready.
-  > 伟大的人在准备好前就行动。
+  > Live a good life and meet slowly.
+  > 好好生活，慢慢相遇。
 
 * 扇贝单词
-  > Love is when the other person's happiness is more important than your own.
-  > 情是君喜胜于己欢。
+  > You cannot let your father's actions define your life. You get to decide what kind of king you want to be.
+  > 你的生活不是追随父亲的脚步，而是要做自己的国王。
 
 * 有道词典
-  > Even shattered glass refracts rainbows.
-  > 破碎的玻璃也能折射彩虹。
+  > Birds don't apologize for following the sun.
+  > 候鸟从不为追随阳光而道歉。
 
 ```
