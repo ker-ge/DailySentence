@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-28已更新 
+2025-06-29已更新 
 ```
 * 金山词霸
-  > Live a good life and meet slowly.
-  > 好好生活，慢慢相遇。
+  > Cross the stars over the moon to meet your better self.
+  > 跨过星河迈过月亮去迎接更好的自己。
 
 * 扇贝单词
-  > You cannot let your father's actions define your life. You get to decide what kind of king you want to be.
-  > 你的生活不是追随父亲的脚步，而是要做自己的国王。
+  > Our lives are defined by opportunities, even the ones we miss.
+  > 我们的生命取决于机遇，包括那些错过的机遇。
 
 * 有道词典
-  > Birds don't apologize for following the sun.
-  > 候鸟从不为追随阳光而道歉。
+  > On an island, small steps become epic journeys.
+  > 在孤岛上，每一步都是史诗级的远征。
 
 ```
