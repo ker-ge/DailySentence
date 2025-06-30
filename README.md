@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-06-29已更新 
+2025-06-30已更新 
 ```
 * 金山词霸
-  > Cross the stars over the moon to meet your better self.
-  > 跨过星河迈过月亮去迎接更好的自己。
+  > Start where you are. Use what you have. Do what you can.
+  > 从你现在的地方开始。用你所拥有的。做你能做的。
 
 * 扇贝单词
-  > Our lives are defined by opportunities, even the ones we miss.
-  > 我们的生命取决于机遇，包括那些错过的机遇。
+  > You've got to try first before you say it's impossible.
+  > 在说不可能之前，你得先试一试。
 
 * 有道词典
-  > On an island, small steps become epic journeys.
-  > 在孤岛上，每一步都是史诗级的远征。
+  > Tiny lights glow brightest when the world feels darkest.
+  > 世界愈暗，微小的萤火愈显灼灼。
 
 ```
