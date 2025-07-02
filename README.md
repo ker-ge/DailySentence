@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-01已更新 
+2025-07-02已更新 
 ```
 * 金山词霸
-  > Focus on the present, not the past or future.
-  > 不念过往，不畏将来，专注当下。
+  > Move forward to keep life balanced.
+  > 人生如骑行，前进即平衡。
 
 * 扇贝单词
-  > Change your life today. Don't gamble on the future, act now, without delay.
-  > 从今天起，改变生活；立即行动，拒绝拖延，别把希望押在未来。
+  > Success is connecting with the world and making people feel.
+  > 成功就是与世界为伴，并感染周围的人。
 
 * 有道词典
-  > A family's light outshines even the longest Arctic night.
-  > 家庭的光芒能照亮最漫长的极夜。
+  > If we're kind and polite, the world will be right.
+  > 当我们善良有礼，世界自会美好。
 
 ```
