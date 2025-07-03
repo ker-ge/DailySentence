@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-02已更新 
+2025-07-03已更新 
 ```
 * 金山词霸
-  > Move forward to keep life balanced.
-  > 人生如骑行，前进即平衡。
+  > The only true wisdom is in knowing you know nothing.
+  > 唯一真正的智慧，是知道自己一无所知。
 
 * 扇贝单词
-  > Success is connecting with the world and making people feel.
-  > 成功就是与世界为伴，并感染周围的人。
+  > Keep integrity at every cost.
+  > 要正直，不惜一切代价。
 
 * 有道词典
-  > If we're kind and polite, the world will be right.
-  > 当我们善良有礼，世界自会美好。
+  > Some things are worth staying up all night for.
+  > 为热爱熬过的夜，终将照亮前路。
 
 ```
