@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-03已更新 
+2025-07-04已更新 
 ```
 * 金山词霸
-  > The only true wisdom is in knowing you know nothing.
-  > 唯一真正的智慧，是知道自己一无所知。
+  > Silence is the most perfect expression of scorn.
+  > 沉默是轻蔑最完美的表达。
 
 * 扇贝单词
-  > Keep integrity at every cost.
-  > 要正直，不惜一切代价。
+  > There are no great limits to growth because there are no limits of human intelligence, imagination, and wonder.
+  > 成长的路途，没有尽头，因为我们拥有无限的智慧、想象力和好奇心。
 
 * 有道词典
-  > Some things are worth staying up all night for.
-  > 为热爱熬过的夜，终将照亮前路。
+  > Courage is knowing you're beat, but standing up anyway.
+  > 勇气是明知必败，依然挺身而立。
 
 ```
