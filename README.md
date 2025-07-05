@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-04已更新 
+2025-07-05已更新 
 ```
 * 金山词霸
-  > Silence is the most perfect expression of scorn.
-  > 沉默是轻蔑最完美的表达。
+  > Life is the flower for which love is the honey.
+  > 生命如花，爱情是蜜。
 
 * 扇贝单词
-  > There are no great limits to growth because there are no limits of human intelligence, imagination, and wonder.
-  > 成长的路途，没有尽头，因为我们拥有无限的智慧、想象力和好奇心。
+  > Through love comes calm, and through calm comes thought.
+  > 爱使人内心宁静，而后才会有思考。
 
 * 有道词典
-  > Courage is knowing you're beat, but standing up anyway.
-  > 勇气是明知必败，依然挺身而立。
+  > Every sunrise is an invitation to brighten someone's day.
+  > 每个黎明都是照亮他人世界的请柬。
 
 ```
