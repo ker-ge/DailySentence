@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-05已更新 
+2025-07-06已更新 
 ```
 * 金山词霸
-  > Life is the flower for which love is the honey.
-  > 生命如花，爱情是蜜。
+  > Every man is a poet when he is in love.
+  > 每个恋爱中的人都是诗人。
 
 * 扇贝单词
-  > Through love comes calm, and through calm comes thought.
-  > 爱使人内心宁静，而后才会有思考。
+  > And if there's love in this life, there's no obstacle. That can't be defeated.
+  > 如果生活充满爱，世界将不再有阻碍，爱可以战胜一切。
 
 * 有道词典
-  > Every sunrise is an invitation to brighten someone's day.
-  > 每个黎明都是照亮他人世界的请柬。
+  > Hope is the only thing stronger than fear.
+  > 希望是唯一比恐惧更强大的力量。
 
 ```
