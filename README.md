@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-06已更新 
+2025-07-07已更新 
 ```
 * 金山词霸
-  > Every man is a poet when he is in love.
-  > 每个恋爱中的人都是诗人。
+  > Don’t burn bridges. A wide network provides support.
+  > 别自断后路，广阔人脉网提供前进资源。
 
 * 扇贝单词
-  > And if there's love in this life, there's no obstacle. That can't be defeated.
-  > 如果生活充满爱，世界将不再有阻碍，爱可以战胜一切。
+  > Fortune sides with him who dares.
+  > 好运垂青有胆识的人。
 
 * 有道词典
-  > Hope is the only thing stronger than fear.
-  > 希望是唯一比恐惧更强大的力量。
+  > Summer was everything light and fragrant and free.
+  > 盛夏是轻盈、芬芳与自由的交响。
 
 ```
