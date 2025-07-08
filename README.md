@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-07已更新 
+2025-07-08已更新 
 ```
 * 金山词霸
-  > Don’t burn bridges. A wide network provides support.
-  > 别自断后路，广阔人脉网提供前进资源。
+  > All advantages aren't in running quickly, but in getting a head start.​
+  > 优势不在于跑得快，而在于起身早。
 
 * 扇贝单词
-  > Fortune sides with him who dares.
-  > 好运垂青有胆识的人。
+  > The only reward of virtue is virtue; the only way to have a friend is to be one.
+  > 对美德的回报是美德，获得友谊的唯一途径是给人以友谊。
 
 * 有道词典
-  > Summer was everything light and fragrant and free.
-  > 盛夏是轻盈、芬芳与自由的交响。
+  > Mountains make you feel small, but also part of something grand.
+  > 群山令你渺小，却也让你融入壮阔。
 
 ```
