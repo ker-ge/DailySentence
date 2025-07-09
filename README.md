@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-08已更新 
+2025-07-09已更新 
 ```
 * 金山词霸
-  > All advantages aren't in running quickly, but in getting a head start.​
-  > 优势不在于跑得快，而在于起身早。
+  > Don't focus on why it can't work. Trust the reason why it can.​
+  > 忘掉所有"不可能"的借口，坚持那一个"可能"的理由。
 
 * 扇贝单词
-  > The only reward of virtue is virtue; the only way to have a friend is to be one.
-  > 对美德的回报是美德，获得友谊的唯一途径是给人以友谊。
+  > I'm sure we'll meet in the spring. And catch up on everything.
+  > 我们一定会在春天相见，好好聊个天。
 
 * 有道词典
-  > Mountains make you feel small, but also part of something grand.
-  > 群山令你渺小，却也让你融入壮阔。
+  > Home isn't where you're safe, but where you're brave to be vulnerable.
+  > 家不是让你安全的地方，而是让你敢于脆弱的地方。
 
 ```
