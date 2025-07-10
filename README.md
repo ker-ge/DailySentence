@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-09已更新 
+2025-07-10已更新 
 ```
 * 金山词霸
-  > Don't focus on why it can't work. Trust the reason why it can.​
-  > 忘掉所有"不可能"的借口，坚持那一个"可能"的理由。
+  > Face the sunshine, leave shadows behind.
+  > 面向阳光，阴影自褪。
 
 * 扇贝单词
-  > I'm sure we'll meet in the spring. And catch up on everything.
-  > 我们一定会在春天相见，好好聊个天。
+  > Never let the fear of striking out keep you from playing the game.
+  > 永远不要因为害怕被淘汰而不去争取。
 
 * 有道词典
-  > Home isn't where you're safe, but where you're brave to be vulnerable.
-  > 家不是让你安全的地方，而是让你敢于脆弱的地方。
+  > Love letters need no ink when written in shared silence.
+  > 灵魂相契处，静默自成爱的诗篇。
 
 ```
