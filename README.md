@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-10已更新 
+2025-07-11已更新 
 ```
 * 金山词霸
-  > Face the sunshine, leave shadows behind.
-  > 面向阳光，阴影自褪。
+  > You're someone's whole world.
+  > 一人即某人的全世界。
 
 * 扇贝单词
-  > Never let the fear of striking out keep you from playing the game.
-  > 永远不要因为害怕被淘汰而不去争取。
+  > The truth is, I'm in love and there's nothing I can do about it.
+  > 事实是，爱情来的时候，挡也挡不住。
 
 * 有道词典
-  > Love letters need no ink when written in shared silence.
-  > 灵魂相契处，静默自成爱的诗篇。
+  > I was sent here to serve humanity and to help the world to be a better place.
+  > 我来此是为了帮助人类，让世界变得更美好。
 
 ```
