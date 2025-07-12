@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-11已更新 
+2025-07-12已更新 
 ```
 * 金山词霸
-  > You're someone's whole world.
-  > 一人即某人的全世界。
+  > Talent without working hard is nothing.
+  > 没有努力，天份不代表什么。
 
 * 扇贝单词
-  > The truth is, I'm in love and there's nothing I can do about it.
-  > 事实是，爱情来的时候，挡也挡不住。
+  > Make improvements, not excuses. Seek respect, not attention.
+  > 要追求进步，而不是一味地寻找借口，要寻求尊重，而不是一味地博取关注。
 
 * 有道词典
-  > I was sent here to serve humanity and to help the world to be a better place.
-  > 我来此是为了帮助人类，让世界变得更美好。
+  > Friends don't share umbrellas, they rebuild roofs in rain.
+  > 挚友不为你挡雨，而是教你造避风港。
 
 ```
