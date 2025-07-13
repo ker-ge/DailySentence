@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-12已更新 
+2025-07-13已更新 
 ```
 * 金山词霸
-  > Talent without working hard is nothing.
-  > 没有努力，天份不代表什么。
+  > May the Force be with you.
+  > 愿原力与你同在。——《星球大战》
 
 * 扇贝单词
-  > Make improvements, not excuses. Seek respect, not attention.
-  > 要追求进步，而不是一味地寻找借口，要寻求尊重，而不是一味地博取关注。
+  > The goal isn't to live forever; the goal is to create something that will.
+  > 人生的目标不是要获得永生，而是要创造永恒。
 
 * 有道词典
-  > Friends don't share umbrellas, they rebuild roofs in rain.
-  > 挚友不为你挡雨，而是教你造避风港。
+  > Keep walking until the road becomes your home.
+  > 持续前行，直到前方道路变成你的归宿。
 
 ```
