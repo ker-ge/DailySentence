@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-13已更新 
+2025-07-14已更新 
 ```
 * 金山词霸
-  > May the Force be with you.
-  > 愿原力与你同在。——《星球大战》
+  > Loving helps grow; liking just takes.
+  > 爱助生长，喜欢只懂索取。
 
 * 扇贝单词
-  > The goal isn't to live forever; the goal is to create something that will.
-  > 人生的目标不是要获得永生，而是要创造永恒。
+  > The noblest art is that of making others happy.
+  > 最高贵的艺术是使人快乐的艺术。
 
 * 有道词典
-  > Keep walking until the road becomes your home.
-  > 持续前行，直到前方道路变成你的归宿。
+  > Two candles leaning together burn longer than alone.
+  > 挚友如并蒂烛火，风愈烈时光愈明。
 
 ```
