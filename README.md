@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-14已更新 
+2025-07-15已更新 
 ```
 * 金山词霸
-  > Loving helps grow; liking just takes.
-  > 爱助生长，喜欢只懂索取。
+  > Time heals hearts and wounds.
+  > 时间愈心伤，亦平身创。
 
 * 扇贝单词
-  > The noblest art is that of making others happy.
-  > 最高贵的艺术是使人快乐的艺术。
+  > We are what we repeatedly do; excellence, then, is not an act but a habit.
+  > 每天反复做的事情造就了我们，然后你会发现，优秀不是一种行为，而是一种习惯。
 
 * 有道词典
-  > Two candles leaning together burn longer than alone.
-  > 挚友如并蒂烛火，风愈烈时光愈明。
+  > Better than yesterday is its own victory.
+  > 每日微小的进步都值得庆祝。
 
 ```
