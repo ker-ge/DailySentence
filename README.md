@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-15已更新 
+2025-07-16已更新 
 ```
 * 金山词霸
-  > Time heals hearts and wounds.
-  > 时间愈心伤，亦平身创。
+  > Success is built on failed years.
+  > 成功皆筑于经年败绩。
 
 * 扇贝单词
-  > We are what we repeatedly do; excellence, then, is not an act but a habit.
-  > 每天反复做的事情造就了我们，然后你会发现，优秀不是一种行为，而是一种习惯。
+  > You can't cross the sea merely by standing and staring at the water.
+  > 光站在那里盯着海面，是没法穿越海洋的。
 
 * 有道词典
-  > Better than yesterday is its own victory.
-  > 每日微小的进步都值得庆祝。
+  > Love isn't a transaction, it's a covenant.
+  > 爱不是交易，而是神圣的契约。
 
 ```
