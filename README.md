@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-16已更新 
+2025-07-17已更新 
 ```
 * 金山词霸
-  > Success is built on failed years.
-  > 成功皆筑于经年败绩。
+  > Judge not from appearances.
+  > 人不可貌相，海不可斗量。
 
 * 扇贝单词
-  > You can't cross the sea merely by standing and staring at the water.
-  > 光站在那里盯着海面，是没法穿越海洋的。
+  > All human wisdom is summed up in these two words: wait and hope.
+  > 人类所有的智慧可以归结为两个词：等待和希望。
 
 * 有道词典
-  > Love isn't a transaction, it's a covenant.
-  > 爱不是交易，而是神圣的契约。
+  > What unbreakable looks like? It's called faith.
+  > 当万物倾颓，唯有信念屹立如初。
 
 ```
