@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-17已更新 
+2025-07-18已更新 
 ```
 * 金山词霸
-  > Judge not from appearances.
-  > 人不可貌相，海不可斗量。
+  > Custom makes all things easy.
+  > 习惯成自然。
 
 * 扇贝单词
-  > All human wisdom is summed up in these two words: wait and hope.
-  > 人类所有的智慧可以归结为两个词：等待和希望。
+  > Go confidently in the direction of your dreams. Live the life you've imagined.
+  > 自信地往梦想的方向前进吧；去过你所设想的生活。
 
 * 有道词典
-  > What unbreakable looks like? It's called faith.
-  > 当万物倾颓，唯有信念屹立如初。
+  > Friendship isn't a trophy to collect; it's a fire to keep alive.
+  > 友情如火焰，需以真心续燃。
 
 ```
