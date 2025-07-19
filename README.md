@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-18已更新 
+2025-07-19已更新 
 ```
 * 金山词霸
-  > Custom makes all things easy.
-  > 习惯成自然。
+  > Time and tide wait for no man. 
+  > 时光如逝水，岁月不待人。
 
 * 扇贝单词
-  > Go confidently in the direction of your dreams. Live the life you've imagined.
-  > 自信地往梦想的方向前进吧；去过你所设想的生活。
+  > Lose an hour in the morning, and you will spend all day looking for it.
+  > 早上浪费一小时，得用一天的时间来弥补。
 
 * 有道词典
-  > Friendship isn't a trophy to collect; it's a fire to keep alive.
-  > 友情如火焰，需以真心续燃。
+  > The pursuit of truth begins with the courage to doubt everything.
+  > 追求真理始于质疑一切的勇气。
 
 ```
