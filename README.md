@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-19已更新 
+2025-07-20已更新 
 ```
 * 金山词霸
-  > Time and tide wait for no man. 
-  > 时光如逝水，岁月不待人。
+  > Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994
+  > 妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
 
 * 扇贝单词
-  > Lose an hour in the morning, and you will spend all day looking for it.
-  > 早上浪费一小时，得用一天的时间来弥补。
+  > Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.
+  > 简单的事，越拖越难，困难的事，越拖越不可能做。
 
 * 有道词典
-  > The pursuit of truth begins with the courage to doubt everything.
-  > 追求真理始于质疑一切的勇气。
+  > To persist is to plant seeds in a storm and believe they'll grow.
+  > 坚持是在暴雨中播种，并相信它们终将生长。
 
 ```
