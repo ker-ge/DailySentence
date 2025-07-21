@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-20已更新 
+2025-07-21已更新 
 ```
 * 金山词霸
-  > Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994
-  > 妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
+  > Strength knows conflict; weakness is born vanquished.
+  > 强者才懂斗争，弱者生来被征服。
 
 * 扇贝单词
-  > Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.
-  > 简单的事，越拖越难，困难的事，越拖越不可能做。
+  > Kindness is always fashionable, and always welcome.
+  > 善良，永不过时，也永远为人所喜闻乐见。
 
 * 有道词典
-  > To persist is to plant seeds in a storm and believe they'll grow.
-  > 坚持是在暴雨中播种，并相信它们终将生长。
+  > Love isn't about fixing someone; it's about holding space for their chaos.
+  > 爱不是修正对方，而是包容他们的混乱。
 
 ```
