@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-21已更新 
+2025-07-22已更新 
 ```
 * 金山词霸
-  > Strength knows conflict; weakness is born vanquished.
-  > 强者才懂斗争，弱者生来被征服。
+  > The secret of success is constancy to purpose.
+  > 成功的秘诀在于忠于目标。
 
 * 扇贝单词
-  > Kindness is always fashionable, and always welcome.
-  > 善良，永不过时，也永远为人所喜闻乐见。
+  > Happiness is not a station you arrive at, but a manner of traveling.
+  > 幸福并不是你所抵达的站点，而是一种旅行的方式。
 
 * 有道词典
-  > Love isn't about fixing someone; it's about holding space for their chaos.
-  > 爱不是修正对方，而是包容他们的混乱。
+  > Summer laughs in watermelon red and cicadas' song.
+  > 夏天是在西瓜的红和蝉鸣里大笑。
 
 ```
