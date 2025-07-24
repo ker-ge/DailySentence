@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-23已更新 
+2025-07-24已更新 
 ```
 * 金山词霸
-  > There are no shortcuts to any place worth going.
-  > 通往值得去的地方，从无捷径。
+  > Perfection is not attainable, but chasing it leads to excellence.
+  > 完美虽不可达，追求它却能成就卓越。
 
 * 扇贝单词
-  > He who would travel happily must travel light.
-  > 想要快乐旅行的人必须轻装上阵。
+  > When a thing is done, it's done. Don't look back. Look forward to your next objective.
+  > 事情做完了就是做完了。别回头，继续去寻找下一个目标吧！
 
 * 有道词典
-  > Loyalty is not blind—it's the choice to see and stay.
-  > 忠诚不是盲目，而是看清一切后依然留下。
+  > The bravest act is to hope, even when the ground cracks beneath you.
+  > 最勇敢的事，是当地面崩裂时仍心怀希。
 
 ```
