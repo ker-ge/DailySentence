@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-25已更新 
+2025-07-26已更新 
 ```
 * 金山词霸
-  > Pains make stronger, tears make braver,and heartbreaks make wiser.
-  > 伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
+  > I'm the king of the world!
+  > 我是世界之王！
 
 * 扇贝单词
-  > In order to be irreplaceable one must always be different.
-  > 要想变得无可替代，就必须与众不同。
+  > Go confidently in the direction of your dreams! Live the life you've imagined.
+  > 自信地朝你的梦想前进吧！去过你想要过的生活。
 
 * 有道词典
-  > True friendship is when silence feels like the loudest truth.
-  > 挚友无言，却胜过万语。
+  > The purest pursuit is not of glory, but of the self you refuse to abandon.
+  > 最纯粹的追求不是荣耀，而是永不放弃的自我。
 
 ```
