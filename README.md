@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-27已更新 
+2025-07-28已更新 
 ```
 * 金山词霸
-  > I feel the need — the need for speed!
-  > 我感觉到一种需要——速度的需要!
+  > Do the new to gain the new.
+  > 行未为之事，得未有之物。
 
 * 扇贝单词
-  > When something is important enough, you do it even if the odds are not in your favor.
-  > 当一件事情足够重要时，即便缺乏胜算，你也会去做。
+  > Knowledge speaks, but wisdom listens.
+  > 知识会说话，但智慧是会倾听。
 
 * 有道词典
-  > A friend is someone who maps the stars in your scars.
-  > 朋友是为你的伤痕描绘星辰的人。
+  > Love is the shadow where two souls meet.
+  > 爱是两个灵魂相遇的阴影。
 
 ```
