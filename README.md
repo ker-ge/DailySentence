@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-28已更新 
+2025-07-29已更新 
 ```
 * 金山词霸
-  > Do the new to gain the new.
-  > 行未为之事，得未有之物。
+  > Through the darkness, we can see the light.
+  > 捱过黑暗，才能看见光明。
 
 * 扇贝单词
-  > Knowledge speaks, but wisdom listens.
-  > 知识会说话，但智慧是会倾听。
+  > One doesn't discover new lands without consenting to lose sight of the shore for a very long time.
+  > 不愿在看不见海岸线的情况下久久漂流，是不会发现新大陆的。
 
 * 有道词典
-  > Love is the shadow where two souls meet.
-  > 爱是两个灵魂相遇的阴影。
+  > Chasing dreams isn't about speed—it's about not letting the road disappear.
+  > 追梦无关速度，而是不让前进的道路消失。
 
 ```
