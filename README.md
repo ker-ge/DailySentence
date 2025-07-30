@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-29已更新 
+2025-07-30已更新 
 ```
 * 金山词霸
-  > Through the darkness, we can see the light.
-  > 捱过黑暗，才能看见光明。
+  > Strive for tomorrow, not regret yesterday.
+  > 奋斗未来，莫悔往昔。
 
 * 扇贝单词
-  > One doesn't discover new lands without consenting to lose sight of the shore for a very long time.
-  > 不愿在看不见海岸线的情况下久久漂流，是不会发现新大陆的。
+  > Luck is what you have left over after you give 100 percent.
+  > 幸运，就是你付出百分之百后剩下的东西。
 
 * 有道词典
-  > Chasing dreams isn't about speed—it's about not letting the road disappear.
-  > 追梦无关速度，而是不让前进的道路消失。
+  > To fight when hope is a dying ember—that's how legends are born.
+  > 当希望如余烬将熄仍选择战斗，传奇由此而生。
 
 ```
