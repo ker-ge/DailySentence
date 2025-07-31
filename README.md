@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-30已更新 
+2025-07-31已更新 
 ```
 * 金山词霸
-  > Strive for tomorrow, not regret yesterday.
-  > 奋斗未来，莫悔往昔。
+  > You are unique; nothing can replace you.
+  > 你举世无双，无人可以替代。
 
 * 扇贝单词
-  > Luck is what you have left over after you give 100 percent.
-  > 幸运，就是你付出百分之百后剩下的东西。
+  > The trees that are slow to grow bear the best fruit.
+  > 长得很慢的树，能结出最好的果子。
 
 * 有道词典
-  > To fight when hope is a dying ember—that's how legends are born.
-  > 当希望如余烬将熄仍选择战斗，传奇由此而生。
+  > Unity is the bridge built by a thousand different hands.
+  > 团结是一千双不同的手共同搭建的桥。
 
 ```
