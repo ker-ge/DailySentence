@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-07-31已更新 
+2025-08-01已更新 
 ```
 * 金山词霸
-  > You are unique; nothing can replace you.
-  > 你举世无双，无人可以替代。
+  > Your silent march through storms writes peace upon our land.
+  > 你穿越风暴的无声行进，在大地写下和平。
 
 * 扇贝单词
-  > The trees that are slow to grow bear the best fruit.
-  > 长得很慢的树，能结出最好的果子。
+  > Difficulties strengthen the mind, as labor does the body.
+  > 困难能磨练心志，正如劳动能强壮体魄。
 
 * 有道词典
-  > Unity is the bridge built by a thousand different hands.
-  > 团结是一千双不同的手共同搭建的桥。
+  > Love is when the world falls apart, but you still know their hand.
+  > 爱是当世界崩塌时，仍能认出对方的手。
 
 ```
