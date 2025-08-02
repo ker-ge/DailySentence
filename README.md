@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-01已更新 
+2025-08-02已更新 
 ```
 * 金山词霸
-  > Your silent march through storms writes peace upon our land.
-  > 你穿越风暴的无声行进，在大地写下和平。
+  > You had me at hello; it was love at first sight. — Friends
+  > 你一开口我就沦陷了；那是爱情的初见。—《老友记》
 
 * 扇贝单词
-  > Difficulties strengthen the mind, as labor does the body.
-  > 困难能磨练心志，正如劳动能强壮体魄。
+  > Kites rise highest against the wind, not with it.
+  > 风筝逆风才能高飞——而不是顺风。
 
 * 有道词典
-  > Love is when the world falls apart, but you still know their hand.
-  > 爱是当世界崩塌时，仍能认出对方的手。
+  > Chasing stars isn't about light—it's about learning to walk in the dark.
+  > 追星无关光芒，而是学会在黑暗中前行。
 
 ```
