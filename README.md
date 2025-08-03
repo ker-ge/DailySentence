@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-02已更新 
+2025-08-03已更新 
 ```
 * 金山词霸
-  > You had me at hello; it was love at first sight. — Friends
-  > 你一开口我就沦陷了；那是爱情的初见。—《老友记》
+  > The truth is out there, and it's waiting. — The X-Files 
+  > 真相在外面，它在等待。 —《X档案》
 
 * 扇贝单词
-  > Kites rise highest against the wind, not with it.
-  > 风筝逆风才能高飞——而不是顺风。
+  > There is an applause superior to that of the multitudes: one's own.
+  > 有一种掌声，比大众的掌声更优裕：那就是你自己给自己鼓的掌。
 
 * 有道词典
-  > Chasing stars isn't about light—it's about learning to walk in the dark.
-  > 追星无关光芒，而是学会在黑暗中前行。
+  > Time is a river that drowns the weak but carries the stubborn.
+  > 时间是溺毙弱者的河，却托起倔强者的舟。
 
 ```
