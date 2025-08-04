@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-03已更新 
+2025-08-04已更新 
 ```
 * 金山词霸
-  > The truth is out there, and it's waiting. — The X-Files 
-  > 真相在外面，它在等待。 —《X档案》
+  > A lazy youth, a lousy age.
+  > 少壮不努力，老大徒伤悲。
 
 * 扇贝单词
-  > There is an applause superior to that of the multitudes: one's own.
-  > 有一种掌声，比大众的掌声更优裕：那就是你自己给自己鼓的掌。
+  > Change the way you look at things and the things you look at change.
+  > 改变你看待事物的方式，你所看到的事物也会改变。
 
 * 有道词典
-  > Time is a river that drowns the weak but carries the stubborn.
-  > 时间是溺毙弱者的河，却托起倔强者的舟。
+  > Sacrifice is not losing something—it's planting seeds in someone else's sky.
+  > 牺牲不是失去，而是在他人的天空中播种。
 
 ```
