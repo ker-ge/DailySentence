@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-04已更新 
+2025-08-05已更新 
 ```
 * 金山词霸
-  > A lazy youth, a lousy age.
-  > 少壮不努力，老大徒伤悲。
+  > Nurture passes nature.
+  > 教养胜过天性。
 
 * 扇贝单词
-  > Change the way you look at things and the things you look at change.
-  > 改变你看待事物的方式，你所看到的事物也会改变。
+  > Believe you can and you're halfway there.
+  > 相信自己能成功，你就已经成功了一半。
 
 * 有道词典
-  > Sacrifice is not losing something—it's planting seeds in someone else's sky.
-  > 牺牲不是失去，而是在他人的天空中播种。
+  > Courage is not a roar—it's the whisper that says 'try again'.
+  > 勇气不是咆哮，而是轻语“再试一次”。
 
 ```
