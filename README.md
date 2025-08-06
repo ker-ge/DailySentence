@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-05已更新 
+2025-08-06已更新 
 ```
 * 金山词霸
-  > Nurture passes nature.
-  > 教养胜过天性。
+  > One swallow does not make a summer.
+  > 一燕不成夏（一花独放不是春）。
 
 * 扇贝单词
-  > Believe you can and you're halfway there.
-  > 相信自己能成功，你就已经成功了一半。
+  > A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power.
+  > 一个清晰的愿景，加以明确计划的支持，会给你极大的信心和个人力量。
 
 * 有道词典
-  > Courage is not a roar—it's the whisper that says 'try again'.
-  > 勇气不是咆哮，而是轻语“再试一次”。
+  > Friendship is two umbrellas in one storm—leaking but laughing.
+  > 友谊是暴雨中两把漏雨的伞，狼狈却大笑。
 
 ```
