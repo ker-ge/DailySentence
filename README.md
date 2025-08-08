@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-07已更新 
+2025-08-08已更新 
 ```
 * 金山词霸
-  > Courage is not the absence of fear, but the will to guard what we cherish.
-  > 勇气非无畏，而是守护所爱的意志。
+  > Poverty is stranger to industry.
+  > 勤劳之人不受穷。
 
 * 扇贝单词
-  > When you finally go back to your old hometown, you find it wasn't the old home you missed but your childhood.
-  > 当你终于重归故里，你会发现自己思念的，不是故乡，而是童年。
+  > Goodness is the only investment that never fails.
+  > 善良是唯一不会失败的投资。
 
 * 有道词典
-  > Growing means watering the seed, even when you can't see the roots.
-  > 成长是灌溉种子，哪怕看不见根系。
+  > Hope is the crack where light learns to dance.
+  > 希望是光明学会起舞的裂缝。
 
 ```
