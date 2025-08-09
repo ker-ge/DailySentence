@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-08已更新 
+2025-08-09已更新 
 ```
 * 金山词霸
-  > Poverty is stranger to industry.
-  > 勤劳之人不受穷。
+  > Everything has beauty, but not everyone sees it. — Confucius
+  > 万物皆有美，只是并非所有人都能看到。 — 孔子
 
 * 扇贝单词
-  > Goodness is the only investment that never fails.
-  > 善良是唯一不会失败的投资。
+  > If you want the best the world has to offer, offer the world your best.
+  > 若想得到世界上最好的东西，先向世界展现最好的你。
 
 * 有道词典
-  > Hope is the crack where light learns to dance.
-  > 希望是光明学会起舞的裂缝。
+  > Forgiveness is the flower that grows where wounds once bled.
+  > 宽恕是从伤口中开出的花。
 
 ```
