@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-09已更新 
+2025-08-10已更新 
 ```
 * 金山词霸
-  > Everything has beauty, but not everyone sees it. — Confucius
-  > 万物皆有美，只是并非所有人都能看到。 — 孔子
+  >  Love is the only reality.— James M. Barrie, Peter Pan
+  > 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
 
 * 扇贝单词
-  > If you want the best the world has to offer, offer the world your best.
-  > 若想得到世界上最好的东西，先向世界展现最好的你。
+  > Neither abstinence nor excess ever renders man happy.
+  > 不论是节制还是过度都不能给人带来快乐。
 
 * 有道词典
-  > Forgiveness is the flower that grows where wounds once bled.
-  > 宽恕是从伤口中开出的花。
+  > Trust is building a bridge when you can't see the other shore.
+  > 信任是看不见彼岸时仍搭建的桥。
 
 ```
