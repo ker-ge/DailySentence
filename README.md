@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-10已更新 
+2025-08-11已更新 
 ```
 * 金山词霸
-  >  Love is the only reality.— James M. Barrie, Peter Pan
-  > 爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
+  > Hope is a good thing, maybe the best of things.
+  > 希望是美好的，也许是人间至善。
 
 * 扇贝单词
-  > Neither abstinence nor excess ever renders man happy.
-  > 不论是节制还是过度都不能给人带来快乐。
+  > A positive attitude will have positive results because attitudes are contagious.
+  > 积极的态度会带来积极的结果，因为态度是具有感染力的。
 
 * 有道词典
-  > Trust is building a bridge when you can't see the other shore.
-  > 信任是看不见彼岸时仍搭建的桥。
+  > Resilience is the song the heart sings after the world shouts 'stop'.
+  > 坚韧是世界高喊“停下”后，心依然吟唱的歌。
 
 ```
