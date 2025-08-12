@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-11已更新 
+2025-08-12已更新 
 ```
 * 金山词霸
-  > Hope is a good thing, maybe the best of things.
-  > 希望是美好的，也许是人间至善。
+  > The heart is seen in wine.
+  > 酒后吐真言。
 
 * 扇贝单词
-  > A positive attitude will have positive results because attitudes are contagious.
-  > 积极的态度会带来积极的结果，因为态度是具有感染力的。
+  > Whatever is worth doing at all is worth doing well.
+  > 任何值得做的事，都值得将其做好。
 
 * 有道词典
-  > Resilience is the song the heart sings after the world shouts 'stop'.
-  > 坚韧是世界高喊“停下”后，心依然吟唱的歌。
+  > Inspiration is the spark that survives the flood.
+  > 灵感是洪水中幸存的一粒火星。
 
 ```
