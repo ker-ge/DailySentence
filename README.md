@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-12已更新 
+2025-08-13已更新 
 ```
 * 金山词霸
-  > The heart is seen in wine.
-  > 酒后吐真言。
+  > The worse luck now, the better another time.
+  > 风水轮流转。
 
 * 扇贝单词
-  > Whatever is worth doing at all is worth doing well.
-  > 任何值得做的事，都值得将其做好。
+  > The more we do, the more we can do.
+  > 我们做的越多，能做的也就越多。
 
 * 有道词典
-  > Inspiration is the spark that survives the flood.
-  > 灵感是洪水中幸存的一粒火星。
+  > Patience is waiting for the seed to find its own light in the dark.
+  > 耐心是等待种子在黑暗中找到自己的光。
 
 ```
