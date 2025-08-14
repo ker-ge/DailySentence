@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-13已更新 
+2025-08-14已更新 
 ```
 * 金山词霸
-  > The worse luck now, the better another time.
-  > 风水轮流转。
+  > Use legs and have legs.
+  > 经常用腿，健步如飞。
 
 * 扇贝单词
-  > The more we do, the more we can do.
-  > 我们做的越多，能做的也就越多。
+  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
+  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
 
 * 有道词典
-  > Patience is waiting for the seed to find its own light in the dark.
-  > 耐心是等待种子在黑暗中找到自己的光。
+  > Love is the fire that warms without burning the hand that holds it.
+  > 爱是捧在手心却不灼伤你的火焰。
 
 ```
