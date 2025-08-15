@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-14已更新 
+2025-08-15已更新 
 ```
 * 金山词霸
-  > Use legs and have legs.
-  > 经常用腿，健步如飞。
+  > Virtue never grows old.
+  > 美德常青。
 
 * 扇贝单词
-  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
-  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
+  > Keep a little fire burning; however small, however hidden.
+  > 让心中的火苗一直燃烧吧，不管那有多微弱，不管藏得有多深。
 
 * 有道词典
-  > Love is the fire that warms without burning the hand that holds it.
-  > 爱是捧在手心却不灼伤你的火焰。
+  > Transformation is the butterfly insisting it was always meant to fly.
+  > 蜕变是蝴蝶坚信自己生来就要飞翔。
 
 ```
