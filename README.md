@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-16已更新 
+2025-08-17已更新 
 ```
 * 金山词霸
-  > To love and be loved is to feel the sun from both sides. — David Viscott
-  > 爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
+  > They call it a Royale with cheese.— Pulp Fiction 
+  > 他们称之为奶酪皇堡。—《低俗小说》
 
 * 扇贝单词
-  > Nothing you wear is more important than your smile.
-  > 不管如何穿戴，都不比带上你的微笑。
+  > An aim in life is the only fortune worth finding.
+  > 生活的目标，是唯一值得我们去寻找的财富。
 
 * 有道词典
-  > Innocence is the wildflower that refuses to be tamed by seasons.
-  > 天真是一朵拒绝被季节驯服的野花。
+  > Love is the mirror that shows you the self you've forgotten to see.
+  > 爱是一面镜子，映出你遗忘的自己。
 
 ```
