@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-17已更新 
+2025-08-18已更新 
 ```
 * 金山词霸
-  > They call it a Royale with cheese.— Pulp Fiction 
-  > 他们称之为奶酪皇堡。—《低俗小说》
+  > The wealth of the mind is the only wealth.
+  > 精神的财富是唯一的财富。
 
 * 扇贝单词
-  > An aim in life is the only fortune worth finding.
-  > 生活的目标，是唯一值得我们去寻找的财富。
+  > Promise yourself to be so strong that nothing can disturb your peace of mind.
+  > 对自己承诺：要强大到任何事情都无法破坏你内心的平和。 ​​​​
 
 * 有道词典
-  > Love is the mirror that shows you the self you've forgotten to see.
-  > 爱是一面镜子，映出你遗忘的自己。
+  > Art is the color of stories that words refuse to tell.
+  > 艺术是语言无法讲述的故事色彩。
 
 ```
