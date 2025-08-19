@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-18已更新 
+2025-08-19已更新 
 ```
 * 金山词霸
-  > The wealth of the mind is the only wealth.
-  > 精神的财富是唯一的财富。
+  > Students outshine teachers, like blue beyond indigo.​
+  > 学生超过老师，后人胜过前人。
 
 * 扇贝单词
-  > Promise yourself to be so strong that nothing can disturb your peace of mind.
-  > 对自己承诺：要强大到任何事情都无法破坏你内心的平和。 ​​​​
+  > We are the hero of our own story.
+  > 我们都是我们自己故事里的英雄。
 
 * 有道词典
-  > Art is the color of stories that words refuse to tell.
-  > 艺术是语言无法讲述的故事色彩。
+  > To love is to plant a tree knowing you may never sit in its shade.
+  > 爱如栽树，荫寄后来人。
 
 ```
