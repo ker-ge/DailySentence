@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-19已更新 
+2025-08-20已更新 
 ```
 * 金山词霸
-  > Students outshine teachers, like blue beyond indigo.​
-  > 学生超过老师，后人胜过前人。
+  > Wasting time is robbing oneself.
+  > 浪费时间就是掠夺自己。
 
 * 扇贝单词
-  > We are the hero of our own story.
-  > 我们都是我们自己故事里的英雄。
+  > I'll let you be in my dreams if I can be in yours.
+  > 如果我能进入你的梦乡，我也会把你拥入我的梦里。
 
 * 有道词典
-  > To love is to plant a tree knowing you may never sit in its shade.
-  > 爱如栽树，荫寄后来人。
+  > Courage is the whisper that drowns out the roar of 'impossible'.
+  > 勇气是淹没“不可能”轰鸣的耳语。
 
 ```
