@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-20已更新 
+2025-08-21已更新 
 ```
 * 金山词霸
-  > Wasting time is robbing oneself.
-  > 浪费时间就是掠夺自己。
+  > The rough road often leads to the top.
+  > 艰难的道路经常通往高处。
 
 * 扇贝单词
-  > I'll let you be in my dreams if I can be in yours.
-  > 如果我能进入你的梦乡，我也会把你拥入我的梦里。
+  > Money is better than poverty, if only for financial reasons.
+  > 钱比贫穷更好，如果仅仅因为经济原因的话。
 
 * 有道词典
-  > Courage is the whisper that drowns out the roar of 'impossible'.
-  > 勇气是淹没“不可能”轰鸣的耳语。
+  > Memory is the fossil imprinted in the bedrock of consciousness.
+  > 记忆是镌刻在意识岩床中的化石。
 
 ```
