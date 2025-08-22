@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-21已更新 
+2025-08-22已更新 
 ```
 * 金山词霸
-  > The rough road often leads to the top.
-  > 艰难的道路经常通往高处。
+  > I’m talking about a lifetime. One second less makes it less!
+  > 说的是一辈子！差一年，一个月，一天，一个时辰...都不算一辈子！
 
 * 扇贝单词
-  > Money is better than poverty, if only for financial reasons.
-  > 钱比贫穷更好，如果仅仅因为经济原因的话。
+  > When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+  > 当你排除掉了所有的不可能，剩下的无论多么说不通，它都一定是真相。
 
 * 有道词典
-  > Memory is the fossil imprinted in the bedrock of consciousness.
-  > 记忆是镌刻在意识岩床中的化石。
+  > Failure is the compass pointing to roads not taken by the brave.
+  > 失败是为勇者指引未择之路的罗盘。
 
 ```
