@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-22已更新 
+2025-08-23已更新 
 ```
 * 金山词霸
-  > I’m talking about a lifetime. One second less makes it less!
-  > 说的是一辈子！差一年，一个月，一天，一个时辰...都不算一辈子！
+  > I am the one who knocks, not you.— Breaking Bad 
+  > 我才是那个敲门的人，不是你。 —《绝命毒师》
 
 * 扇贝单词
-  > When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
-  > 当你排除掉了所有的不可能，剩下的无论多么说不通，它都一定是真相。
+  > Be careful about reading health books. You may die of a misprint.
+  > 读健康类书籍可得小心！你可能会因为一点印刷错误丢了性命。
 
 * 有道词典
-  > Failure is the compass pointing to roads not taken by the brave.
-  > 失败是为勇者指引未择之路的罗盘。
+  > The moon's shadow is a compass needle pointing to lost tides.
+  > 月影是指向失落潮汐的罗盘针。
 
 ```
