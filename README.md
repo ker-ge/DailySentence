@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-23已更新 
+2025-08-24已更新 
 ```
 * 金山词霸
-  > I am the one who knocks, not you.— Breaking Bad 
-  > 我才是那个敲门的人，不是你。 —《绝命毒师》
+  > Winter is coming, and we must be prepared.— Game of Thrones
+  > 寒冬将至，我们必须做好准备。—《权力的游戏》
 
 * 扇贝单词
-  > Be careful about reading health books. You may die of a misprint.
-  > 读健康类书籍可得小心！你可能会因为一点印刷错误丢了性命。
+  > Never explain — your friends do not need it and your enemies will not believe you anyway.
+  > 不用解释——你的朋友不需要，而你的敌人如何也不相信。
 
 * 有道词典
-  > The moon's shadow is a compass needle pointing to lost tides.
-  > 月影是指向失落潮汐的罗盘针。
+  > Friendship is two shadows sharing one sunset.
+  > 友谊是共享暮色的双影。
 
 ```
