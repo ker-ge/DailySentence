@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-24已更新 
+2025-08-25已更新 
 ```
 * 金山词霸
-  > Winter is coming, and we must be prepared.— Game of Thrones
-  > 寒冬将至，我们必须做好准备。—《权力的游戏》
+  > A mind stretched by new experience never returns to old dimensions.
+  > 新体验拓展的思维，永不缩回原有维度。
 
 * 扇贝单词
-  > Never explain — your friends do not need it and your enemies will not believe you anyway.
-  > 不用解释——你的朋友不需要，而你的敌人如何也不相信。
+  > A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author.
+  > 一本好的小说告诉我们关于主角的种种真相；而一本糟糕的小说告诉我们关于作家自己的种种真相。
 
 * 有道词典
-  > Friendship is two shadows sharing one sunset.
-  > 友谊是共享暮色的双影。
+  > To persist is to let roots grow through concrete.
+  > 坚持是任根系穿透水泥生长。
 
 ```
