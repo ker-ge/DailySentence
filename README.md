@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-25已更新 
+2025-08-26已更新 
 ```
 * 金山词霸
-  > A mind stretched by new experience never returns to old dimensions.
-  > 新体验拓展的思维，永不缩回原有维度。
+  > ​​Heights scaled demand mastery of descent.​
+  > 攀高者，必精于俯身。
 
 * 扇贝单词
-  > A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author.
-  > 一本好的小说告诉我们关于主角的种种真相；而一本糟糕的小说告诉我们关于作家自己的种种真相。
+  > Everyone is necessarily the hero of his own life story.
+  > 每个人都必定是自己人生故事中的主角。
 
 * 有道词典
-  > To persist is to let roots grow through concrete.
-  > 坚持是任根系穿透水泥生长。
+  > Pursuit is the seed that cracks glaciers.
+  > 执着如种子，能破冰川而生。
 
 ```
