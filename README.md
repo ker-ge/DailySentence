@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-26已更新 
+2025-08-27已更新 
 ```
 * 金山词霸
-  > ​​Heights scaled demand mastery of descent.​
-  > 攀高者，必精于俯身。
+  > Today is important. If it matters, do it today!
+  > 活在当下，重要的事今天就做！
 
 * 扇贝单词
-  > Everyone is necessarily the hero of his own life story.
-  > 每个人都必定是自己人生故事中的主角。
+  > Famous remarks are very seldom quoted correctly.
+  > 名言很少能被正确引用。
 
 * 有道词典
-  > Pursuit is the seed that cracks glaciers.
-  > 执着如种子，能破冰川而生。
+  > Trust is the telescope that sees through black holes.
+  > 信任是窥穿黑洞的望远镜。
 
 ```
