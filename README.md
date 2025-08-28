@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-27已更新 
+2025-08-28已更新 
 ```
 * 金山词霸
-  > Today is important. If it matters, do it today!
-  > 活在当下，重要的事今天就做！
+  > Behind the guise lies conviction, impervious to mortal arms.
+  > 假面之下藏信念，凡兵利器不可侵。
 
 * 扇贝单词
-  > Famous remarks are very seldom quoted correctly.
-  > 名言很少能被正确引用。
+  > Food is the most primitive form of comfort.
+  > 食物是最原始的安慰人心的东西。
 
 * 有道词典
-  > Trust is the telescope that sees through black holes.
-  > 信任是窥穿黑洞的望远镜。
+  > Friendship plants forests in silent deserts.
+  > 友谊是在寂静荒漠栽种森林。
 
 ```
