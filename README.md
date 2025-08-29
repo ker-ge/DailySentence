@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-28已更新 
+2025-08-29已更新 
 ```
 * 金山词霸
-  > Behind the guise lies conviction, impervious to mortal arms.
-  > 假面之下藏信念，凡兵利器不可侵。
+  > Meet me where the magpies bridge the sky, just once a year yet forever.
+  > 鹊桥相会，一年一度，却是一生一世。
 
 * 扇贝单词
-  > Food is the most primitive form of comfort.
-  > 食物是最原始的安慰人心的东西。
+  > Well-timed silence has more eloquence than speech.
+  > 时机恰当的沉默比话语更有说服力。
 
 * 有道词典
-  > Friendship plants forests in silent deserts.
-  > 友谊是在寂静荒漠栽种森林。
+  > Love grows with every breath, like vines entwining time.
+  > 爱在每一次呼吸间生长，如同藤蔓缠绕时光。
 
 ```
