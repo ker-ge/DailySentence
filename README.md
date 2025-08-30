@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-29已更新 
+2025-08-30已更新 
 ```
 * 金山词霸
-  > Meet me where the magpies bridge the sky, just once a year yet forever.
-  > 鹊桥相会，一年一度，却是一生一世。
+  > The only limit to our realization of tomorrow is our doubts today. — The West Wing
+  > 对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
 
 * 扇贝单词
-  > Well-timed silence has more eloquence than speech.
-  > 时机恰当的沉默比话语更有说服力。
+  > The two most important days in your life are the day you are born and the day you find out why.
+  > 生命中最重要的两天，是你出生的那一天，和你弄清楚为何而生的那一天。
 
 * 有道词典
-  > Love grows with every breath, like vines entwining time.
-  > 爱在每一次呼吸间生长，如同藤蔓缠绕时光。
+  > Loyalty stays like lighthouse beams in stormy nights.
+  > 忠诚如暴风雨夜的灯塔光束。
 
 ```
