@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-30已更新 
+2025-08-31已更新 
 ```
 * 金山词霸
-  > The only limit to our realization of tomorrow is our doubts today. — The West Wing
-  > 对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
+  > Turn your wounds into wisdom. — Oprah Winfrey
+  > 把伤口变成智慧。 — 奥普拉·温弗瑞
 
 * 扇贝单词
-  > The two most important days in your life are the day you are born and the day you find out why.
-  > 生命中最重要的两天，是你出生的那一天，和你弄清楚为何而生的那一天。
+  > Fashion is a form of ugliness so intolerable that we have to alter it every six months.
+  > 时尚是一种无法容忍的丑陋，以至于我们每六个月就得改变它一次。
 
 * 有道词典
-  > Loyalty stays like lighthouse beams in stormy nights.
-  > 忠诚如暴风雨夜的灯塔光束。
+  > Friendship lights candles in shared darkness.
+  > 友谊于共处的黑暗中点燃烛火。
 
 ```
