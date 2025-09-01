@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-08-31已更新 
+2025-09-01已更新 
 ```
 * 金山词霸
-  > Turn your wounds into wisdom. — Oprah Winfrey
-  > 把伤口变成智慧。 — 奥普拉·温弗瑞
+  > Books are passports you never need to renew.
+  > 书籍是永不过期的护照。
 
 * 扇贝单词
-  > Fashion is a form of ugliness so intolerable that we have to alter it every six months.
-  > 时尚是一种无法容忍的丑陋，以至于我们每六个月就得改变它一次。
+  > Never eat more than you can lift.
+  > 吃的永远不要比能拿的多。
 
 * 有道词典
-  > Friendship lights candles in shared darkness.
-  > 友谊于共处的黑暗中点燃烛火。
+  > Unity turns raindrops into rivers that move mountains.
+  > 团结让雨滴汇成移山的江河。
 
 ```
