@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-03已更新 
+2025-09-04已更新 
 ```
 * 金山词霸
-  > On the parade ground, every step echoes a nation's heartbeat.
-  > 阅兵场上，每一步都回响着国家的心跳。
+  > Compliment yourself daily.
+  > 每天夸自己一句。
 
 * 扇贝单词
-  > Self-confidence is the first requisite to great undertakings.
-  > 自信是成大事的首要条件。
+  > Education's purpose is to replace an empty mind with an open one.
+  > 教育的目的是使空洞的大脑变得开放宽广。
 
 * 有道词典
-  > Friendship is remembering how they take their coffee.
-  > 友谊是记得对方喝咖啡加几块糖。
+  > Gratitude grows wild like dandelions in parking lots.
+  > 感恩如停车场疯长的蒲公英。
 
 ```
