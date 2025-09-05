@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-04已更新 
+2025-09-05已更新 
 ```
 * 金山词霸
-  > Compliment yourself daily.
-  > 每天夸自己一句。
+  > In the age of AI, curiosity is still our superpower.  
+  > 在AI时代，好奇心仍是我们的超能力。
 
 * 扇贝单词
-  > Education's purpose is to replace an empty mind with an open one.
-  > 教育的目的是使空洞的大脑变得开放宽广。
+  > Life wouldn't be worth living if I worried over the future as well as the present.
+  > 如果我既担忧未来又担忧现在，那么这样的生活不值得我去过。
 
 * 有道词典
-  > Gratitude grows wild like dandelions in parking lots.
-  > 感恩如停车场疯长的蒲公英。
+  > Home is the flashlight left on the porch for late workers.
+  > 家是为晚归者留在门廊的手电筒。
 
 ```
