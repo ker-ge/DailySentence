@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-05已更新 
+2025-09-06已更新 
 ```
 * 金山词霸
-  > In the age of AI, curiosity is still our superpower.  
-  > 在AI时代，好奇心仍是我们的超能力。
+  > Life is a beautiful struggle.
+  > 生活是一场美丽的挣扎。
 
 * 扇贝单词
-  > Life wouldn't be worth living if I worried over the future as well as the present.
-  > 如果我既担忧未来又担忧现在，那么这样的生活不值得我去过。
+  > I often quote myself. It adds spice to my conversation.
+  > 我常常引用自己的话，它可以为我的谈话增添点色彩。
 
 * 有道词典
-  > Home is the flashlight left on the porch for late workers.
-  > 家是为晚归者留在门廊的手电筒。
+  > To endure is to let raindrops carve mountains.
+  > 坚持是任雨滴雕凿山峦。
 
 ```
