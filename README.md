@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-06已更新 
+2025-09-07已更新 
 ```
 * 金山词霸
-  > Life is a beautiful struggle.
-  > 生活是一场美丽的挣扎。
+  > Success is not how high you have climbed, but how you make a positive difference.
+  > 成功不是你攀登的高度，而是你做出的积极差异。
 
 * 扇贝单词
-  > I often quote myself. It adds spice to my conversation.
-  > 我常常引用自己的话，它可以为我的谈话增添点色彩。
+  > Every day, in every way, I am getting better and better.
+  > 每一天，我都在以各种方式变得越来越好。
 
 * 有道词典
-  > To endure is to let raindrops carve mountains.
-  > 坚持是任雨滴雕凿山峦。
+  > Love ignites when your shadow drinks from the same moon as mine.
+  > 双影汲孤月，燃情作烬烟。
 
 ```
