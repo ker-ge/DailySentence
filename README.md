@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-07已更新 
+2025-09-08已更新 
 ```
 * 金山词霸
-  > Success is not how high you have climbed, but how you make a positive difference.
-  > 成功不是你攀登的高度，而是你做出的积极差异。
+  > Patience is quiet strength.
+  > 耐心是无声的力量。
 
 * 扇贝单词
-  > Every day, in every way, I am getting better and better.
-  > 每一天，我都在以各种方式变得越来越好。
+  > Simplicity is the peak of civilization.
+  > 极简是文明的极致。
 
 * 有道词典
-  > Love ignites when your shadow drinks from the same moon as mine.
-  > 双影汲孤月，燃情作烬烟。
+  > Love is the unsent letter folded into a paper crane's wings.
+  > 未寄出的情书折成纸鹤翅膀。
 
 ```
