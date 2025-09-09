@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-08已更新 
+2025-09-09已更新 
 ```
 * 金山词霸
-  > Patience is quiet strength.
-  > 耐心是无声的力量。
+  > In the middle of adversity lies opportunity.
+  > 困难的中心蕴藏着机遇
 
 * 扇贝单词
-  > Simplicity is the peak of civilization.
-  > 极简是文明的极致。
+  > Only the mediocre are always at their best.
+  > 只有平庸的人才会永远在他们最好的状态。
 
 * 有道词典
-  > Love is the unsent letter folded into a paper crane's wings.
-  > 未寄出的情书折成纸鹤翅膀。
+  > Friendship melts glaciers with the heat of shared silence.
+  > 与朋友共度的沉默以热度融化冰川。
 
 ```
