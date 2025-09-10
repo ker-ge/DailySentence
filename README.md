@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-09已更新 
+2025-09-10已更新 
 ```
 * 金山词霸
-  > In the middle of adversity lies opportunity.
-  > 困难的中心蕴藏着机遇
+  > A teacher plants seeds of curiosity that bloom forever.
+  > 教师播下的好奇之种，会永远盛开。
 
 * 扇贝单词
-  > Only the mediocre are always at their best.
-  > 只有平庸的人才会永远在他们最好的状态。
+  > It is not necessary to understand things in order to argue about them.
+  > 没有必要为了争论事物而去理解事物。
 
 * 有道词典
-  > Friendship melts glaciers with the heat of shared silence.
-  > 与朋友共度的沉默以热度融化冰川。
+  > Teachers water courage in the cracks of our doubts.
+  > 老师在怀疑的裂缝里浇灌勇气。
 
 ```
