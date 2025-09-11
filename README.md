@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-10已更新 
+2025-09-11已更新 
 ```
 * 金山词霸
-  > A teacher plants seeds of curiosity that bloom forever.
-  > 教师播下的好奇之种，会永远盛开。
+  > Prejudice is the child of ignorance.
+  > 偏见是无知的产物。
 
 * 扇贝单词
-  > It is not necessary to understand things in order to argue about them.
-  > 没有必要为了争论事物而去理解事物。
+  > Parents were invented to make children happy by giving them something to ignore.
+  > 父母的存在，是有意让孩子忽略一些事情，从而让他们感到欢乐。
 
 * 有道词典
-  > Teachers water courage in the cracks of our doubts.
-  > 老师在怀疑的裂缝里浇灌勇气。
+  > We are magnetic stars collapsing into each other's event horizons.
+  > 我们是彼此坠向命运深渊却互相牵引的磁星。
 
 ```
