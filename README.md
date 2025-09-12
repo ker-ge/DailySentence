@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-11已更新 
+2025-09-12已更新 
 ```
 * 金山词霸
-  > Prejudice is the child of ignorance.
-  > 偏见是无知的产物。
+  > Stress is a compass, not a cage.
+  > 压力是罗盘，而非牢笼。
 
 * 扇贝单词
-  > Parents were invented to make children happy by giving them something to ignore.
-  > 父母的存在，是有意让孩子忽略一些事情，从而让他们感到欢乐。
+  > One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+  > 一台机器能干五十个普通人的活，但一个杰出的人的工作没有机器可以做。
 
 * 有道词典
-  > We are magnetic stars collapsing into each other's event horizons.
-  > 我们是彼此坠向命运深渊却互相牵引的磁星。
+  > A river carves mountains not by force, but by persistence.
+  > 河流切割山峦，非凭蛮力，唯靠坚持。
 
 ```
