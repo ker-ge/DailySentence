@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-12已更新 
+2025-09-13已更新 
 ```
 * 金山词霸
-  > Stress is a compass, not a cage.
-  > 压力是罗盘，而非牢笼。
+  > I could have been a contender.
+  > 我本可以成为强者。
 
 * 扇贝单词
-  > One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
-  > 一台机器能干五十个普通人的活，但一个杰出的人的工作没有机器可以做。
+  > The world is full of willing people, some willing to work, the rest willing to let them.
+  > 这个世界充满了乐于做事的人。一些人乐意工作，其余的人乐意让他们工作。
 
 * 有道词典
-  > A river carves mountains not by force, but by persistence.
-  > 河流切割山峦，非凭蛮力，唯靠坚持。
+  > To reach undiscovered stars, one must first lose sight of the shore.
+  > 欲抵未见之星，须敢失岸于视野。
 
 ```
