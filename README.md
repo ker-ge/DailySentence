@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-13已更新 
+2025-09-14已更新 
 ```
 * 金山词霸
-  > I could have been a contender.
-  > 我本可以成为强者。
+  > What lies behind us and what lies before us are tiny matters.
+  > 我们背后和面前的事情都是小事。
 
 * 扇贝单词
-  > The world is full of willing people, some willing to work, the rest willing to let them.
-  > 这个世界充满了乐于做事的人。一些人乐意工作，其余的人乐意让他们工作。
+  > While we try to teach our children all about life, our children teach us what life is all about.
+  > 当我们教会孩子生活的一切时，孩子却教会我们什么是生活的真谛。
 
 * 有道词典
-  > To reach undiscovered stars, one must first lose sight of the shore.
-  > 欲抵未见之星，须敢失岸于视野。
+  > The world is quiet here. And we make our own light.
+  > 世界在此沉寂，但我们为自己照亮前路。
 
 ```
