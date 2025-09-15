@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-14已更新 
+2025-09-15已更新 
 ```
 * 金山词霸
-  > What lies behind us and what lies before us are tiny matters.
-  > 我们背后和面前的事情都是小事。
+  > 爱总会赢。  
+  > Love wins always.  
 
 * 扇贝单词
-  > While we try to teach our children all about life, our children teach us what life is all about.
-  > 当我们教会孩子生活的一切时，孩子却教会我们什么是生活的真谛。
+  > Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+  > 世上只有两种东西是无限的：宇宙以及人类的愚蠢。而对于前者，我还不太确定。
 
 * 有道词典
-  > The world is quiet here. And we make our own light.
-  > 世界在此沉寂，但我们为自己照亮前路。
+  > We are not what we have lost. We are what we have left.
+  > 定义我们的不是失去，而是我们依然拥有的。
 
 ```
