@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-15已更新 
+2025-09-16已更新 
 ```
 * 金山词霸
-  > 爱总会赢。  
-  > Love wins always.  
+  > Persist through every storm you face.
+  > 面对任何风暴都要坚持。
 
 * 扇贝单词
-  > Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
-  > 世上只有两种东西是无限的：宇宙以及人类的愚蠢。而对于前者，我还不太确定。
+  > You can't build a reputation on what you are going to do.
+  > 你是无法靠你打算去做的事情树立名声的。
 
 * 有道词典
-  > We are not what we have lost. We are what we have left.
-  > 定义我们的不是失去，而是我们依然拥有的。
+  > I'm a work of art, and art isn't always nice.
+  > 我本成艺术，独特而但并非完美。
 
 ```
