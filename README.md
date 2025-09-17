@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-16已更新 
+2025-09-17已更新 
 ```
 * 金山词霸
-  > Persist through every storm you face.
-  > 面对任何风暴都要坚持。
+  > Choose joy every single new day.
+  > 每天重新选择快乐。
 
 * 扇贝单词
-  > You can't build a reputation on what you are going to do.
-  > 你是无法靠你打算去做的事情树立名声的。
+  > You must first have a lot of patience to learn to have patience.
+  > 你首先得耐下心，才能学会有耐心。
 
 * 有道词典
-  > I'm a work of art, and art isn't always nice.
-  > 我本成艺术，独特而但并非完美。
+  > I will never leave you. That is my promise. Now and forever.
+  > 我绝不会离开你。这是我的承诺，从现在到永远。
 
 ```
