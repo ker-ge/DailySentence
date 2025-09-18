@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-17已更新 
+2025-09-18已更新 
 ```
 * 金山词霸
-  > Choose joy every single new day.
-  > 每天重新选择快乐。
+  > Time answers all questions.  
+  > 时间会回答所有问题。
 
 * 扇贝单词
-  > You must first have a lot of patience to learn to have patience.
-  > 你首先得耐下心，才能学会有耐心。
+  > If a thing isn't worth saying, you sing it.
+  > 如果一件事不值得说出来，你就把它唱出来吧。
 
 * 有道词典
-  > I will never leave you. That is my promise. Now and forever.
-  > 我绝不会离开你。这是我的承诺，从现在到永远。
+  > Love isn't a thing that happens to you. It's a thing you do.
+  > 爱不是被动的感受，而是主动的选择。
 
 ```
