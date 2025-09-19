@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-18已更新 
+2025-09-19已更新 
 ```
 * 金山词霸
-  > Time answers all questions.  
-  > 时间会回答所有问题。
+  > Life is what happens when you're busy making other plans.
+  > 生活是在你忙着制定其他计划时发生的。
 
 * 扇贝单词
-  > If a thing isn't worth saying, you sing it.
-  > 如果一件事不值得说出来，你就把它唱出来吧。
+  > Everyone is born with genius, but most people only keep it a few minutes.
+  > 每个人生来都是天才，但大多数人只把天资保留了几分钟。
 
 * 有道词典
-  > Love isn't a thing that happens to you. It's a thing you do.
-  > 爱不是被动的感受，而是主动的选择。
+  > The reason we fall is so we learn to get back up.
+  > 我们跌倒的意义，在于学会如何重新站起来。
 
 ```
