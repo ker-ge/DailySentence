@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-19已更新 
+2025-09-20已更新 
 ```
 * 金山词霸
-  > Life is what happens when you're busy making other plans.
-  > 生活是在你忙着制定其他计划时发生的。
+  > Not all those who wander are lost.
+  > 不是所有徘徊的人都迷失了。
 
 * 扇贝单词
-  > Everyone is born with genius, but most people only keep it a few minutes.
-  > 每个人生来都是天才，但大多数人只把天资保留了几分钟。
+  > Money is like a sixth sense without which you cannot make a complete use of the other five.
+  > 金钱就像人的第六感，没有它你就无法完整地使用其他五感。
 
 * 有道词典
-  > The reason we fall is so we learn to get back up.
-  > 我们跌倒的意义，在于学会如何重新站起来。
+  > The world is changed by your example, not by your opinion.
+  > 榜样比意见更有力量。
 
 ```
