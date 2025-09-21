@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-20已更新 
+2025-09-21已更新 
 ```
 * 金山词霸
-  > Not all those who wander are lost.
-  > 不是所有徘徊的人都迷失了。
+  > You must be the change you wish to see in the world.
+  > 你必须成为你希望在世界上看到的改变。
 
 * 扇贝单词
-  > Money is like a sixth sense without which you cannot make a complete use of the other five.
-  > 金钱就像人的第六感，没有它你就无法完整地使用其他五感。
+  > There cannot be a crisis next week. My schedule is already full.
+  > 下周不可能有危机，我的日程早就排满了。
 
 * 有道词典
-  > The world is changed by your example, not by your opinion.
-  > 榜样比意见更有力量。
+  > Sometimes the thing you're searching for your whole life is right there by your side.
+  > 有时你所追寻的，往往会在不经意时出现。
 
 ```
