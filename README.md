@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-21已更新 
+2025-09-22已更新 
 ```
 * 金山词霸
-  > You must be the change you wish to see in the world.
-  > 你必须成为你希望在世界上看到的改变。
+  > Curiosity unlocks every knowledge door.
+  > 好奇心打开所有知识之门。
 
 * 扇贝单词
-  > There cannot be a crisis next week. My schedule is already full.
-  > 下周不可能有危机，我的日程早就排满了。
+  > A problem is a chance for you to do your best.
+  > 问题也是机会，你得以把事情做到最好。
 
 * 有道词典
-  > Sometimes the thing you're searching for your whole life is right there by your side.
-  > 有时你所追寻的，往往会在不经意时出现。
+  > The most important relationship you will ever have is the one with yourself.
+  > 人首先要忠于自己，与自己和解。
 
 ```
