@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-22已更新 
+2025-09-23已更新 
 ```
 * 金山词霸
-  > Curiosity unlocks every knowledge door.
-  > 好奇心打开所有知识之门。
+  > Remembering keeps hearts together.  
+  > 思念让心不分离。 
 
 * 扇贝单词
-  > A problem is a chance for you to do your best.
-  > 问题也是机会，你得以把事情做到最好。
+  > Drama is life with the dull bits cut out.
+  > 戏剧就是去掉了无聊片段的生活。
 
 * 有道词典
-  > The most important relationship you will ever have is the one with yourself.
-  > 人首先要忠于自己，与自己和解。
+  > Harvest moons glow brighter as the world prepares for winter's rest.
+  > 收获季节月更明，万物为冬日做准备。
 
 ```
