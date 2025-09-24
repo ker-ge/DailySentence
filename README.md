@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-23已更新 
+2025-09-24已更新 
 ```
 * 金山词霸
-  > Remembering keeps hearts together.  
-  > 思念让心不分离。 
+  > Own your narrative daily.
+  > 日日为自己执笔。
 
 * 扇贝单词
-  > Drama is life with the dull bits cut out.
-  > 戏剧就是去掉了无聊片段的生活。
+  > Life is a long lesson in humility.
+  > 人生是一门漫长的学习谦卑的课。
 
 * 有道词典
-  > Harvest moons glow brighter as the world prepares for winter's rest.
-  > 收获季节月更明，万物为冬日做准备。
+  > Courage is found in unlikely places, often in the quietest hearts.
+  > 勇气栖于幽微处。
 
 ```
