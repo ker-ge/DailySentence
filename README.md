@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-24已更新 
+2025-09-25已更新 
 ```
 * 金山词霸
-  > Own your narrative daily.
-  > 日日为自己执笔。
+  > True friends reflect your soul.
+  > 真正的朋友映照你的灵魂。
 
 * 扇贝单词
-  > Life is a long lesson in humility.
-  > 人生是一门漫长的学习谦卑的课。
+  > The best way to predict the future is to invent it.
+  > 预知未来的最好方式是创造未来。
 
 * 有道词典
-  > Courage is found in unlikely places, often in the quietest hearts.
-  > 勇气栖于幽微处。
+  > Love is not a flame to extinguish, but a light to carry through the dark.
+  > 爱非应熄之火，而是穿越黑暗的光。
 
 ```
