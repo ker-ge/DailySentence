@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-25已更新 
+2025-09-26已更新 
 ```
 * 金山词霸
-  > True friends reflect your soul.
-  > 真正的朋友映照你的灵魂。
+  > Seeds grow in quiet soil.  
+  > 种子在寂静的泥土里生长。  
 
 * 扇贝单词
-  > The best way to predict the future is to invent it.
-  > 预知未来的最好方式是创造未来。
+  > Even if you're on the right track, you'll get run over if you just sit there.
+  > 即使你处在正轨上，但如果你只是坐在原地，也会被别人碾过去。
 
 * 有道词典
-  > Love is not a flame to extinguish, but a light to carry through the dark.
-  > 爱非应熄之火，而是穿越黑暗的光。
+  > Endurance is the art of holding on when the world insists you let go.
+  > 坚持是全世界要你松手时，仍紧握的艺术。
 
 ```
