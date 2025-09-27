@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-26已更新 
+2025-09-27已更新 
 ```
 * 金山词霸
-  > Seeds grow in quiet soil.  
-  > 种子在寂静的泥土里生长。  
+  > There's no crying in baseball!
+  > 棒球里不许哭泣！
 
 * 扇贝单词
-  > Even if you're on the right track, you'll get run over if you just sit there.
-  > 即使你处在正轨上，但如果你只是坐在原地，也会被别人碾过去。
+  > Never judge a book by its movie.
+  > 永远不要通过由书改编的电影来评判这本书。
 
 * 有道词典
-  > Endurance is the art of holding on when the world insists you let go.
-  > 坚持是全世界要你松手时，仍紧握的艺术。
+  > Solidarity is building a raft from each other's splinters.
+  > 团结是用彼此的碎木扎成筏。
 
 ```
