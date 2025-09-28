@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-27已更新 
+2025-09-28已更新 
 ```
 * 金山词霸
-  > There's no crying in baseball!
-  > 棒球里不许哭泣！
+  > Failure is simply the opportunity to begin again, this time more intelligently.
+  > 失败只是重新开始的机会，这次更加聪明。
 
 * 扇贝单词
-  > Never judge a book by its movie.
-  > 永远不要通过由书改编的电影来评判这本书。
+  > Education is a progressive discovery of our own ignorance.
+  > 教育是一个逐步发现自己无知的过程。
 
 * 有道词典
-  > Solidarity is building a raft from each other's splinters.
-  > 团结是用彼此的碎木扎成筏。
+  > Hope is the crack where tomorrow's light slips in.
+  > 希望是明日之光渗入的裂缝。
 
 ```
