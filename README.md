@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-28已更新 
+2025-09-29已更新 
 ```
 * 金山词霸
-  > Failure is simply the opportunity to begin again, this time more intelligently.
-  > 失败只是重新开始的机会，这次更加聪明。
+  > Sleep is a superpower.  
+  > 睡眠是一种超能力。  
 
 * 扇贝单词
-  > Education is a progressive discovery of our own ignorance.
-  > 教育是一个逐步发现自己无知的过程。
+  > It's kind of fun to do the impossible.
+  > 做不可能的事还挺有趣的。
 
 * 有道词典
-  > Hope is the crack where tomorrow's light slips in.
-  > 希望是明日之光渗入的裂缝。
+  > Love isn't a fire that burns out, but a river that flows forever.
+  > 爱非终将燃尽之火，而乃川流不息之河。
 
 ```
