@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-29已更新 
+2025-09-30已更新 
 ```
 * 金山词霸
-  > Sleep is a superpower.  
-  > 睡眠是一种超能力。  
+  > Do small things greatly.  
+  > 把小事做到伟大。  
 
 * 扇贝单词
-  > It's kind of fun to do the impossible.
-  > 做不可能的事还挺有趣的。
+  > Man invented language to satisfy his deep need to complain.
+  > 人类发明语言是为了满足他们内心深处对抱怨的需求。
 
 * 有道词典
-  > Love isn't a fire that burns out, but a river that flows forever.
-  > 爱非终将燃尽之火，而乃川流不息之河。
+  > Empathy is listening to the silence between another's heartbeats.
+  > 同理心是聆听他人心跳间的寂静。
 
 ```
