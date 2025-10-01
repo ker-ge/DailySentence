@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-09-30已更新 
+2025-10-01已更新 
 ```
 * 金山词霸
-  > Do small things greatly.  
-  > 把小事做到伟大。  
+  > Red flags wave, hearts unite. 
+  > 红旗飘扬，万众一心。
 
 * 扇贝单词
-  > Man invented language to satisfy his deep need to complain.
-  > 人类发明语言是为了满足他们内心深处对抱怨的需求。
+  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
+  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。	
 
 * 有道词典
-  > Empathy is listening to the silence between another's heartbeats.
-  > 同理心是聆听他人心跳间的寂静。
+  > May our country prosper and the people live a peaceful life!
+  > 愿祖国繁荣富强，人民安居乐业！
 
 ```
