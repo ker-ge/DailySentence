@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-01已更新 
+2025-10-02已更新 
 ```
 * 金山词霸
-  > Red flags wave, hearts unite. 
-  > 红旗飘扬，万众一心。
+  > Firmly hold mission in mind.
+  > 我们牢记使命。
 
 * 扇贝单词
-  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
-  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。	
+  > Life isn't about finding yourself. Life is about creating yourself.
+  > 生命的意义不在于发现你自己，而在于创造你自己。
 
 * 有道词典
-  > May our country prosper and the people live a peaceful life!
-  > 愿祖国繁荣富强，人民安居乐业！
+  > To bloom is to let your scars become the map of survival.
+  > 绽放是让伤疤成为生存的地图。
 
 ```
