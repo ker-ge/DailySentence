@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-02已更新 
+2025-10-03已更新 
 ```
 * 金山词霸
-  > Firmly hold mission in mind.
-  > 我们牢记使命。
+  > A hug is worth a thousand words.
+  > 一个拥抱胜过千言万语。
 
 * 扇贝单词
-  > Life isn't about finding yourself. Life is about creating yourself.
-  > 生命的意义不在于发现你自己，而在于创造你自己。
+  > We are young. So let's set the world on fire. We can burn brighter than the sun.
+  > 我们是青年，让我们点亮世界，释放生命，胜过太阳。
 
 * 有道词典
-  > To bloom is to let your scars become the map of survival.
-  > 绽放是让伤疤成为生存的地图。
+  > We are not passengers of the earth, but its fleeting guardians.
+  > 我们并非地球的乘客，而是它短暂的守卫者。
 
 ```
