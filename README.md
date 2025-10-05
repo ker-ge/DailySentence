@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-04已更新 
+2025-10-05已更新 
 ```
 * 金山词霸
-  > Success starts with self-discipline. 
-  > 成功始于自律。
+  > Respect is earned, not given.
+  > 尊重是赢得的，不是给予的。
 
 * 扇贝单词
-  > If there's one thing to be taught, it's dreams are made to be caught.
-  > 唯有一事值得谨记，有梦想就要奋力追逐。
+  > We're losing all this daylight but soon the moon's gonna rise.
+  > 虽然白日将尽，但有一轮新月正冉冉高升。
 
 * 有道词典
-  > True courage is wearing your scars as armor, not hiding them.
-  > 勇气是披伤痕为甲，而非遮掩。
+  > Sacrifice is not losing a part of yourself, but planting it in someone else's future.
+  > 牺牲并非失去自我碎片，而是将其播种于他人的未来。
 
 ```
