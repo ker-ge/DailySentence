@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-05已更新 
+2025-10-06已更新 
 ```
 * 金山词霸
-  > Respect is earned, not given.
-  > 尊重是赢得的，不是给予的。
+  > The full moon unites hearts across miles.
+  > 满月让千里心相连。
 
 * 扇贝单词
-  > We're losing all this daylight but soon the moon's gonna rise.
-  > 虽然白日将尽，但有一轮新月正冉冉高升。
+  > The whole secret of a successful life is to find out what is one's destiny to do, and then do it.
+  > 拥有成功的人生，秘诀在于发现自己此生该做什么，然后付诸行动。
 
 * 有道词典
-  > Sacrifice is not losing a part of yourself, but planting it in someone else's future.
-  > 牺牲并非失去自我碎片，而是将其播种于他人的未来。
+  > The moon hangs full, weaving our scattered hearts into a tapestry of reunion.
+  > 明月高悬，将散落天涯的心意编织成团圆的锦缎。
 
 ```
