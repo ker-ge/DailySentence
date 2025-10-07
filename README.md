@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-06已更新 
+2025-10-07已更新 
 ```
 * 金山词霸
-  > The full moon unites hearts across miles.
-  > 满月让千里心相连。
+  > Love grows when it is shared. 
+  > 爱被分享时才会成长。
 
 * 扇贝单词
-  > The whole secret of a successful life is to find out what is one's destiny to do, and then do it.
-  > 拥有成功的人生，秘诀在于发现自己此生该做什么，然后付诸行动。
+  > I took my bruises, took my lumps. Fell down and I got right back up.
+  > 身上带着淤青和肿块，摔倒了也立刻爬起来。
 
 * 有道词典
-  > The moon hangs full, weaving our scattered hearts into a tapestry of reunion.
-  > 明月高悬，将散落天涯的心意编织成团圆的锦缎。
+  > Melting glaciers are the earth's silent language of loss.
+  > 冰川泪滴坠入海洋，替无法言说的消亡立碑。
 
 ```
