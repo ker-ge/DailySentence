@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-07已更新 
+2025-10-08已更新 
 ```
 * 金山词霸
-  > Love grows when it is shared. 
-  > 爱被分享时才会成长。
+  > Autumn kisses the earth with cold dew. 
+  > 秋以寒露亲吻大地。
 
 * 扇贝单词
-  > I took my bruises, took my lumps. Fell down and I got right back up.
-  > 身上带着淤青和肿块，摔倒了也立刻爬起来。
+  > In any case you mustn't confuse a single failure with a final defeat.
+  > 永远不要把一次失败与最终失败混为一谈。
 
 * 有道词典
-  > Melting glaciers are the earth's silent language of loss.
-  > 冰川泪滴坠入海洋，替无法言说的消亡立碑。
+  > Broken clocks still hold the shape of time.
+  > 寂静是另一种计时单位。
 
 ```
