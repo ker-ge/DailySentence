@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-09已更新 
+2025-10-10已更新 
 ```
 * 金山词霸
-  > Perspective changes everything.
-  > 视角改变一切。
+  > Change begins from within.
+  > 改变始于内在。
 
 * 扇贝单词
-  > Reading gives us someplace to go when we have to stay where we are.
-  > 当我们困在原地时，阅读可以带我们去遨游。
+  > Do not go where the path may lead; go instead where there is no path and leave a trail.
+  > 别沿着别人的路走，要去开辟自己的路，留下自己的足迹。
 
 * 有道词典
-  > We carry moonlight in cupped hands, afraid to spill but daring to share.
-  > 我们手捧点滴月色，指缝溢出的光点亮同行者的路。
+  > Children's laughter melts winter into honey.
+  > 童声融化冰棱，寒冬在笑纹里结晶成糖蜜。
 
 ```
