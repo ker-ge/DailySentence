@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-10已更新 
+2025-10-11已更新 
 ```
 * 金山词霸
-  > Change begins from within.
-  > 改变始于内在。
+  > Cherish the moments with family, for they are fleeting.
+  > 珍惜与家人在一起的时光，因为它们稍纵即逝。
 
 * 扇贝单词
-  > Do not go where the path may lead; go instead where there is no path and leave a trail.
-  > 别沿着别人的路走，要去开辟自己的路，留下自己的足迹。
+  > A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+  > 比起无所事事，会犯错的人生不仅更光荣，也更有意义。
 
 * 有道词典
-  > Children's laughter melts winter into honey.
-  > 童声融化冰棱，寒冬在笑纹里结晶成糖蜜。
+  > Fireflies map the night with borrowed starlight.
+  > 萤火虫用租借的星光绘制夜行地图。
 
 ```
