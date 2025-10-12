@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-11已更新 
+2025-10-12已更新 
 ```
 * 金山词霸
-  > Cherish the moments with family, for they are fleeting.
-  > 珍惜与家人在一起的时光，因为它们稍纵即逝。
+  > Freedom is never given; it is won.
+  > 自由从未被赋予；它是赢得的。
 
 * 扇贝单词
-  > A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
-  > 比起无所事事，会犯错的人生不仅更光荣，也更有意义。
+  > You're not obligated to win. You're obligated to keep trying.
+  > 你不一定要获胜，但你必须不断尝试。
 
 * 有道词典
-  > Fireflies map the night with borrowed starlight.
-  > 萤火虫用租借的星光绘制夜行地图。
+  > Time folds wrinkles into maps of laughter.
+  > 时间将皱纹翻译成笑纹的年轮。
 
 ```
