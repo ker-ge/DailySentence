@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-12已更新 
+2025-10-13已更新 
 ```
 * 金山词霸
-  > Freedom is never given; it is won.
-  > 自由从未被赋予；它是赢得的。
+  > Small habits create big changes. 
+  > 小习惯带来大改变。
 
 * 扇贝单词
-  > You're not obligated to win. You're obligated to keep trying.
-  > 你不一定要获胜，但你必须不断尝试。
+  > Intelligence is the ability to adapt to change.
+  > 智慧就是适应变化的能力。
 
 * 有道词典
-  > Time folds wrinkles into maps of laughter.
-  > 时间将皱纹翻译成笑纹的年轮。
+  > Every storm waters the seeds we forgot we planted.
+  > 绝望时刻往往催生意外的新芽。
 
 ```
