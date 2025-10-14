@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-13已更新 
+2025-10-14已更新 
 ```
 * 金山词霸
-  > Small habits create big changes. 
-  > 小习惯带来大改变。
+  > Learning never exhausts the mind.
+  > 学习永远不会使头脑疲惫。
 
 * 扇贝单词
-  > Intelligence is the ability to adapt to change.
-  > 智慧就是适应变化的能力。
+  > It isn't where you came from. It's where you're going that counts.
+  > 起点并不重要，重要的是，你要去往何方。
 
 * 有道词典
-  > Every storm waters the seeds we forgot we planted.
-  > 绝望时刻往往催生意外的新芽。
+  > The last page of darkness is always written by sunrise.
+  > 黑暗的最后一页永远由黎明书写。
 
 ```
