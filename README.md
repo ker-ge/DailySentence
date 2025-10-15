@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-14已更新 
+2025-10-15已更新 
 ```
 * 金山词霸
-  > Learning never exhausts the mind.
-  > 学习永远不会使头脑疲惫。
+  > Think before you share. 
+  > 分享前先思考。
 
 * 扇贝单词
-  > It isn't where you came from. It's where you're going that counts.
-  > 起点并不重要，重要的是，你要去往何方。
+  > Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.
+  > 你一脚踩在紫罗兰上，它却把香味留在了你的脚上，这便是宽恕。
 
 * 有道词典
-  > The last page of darkness is always written by sunrise.
-  > 黑暗的最后一页永远由黎明书写。
+  > Two hands sharing bread grow warmer than four hands holding gold.
+  > 善意比财富更能传递温度。
 
 ```
