@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-15已更新 
+2025-10-16已更新 
 ```
 * 金山词霸
-  > Think before you share. 
-  > 分享前先思考。
+  > Small steps still move you forward. 
+  > 小步也是向前。
 
 * 扇贝单词
-  > Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.
-  > 你一脚踩在紫罗兰上，它却把香味留在了你的脚上，这便是宽恕。
+  > Motivation comes from working on things we care about.
+  > 为在意的事付出努力，动力随之而来。
 
 * 有道词典
-  > Two hands sharing bread grow warmer than four hands holding gold.
-  > 善意比财富更能传递温度。
+  > Scars are the map of how far we've outrun the darkness.
+  > 疼痛的刻度也是成长的里程数。
 
 ```
