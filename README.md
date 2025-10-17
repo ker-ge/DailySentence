@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-16已更新 
+2025-10-17已更新 
 ```
 * 金山词霸
-  > Small steps still move you forward. 
-  > 小步也是向前。
+  > Make today count for tomorrow. 
+  > 让今天为明天增值。
 
 * 扇贝单词
-  > Motivation comes from working on things we care about.
-  > 为在意的事付出努力，动力随之而来。
+  > You should love and take care of yourself because after all, it's your own life.
+  > 要学会爱自己，照顾自己，毕竟生活是你自己的。
 
 * 有道词典
-  > Scars are the map of how far we've outrun the darkness.
-  > 疼痛的刻度也是成长的里程数。
+  > You know what freedom is? No fear.
+  > 你知道什么是自由吗？无所畏惧。
 
 ```
