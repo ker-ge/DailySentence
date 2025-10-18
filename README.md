@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-17已更新 
+2025-10-18已更新 
 ```
 * 金山词霸
-  > Make today count for tomorrow. 
-  > 让今天为明天增值。
+  > A person who never made a mistake never tried anything new.
+  > 从未犯错的人从未尝试过任何新事物。
 
 * 扇贝单词
-  > You should love and take care of yourself because after all, it's your own life.
-  > 要学会爱自己，照顾自己，毕竟生活是你自己的。
+  > You must do the things you think you cannot do.
+  > 务必要去尝试你认为不可能的事。
 
 * 有道词典
-  > You know what freedom is? No fear.
-  > 你知道什么是自由吗？无所畏惧。
+  > Hope is a seed that grows in hands willing to hold darkness.
+  > 希望是种子，愿握紧黑暗的手才能让它生长。
 
 ```
