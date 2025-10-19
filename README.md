@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-18已更新 
+2025-10-19已更新 
 ```
 * 金山词霸
-  > A person who never made a mistake never tried anything new.
-  > 从未犯错的人从未尝试过任何新事物。
+  > In every hardship lies opportunity.
+  > 每个困难中都蕴藏着机会。
 
 * 扇贝单词
-  > You must do the things you think you cannot do.
-  > 务必要去尝试你认为不可能的事。
+  > Give every day the chance to become the most beautiful day of your life.
+  > 把每天都过成你生命中最美好的一天。
 
 * 有道词典
-  > Hope is a seed that grows in hands willing to hold darkness.
-  > 希望是种子，愿握紧黑暗的手才能让它生长。
+  > Loyalty isn't a chain—it's the thread that quietly mends what's broken.
+  > 忠诚不是枷锁，是无声修补裂痕的丝线。
 
 ```
