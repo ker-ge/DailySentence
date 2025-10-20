@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-19已更新 
+2025-10-20已更新 
 ```
 * 金山词霸
-  > In every hardship lies opportunity.
-  > 每个困难中都蕴藏着机会。
+  > Biodiversity is Earth's safety net. 
+  > 生物多样性是地球的安全网。
 
 * 扇贝单词
-  > Give every day the chance to become the most beautiful day of your life.
-  > 把每天都过成你生命中最美好的一天。
+  > The best way to find out if you can trust somebody is to trust them.
+  > 确认一个人是否可信，最好的办法就是信任他们。
 
 * 有道词典
-  > Loyalty isn't a chain—it's the thread that quietly mends what's broken.
-  > 忠诚不是枷锁，是无声修补裂痕的丝线。
+  > You're never wrong to do the right thing.
+  > 坚持做对的事，永远不会错。
 
 ```
