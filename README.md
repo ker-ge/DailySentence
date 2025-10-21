@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-20已更新 
+2025-10-21已更新 
 ```
 * 金山词霸
-  > Biodiversity is Earth's safety net. 
-  > 生物多样性是地球的安全网。
+  > A tidy space clears the mind. 
+  > 整洁的空间让头脑清晰。
 
 * 扇贝单词
-  > The best way to find out if you can trust somebody is to trust them.
-  > 确认一个人是否可信，最好的办法就是信任他们。
+  > Be determined. Instead of intending to just try, do it.
+  > 要坚定，凡事要抱着拼一把而非试一下的心态。
 
 * 有道词典
-  > You're never wrong to do the right thing.
-  > 坚持做对的事，永远不会错。
+  > Courage isn't the absence of fear, but the triumph over it.
+  > 勇气并非无所畏惧，而是凌驾恐惧的凯旋。
 
 ```
