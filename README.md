@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-21已更新 
+2025-10-22已更新 
 ```
 * 金山词霸
-  > A tidy space clears the mind. 
-  > 整洁的空间让头脑清晰。
+  > Our future is built together. 
+  > 未来由我们一起建造。
 
 * 扇贝单词
-  > Be determined. Instead of intending to just try, do it.
-  > 要坚定，凡事要抱着拼一把而非试一下的心态。
+  > You do not find the happy life. You make it.
+  > 幸福不是刻意的寻找，而是用心的经营。
 
 * 有道词典
-  > Courage isn't the absence of fear, but the triumph over it.
-  > 勇气并非无所畏惧，而是凌驾恐惧的凯旋。
+  > True friendship is a mirror that reflects your soul without distortion.
+  > 挚友若镜，映心无遮。
 
 ```
