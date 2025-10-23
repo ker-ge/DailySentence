@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-22已更新 
+2025-10-23已更新 
 ```
 * 金山词霸
-  > Our future is built together. 
-  > 未来由我们一起建造。
+  > Frost opens the curtain on winter.
+  > 霜降拉开冬天的序幕
 
 * 扇贝单词
-  > You do not find the happy life. You make it.
-  > 幸福不是刻意的寻找，而是用心的经营。
+  > Wrinkles should merely indicate where smiles have been.
+  > 皱纹只是微笑留下的痕迹。
 
 * 有道词典
-  > True friendship is a mirror that reflects your soul without distortion.
-  > 挚友若镜，映心无遮。
+  > Even broken wings learn to dance with the wind.
+  > 折翼亦随风起舞。
 
 ```
