@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-23已更新 
+2025-10-24已更新 
 ```
 * 金山词霸
-  > Frost opens the curtain on winter.
-  > 霜降拉开冬天的序幕
+  > Grow through what you go through. 
+  > 穿越困境，得以成长。
 
 * 扇贝单词
-  > Wrinkles should merely indicate where smiles have been.
-  > 皱纹只是微笑留下的痕迹。
+  > Each time you happen to me all over again.
+  > 你的每次出现，都在我脑海里浮现千遍。
 
 * 有道词典
-  > Even broken wings learn to dance with the wind.
-  > 折翼亦随风起舞。
+  > To endure is to hold the world's weight with butterfly wings.
+  > 坚持是以蝶翼承载世界的重量。
 
 ```
