@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-25已更新 
+2025-10-26已更新 
 ```
 * 金山词霸
-  > The mind is everything.
-  > 思想决定一切。
+  > Change your thoughts and you change your world.
+  > 改变你的想法，你就改变了你的世界。
 
 * 扇贝单词
-  > Believe in every dream that you got, you only living once.
-  > 你只活一次，要相信属于自己的每一个梦想。
+  > You only get one shot; do not miss your chance to blow.
+  > 机会只有一次，不要错过。
 
 * 有道词典
-  > Courage isn't roaring loud—it's standing up again with silent scars.
-  > 勇气非咆哮震天，而是带伤默然起身。
+  > Love mends with invisible thread, stitching wounds into constellations.
+  > 爱以无形丝线缝补，将伤痕缀成星群。
 
 ```
