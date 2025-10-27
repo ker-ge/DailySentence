@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-26已更新 
+2025-10-27已更新 
 ```
 * 金山词霸
-  > Change your thoughts and you change your world.
-  > 改变你的想法，你就改变了你的世界。
+  > Kindness is the original renewable energy.
+  > 善意是最早的可再生能源。
 
 * 扇贝单词
-  > You only get one shot; do not miss your chance to blow.
-  > 机会只有一次，不要错过。
+  > Don't criticize what you can't understand.
+  > 不懂的，不要随意批判。
 
 * 有道词典
-  > Love mends with invisible thread, stitching wounds into constellations.
-  > 爱以无形丝线缝补，将伤痕缀成星群。
+  > Friends laugh with you, even at silly things.
+  > 傻事面前，朋友仍愿与你同笑。
 
 ```
