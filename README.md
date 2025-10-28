@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-27已更新 
+2025-10-28已更新 
 ```
 * 金山词霸
-  > Kindness is the original renewable energy.
-  > 善意是最早的可再生能源。
+  > Light follows every storm. 
+  > 风暴后总有光。
 
 * 扇贝单词
-  > Don't criticize what you can't understand.
-  > 不懂的，不要随意批判。
+  > Learn to let go and be clear of where you really want to head for.
+  > 学会放手，同时也要弄清楚自己的真正所爱。
 
 * 有道词典
-  > Friends laugh with you, even at silly things.
-  > 傻事面前，朋友仍愿与你同笑。
+  > Gratitude makes small gifts large.
+  > 感恩在，微物也成珍。
 
 ```
