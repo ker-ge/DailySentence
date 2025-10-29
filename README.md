@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-28已更新 
+2025-10-29已更新 
 ```
 * 金山词霸
-  > Light follows every storm. 
-  > 风暴后总有光。
+  > Climb high, see far, and feel young. 
+  > 登高望远，心也年轻。
 
 * 扇贝单词
-  > Learn to let go and be clear of where you really want to head for.
-  > 学会放手，同时也要弄清楚自己的真正所爱。
+  > The human race has one really effective weapon, and that is laughter.
+  > 欢笑是人类强而有力的武器。
 
 * 有道词典
-  > Gratitude makes small gifts large.
-  > 感恩在，微物也成珍。
+  > Companionship in old age is sunlight on a cold day.
+  > 陪伴之于老者，恰似暖阳照寒天。
 
 ```
