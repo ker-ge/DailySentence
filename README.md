@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-29已更新 
+2025-10-30已更新 
 ```
 * 金山词霸
-  > Climb high, see far, and feel young. 
-  > 登高望远，心也年轻。
+  > Change begins at the edge of comfort. 
+  > 改变始于舒适边缘。
 
 * 扇贝单词
-  > The human race has one really effective weapon, and that is laughter.
-  > 欢笑是人类强而有力的武器。
+  > It is your determination and persistence that will make you a successful person.
+  > 让你成功的，是决心，以及毅力。
 
 * 有道词典
-  > Companionship in old age is sunlight on a cold day.
-  > 陪伴之于老者，恰似暖阳照寒天。
+  > Loyalty stays, even when others walk away.
+  > 他人转身时，忠诚依旧坚守。
 
 ```
