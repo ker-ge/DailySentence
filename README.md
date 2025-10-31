@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-30已更新 
+2025-10-31已更新 
 ```
 * 金山词霸
-  > Change begins at the edge of comfort. 
-  > 改变始于舒适边缘。
+  > October ends with magic and candy. 
+  >  十月以魔法和糖果收尾。
 
 * 扇贝单词
-  > It is your determination and persistence that will make you a successful person.
-  > 让你成功的，是决心，以及毅力。
+  > Patience is the companion of wisdom.
+  > 耐心总是与智慧相伴。
 
 * 有道词典
-  > Loyalty stays, even when others walk away.
-  > 他人转身时，忠诚依旧坚守。
+  > Joy finds its way in little things.
+  > 小事之中，自有欢愉。
 
 ```
