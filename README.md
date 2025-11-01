@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-10-31已更新 
+2025-11-01已更新 
 ```
 * 金山词霸
-  > October ends with magic and candy. 
-  >  十月以魔法和糖果收尾。
+  > More dreams are lost to self-doubt than to failure.
+  > 因自我怀疑而失去的梦想比因失败而失去的更多。
 
 * 扇贝单词
-  > Patience is the companion of wisdom.
-  > 耐心总是与智慧相伴。
+  > You have every right to a beautiful life.
+  > 你值得拥有属于你的美丽人生。
 
 * 有道词典
-  > Joy finds its way in little things.
-  > 小事之中，自有欢愉。
+  > In costumes, we find the courage to be bolder than we are.
+  > 戏服之下，藏着我们敢闯敢试的勇气。
 
 ```
