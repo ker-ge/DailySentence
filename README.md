@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-02已更新 
+2025-11-03已更新 
 ```
 * 金山词霸
-  > Life is short; Live it!
-  > 人生苦短，活出精彩。
+  > Recall joy for strength.
+  > 唤起喜悦，积蓄力量。
 
 * 扇贝单词
-  > There is no friend as loyal as a book.
-  > 好书如挚友，情谊永不渝。
+  > They can because they think they can.
+  > 他们可以，是因为他们相信自己可以。
 
 * 有道词典
-  > Love grows when shared, not when hidden away.
-  > 爱不藏于暗处，分享方得生长。
+  > Progress beats perfection every time.
+  > 进步永远胜过完美。
 
 ```
