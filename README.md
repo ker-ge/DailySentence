@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-03已更新 
+2025-11-04已更新 
 ```
 * 金山词霸
-  > Recall joy for strength.
-  > 唤起喜悦，积蓄力量。
+  > Pride in your steps to dreams.
+  > 为追梦的每一步而自豪。
 
 * 扇贝单词
-  > They can because they think they can.
-  > 他们可以，是因为他们相信自己可以。
+  > I have found that if you love life, life will love you back.
+  > 我发现，如果你爱生活，生活也会用爱来回报你。
 
 * 有道词典
-  > Progress beats perfection every time.
-  > 进步永远胜过完美。
+  > undefined
+  > undefined
 
 ```
