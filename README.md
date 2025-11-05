@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-04已更新 
+2025-11-05已更新 
 ```
 * 金山词霸
-  > Pride in your steps to dreams.
-  > 为追梦的每一步而自豪。
+  > Life's best gifts come from hard work.
+  > 生命最珍贵的馈赠源于辛勤耕耘。
 
 * 扇贝单词
-  > I have found that if you love life, life will love you back.
-  > 我发现，如果你爱生活，生活也会用爱来回报你。
+  > Forgiveness does not change the past, but it does enlarge the future.
+  > 宽恕无法改变过去，却能拓宽未来。
 
 * 有道词典
-  > undefined
-  > undefined
+  > Kindness costs nothing, but means everything.
+  > 善意零成本，却价值千金。
 
 ```
