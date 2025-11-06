@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-05已更新 
+2025-11-06已更新 
 ```
 * 金山词霸
-  > Life's best gifts come from hard work.
-  > 生命最珍贵的馈赠源于辛勤耕耘。
+  > Trust your choices. Follow your heart to your destiny.
+  > 相信你的选择。追随你的心意走向你的命运。
 
 * 扇贝单词
-  > Forgiveness does not change the past, but it does enlarge the future.
-  > 宽恕无法改变过去，却能拓宽未来。
+  > We have to do the best we are capable of. This is our sacred human responsibility.
+  > 我们必须尽力而为，这是我们生而为人的神圣责任。
 
 * 有道词典
-  > Kindness costs nothing, but means everything.
-  > 善意零成本，却价值千金。
+  > Be brave, even when your heart beats fast.
+  > 心跳再快，也别丢了勇气。
 
 ```
