@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-06已更新 
+2025-11-07已更新 
 ```
 * 金山词霸
-  > Trust your choices. Follow your heart to your destiny.
-  > 相信你的选择。追随你的心意走向你的命运。
+  > Winter warms body, and enriches soul for spring.
+  > 冬日暖身养心，静候春来。
 
 * 扇贝单词
-  > We have to do the best we are capable of. This is our sacred human responsibility.
-  > 我们必须尽力而为，这是我们生而为人的神圣责任。
+  > The worst loneliness is not to be comfortable with yourself.
+  > 最糟糕的孤独是无法舒适地和自己相处。
 
 * 有道词典
-  > Be brave, even when your heart beats fast.
-  > 心跳再快，也别丢了勇气。
+  > As we listen to others with care, we create bonds that make life feel warmer.
+  > 用心倾听他人，能编织出温暖生活的情感纽带。
 
 ```
