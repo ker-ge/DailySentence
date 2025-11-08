@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-07已更新 
+2025-11-08已更新 
 ```
 * 金山词霸
-  > Winter warms body, and enriches soul for spring.
-  > 冬日暖身养心，静候春来。
+  > You must do the things you think you cannot do.
+  > 你必须做你认为自己做不到的事情。
 
 * 扇贝单词
-  > The worst loneliness is not to be comfortable with yourself.
-  > 最糟糕的孤独是无法舒适地和自己相处。
+  > That's what I consider true generosity. You give your all, and yet you always feel as if it costs you nothing.
+  > 我认为，真正的慷慨是奉献所有，却仍觉得没有损失分毫。
 
 * 有道词典
-  > As we listen to others with care, we create bonds that make life feel warmer.
-  > 用心倾听他人，能编织出温暖生活的情感纽带。
+  > Forgiveness frees more than the forgiven.
+  > 宽恕解脱的，不止是被宽恕者。
 
 ```
