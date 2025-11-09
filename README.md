@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-08已更新 
+2025-11-09已更新 
 ```
 * 金山词霸
-  > You must do the things you think you cannot do.
-  > 你必须做你认为自己做不到的事情。
+  > The greatest risk is not taking one.
+  > 最大的风险是不冒风险。
 
 * 扇贝单词
-  > That's what I consider true generosity. You give your all, and yet you always feel as if it costs you nothing.
-  > 我认为，真正的慷慨是奉献所有，却仍觉得没有损失分毫。
+  > Be as simple as you can be. You'll be astonished to see how uncomplicated and happy your life will be.
+  > 尽量简单做自己，你就会惊奇地发现，生活是如此简单而且快乐。
 
 * 有道词典
-  > Forgiveness frees more than the forgiven.
-  > 宽恕解脱的，不止是被宽恕者。
+  > As we stay curious about the world, we keep our minds young and open.
+  > 怀着对世界的好奇，思维便会保持年轻与开阔。
 
 ```
