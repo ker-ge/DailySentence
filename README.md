@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-09已更新 
+2025-11-10已更新 
 ```
 * 金山词霸
-  > The greatest risk is not taking one.
-  > 最大的风险是不冒风险。
+  > Don't judge by looks.
+  > 别以貌取人。
 
 * 扇贝单词
-  > Be as simple as you can be. You'll be astonished to see how uncomplicated and happy your life will be.
-  > 尽量简单做自己，你就会惊奇地发现，生活是如此简单而且快乐。
+  > Today is your opportunity to build the tomorrow you want.
+  > 想要创造出明天，今天就是你的机会。
 
 * 有道词典
-  > As we stay curious about the world, we keep our minds young and open.
-  > 怀着对世界的好奇，思维便会保持年轻与开阔。
+  > It takes a strong man to save himself, and a great man to save another.
+  > 强者自救，圣者渡人。
 
 ```
