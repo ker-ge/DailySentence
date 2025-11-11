@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-10已更新 
+2025-11-11已更新 
 ```
 * 金山词霸
-  > Don't judge by looks.
-  > 别以貌取人。
+  > Dreams face barriers, but destiny lies beyond.
+  > 梦想遭遇阻碍，但命运就在前方。
 
 * 扇贝单词
-  > Today is your opportunity to build the tomorrow you want.
-  > 想要创造出明天，今天就是你的机会。
+  > Believe you can and you're halfway there.
+  > 相信自己能成功，你就已经成功了一半。
 
 * 有道词典
-  > It takes a strong man to save himself, and a great man to save another.
-  > 强者自救，圣者渡人。
+  > I have loved the stars too fondly to be fearful of the night.
+  > 我如此挚爱星辰，便不再畏惧黑夜的降临。
 
 ```
