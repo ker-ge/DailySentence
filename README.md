@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-11已更新 
+2025-11-12已更新 
 ```
 * 金山词霸
-  > Dreams face barriers, but destiny lies beyond.
-  > 梦想遭遇阻碍，但命运就在前方。
+  > Change or stay. Your choice.
+  > 改变或坚守。由你选择。
 
 * 扇贝单词
-  > Believe you can and you're halfway there.
-  > 相信自己能成功，你就已经成功了一半。
+  > Try to be a rainbow in someone's cloud.
+  > 试着去成为别人乌云里的一道彩虹吧！
 
 * 有道词典
-  > I have loved the stars too fondly to be fearful of the night.
-  > 我如此挚爱星辰，便不再畏惧黑夜的降临。
+  > Any mind that is capable of a real sorrow is capable of good.
+  > 能感受真切悲伤的人，必也心存善念。
 
 ```
