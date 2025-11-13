@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-12已更新 
+2025-11-13已更新 
 ```
 * 金山词霸
-  > Change or stay. Your choice.
-  > 改变或坚守。由你选择。
+  > Seek purpose. Don't limit dreams.
+  > 追寻目标。别限制梦想。
 
 * 扇贝单词
-  > Try to be a rainbow in someone's cloud.
-  > 试着去成为别人乌云里的一道彩虹吧！
+  > Change the way you look at things and the things you look at change.
+  > 改变你看待事物的方式，你所看到的事物也会改变。
 
 * 有道词典
-  > Any mind that is capable of a real sorrow is capable of good.
-  > 能感受真切悲伤的人，必也心存善念。
+  > Don't count the days, make the days count.
+  > 不要虚度光阴，要让每一天都有价值。
 
 ```
