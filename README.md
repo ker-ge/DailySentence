@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-13已更新 
+2025-11-14已更新 
 ```
 * 金山词霸
-  > Seek purpose. Don't limit dreams.
-  > 追寻目标。别限制梦想。
+  > From sadness comes joy, as dead flowers bring blooms.
+  > 悲伤生喜悦，如枯花绽新蕾。
 
 * 扇贝单词
-  > Change the way you look at things and the things you look at change.
-  > 改变你看待事物的方式，你所看到的事物也会改变。
+  > I have failed many times, and that's why I am a success.
+  > 我失败过很多次，这就是我成功的原因。
 
 * 有道词典
-  > Don't count the days, make the days count.
-  > 不要虚度光阴，要让每一天都有价值。
+  > The closer they look, the less they actually see.
+  > 他们离得越近，实际看到的就越少。
 
 ```
