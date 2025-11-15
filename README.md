@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-14已更新 
+2025-11-15已更新 
 ```
 * 金山词霸
-  > From sadness comes joy, as dead flowers bring blooms.
-  > 悲伤生喜悦，如枯花绽新蕾。
+  > Time is the most valuable thing a man can spend.
+  > 时间是一个人最宝贵的财富。
 
 * 扇贝单词
-  > I have failed many times, and that's why I am a success.
-  > 我失败过很多次，这就是我成功的原因。
+  > There is an applause superior to that of the multitudes: one's own.
+  > 有一种掌声，比大众的掌声更优裕：那就是你自己给自己鼓的掌。
 
 * 有道词典
-  > The closer they look, the less they actually see.
-  > 他们离得越近，实际看到的就越少。
+  > When we celebrate others' success, we open our hearts to more happiness.
+  > 为他人的成功喝彩，自己也会收获更多幸福。
 
 ```
