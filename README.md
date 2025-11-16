@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-15已更新 
+2025-11-16已更新 
 ```
 * 金山词霸
-  > Time is the most valuable thing a man can spend.
-  > 时间是一个人最宝贵的财富。
+  > Dreams are the touchstones of our character.
+  > 梦想是我们性格的基石。
 
 * 扇贝单词
-  > There is an applause superior to that of the multitudes: one's own.
-  > 有一种掌声，比大众的掌声更优裕：那就是你自己给自己鼓的掌。
+  > Summer friends will melt away like summer snows, but winter friends are friends forever.
+  > 盛夏的朋友会像盛夏的雪一样融化流逝，但数九寒天的朋友会是永远的朋友。
 
 * 有道词典
-  > When we celebrate others' success, we open our hearts to more happiness.
-  > 为他人的成功喝彩，自己也会收获更多幸福。
+  > Trust is built when someone is vulnerable and not taken advantage of.
+  > 当人展露脆弱却不被利用时，信任便会悄然建立。
 
 ```
