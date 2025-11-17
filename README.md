@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-16已更新 
+2025-11-17已更新 
 ```
 * 金山词霸
-  > Dreams are the touchstones of our character.
-  > 梦想是我们性格的基石。
+  > Each breath forms a tiny cloud in the cool air.
+  > 在清凉的空气中，每一次呼吸都呵出一小朵云。
 
 * 扇贝单词
-  > Summer friends will melt away like summer snows, but winter friends are friends forever.
-  > 盛夏的朋友会像盛夏的雪一样融化流逝，但数九寒天的朋友会是永远的朋友。
+  > Patience is bitter, but its fruit is sweet.
+  > 忍耐是痛苦的，但果实是甜蜜的。
 
 * 有道词典
-  > Trust is built when someone is vulnerable and not taken advantage of.
-  > 当人展露脆弱却不被利用时，信任便会悄然建立。
+  > No need to be anybody but oneself.
+  > 不必成为任何人，做自己就足矣。
 
 ```
