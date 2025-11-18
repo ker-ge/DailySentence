@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-17已更新 
+2025-11-18已更新 
 ```
 * 金山词霸
-  > Each breath forms a tiny cloud in the cool air.
-  > 在清凉的空气中，每一次呼吸都呵出一小朵云。
+  > An extra blanket on the bed feels like a great luxury.
+  > 床上多加一条毯子，感觉就像一种巨大的享受。
 
 * 扇贝单词
-  > Patience is bitter, but its fruit is sweet.
-  > 忍耐是痛苦的，但果实是甜蜜的。
+  > Bear in mind that you should conduct yourself in life as at a feast.
+  > 要记住，你在生活中应该表现得像出席宴会一样优雅。
 
 * 有道词典
-  > No need to be anybody but oneself.
-  > 不必成为任何人，做自己就足矣。
+  > Yesterday is history, tomorrow is a mystery, but today is a gift.
+  > 过去已尘封，明日仍未知，此刻最珍贵。
 
 ```
