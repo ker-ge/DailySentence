@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-18已更新 
+2025-11-19已更新 
 ```
 * 金山词霸
-  > An extra blanket on the bed feels like a great luxury.
-  > 床上多加一条毯子，感觉就像一种巨大的享受。
+  > It's the perfect time for a good book by the window.
+  > 这是在窗边读一本好书的完美时节。
 
 * 扇贝单词
-  > Bear in mind that you should conduct yourself in life as at a feast.
-  > 要记住，你在生活中应该表现得像出席宴会一样优雅。
+  > We cannot choose the day or time when we will fully bloom. It happens in its own time.
+  > 我们无法选择自己盛开的时日。时候到了，它就会发生的。
 
 * 有道词典
-  > Yesterday is history, tomorrow is a mystery, but today is a gift.
-  > 过去已尘封，明日仍未知，此刻最珍贵。
+  > Out of suffering have emerged the strongest souls.
+  > 最坚韧的灵魂，往往在苦难中淬炼而成。
 
 ```
