@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-21已更新 
+2025-11-22已更新 
 ```
 * 金山词霸
-  > All are unique.
-  > 人人皆独特。
+  > No snowflake ever falls in the wrong place.
+  > 没有一片雪花会落在错误的地方。
 
 * 扇贝单词
-  > Well-timed silence has more eloquence than speech.
-  > 适时的静默比雄辩更有说服力。
+  > A tiny change today brings a dramatically different tomorrow.
+  > 今天的微小改变，会带来全然不同的明天。
 
 * 有道词典
-  > Imperfection is not a flaw, but a part of what makes us human.
-  > 不完美并非缺陷，而是构成人性的一部分。
+  > To live simply is to free the heart from clutter and cherish what truly matters.
+  > 生活简朴，方能卸下杂念，拥抱真正有价值的一切。
 
 ```
