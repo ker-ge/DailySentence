@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-22已更新 
+2025-11-23已更新 
 ```
 * 金山词霸
-  > No snowflake ever falls in the wrong place.
-  > 没有一片雪花会落在错误的地方。
+  > Don't dream your life, but live your dream.
+  > 不要梦想你的生活，而要实现你的梦想。
 
 * 扇贝单词
-  > A tiny change today brings a dramatically different tomorrow.
-  > 今天的微小改变，会带来全然不同的明天。
+  > Family means no one gets left behind or forgotten.
+  > 家意味着没有人会被落下，或被遗忘。
 
 * 有道词典
-  > To live simply is to free the heart from clutter and cherish what truly matters.
-  > 生活简朴，方能卸下杂念，拥抱真正有价值的一切。
+  > A man can be destroyed, but not defeated.
+  > 躯体可被摧毁，意志永不言败。
 
 ```
