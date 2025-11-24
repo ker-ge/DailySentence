@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-23已更新 
+2025-11-24已更新 
 ```
 * 金山词霸
-  > Don't dream your life, but live your dream.
-  > 不要梦想你的生活，而要实现你的梦想。
+  > Each day is a new page in the story of autumn.
+  > 每一天都是秋天故事里崭新的一页。
 
 * 扇贝单词
-  > Family means no one gets left behind or forgotten.
-  > 家意味着没有人会被落下，或被遗忘。
+  > We love life, not because we are used to living but because we are used to loving.
+  > 我们热爱生活，并不因为我们习惯了生活，而是因为我们习惯了去热爱。
 
 * 有道词典
-  > A man can be destroyed, but not defeated.
-  > 躯体可被摧毁，意志永不言败。
+  > When we stay true to our values, we never lose our way in life.
+  > 忠于自己的原则，人生便不会迷失方向。
 
 ```
