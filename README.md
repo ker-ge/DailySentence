@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-24已更新 
+2025-11-25已更新 
 ```
 * 金山词霸
-  > Each day is a new page in the story of autumn.
-  > 每一天都是秋天故事里崭新的一页。
+  > Let's seek joy in the simple, quiet moments.
+  > 让我们在简单宁静的时刻中寻找快乐。
 
 * 扇贝单词
-  > We love life, not because we are used to living but because we are used to loving.
-  > 我们热爱生活，并不因为我们习惯了生活，而是因为我们习惯了去热爱。
+  > In the midst of winter, I found there was, within me, an invincible summer.
+  > 在隆冬，我终于知道，我的内心有一个不可战胜的夏天。
 
 * 有道词典
-  > When we stay true to our values, we never lose our way in life.
-  > 忠于自己的原则，人生便不会迷失方向。
+  > I must take risks, for otherwise I will never change or grow.
+  > 必须勇于尝试，否则永远无法改变或成长。
 
 ```
