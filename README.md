@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-25已更新 
+2025-11-26已更新 
 ```
 * 金山词霸
-  > Let's seek joy in the simple, quiet moments.
-  > 让我们在简单宁静的时刻中寻找快乐。
+  > Remember to be kind to yourself today.
+  > 记得在今天对自己好一点。
 
 * 扇贝单词
-  > In the midst of winter, I found there was, within me, an invincible summer.
-  > 在隆冬，我终于知道，我的内心有一个不可战胜的夏天。
+  > Success doesn't come from what you do occasionally. It comes from what you do consistently.
+  > 成功并不来自你偶然做了什么，而是你一直在做什么。
 
 * 有道词典
-  > I must take risks, for otherwise I will never change or grow.
-  > 必须勇于尝试，否则永远无法改变或成长。
+  > In uncertainty, courage is the compass home.
+  > 迷茫之时，勇气是照亮归途的指南针。
 
 ```
