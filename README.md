@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-26已更新 
+2025-11-27已更新 
 ```
 * 金山词霸
-  > Remember to be kind to yourself today.
-  > 记得在今天对自己好一点。
+  > The world is quieting down for its winter rest.
+  > 世界正安静下来，准备它的冬日休眠。
 
 * 扇贝单词
-  > Success doesn't come from what you do occasionally. It comes from what you do consistently.
-  > 成功并不来自你偶然做了什么，而是你一直在做什么。
+  > Keep a little fire burning; however small, however hidden.
+  > 让心中的火苗一直燃烧吧，不管那有多微弱，不管藏得有多深。
 
 * 有道词典
-  > In uncertainty, courage is the compass home.
-  > 迷茫之时，勇气是照亮归途的指南针。
+  > I am grateful for having at least found you.
+  > 何其有幸，终能与你相遇。
 
 ```
