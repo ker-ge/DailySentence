@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-27已更新 
+2025-11-28已更新 
 ```
 * 金山词霸
-  > The world is quieting down for its winter rest.
-  > 世界正安静下来，准备它的冬日休眠。
+  > There is beauty in letting go.
+  > 在放下之中亦有美感。
 
 * 扇贝单词
-  > Keep a little fire burning; however small, however hidden.
-  > 让心中的火苗一直燃烧吧，不管那有多微弱，不管藏得有多深。
+  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
+  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
 
 * 有道词典
-  > I am grateful for having at least found you.
-  > 何其有幸，终能与你相遇。
+  > Help yourself first—no one can do it better than you.
+  > 先自助，没人能比你更懂如何帮自己。
 
 ```
