@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-28已更新 
+2025-11-29已更新 
 ```
 * 金山词霸
-  > There is beauty in letting go.
-  > 在放下之中亦有美感。
+  > What you do today can improve all your tomorrows.
+  > 你今天所做的一切，可以改善你所有的明天。
 
 * 扇贝单词
-  > I'm not telling you it is going to be easy, I'm telling you it's going to be worth it.
-  > 我不会告诉你这个过程很容易。我只会说，这一切都是值得的。
+  > Love is the one thing that transcends time and space.
+  > 爱是唯一可以超越时空的东西。
 
 * 有道词典
-  > Help yourself first—no one can do it better than you.
-  > 先自助，没人能比你更懂如何帮自己。
+  > Every wound marks a step forward.
+  > 伤痕为证，步步向前。
 
 ```
