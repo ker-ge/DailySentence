@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-29已更新 
+2025-11-30已更新 
 ```
 * 金山词霸
-  > What you do today can improve all your tomorrows.
-  > 你今天所做的一切，可以改善你所有的明天。
+  > A wise man makes his own decisions.
+  > 智者做自己的决定。
 
 * 扇贝单词
-  > Love is the one thing that transcends time and space.
-  > 爱是唯一可以超越时空的东西。
+  > No amount of money ever bought a second of time.
+  > 再多的钱也无法买回逝去的光阴。
 
 * 有道词典
-  > Every wound marks a step forward.
-  > 伤痕为证，步步向前。
+  > The powerful play goes on, and you may contribute a verse.
+  > 伟大的戏剧仍在继续，你自有诗句可添。
 
 ```
