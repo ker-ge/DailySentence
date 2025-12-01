@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-11-30已更新 
+2025-12-01已更新 
 ```
 * 金山词霸
-  > A wise man makes his own decisions.
-  > 智者做自己的决定。
+  > December is a month to cherish, to give thanks, and to embrace a brighter future.
+  > 十二月，宜珍惜，宜感恩，宜奔赴更美好的未来。
 
 * 扇贝单词
-  > No amount of money ever bought a second of time.
-  > 再多的钱也无法买回逝去的光阴。
+  > I celebrate myself, and sing myself.
+  > 我为自己欢庆，为自己歌唱。
 
 * 有道词典
-  > The powerful play goes on, and you may contribute a verse.
-  > 伟大的戏剧仍在继续，你自有诗句可添。
+  > Still like dust, I'll rise despite being trodden.
+  > 虽被践踏如尘，我仍向上而生。
 
 ```
