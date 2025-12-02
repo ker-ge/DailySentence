@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-01已更新 
+2025-12-02已更新 
 ```
 * 金山词霸
-  > December is a month to cherish, to give thanks, and to embrace a brighter future.
-  > 十二月，宜珍惜，宜感恩，宜奔赴更美好的未来。
+  > Today's gentle breeze is perfect for a stroll.
+  > 今日微风，正好散步。
 
 * 扇贝单词
-  > I celebrate myself, and sing myself.
-  > 我为自己欢庆，为自己歌唱。
+  > Sometimes you gotta get through your fears to see the beauty on the other side.
+  > 有时候，你要克服内心的恐惧，才能看见彼端的美景。
 
 * 有道词典
-  > Still like dust, I'll rise despite being trodden.
-  > 虽被践踏如尘，我仍向上而生。
+  > Growth comes when we dare to break our shells.
+  > 敢于破壳而出，便是成长的开端。
 
 ```
