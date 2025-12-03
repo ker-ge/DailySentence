@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-02已更新 
+2025-12-03已更新 
 ```
 * 金山词霸
-  > Today's gentle breeze is perfect for a stroll.
-  > 今日微风，正好散步。
+  > Each step leaves its mark, creating a landscape all its own.
+  > 一步一印，自成风景。
 
 * 扇贝单词
-  > Sometimes you gotta get through your fears to see the beauty on the other side.
-  > 有时候，你要克服内心的恐惧，才能看见彼端的美景。
+  > You must expect great things of yourself before you can do them.
+  > 你必须先见到很棒的自己，才能做出很棒的事。
 
 * 有道词典
-  > Growth comes when we dare to break our shells.
-  > 敢于破壳而出，便是成长的开端。
+  > Light shines brighter with shadows around.
+  > 阴影存处，光明愈盛。
 
 ```
