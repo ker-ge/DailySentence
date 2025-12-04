@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-03已更新 
+2025-12-04已更新 
 ```
 * 金山词霸
-  > Each step leaves its mark, creating a landscape all its own.
-  > 一步一印，自成风景。
+  > Winter has its light, and dreams dwell within the heart.
+  > 冬日有光，心中有梦。
 
 * 扇贝单词
-  > You must expect great things of yourself before you can do them.
-  > 你必须先见到很棒的自己，才能做出很棒的事。
+  > When all else is lost, the future still remains.
+  > 即使失去一切，未来仍在。
 
 * 有道词典
-  > Light shines brighter with shadows around.
-  > 阴影存处，光明愈盛。
+  > Anxious hearts find calm in choosing hope.
+  > 焦虑难安之际，择希望而寻从容。
 
 ```
