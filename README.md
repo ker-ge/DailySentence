@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-04已更新 
+2025-12-05已更新 
 ```
 * 金山词霸
-  > Winter has its light, and dreams dwell within the heart.
-  > 冬日有光，心中有梦。
+  > Winter always arrives quietly, yet the chill comes suddenly.
+  > 冬天总是悄然来临，而寒意却骤然而至。
 
 * 扇贝单词
-  > When all else is lost, the future still remains.
-  > 即使失去一切，未来仍在。
+  > Wisdom is the power to put our time and our knowledge to the proper use.
+  > 所谓智慧，就是合理利用好我们的时间和知识。
 
 * 有道词典
-  > Anxious hearts find calm in choosing hope.
-  > 焦虑难安之际，择希望而寻从容。
+  > Kindness sows seeds that bloom in unexpected ways.
+  > 善意播撒的种子，终将以意外之姿绽放。
 
 ```
