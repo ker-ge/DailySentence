@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-05已更新 
+2025-12-06已更新 
 ```
 * 金山词霸
-  > Winter always arrives quietly, yet the chill comes suddenly.
-  > 冬天总是悄然来临，而寒意却骤然而至。
+  > Those who walk in the cold wind carry within them an unquenchable flame.
+  > 在寒风中行走的人，心中自有一团不灭的火。
 
 * 扇贝单词
-  > Wisdom is the power to put our time and our knowledge to the proper use.
-  > 所谓智慧，就是合理利用好我们的时间和知识。
+  > When we seek to discover the best in others, we somehow bring out the best in ourselves.
+  > 当我们努力发掘他人的好时，我们往往也会看到自己最好的一面。
 
 * 有道词典
-  > Kindness sows seeds that bloom in unexpected ways.
-  > 善意播撒的种子，终将以意外之姿绽放。
+  > There's no shame in meeting a worthy opponent.
+  > 遇上旗鼓相当的对手，是幸事而非憾事。
 
 ```
