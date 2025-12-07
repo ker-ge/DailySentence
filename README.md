@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-06已更新 
+2025-12-07已更新 
 ```
 * 金山词霸
-  > Those who walk in the cold wind carry within them an unquenchable flame.
-  > 在寒风中行走的人，心中自有一团不灭的火。
+  > Simmering snow by the hearth, cooking up a slower pace of life.
+  > 围炉煮雪，烹煮一段慢下来的时光。
 
 * 扇贝单词
-  > When we seek to discover the best in others, we somehow bring out the best in ourselves.
-  > 当我们努力发掘他人的好时，我们往往也会看到自己最好的一面。
+  > Being brave means knowing that when you fail, you don't fail forever.
+  > 勇敢就是知道即使你失败了，你也不是永远失败。
 
 * 有道词典
-  > There's no shame in meeting a worthy opponent.
-  > 遇上旗鼓相当的对手，是幸事而非憾事。
+  > Be brave today, the dark night will pass.
+  > 今日勇敢面对，黑夜终会过去。
 
 ```
