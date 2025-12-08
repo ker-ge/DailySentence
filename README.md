@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-07已更新 
+2025-12-08已更新 
 ```
 * 金山词霸
-  > Simmering snow by the hearth, cooking up a slower pace of life.
-  > 围炉煮雪，烹煮一段慢下来的时光。
+  > In the silence, grow your own roots.
+  > 在寂静中，长出自己的根。
 
 * 扇贝单词
-  > Being brave means knowing that when you fail, you don't fail forever.
-  > 勇敢就是知道即使你失败了，你也不是永远失败。
+  > We are the hero of our own story.
+  > 我们都是我们自己故事里的英雄。
 
 * 有道词典
-  > Be brave today, the dark night will pass.
-  > 今日勇敢面对，黑夜终会过去。
+  > Nothing ever fatigues me but doing what I do not like.
+  > 世间之事，唯有做不喜欢的事，才会让我身心俱疲。
 
 ```
