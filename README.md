@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-08已更新 
+2025-12-09已更新 
 ```
 * 金山词霸
-  > In the silence, grow your own roots.
-  > 在寂静中，长出自己的根。
+  > Bright windows and clean desks—that is simple joy.
+  > 窗明几净，便是清欢。
 
 * 扇贝单词
-  > We are the hero of our own story.
-  > 我们都是我们自己故事里的英雄。
+  > Promise yourself to be so strong that nothing can disturb your peace of mind.
+  > 对自己承诺：要强大到任何事情都无法破坏你内心的平和。 ​​​​
 
 * 有道词典
-  > Nothing ever fatigues me but doing what I do not like.
-  > 世间之事，唯有做不喜欢的事，才会让我身心俱疲。
+  > Dream big and dare to fail.
+  > 心怀远志，不惧失败。
 
 ```
