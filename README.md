@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-09已更新 
+2025-12-10已更新 
 ```
 * 金山词霸
-  > Bright windows and clean desks—that is simple joy.
-  > 窗明几净，便是清欢。
+  > You don't need to chase the light—you already shine on your own.
+  > 不必追光，你本就能发光。
 
 * 扇贝单词
-  > Promise yourself to be so strong that nothing can disturb your peace of mind.
-  > 对自己承诺：要强大到任何事情都无法破坏你内心的平和。 ​​​​
+  > An aim in life is the only fortune worth finding.
+  > 生活的目标，是唯一值得我们去寻找的财富。
 
 * 有道词典
-  > Dream big and dare to fail.
-  > 心怀远志，不惧失败。
+  > It is far more impressive when others discover your good qualities without your help.
+  > 不靠自己宣扬，让别人发现你的长处，才更令人敬佩。
 
 ```
