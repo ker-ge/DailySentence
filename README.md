@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-11已更新 
+2025-12-12已更新 
 ```
 * 金山词霸
-  > Even if ordinary and clumsy, not giving up is itself a shining point.
-  > 即使平凡笨拙，不放弃本身就是闪光点。
+  > Every road offers its own unique scenery, and every person is a singular existence.
+  > 每一条路都是独特的风景，每一个人都是唯一的存在。
 
 * 扇贝单词
-  > Nobody realizes that some people expend tremendous energy merely to be normal.
-  > 没有人意识到，有些人花了大量的精力就只是为了做个平常人。
+  > It is not in the stars to hold our destiny but in ourselves.
+  > 我们的命运是由自己，而不是天上的星星掌握。
 
 * 有道词典
-  > Never give up, even when it seems impossible.
-  > 别轻易放弃，哪怕局面看起来已是穷途末路。
+  > Doing the best he can makes a hero.
+  > 拼尽全力者，便是真英雄。
 
 ```
