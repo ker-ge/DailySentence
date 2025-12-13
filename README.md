@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-12已更新 
+2025-12-13已更新 
 ```
 * 金山词霸
-  > Every road offers its own unique scenery, and every person is a singular existence.
-  > 每一条路都是独特的风景，每一个人都是唯一的存在。
+  > Beyond material possessions, what matters most is a person's spirit and perspective.
+  > 物质之外，更重要的是一个人的精神与见解。
 
 * 扇贝单词
-  > It is not in the stars to hold our destiny but in ourselves.
-  > 我们的命运是由自己，而不是天上的星星掌握。
+  > ㅤ
+  > ㅤ
 
 * 有道词典
-  > Doing the best he can makes a hero.
-  > 拼尽全力者，便是真英雄。
+  > Joy finds those who seek it.
+  > 寻乐者，自得其乐。
 
 ```
