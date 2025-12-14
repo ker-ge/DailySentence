@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-13已更新 
+2025-12-14已更新 
 ```
 * 金山词霸
-  > Beyond material possessions, what matters most is a person's spirit and perspective.
-  > 物质之外，更重要的是一个人的精神与见解。
+  > May every snowfall this winter lay the groundwork for the world's whiteness.
+  > 愿这个冬天的每一场雪，都是为了铺垫世界的洁白。
 
 * 扇贝单词
-  > ㅤ
-  > ㅤ
+  > The wound is the place where the light enters you.
+  > 伤口是光照进你内心的地方。
 
 * 有道词典
-  > Joy finds those who seek it.
-  > 寻乐者，自得其乐。
+  > Love the life you live, live the life you love.
+  > 热爱自己的生活，过自己热爱的人生。
 
 ```
