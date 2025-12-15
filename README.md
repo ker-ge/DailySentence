@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-14已更新 
+2025-12-15已更新 
 ```
 * 金山词霸
-  > May every snowfall this winter lay the groundwork for the world's whiteness.
-  > 愿这个冬天的每一场雪，都是为了铺垫世界的洁白。
+  > In solitude, I encounter the complete me.
+  > 在孤独中，遇见完整的我。
 
 * 扇贝单词
-  > The wound is the place where the light enters you.
-  > 伤口是光照进你内心的地方。
+  > Nothing you wear is more important than your smile.
+  > 不管如何穿戴，都不比带上你的微笑。
 
 * 有道词典
-  > Love the life you live, live the life you love.
-  > 热爱自己的生活，过自己热爱的人生。
+  > Your light is enough to guide yourself.
+  > 你的光芒，足以指引前路。
 
 ```
