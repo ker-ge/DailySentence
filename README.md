@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-15已更新 
+2025-12-16已更新 
 ```
 * 金山词霸
-  > In solitude, I encounter the complete me.
-  > 在孤独中，遇见完整的我。
+  > Love is seeing, and it is space.
+  > 爱是看见，也是空间。
 
 * 扇贝单词
-  > Nothing you wear is more important than your smile.
-  > 不管如何穿戴，都不比带上你的微笑。
+  > If you focus on what you left behind, you will never see what lies ahead.
+  > 如果你只顾回头看，你就永远无法看到前路有什么。
 
 * 有道词典
-  > Your light is enough to guide yourself.
-  > 你的光芒，足以指引前路。
+  > Kindness is the purest form of love.
+  > 善良，是爱最纯粹的模样。
 
 ```
