@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-16已更新 
+2025-12-17已更新 
 ```
 * 金山词霸
-  > Love is seeing, and it is space.
-  > 爱是看见，也是空间。
+  > Growing up is a gentle act of self-rebellion.
+  > 成长，是一场温柔的自我叛变。
 
 * 扇贝单词
-  > If you focus on what you left behind, you will never see what lies ahead.
-  > 如果你只顾回头看，你就永远无法看到前路有什么。
+  > I have always regarded myself as the pillar of my life.
+  > 我一直认为，我才是我人生的中流砥柱。
 
 * 有道词典
-  > Kindness is the purest form of love.
-  > 善良，是爱最纯粹的模样。
+  > There's a lot of evil in the world, but if we stick together, it will go away.
+  > 这世间满是恶意，但只要我们同心相伴，恶意自会消散。
 
 ```
