@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-18已更新 
+2025-12-19已更新 
 ```
 * 金山词霸
-  > The past has been written, the future unfolds.
-  > 过往已落笔，未来正铺陈。
+  > The warm winter sun is more cherished than in any other season.
+  > 冬日的暖阳，比任何季节都更让人珍惜。
 
 * 扇贝单词
-  > Nothing great in the world has been accomplished without passion.
-  > 世上没有任何伟业的成就能够离得开激情。
+  > Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.
+  > 与其期盼下一次假期，不如创造一种不需要逃离的生活。
 
 * 有道词典
-  > A friend gives you freedom to be yourself.
-  > 挚友面前，可做真我。
+  > This world goes much deeper than you imagine.
+  > 这里的奥秘远超你的想象。
 
 ```
