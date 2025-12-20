@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-19已更新 
+2025-12-20已更新 
 ```
 * 金山词霸
-  > The warm winter sun is more cherished than in any other season.
-  > 冬日的暖阳，比任何季节都更让人珍惜。
+  > Listen to the wind rise, watch the snow fall— All things have their time.
+  > 听风起，看雪落，万物自有其时。
 
 * 扇贝单词
-  > Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from.
-  > 与其期盼下一次假期，不如创造一种不需要逃离的生活。
+  > Many individuals have, like uncut diamonds, shining qualities beneath a rough exterior.
+  > 很多人像未经雕琢的钻石，在粗糙的表面下有发光的本质。
 
 * 有道词典
-  > This world goes much deeper than you imagine.
-  > 这里的奥秘远超你的想象。
+  > Grow through what you go through.
+  > 经一事，长一智。
 
 ```
