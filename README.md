@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-20已更新 
+2025-12-21已更新 
 ```
 * 金山词霸
-  > Listen to the wind rise, watch the snow fall— All things have their time.
-  > 听风起，看雪落，万物自有其时。
+  > The nights grow shorter from this day onward, the days grow longer from this day onward.
+  > 夜从此渐短，光从此渐长。
 
 * 扇贝单词
-  > Many individuals have, like uncut diamonds, shining qualities beneath a rough exterior.
-  > 很多人像未经雕琢的钻石，在粗糙的表面下有发光的本质。
+  > At the end of the day, let there be no excuses, no explanations, no regrets.
+  > 在一天结束的时候，别留下任何借口、解释或悔恨。
 
 * 有道词典
-  > Grow through what you go through.
-  > 经一事，长一智。
+  > Beyond winter solstice lies the promise of spring's return.
+  > 越过冬至，便见春归
 
 ```
