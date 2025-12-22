@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-21已更新 
+2025-12-22已更新 
 ```
 * 金山词霸
-  > The nights grow shorter from this day onward, the days grow longer from this day onward.
-  > 夜从此渐短，光从此渐长。
+  > In the wilderness, forge your own path.
+  > 于荒原中，踏出自己的路。
 
 * 扇贝单词
-  > At the end of the day, let there be no excuses, no explanations, no regrets.
-  > 在一天结束的时候，别留下任何借口、解释或悔恨。
+  > The path to your success is not as fixed and inflexible as you think.
+  > 成功之路并非你想的那么死板和不可改变。
 
 * 有道词典
-  > Beyond winter solstice lies the promise of spring's return.
-  > 越过冬至，便见春归
+  > Happiness is real only when it is shared with someone you cherish.
+  > 幸福唯有与珍视之人分享，才是最真切的。
 
 ```
