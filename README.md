@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-22已更新 
+2025-12-23已更新 
 ```
 * 金山词霸
-  > In the wilderness, forge your own path.
-  > 于荒原中，踏出自己的路。
+  > In the mundane everyday, there is still a glimmer of light.
+  > 琐碎日常，亦有微光。
 
 * 扇贝单词
-  > The path to your success is not as fixed and inflexible as you think.
-  > 成功之路并非你想的那么死板和不可改变。
+  > It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.
+  > 并不是因为事情难我们才不敢去做，而是因为我们不敢做事情才难。
 
 * 有道词典
-  > Happiness is real only when it is shared with someone you cherish.
-  > 幸福唯有与珍视之人分享，才是最真切的。
+  > You can steer yourself any direction you choose.
+  > 人生方向，尽在你掌控。
 
 ```
