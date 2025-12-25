@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-24已更新 
+2025-12-25已更新 
 ```
 * 金山词霸
-  > Those who understand will understand; the rest is just scenery.
-  > 懂的人自会懂，其余皆是风景。
+  > May you gather the courage to greet the new sun.
+  > 愿你攒足勇气，迎接新的太阳。
 
 * 扇贝单词
-  > There are far, far better things ahead than any we leave behind.
-  > 比起遗落在过去的，未来还有更加美好的在等着我们。
+  > Without self-discipline, success is impossible, period.
+  > 无自律，不成功，就这样。
 
 * 有道词典
-  > Be soft, be fluent, and discover life's gentle gifts.
-  > 以温柔之心，顺自然之态，发现生活的美好。
+  > Carolers sing joy into the winter night.
+  > 颂歌为寒夜注入欢愉。
 
 ```
