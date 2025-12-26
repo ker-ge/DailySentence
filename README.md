@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-25已更新 
+2025-12-26已更新 
 ```
 * 金山词霸
-  > May you gather the courage to greet the new sun.
-  > 愿你攒足勇气，迎接新的太阳。
+  > The colder it gets, the more you appreciate the weight of warmth.
+  > 越是寒冷，越能体会温暖的重量。
 
 * 扇贝单词
-  > Without self-discipline, success is impossible, period.
-  > 无自律，不成功，就这样。
+  > I am seeking, I am striving, I am in it with all my heart.
+  > 我在寻找，我在努力，我全身心地投入其中。
 
 * 有道词典
-  > Carolers sing joy into the winter night.
-  > 颂歌为寒夜注入欢愉。
+  > Walk slowly, and you'll see what matters.
+  > 慢下来，你才会明白什么是最珍贵的。
 
 ```
