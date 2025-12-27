@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-26已更新 
+2025-12-27已更新 
 ```
 * 金山词霸
-  > The colder it gets, the more you appreciate the weight of warmth.
-  > 越是寒冷，越能体会温暖的重量。
+  > Life is about your own genuine feelings; don't get caught up in others' opinions.
+  > 生活是自己的真切感受，不必困于他人眼光。
 
 * 扇贝单词
-  > I am seeking, I am striving, I am in it with all my heart.
-  > 我在寻找，我在努力，我全身心地投入其中。
+  > You are confined only by the walls you build yourself.
+  > 限制你的只有你自己筑起的墙。
 
 * 有道词典
-  > Walk slowly, and you'll see what matters.
-  > 慢下来，你才会明白什么是最珍贵的。
+  > Far better things ahead than any we leave behind.
+  > 前路有更美好的风景，胜于过往一切。
 
 ```
