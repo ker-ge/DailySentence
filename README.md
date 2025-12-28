@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-27已更新 
+2025-12-28已更新 
 ```
 * 金山词霸
-  > Life is about your own genuine feelings; don't get caught up in others' opinions.
-  > 生活是自己的真切感受，不必困于他人眼光。
+  > The best time for new beginnings is now.
+  > 新的开始的最佳时机就是现在。
 
 * 扇贝单词
-  > You are confined only by the walls you build yourself.
-  > 限制你的只有你自己筑起的墙。
+  > Life's great happiness is to be convinced we are loved.
+  > 人生最大的幸福，就是确信我们是被人爱着的。
 
 * 有道词典
-  > Far better things ahead than any we leave behind.
-  > 前路有更美好的风景，胜于过往一切。
+  > I will live without shame, loving you with all my heart.
+  > 毫无遗憾地生活，用尽全力去爱你。
 
 ```
