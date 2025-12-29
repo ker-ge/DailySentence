@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-28已更新 
+2025-12-29已更新 
 ```
 * 金山词霸
-  > The best time for new beginnings is now.
-  > 新的开始的最佳时机就是现在。
+  > Savoring life's moments, quietly observing its transformations.
+  > 慢品人间，静观其变。
 
 * 扇贝单词
-  > Life's great happiness is to be convinced we are loved.
-  > 人生最大的幸福，就是确信我们是被人爱着的。
+  > All we have to decide is what to do with the time that is given to us.
+  > 我们需要决定的是，如何利用好上天赋予我们的时间。
 
 * 有道词典
-  > I will live without shame, loving you with all my heart.
-  > 毫无遗憾地生活，用尽全力去爱你。
+  > The strongest warriors are time and patience.
+  > 最强大的战士，是时间与耐心。
 
 ```
