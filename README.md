@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-29已更新 
+2025-12-30已更新 
 ```
 * 金山词霸
-  > Savoring life's moments, quietly observing its transformations.
-  > 慢品人间，静观其变。
+  > Yesterday's shadow elevates today's me.
+  > 昨日之影，垫高今日之我。
 
 * 扇贝单词
-  > All we have to decide is what to do with the time that is given to us.
-  > 我们需要决定的是，如何利用好上天赋予我们的时间。
+  > Some people could look at a mud puddle and see an ocean with ships.
+  > 有些人眼望着泥塘，却能看见千帆竞发的海洋。
 
 * 有道词典
-  > The strongest warriors are time and patience.
-  > 最强大的战士，是时间与耐心。
+  > Some souls stay in yours forever once they enter.
+  > 有些人一旦相遇，便成永恒。
 
 ```
