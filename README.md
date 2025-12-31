@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-30已更新 
+2025-12-31已更新 
 ```
 * 金山词霸
-  > Yesterday's shadow elevates today's me.
-  > 昨日之影，垫高今日之我。
+  > Give this year a gentle embrace and say goodbye.
+  > 给这一年一个温柔的拥抱，说声再见。
 
 * 扇贝单词
-  > Some people could look at a mud puddle and see an ocean with ships.
-  > 有些人眼望着泥塘，却能看见千帆竞发的海洋。
+  > There is just one life for each of us: our own.
+  > 我们都只有一种生活可以过：自己的生活。
 
 * 有道词典
-  > Some souls stay in yours forever once they enter.
-  > 有些人一旦相遇，便成永恒。
+  > You don't have to be great to start, but you have to start to be great.
+  > 伟大始于起步，而非等待完美。
 
 ```
