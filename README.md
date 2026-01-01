@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2025-12-31已更新 
+2026-01-01已更新 
 ```
 * 金山词霸
-  > Give this year a gentle embrace and say goodbye.
-  > 给这一年一个温柔的拥抱，说声再见。
+  > Time is gentle, granting you a promising beginning.
+  > 岁月温柔，许你一个可期的开头。
 
 * 扇贝单词
-  > There is just one life for each of us: our own.
-  > 我们都只有一种生活可以过：自己的生活。
+  > Where you stumble and fall, there you will find gold.
+  > 你在哪里跌倒，就会在哪里找到金子。
 
 * 有道词典
-  > You don't have to be great to start, but you have to start to be great.
-  > 伟大始于起步，而非等待完美。
+  > Time renews itself, so can we.
+  > 时光自新，人亦可焕然。
 
 ```
