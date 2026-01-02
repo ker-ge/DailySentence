@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-01已更新 
+2026-01-02已更新 
 ```
 * 金山词霸
-  > Time is gentle, granting you a promising beginning.
-  > 岁月温柔，许你一个可期的开头。
+  > Wherever your footsteps lead, light will follow.
+  > 步履所向，自有光亮。
 
 * 扇贝单词
-  > Where you stumble and fall, there you will find gold.
-  > 你在哪里跌倒，就会在哪里找到金子。
+  > Soon is not as good as now.
+  > 别谈未来，现在就行动。
 
 * 有道词典
-  > Time renews itself, so can we.
-  > 时光自新，人亦可焕然。
+  > Sometimes the smallest things take up the most room in your heart.
+  > 小事入心，最是难忘。
 
 ```
