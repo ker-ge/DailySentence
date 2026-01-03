@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-02已更新 
+2026-01-03已更新 
 ```
 * 金山词霸
-  > Wherever your footsteps lead, light will follow.
-  > 步履所向，自有光亮。
+  > Snow falls silently, warmth speaks softly. May the world treat you with tenderness.
+  > 雪落无声，温暖有声，愿你被世界温柔以待。
 
 * 扇贝单词
-  > Soon is not as good as now.
-  > 别谈未来，现在就行动。
+  > A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.
+  > 善良的心就如一口快乐的喷泉，让附近的一切都充满欢笑。
 
 * 有道词典
-  > Sometimes the smallest things take up the most room in your heart.
-  > 小事入心，最是难忘。
+  > To live is to suffer, to survive is to find some meaning in the suffering.
+  > 生活之痛不可避，但可赋其意义。
 
 ```
