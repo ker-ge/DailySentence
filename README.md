@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-03已更新 
+2026-01-04已更新 
 ```
 * 金山词霸
-  > Snow falls silently, warmth speaks softly. May the world treat you with tenderness.
-  > 雪落无声，温暖有声，愿你被世界温柔以待。
+  > The road ahead stretches far, yet I won't dwell on momentary hesitation.
+  > 前路漫漫，不萦一时彷徨。
 
 * 扇贝单词
-  > A kind heart is a fountain of gladness, making everything in its vicinity freshen into smiles.
-  > 善良的心就如一口快乐的喷泉，让附近的一切都充满欢笑。
+  > Discipline is the bridge between goals and accomplishment.
+  > 自律是连接目标与成功的桥梁。
 
 * 有道词典
-  > To live is to suffer, to survive is to find some meaning in the suffering.
-  > 生活之痛不可避，但可赋其意义。
+  > Walk forward, even if you crawl.
+  > 哪怕匍匐，也要前行。
 
 ```
