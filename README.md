@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-04已更新 
+2026-01-05已更新 
 ```
 * 金山词霸
-  > The road ahead stretches far, yet I won't dwell on momentary hesitation.
-  > 前路漫漫，不萦一时彷徨。
+  > Deep within the chill, warmth stirs within the soil.
+  > 冷至深处，暖意正在土壤里苏醒。
 
 * 扇贝单词
-  > Discipline is the bridge between goals and accomplishment.
-  > 自律是连接目标与成功的桥梁。
+  > Not being heard is no reason for silence.
+  > 没有被听见不是沉默的理由。
 
 * 有道词典
-  > Walk forward, even if you crawl.
-  > 哪怕匍匐，也要前行。
+  > Don't tell me the moon is shining, show me the glint of light on broken glass.
+  > 莫说月明，示我碎玻璃上的光。
 
 ```
