@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-05已更新 
+2026-01-06已更新 
 ```
 * 金山词霸
-  > Deep within the chill, warmth stirs within the soil.
-  > 冷至深处，暖意正在土壤里苏醒。
+  > Life is not about choices, but about passion.
+  > 生活的真谛不在于选择，而在于热爱。
 
 * 扇贝单词
-  > Not being heard is no reason for silence.
-  > 没有被听见不是沉默的理由。
+  > Winning isn't everything, but wanting it is.
+  > 胜利并不能代表一切，而求胜心可以。
 
 * 有道词典
-  > Don't tell me the moon is shining, show me the glint of light on broken glass.
-  > 莫说月明，示我碎玻璃上的光。
+  > undefined
+  > undefined
 
 ```
