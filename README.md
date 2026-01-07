@@ -19,15 +19,15 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-06已更新 
+2026-01-07已更新 
 ```
 * 金山词霸
-  > Life is not about choices, but about passion.
-  > 生活的真谛不在于选择，而在于热爱。
+  > Gentleness is my strength, sharpness is my boundary.
+  > 温柔是我的力量，锋利是我的边界。
 
 * 扇贝单词
-  > Winning isn't everything, but wanting it is.
-  > 胜利并不能代表一切，而求胜心可以。
+  > I have not failed. I've just found 10,000 ways that won't work.
+  > 我没有失败，我只是找到了10000种行不通的方法。
 
 * 有道词典
   > undefined
