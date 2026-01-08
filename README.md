@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-07已更新 
+2026-01-08已更新 
 ```
 * 金山词霸
-  > Gentleness is my strength, sharpness is my boundary.
-  > 温柔是我的力量，锋利是我的边界。
+  > Turn your face to the sun and the shadows fall behind you.
+  > 向阳而立，阴影自会落在身后。
 
 * 扇贝单词
-  > I have not failed. I've just found 10,000 ways that won't work.
-  > 我没有失败，我只是找到了10000种行不通的方法。
+  > Never look back unless you are planning to go that way.
+  > 永远不要回头，除非你想走回头路。
 
 * 有道词典
-  > undefined
-  > undefined
+  > Not all who wander are lost.
+  > 并非所有流浪者都迷失方向。
 
 ```
