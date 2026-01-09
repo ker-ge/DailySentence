@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-08已更新 
+2026-01-09已更新 
 ```
 * 金山词霸
-  > Turn your face to the sun and the shadows fall behind you.
-  > 向阳而立，阴影自会落在身后。
+  > Expect less, and you'll be pleasantly surprised.
+  > 期待少一分，惊喜多十分。
 
 * 扇贝单词
-  > Never look back unless you are planning to go that way.
-  > 永远不要回头，除非你想走回头路。
+  > It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+  > 在创造性表达和知识中唤醒快乐，是教师的最高艺术。
 
 * 有道词典
-  > Not all who wander are lost.
-  > 并非所有流浪者都迷失方向。
+  > What's coming is better than what's gone.
+  > 未来可期，胜过往昔。
 
 ```
