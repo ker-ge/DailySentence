@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-09已更新 
+2026-01-10已更新 
 ```
 * 金山词霸
-  > Expect less, and you'll be pleasantly surprised.
-  > 期待少一分，惊喜多十分。
+  > When "best" has no boundaries, effort turns into obligation.
+  > 当“最好”永无止境，努力便沦为负累。
 
 * 扇贝单词
-  > It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
-  > 在创造性表达和知识中唤醒快乐，是教师的最高艺术。
+  > We ran as if to meet the moon.
+  > 我们奔跑着，像去约见月亮。
 
 * 有道词典
-  > What's coming is better than what's gone.
-  > 未来可期，胜过往昔。
+  > My love of the wild, no less than my love and kindness.
+  > 我之爱野性，不下于我之爱善良。
 
 ```
