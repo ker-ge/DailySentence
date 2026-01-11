@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-10已更新 
+2026-01-11已更新 
 ```
 * 金山词霸
-  > When "best" has no boundaries, effort turns into obligation.
-  > 当“最好”永无止境，努力便沦为负累。
+  > Morning light crept through the windowpanes.Today brings warm breezes and clear skies.
+  > 晨光漫上窗棂，今日风暖，天色晴和。
 
 * 扇贝单词
-  > We ran as if to meet the moon.
-  > 我们奔跑着，像去约见月亮。
+  > The key to winning is poise under stress.
+  > 获胜的关键是在压力下依旧保持镇静。
 
 * 有道词典
-  > My love of the wild, no less than my love and kindness.
-  > 我之爱野性，不下于我之爱善良。
+  > Love all, trust a few, do wrong to none.
+  > 泛爱众人，慎信于人，无负于人。
 
 ```
