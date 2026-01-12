@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-11已更新 
+2026-01-12已更新 
 ```
 * 金山词霸
-  > Morning light crept through the windowpanes.Today brings warm breezes and clear skies.
-  > 晨光漫上窗棂，今日风暖，天色晴和。
+  > Amidst complexity, guard the simple core.
+  > 于复杂中，守护简单的内核。
 
 * 扇贝单词
-  > The key to winning is poise under stress.
-  > 获胜的关键是在压力下依旧保持镇静。
+  > How you think when you lose determines how long it will be until you win.
+  > 成为输家时的想法决定了你何时才能取得胜利。
 
 * 有道词典
-  > Love all, trust a few, do wrong to none.
-  > 泛爱众人，慎信于人，无负于人。
+  > Living beyond death, living after death.
+  > 生命超越死亡，虽死犹生。
 
 ```
