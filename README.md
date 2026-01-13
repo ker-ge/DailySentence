@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-12已更新 
+2026-01-13已更新 
 ```
 * 金山词霸
-  > Amidst complexity, guard the simple core.
-  > 于复杂中，守护简单的内核。
+  > A day without troubles is a gift from the universe.
+  > 今日无事，便是宇宙的馈赠。
 
 * 扇贝单词
-  > How you think when you lose determines how long it will be until you win.
-  > 成为输家时的想法决定了你何时才能取得胜利。
+  > The most difficult thing is the decision to act, the rest is merely tenacity.
+  > 最困难的是下定决心去做，剩下的只是坚持而已。
 
 * 有道词典
-  > Living beyond death, living after death.
-  > 生命超越死亡，虽死犹生。
+  > undefined
+  > undefined
 
 ```
