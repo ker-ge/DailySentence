@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-13已更新 
+2026-01-14已更新 
 ```
 * 金山词霸
-  > A day without troubles is a gift from the universe.
-  > 今日无事，便是宇宙的馈赠。
+  > Happiness is made up of many little “just because”.
+  > 幸福是许多微小的“不为什么”。
 
 * 扇贝单词
-  > The most difficult thing is the decision to act, the rest is merely tenacity.
-  > 最困难的是下定决心去做，剩下的只是坚持而已。
+  > The courage to imagine the otherwise is our greatest resource, adding color and suspense to all our life.
+  > 敢有不同想像的勇气，是我们最大的资产，它使我们的人生增添色彩、充满悬念。
 
 * 有道词典
-  > undefined
-  > undefined
+  > Smart is the new sexy.
+  > 聪明即是性感。
 
 ```
