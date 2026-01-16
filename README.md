@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-15已更新 
+2026-01-16已更新 
 ```
 * 金山词霸
-  > Pack yesterday into your baggage.
-  > 将昨日，叠进行囊。
+  > In the material world, build a spiritual high ground.
+  > 在物质的世界里，构建精神的高地。
 
 * 扇贝单词
-  > Doubt kills more dreams than failure ever will.
-  > 比起失败，怀疑自己会扼杀更多的梦想。
+  > A single day is enough to make us a little larger or, another time, a little smaller.
+  > 一天的时间足以使我们强大一些，也可以使我们弱小一些。
 
 * 有道词典
-  > You ain't ever gonna burn my heart out.
-  > 你永远无法让我燃烧的心熄灭。
+  > No matter what anybody tells you, words and ideas can change the world.
+  > 不管别人怎么说，言语和思想足以改变世界。
 
 ```
