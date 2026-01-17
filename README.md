@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-16已更新 
+2026-01-17已更新 
 ```
 * 金山词霸
-  > In the material world, build a spiritual high ground.
-  > 在物质的世界里，构建精神的高地。
+  > Become the person you want to be, not the person others see you as.
+  > 成为你想成为的人，而非他人眼中的你。
 
 * 扇贝单词
-  > A single day is enough to make us a little larger or, another time, a little smaller.
-  > 一天的时间足以使我们强大一些，也可以使我们弱小一些。
+  > All my life through, the new sights of Nature made me rejoice like a child.
+  > 在我的一生中，大自然中的新景象使我像孩子般快乐。
 
 * 有道词典
-  > No matter what anybody tells you, words and ideas can change the world.
-  > 不管别人怎么说，言语和思想足以改变世界。
+  > Love is always love, even in madness.
+  > 爱始终是爱，哪怕在疯狂之中。
 
 ```
