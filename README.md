@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-17已更新 
+2026-01-18已更新 
 ```
 * 金山词霸
-  > Become the person you want to be, not the person others see you as.
-  > 成为你想成为的人，而非他人眼中的你。
+  > Shake hands with every voice, but sign a contract only with your own heart.
+  > 和所有声音握手，但只与自己的心签约。
 
 * 扇贝单词
-  > All my life through, the new sights of Nature made me rejoice like a child.
-  > 在我的一生中，大自然中的新景象使我像孩子般快乐。
+  > Whoever is happy will make others happy too.
+  > 快乐的人会让他人也感到快乐。
 
 * 有道词典
-  > Love is always love, even in madness.
-  > 爱始终是爱，哪怕在疯狂之中。
+  > If you don't know where you're going, any road'll take you there.
+  > 如果你不知去向，那么随便一条路都能带你到达。
 
 ```
