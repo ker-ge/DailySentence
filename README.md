@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-18已更新 
+2026-01-19已更新 
 ```
 * 金山词霸
-  > Shake hands with every voice, but sign a contract only with your own heart.
-  > 和所有声音握手，但只与自己的心签约。
+  > Build an undisturbed city within.
+  > 于内里筑一座无扰的城。
 
 * 扇贝单词
-  > Whoever is happy will make others happy too.
-  > 快乐的人会让他人也感到快乐。
+  > You may be disappointed if you fail, but you are doomed if you don't try.
+  > 失败可能会让你失望，但若不去尝试，就必定会失败。
 
 * 有道词典
-  > If you don't know where you're going, any road'll take you there.
-  > 如果你不知去向，那么随便一条路都能带你到达。
+  > l am the master of my fate; l am the captain of my soul.
+  > 我是我命运的主宰，我是我灵魂的统帅。
 
 ```
