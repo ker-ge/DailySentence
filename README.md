@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-19已更新 
+2026-01-20已更新 
 ```
 * 金山词霸
-  > Build an undisturbed city within.
-  > 于内里筑一座无扰的城。
+  > Winter pours out its last drops, clearing the stage for spring's entrance.
+  > 冬意倾尽所有，为春的登场清场。
 
 * 扇贝单词
-  > You may be disappointed if you fail, but you are doomed if you don't try.
-  > 失败可能会让你失望，但若不去尝试，就必定会失败。
+  > Before anything else, preparation is the key to success.
+  > 准备是成功的关键，这比其他任何事情都重要。
 
 * 有道词典
-  > l am the master of my fate; l am the captain of my soul.
-  > 我是我命运的主宰，我是我灵魂的统帅。
+  > I wonder if the snow loves the trees and fields, that it kisses them so gently?
+  > 我想知道，雪是否爱着树木和田野，以至于它如此温柔地亲吻它们？
 
 ```
