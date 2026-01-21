@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-20已更新 
+2026-01-21已更新 
 ```
 * 金山词霸
-  > Winter pours out its last drops, clearing the stage for spring's entrance.
-  > 冬意倾尽所有，为春的登场清场。
+  > Sincerity has its measure. Giving has its limit.
+  > 真诚有尺，付出有度。
 
 * 扇贝单词
-  > Before anything else, preparation is the key to success.
-  > 准备是成功的关键，这比其他任何事情都重要。
+  > People who live the most fulfilling lives are the ones who are always rejoicing at what they have.
+  > 永远对所拥有的一切感到欣喜的人，是生活最富足的人。
 
 * 有道词典
-  > I wonder if the snow loves the trees and fields, that it kisses them so gently?
-  > 我想知道，雪是否爱着树木和田野，以至于它如此温柔地亲吻它们？
+  > Courage is resistance to fear, mastery of fear—not absence of fear.
+  > 勇气是抵抗恐惧，掌控恐惧，而非没有恐惧。
 
 ```
