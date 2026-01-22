@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-21已更新 
+2026-01-22已更新 
 ```
 * 金山词霸
-  > Sincerity has its measure. Giving has its limit.
-  > 真诚有尺，付出有度。
+  > For a new chapter, pour passion into its foundation once more.
+  > 为新的篇章，再度倾注热爱的底色。
 
 * 扇贝单词
-  > People who live the most fulfilling lives are the ones who are always rejoicing at what they have.
-  > 永远对所拥有的一切感到欣喜的人，是生活最富足的人。
+  > Dream big and dare to fail.
+  > 敢于梦想，不畏失败。
 
 * 有道词典
-  > Courage is resistance to fear, mastery of fear—not absence of fear.
-  > 勇气是抵抗恐惧，掌控恐惧，而非没有恐惧。
+  > I feel like a wet seed wild in the hot blind earth.
+  > 我感觉自己就像一颗湿漉漉的种子，在炽热而黑暗的泥土里盲目地生长。
 
 ```
