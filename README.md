@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-22已更新 
+2026-01-23已更新 
 ```
 * 金山词霸
-  > For a new chapter, pour passion into its foundation once more.
-  > 为新的篇章，再度倾注热爱的底色。
+  > Winter sunshine is a limited edition—remember to get outside and soak it up.
+  > 冬日的阳光是限量版，记得多出门晒晒。
 
 * 扇贝单词
-  > Dream big and dare to fail.
-  > 敢于梦想，不畏失败。
+  > Never be limited by other people's limited imaginations.
+  > 永远不要被别人有限的想象力所限制。
 
 * 有道词典
-  > I feel like a wet seed wild in the hot blind earth.
-  > 我感觉自己就像一颗湿漉漉的种子，在炽热而黑暗的泥土里盲目地生长。
+  > We dream in our waking moments, and walk in our sleep.
+  > 我们在清醒时做梦，在睡梦中前行。
 
 ```
