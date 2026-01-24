@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-23已更新 
+2026-01-24已更新 
 ```
 * 金山词霸
-  > Winter sunshine is a limited edition—remember to get outside and soak it up.
-  > 冬日的阳光是限量版，记得多出门晒晒。
+  > Hope lights the way, gratitude steadies the soul.
+  > 希望是前行的光，感恩是心中的锚。
 
 * 扇贝单词
-  > Never be limited by other people's limited imaginations.
-  > 永远不要被别人有限的想象力所限制。
+  > Eloquent speech is not from lip to ear, but rather from heart to heart.
+  > 有说服力的演讲并非由口传递到耳，而是由心到心。
 
 * 有道词典
-  > We dream in our waking moments, and walk in our sleep.
-  > 我们在清醒时做梦，在睡梦中前行。
+  > Didn't wanna be a princess, I'm priceless.
+  > 从未想成为所谓公主，只因我是无价宝物。
 
 ```
