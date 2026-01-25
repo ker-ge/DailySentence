@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-24已更新 
+2026-01-25已更新 
 ```
 * 金山词霸
-  > Hope lights the way, gratitude steadies the soul.
-  > 希望是前行的光，感恩是心中的锚。
+  > True freedom is choosing the weight of your soul.
+  > 真正的自由，是为灵魂选择它的重量。
 
 * 扇贝单词
-  > Eloquent speech is not from lip to ear, but rather from heart to heart.
-  > 有说服力的演讲并非由口传递到耳，而是由心到心。
+  > When someone loves you, the way they talk about you is different. You feel safe and comfortable.
+  > 爱你的人谈起你的方式是不一样的，你会觉得安全又舒服。
 
 * 有道词典
-  > Didn't wanna be a princess, I'm priceless.
-  > 从未想成为所谓公主，只因我是无价宝物。
+  > So we beat on, boats against the current, borne back ceaselessly into the past.
+  > 于是我们继续奋力向前，逆水行舟，被不断地向后推移，直至回到往昔岁月。
 
 ```
