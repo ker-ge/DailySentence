@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-25已更新 
+2026-01-26已更新 
 ```
 * 金山词霸
-  > True freedom is choosing the weight of your soul.
-  > 真正的自由，是为灵魂选择它的重量。
+  > Settling oneself is the only thing that matters.
+  > 安顿好自己，是唯一的要事。
 
 * 扇贝单词
-  > When someone loves you, the way they talk about you is different. You feel safe and comfortable.
-  > 爱你的人谈起你的方式是不一样的，你会觉得安全又舒服。
+  > If something is important enough, even if the odds are against you, you should still do it.
+  > 如果一件事情对你很重要，即使成功的概率很小，你也应该去做。
 
 * 有道词典
-  > So we beat on, boats against the current, borne back ceaselessly into the past.
-  > 于是我们继续奋力向前，逆水行舟，被不断地向后推移，直至回到往昔岁月。
+  > Winter is the time for comfort, for good food and warmth.
+  > 冬天是舒适的时候，是享用美食和温暖的时候。
 
 ```
