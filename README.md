@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-27已更新 
+2026-01-28已更新 
 ```
 * 金山词霸
-  > Delve deeper, and the answers will reveal themselves.
-  > 向深处探寻，答案自现。
+  > Clear water and bright sand, a pure heart and clear affairs.
+  > 水净沙明，心清事晰。
 
 * 扇贝单词
-  > The only reward of virtue is virtue; the only way to have a friend is to be one.
-  > 对美德的回报是美德，获得友谊的唯一途径是给人以友谊。
+  > The most certain way to succeed is always to try just one more time.
+  > 保证成功的要诀就是永远都再多试一次。
 
 * 有道词典
-  > All those moments will be lost in time, like tears in rain.
-  > 所有这些时刻，终将流逝在时光中，一如眼泪，消失在雨中。
+  > Cast a cold eye, on life, on death. Horseman, pass by!
+  > 冷眼观生死，一骑绝红尘。
 
 ```
