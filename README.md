@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-28已更新 
+2026-01-29已更新 
 ```
 * 金山词霸
-  > Clear water and bright sand, a pure heart and clear affairs.
-  > 水净沙明，心清事晰。
+  > Show seven parts to others, keep three parts to yourself.
+  > 七分示人，三分藏己。
 
 * 扇贝单词
-  > The most certain way to succeed is always to try just one more time.
-  > 保证成功的要诀就是永远都再多试一次。
+  > Do what is right, not what is easy nor what is popular.
+  > 做事就要做正确的，不挑易事，不随大流。
 
 * 有道词典
-  > Cast a cold eye, on life, on death. Horseman, pass by!
-  > 冷眼观生死，一骑绝红尘。
+  > The world is not black or white, but a delicious shade of grey.
+  > 世界既不黑也不白，而是一道精致的灰。
 
 ```
