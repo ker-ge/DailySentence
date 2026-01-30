@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-29已更新 
+2026-01-30已更新 
 ```
 * 金山词霸
-  > Show seven parts to others, keep three parts to yourself.
-  > 七分示人，三分藏己。
+  > Tuck today's troubles into your pillow, and tomorrow will bring fresh steps.
+  > 把今天的烦恼塞进枕头，明天自会有新的脚步。
 
 * 扇贝单词
-  > Do what is right, not what is easy nor what is popular.
-  > 做事就要做正确的，不挑易事，不随大流。
+  > A journey of a thousand miles begins with a single step.
+  > 千里之行，始于足下。
 
 * 有道词典
-  > The world is not black or white, but a delicious shade of grey.
-  > 世界既不黑也不白，而是一道精致的灰。
+  > Have the time of your life. Breaking through the atmosphere.
+  > 抓紧你生命的每一秒，突出重围。
 
 ```
