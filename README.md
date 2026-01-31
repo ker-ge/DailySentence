@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-30已更新 
+2026-01-31已更新 
 ```
 * 金山词霸
-  > Tuck today's troubles into your pillow, and tomorrow will bring fresh steps.
-  > 把今天的烦恼塞进枕头，明天自会有新的脚步。
+  > Thank yourself for your hard work, and forgive your imperfect past.
+  > 感谢努力的自己，也原谅不完美的过往。
 
 * 扇贝单词
-  > A journey of a thousand miles begins with a single step.
-  > 千里之行，始于足下。
+  > Nothing great was ever achieved without enthusiasm.
+  > 世界上任何伟业的成就都离不开热情。
 
 * 有道词典
-  > Have the time of your life. Breaking through the atmosphere.
-  > 抓紧你生命的每一秒，突出重围。
+  > If you want to make a bond, you are to take the risk of tearing.
+  > 如果你想要和别人制造羁绊，就要承受流泪的风险。
 
 ```
