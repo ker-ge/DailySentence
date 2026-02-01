@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-01-31已更新 
+2026-02-01已更新 
 ```
 * 金山词霸
-  > Thank yourself for your hard work, and forgive your imperfect past.
-  > 感谢努力的自己，也原谅不完美的过往。
+  > The year's second chapter opens with a quiet, steady breath.
+  > 一年的第二章，以安静而平稳的呼吸开启。
 
 * 扇贝单词
-  > Nothing great was ever achieved without enthusiasm.
-  > 世界上任何伟业的成就都离不开热情。
+  > Courage is doing what you're afraid to do. There can be no courage unless you're scared.
+  > 行畏惧之事可谓勇；无畏则无勇。
 
 * 有道词典
-  > If you want to make a bond, you are to take the risk of tearing.
-  > 如果你想要和别人制造羁绊，就要承受流泪的风险。
+  > We should consider every day lost on which we have not danced at least once.
+  > 每个不曾起舞的日子，都是对生命的辜负。
 
 ```
