@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-01已更新 
+2026-02-02已更新 
 ```
 * 金山词霸
-  > The year's second chapter opens with a quiet, steady breath.
-  > 一年的第二章，以安静而平稳的呼吸开启。
+  > The cold wind gently pushes forward with determined strides.
+  > 寒风轻推着前进的坚定步伐。
 
 * 扇贝单词
-  > Courage is doing what you're afraid to do. There can be no courage unless you're scared.
-  > 行畏惧之事可谓勇；无畏则无勇。
+  > All great achievements require time.
+  > 所有伟大的成就都需要时间的历练。
 
 * 有道词典
-  > We should consider every day lost on which we have not danced at least once.
-  > 每个不曾起舞的日子，都是对生命的辜负。
+  > Time you enjoy wasting is not wasted time.
+  > 所有你乐于挥霍的时间都不算浪费。
 
 ```
