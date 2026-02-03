@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-02已更新 
+2026-02-03已更新 
 ```
 * 金山词霸
-  > The cold wind gently pushes forward with determined strides.
-  > 寒风轻推着前进的坚定步伐。
+  > The answer is in the wind, but you must catch it with your own hands.
+  > 答案在风中，但你必须亲手捕捉。
 
 * 扇贝单词
-  > All great achievements require time.
-  > 所有伟大的成就都需要时间的历练。
+  > We go where our vision is.
+  > 我们的视野有多远，就能走多远。
 
 * 有道词典
-  > Time you enjoy wasting is not wasted time.
-  > 所有你乐于挥霍的时间都不算浪费。
+  > It's not whether you win or lose, it's how you play the game.
+  > 重要的不是输赢，而是你如何比赛。
 
 ```
