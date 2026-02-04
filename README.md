@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-03已更新 
+2026-02-04已更新 
 ```
 * 金山词霸
-  > The answer is in the wind, but you must catch it with your own hands.
-  > 答案在风中，但你必须亲手捕捉。
+  > Spring tiptoes in, melting the edge of the ice.
+  > 春天踮脚而来，融化了冰的边缘。
 
 * 扇贝单词
-  > We go where our vision is.
-  > 我们的视野有多远，就能走多远。
+  > The beginning is the most important part of the work.
+  > 工作中最重要的部分是开始阶段。
 
 * 有道词典
-  > It's not whether you win or lose, it's how you play the game.
-  > 重要的不是输赢，而是你如何比赛。
+  > You can cut all the flowers, but you cannot keep spring from coming.
+  > 你能剪掉所有的鲜花，但你不能阻止春天的到来。
 
 ```
