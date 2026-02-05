@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-04已更新 
+2026-02-05已更新 
 ```
 * 金山词霸
-  > Spring tiptoes in, melting the edge of the ice.
-  > 春天踮脚而来，融化了冰的边缘。
+  > Footprints imprint the snow, leaving paths fleeting yet deep.
+  > 足迹印雪，留下短暂却深的路。
 
 * 扇贝单词
-  > The beginning is the most important part of the work.
-  > 工作中最重要的部分是开始阶段。
+  > Dripping water hollows out stone, not through force but through persistence.
+  > 水滴石穿非力之所能为，乃能持之以恒也。
 
 * 有道词典
-  > You can cut all the flowers, but you cannot keep spring from coming.
-  > 你能剪掉所有的鲜花，但你不能阻止春天的到来。
+  > It's good to dream, but it's also good to wake up again and see the world as it truly is.
+  > 有梦想是好事，但也要懂得什么时候该醒来， 看清世界真实的样子。
 
 ```
