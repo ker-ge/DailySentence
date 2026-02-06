@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-05已更新 
+2026-02-06已更新 
 ```
 * 金山词霸
-  > Footprints imprint the snow, leaving paths fleeting yet deep.
-  > 足迹印雪，留下短暂却深的路。
+  > Warmth slowly awakens from a cup of hot drink.
+  > 暖意从一杯热饮中慢慢苏醒。
 
 * 扇贝单词
-  > Dripping water hollows out stone, not through force but through persistence.
-  > 水滴石穿非力之所能为，乃能持之以恒也。
+  > If you do not believe you can do it, then you have no chance at all.
+  > 如果你不相信自己能做到，你就永远没有机会做到。
 
 * 有道词典
-  > It's good to dream, but it's also good to wake up again and see the world as it truly is.
-  > 有梦想是好事，但也要懂得什么时候该醒来， 看清世界真实的样子。
+  > Winning isn't everything, but wanting to win is.
+  > 胜利并非一切，求胜的执念才是。
 
 ```
