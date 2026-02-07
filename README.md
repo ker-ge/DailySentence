@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-06已更新 
+2026-02-07已更新 
 ```
 * 金山词霸
-  > Warmth slowly awakens from a cup of hot drink.
-  > 暖意从一杯热饮中慢慢苏醒。
+  > The quiet wisdom of winter flows between the pages.
+  > 书页间流淌着冬日安静的智慧。
 
 * 扇贝单词
-  > If you do not believe you can do it, then you have no chance at all.
-  > 如果你不相信自己能做到，你就永远没有机会做到。
+  > Above all, be the heroine of your life, not the victim.
+  > 成为人生的女主角，而不是受害者，这才是最重要的。
 
 * 有道词典
-  > Winning isn't everything, but wanting to win is.
-  > 胜利并非一切，求胜的执念才是。
+  > Forever is composed of nows.
+  > 永恒由无数个此刻组成。
 
 ```
