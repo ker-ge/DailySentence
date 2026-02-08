@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-07已更新 
+2026-02-08已更新 
 ```
 * 金山词霸
-  > The quiet wisdom of winter flows between the pages.
-  > 书页间流淌着冬日安静的智慧。
+  > Snow makes the world quiet and new.
+  > 雪让世间归于静谧与崭新。
 
 * 扇贝单词
-  > Above all, be the heroine of your life, not the victim.
-  > 成为人生的女主角，而不是受害者，这才是最重要的。
+  > Change, like healing, takes time.
+  > 改变犹如伤口愈合，需要时间。
 
 * 有道词典
-  > Forever is composed of nows.
-  > 永恒由无数个此刻组成。
+  > I opened myself to the gentle indifference of the world.
+  > 向这个冷漠而未温情尽失的世界敞开我的心扉。
 
 ```
