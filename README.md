@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-09已更新 
+2026-02-10已更新 
 ```
 * 金山词霸
-  > The stars whisper as dreams take root in the night.
-  > 星空低语，梦想在夜色里扎根。
+  > Each ray of morning light bestows itself upon the blank canvas.
+  > 每一缕晨曦都赠予空白的画布。
 
 * 扇贝单词
-  > It is easy to live for others, everybody does. I call on you to live for yourself.
-  > 为他人而活很简单，每个人都可以做到。我号召你们为自己而活。
+  > Keep your best wishes, close to your heart and watch what happens.
+  > 一直怀揣着最美的愿望，倾听内心的声音，再看看会发生什么。
 
 * 有道词典
-  > You're not obligated to win. You're obligated to keep trying to do the best you can every day.
-  > 你不必非要赢，但有责任每天全力以赴、持续精进。
+  > The best time to be happy is always now.
+  > 幸福的最佳时机永远是现在。
 
 ```
