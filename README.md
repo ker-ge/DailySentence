@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-10已更新 
+2026-02-11已更新 
 ```
 * 金山词霸
-  > Each ray of morning light bestows itself upon the blank canvas.
-  > 每一缕晨曦都赠予空白的画布。
+  > Cold air, warm heart. Keep going.
+  > 寒风刺骨，暖心不灭。继续前行。
 
 * 扇贝单词
-  > Keep your best wishes, close to your heart and watch what happens.
-  > 一直怀揣着最美的愿望，倾听内心的声音，再看看会发生什么。
+  > The creation of a thousand forests is in one acorn.
+  > 上千森林的形成都源自一颗橡木种子。
 
 * 有道词典
-  > The best time to be happy is always now.
-  > 幸福的最佳时机永远是现在。
+  > It is a thousand pities never to say what one feels.
+  > 千般遗憾，莫过于从不说出内心所感。
 
 ```
