@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-11已更新 
+2026-02-12已更新 
 ```
 * 金山词霸
-  > Cold air, warm heart. Keep going.
-  > 寒风刺骨，暖心不灭。继续前行。
+  > Breath forms fleeting poems in the air.
+  > 呵出的白气，在空中写下短暂的诗。
 
 * 扇贝单词
-  > The creation of a thousand forests is in one acorn.
-  > 上千森林的形成都源自一颗橡木种子。
+  > Knowledge speaks, but wisdom listens.
+  > 知识是倾诉，但智慧是倾听。
 
 * 有道词典
-  > It is a thousand pities never to say what one feels.
-  > 千般遗憾，莫过于从不说出内心所感。
+  > It is during our darkest moments that we must focus to see the light.
+  > 越是在黑暗的时刻，我们越要凝神注视光明。
 
 ```
