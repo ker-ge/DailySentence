@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-12已更新 
+2026-02-13已更新 
 ```
 * 金山词霸
-  > Breath forms fleeting poems in the air.
-  > 呵出的白气，在空中写下短暂的诗。
+  > Distant mountains cloak themselves in snow, awaiting spring's letter.
+  > 远山裹着雪袍，静候一封春的来信。
 
 * 扇贝单词
-  > Knowledge speaks, but wisdom listens.
-  > 知识是倾诉，但智慧是倾听。
+  > Beauty begins the moment you decide to be yourself.
+  > 美，从你下决心做自己的那一刻开始。
 
 * 有道词典
-  > It is during our darkest moments that we must focus to see the light.
-  > 越是在黑暗的时刻，我们越要凝神注视光明。
+  > I'm a diamond in the rough, a shiny piece of coal.
+  > 我是未经雕琢的钻石，是藏着光亮的煤块。
 
 ```
