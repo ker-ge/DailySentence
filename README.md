@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-13已更新 
+2026-02-14已更新 
 ```
 * 金山词霸
-  > Distant mountains cloak themselves in snow, awaiting spring's letter.
-  > 远山裹着雪袍，静候一封春的来信。
+  > Learn one new thing today.
+  > 今天学习一件新事物。
 
 * 扇贝单词
-  > Beauty begins the moment you decide to be yourself.
-  > 美，从你下决心做自己的那一刻开始。
+  > I believe the target of anything in life should be to do it so well that it becomes an art.
+  > 我认为，在生活中，不管做任何事，其目标都应该是将它做到艺术一般完美。
 
 * 有道词典
-  > I'm a diamond in the rough, a shiny piece of coal.
-  > 我是未经雕琢的钻石，是藏着光亮的煤块。
+  > You're my favorite notification.
+  > 你是我最期待的消息提醒。
 
 ```
