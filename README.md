@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-14已更新 
+2026-02-15已更新 
 ```
 * 金山词霸
-  > Learn one new thing today.
-  > 今天学习一件新事物。
+  > In stillness, reflection and hope quietly intertwine.
+  > 静谧中，反思与希望悄然交织。
 
 * 扇贝单词
-  > I believe the target of anything in life should be to do it so well that it becomes an art.
-  > 我认为，在生活中，不管做任何事，其目标都应该是将它做到艺术一般完美。
+  > Spring is nature's way of saying, "Let's party!"
+  > 春天的到来是大自然在说：“来狂欢吧！”
 
 * 有道词典
-  > You're my favorite notification.
-  > 你是我最期待的消息提醒。
+  > If I can stop one heart from breaking, I shall not live in vain.
+  > 如果我能阻止一颗心破碎，我此生便不虚度。
 
 ```
