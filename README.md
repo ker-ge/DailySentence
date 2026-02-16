@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-15已更新 
+2026-02-16已更新 
 ```
 * 金山词霸
-  > In stillness, reflection and hope quietly intertwine.
-  > 静谧中，反思与希望悄然交织。
+  > Kitchen steam blurs the window, painting warmth on the cold glass.
+  > 厨房的蒸汽晕染了窗，在寒冷的玻璃上画下温暖。
 
 * 扇贝单词
-  > Spring is nature's way of saying, "Let's party!"
-  > 春天的到来是大自然在说：“来狂欢吧！”
+  > The beautiful journey of today can only begin when we learn to let go of yesterday.
+  > 学会放过昨天，才能开启明天的美好旅程。
 
 * 有道词典
-  > If I can stop one heart from breaking, I shall not live in vain.
-  > 如果我能阻止一颗心破碎，我此生便不虚度。
+  > Year's end is neither an end nor a beginning but a going on.
+  > 岁末非终，亦非始，而是续航。
 
 ```
