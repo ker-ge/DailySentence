@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-16已更新 
+2026-02-17已更新 
 ```
 * 金山词霸
-  > Kitchen steam blurs the window, painting warmth on the cold glass.
-  > 厨房的蒸汽晕染了窗，在寒冷的玻璃上画下温暖。
+  > A new year starts fresh. Fill it with hope.
+  > 新年伊始，万象更新，愿你满怀希望。
 
 * 扇贝单词
-  > The beautiful journey of today can only begin when we learn to let go of yesterday.
-  > 学会放过昨天，才能开启明天的美好旅程。
+  > Real change, enduring change, happens one step at a time.
+  > 真正的改变，持久的变化，都是一步一步完成的。
 
 * 有道词典
-  > Year's end is neither an end nor a beginning but a going on.
-  > 岁末非终，亦非始，而是续航。
+  > Of all sound of all bells, most solemn and touching is the peal which rings out the Old Year.
+  > 在所有钟声中，最庄严、最动人的要数辞旧迎新的钟声。
 
 ```
