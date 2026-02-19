@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-18已更新 
+2026-02-19已更新 
 ```
 * 金山词霸
-  > Listen—the roof sings a different, gentler song.
-  > 听——屋顶在唱一首不同的、更温柔的歌。
+  > Sunshine on snow is nature's art.
+  > 阳光照在雪上，是自然的艺术。
 
 * 扇贝单词
-  > I think part of my gift, or if I have one, is that I love listening.
-  > 我觉得我的天赋——如果我有天赋的话——就是我热爱倾听。
+  > There is no time like Spring, when life's alive in everything.
+  > 再没有什么时节像春天一样，万物复苏，充满生机。
 
 * 有道词典
-  > We walked beneath strings of red lanterns, as if threading through veins of hope.
-  > 我们走在一串串红灯笼下，仿佛穿行于希望的脉络之中。
+  > Every mountain is unclimbable until someone climbs it.
+  > 没有翻不过的山，只等敢攀的人。
 
 ```
