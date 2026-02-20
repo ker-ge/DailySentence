@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-19已更新 
+2026-02-20已更新 
 ```
 * 金山词霸
-  > Sunshine on snow is nature's art.
-  > 阳光照在雪上，是自然的艺术。
+  > Snowflakes dance, the sky composing silent verses.
+  > 雪花翩跹，天空写下无声诗行。
 
 * 扇贝单词
-  > There is no time like Spring, when life's alive in everything.
-  > 再没有什么时节像春天一样，万物复苏，充满生机。
+  > Sometimes if you want to see a change for the better, you have to take things into your own hands.
+  > 有时当你想看到自己变得更好的时候，你就必须自己动手付出努力。
 
 * 有道词典
-  > Every mountain is unclimbable until someone climbs it.
-  > 没有翻不过的山，只等敢攀的人。
+  > I am not afraid of storms, for I am learning how to sail my ship.
+  > 我不畏惧风暴，因为我正在学习如何驾驶我的船。
 
 ```
