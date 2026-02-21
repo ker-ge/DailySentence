@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-20已更新 
+2026-02-21已更新 
 ```
 * 金山词霸
-  > Snowflakes dance, the sky composing silent verses.
-  > 雪花翩跹，天空写下无声诗行。
+  > A kind word can melt a cold day.
+  > 一句善言足以融化寒冬。
 
 * 扇贝单词
-  > Sometimes if you want to see a change for the better, you have to take things into your own hands.
-  > 有时当你想看到自己变得更好的时候，你就必须自己动手付出努力。
+  > Nothing is pleasanter to me than exploring in a library.
+  > 对我来说，没有什么比探索图书馆更快乐的事情了。
 
 * 有道词典
-  > I am not afraid of storms, for I am learning how to sail my ship.
-  > 我不畏惧风暴，因为我正在学习如何驾驶我的船。
+  > As long as I am breathing, in my eyes, I am just beginning.
+  > 只要我还在呼吸，在我眼中，一切才刚刚开始。
 
 ```
