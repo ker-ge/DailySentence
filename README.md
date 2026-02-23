@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-22已更新 
+2026-02-23已更新 
 ```
 * 金山词霸
-  > Even a short path can be golden.
-  > 即便是短暂的旅程，亦可熠熠生辉。
+  > Shine your brightest on the coldest days.
+  > 在最寒冷的日子里，绽放你最耀眼的光芒。
 
 * 扇贝单词
-  > I alone cannot change the world, but I can cast a stone across the waters to create many ripples.
-  > 我一人之力并不能改变世界，但我往水面抛一块石头，就能激起许多涟漪。
+  > Nothing in life is to be feared, it is only to be understood.
+  > 生活中没有什么东西是可怕的，它们只是需要被理解。
 
 * 有道词典
-  > Fear cuts deeper than swords.
-  > 恐惧比利剑更伤人。
+  > In nature, nothing exists alone.
+  > 在自然中，万物从不孤立存在。
 
 ```
