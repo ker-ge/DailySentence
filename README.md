@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-23已更新 
+2026-02-24已更新 
 ```
 * 金山词霸
-  > Shine your brightest on the coldest days.
-  > 在最寒冷的日子里，绽放你最耀眼的光芒。
+  > Like a seed under snow, wait with hope.
+  > 如同积雪下的种子，怀着希望静候。
 
 * 扇贝单词
-  > Nothing in life is to be feared, it is only to be understood.
-  > 生活中没有什么东西是可怕的，它们只是需要被理解。
+  > Respond to every call that excites your spirit.
+  > 回应每一个使你精神振奋的呼唤。
 
 * 有道词典
-  > In nature, nothing exists alone.
-  > 在自然中，万物从不孤立存在。
+  > It is no use doing what you like; you have got to like what you do.
+  > 重要的不是做你喜欢的事，而是喜欢你正在做的事。
 
 ```
