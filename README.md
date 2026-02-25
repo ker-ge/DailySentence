@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-24已更新 
+2026-02-25已更新 
 ```
 * 金山词霸
-  > Like a seed under snow, wait with hope.
-  > 如同积雪下的种子，怀着希望静候。
+  > Ice will melt and make way for flow.
+  > 冰会融化，为水流让路。
 
 * 扇贝单词
-  > Respond to every call that excites your spirit.
-  > 回应每一个使你精神振奋的呼唤。
+  > You cannot change what you are, only what you do.
+  > 你无法改变你是谁，只能改变你的所作所为。
 
 * 有道词典
-  > It is no use doing what you like; you have got to like what you do.
-  > 重要的不是做你喜欢的事，而是喜欢你正在做的事。
+  > By the power of truth, I, while living, have conquered the universe.
+  > 借由真理的力量，我在有生之年，得以征服万物。
 
 ```
