@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-25已更新 
+2026-02-26已更新 
 ```
 * 金山词霸
-  > Ice will melt and make way for flow.
-  > 冰会融化，为水流让路。
+  > What we achieve inwardly will change outer reality.
+  > 我们内在的成就会改变外在的现实。
 
 * 扇贝单词
-  > You cannot change what you are, only what you do.
-  > 你无法改变你是谁，只能改变你的所作所为。
+  > The best way to have a good idea is to have lots of ideas.
+  > 找到好点子的最佳办法就是多想点子。
 
 * 有道词典
-  > By the power of truth, I, while living, have conquered the universe.
-  > 借由真理的力量，我在有生之年，得以征服万物。
+  > The painted veil which those who live call life.
+  > 那层彩绘的面纱，世人称之为生活。
 
 ```
