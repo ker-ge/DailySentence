@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-26已更新 
+2026-02-27已更新 
 ```
 * 金山词霸
-  > What we achieve inwardly will change outer reality.
-  > 我们内在的成就会改变外在的现实。
+  > Look up and see the clear winter sky.
+  > 抬头望去，只见冬日晴空万里。
 
 * 扇贝单词
-  > The best way to have a good idea is to have lots of ideas.
-  > 找到好点子的最佳办法就是多想点子。
+  > Everything you've ever wanted is on the other side of fear.
+  > 你想要的一切都在恐惧的背面。
 
 * 有道词典
-  > The painted veil which those who live call life.
-  > 那层彩绘的面纱，世人称之为生活。
+  > Always keep your promises.
+  > 永远信守承诺。
 
 ```
