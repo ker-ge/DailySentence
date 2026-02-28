@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-27已更新 
+2026-02-28已更新 
 ```
 * 金山词霸
-  > Look up and see the clear winter sky.
-  > 抬头望去，只见冬日晴空万里。
+  > Open the door and let the new light in.
+  > 打开门，让新的光芒进来。
 
 * 扇贝单词
-  > Everything you've ever wanted is on the other side of fear.
-  > 你想要的一切都在恐惧的背面。
+  > Success is falling nine times and getting up ten.
+  > 成功就是跌倒九次，第十次仍会站起来。
 
 * 有道词典
-  > Always keep your promises.
-  > 永远信守承诺。
+  > A true master is an eternal student.
+  > 真正的大师永远都怀着一颗学徒的心。
 
 ```
