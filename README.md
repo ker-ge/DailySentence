@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-02-28已更新 
+2026-03-01已更新 
 ```
 * 金山词霸
-  > Open the door and let the new light in.
-  > 打开门，让新的光芒进来。
+  > Strong roots prepare for spring blooms.
+  > 深植根基，为春日绽放蓄力。
 
 * 扇贝单词
-  > Success is falling nine times and getting up ten.
-  > 成功就是跌倒九次，第十次仍会站起来。
+  > Genius is not that you are smarter than everyone else. It is that you are ready to receive the inspiration.
+  > 天才并不是比其他人聪明，而是时刻准备着迎接灵感的到来。
 
 * 有道词典
-  > A true master is an eternal student.
-  > 真正的大师永远都怀着一颗学徒的心。
+  > The end of every winter is the blooming of spring flowers and the warmth of spring.
+  > 每个冬天的句点都是春暖花开。
 
 ```
