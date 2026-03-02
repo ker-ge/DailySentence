@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-01已更新 
+2026-03-02已更新 
 ```
 * 金山词霸
-  > Strong roots prepare for spring blooms.
-  > 深植根基，为春日绽放蓄力。
+  > Bees hum the map to hidden sweetness.
+  > 蜜蜂哼唱着通往隐秘甜美的地图。
 
 * 扇贝单词
-  > Genius is not that you are smarter than everyone else. It is that you are ready to receive the inspiration.
-  > 天才并不是比其他人聪明，而是时刻准备着迎接灵感的到来。
+  > Life is about making an impact, not making an income.
+  > 生命在于影响他人，而非赚钱糊口。
 
 * 有道词典
-  > The end of every winter is the blooming of spring flowers and the warmth of spring.
-  > 每个冬天的句点都是春暖花开。
+  > Even a proverb is no proverb to you till your life has illustrated it.
+  > 即便是格言，也是在你用人生将其诠释之后，才是真实的。
 
 ```
