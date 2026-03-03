@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-02已更新 
+2026-03-03已更新 
 ```
 * 金山词霸
-  > Bees hum the map to hidden sweetness.
-  > 蜜蜂哼唱着通往隐秘甜美的地图。
+  > Light a wish and let it rise.
+  > 点亮一个愿望，让它升起。
 
 * 扇贝单词
-  > Life is about making an impact, not making an income.
-  > 生命在于影响他人，而非赚钱糊口。
+  > It's faith that will take you through, and determination that will drive you.
+  > 信念带你渡过难关，决心为你加油鼓劲。
 
 * 有道词典
-  > Even a proverb is no proverb to you till your life has illustrated it.
-  > 即便是格言，也是在你用人生将其诠释之后，才是真实的。
+  > Under the first full moon of the year, hearts find their way home.
+  > 岁首满月下，心自有归途。
 
 ```
