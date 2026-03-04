@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-03已更新 
+2026-03-04已更新 
 ```
 * 金山词霸
-  > Light a wish and let it rise.
-  > 点亮一个愿望，让它升起。
+  > Puddles mirror a bluer, higher sky.
+  > 水洼倒映出更蓝、更高的天空。
 
 * 扇贝单词
-  > It's faith that will take you through, and determination that will drive you.
-  > 信念带你渡过难关，决心为你加油鼓劲。
+  > How wonderful it is that nobody need wait a single moment before starting to improve the world.
+  > 无需等待就可行动起来，让世界变得更美好——这简直妙不可言！
 
 * 有道词典
-  > Under the first full moon of the year, hearts find their way home.
-  > 岁首满月下，心自有归途。
+  > When you have nothing to lose, it's time to gain.
+  > 当你无可失去，便是收获之时。
 
 ```
