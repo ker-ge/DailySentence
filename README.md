@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-04已更新 
+2026-03-05已更新 
 ```
 * 金山词霸
-  > Puddles mirror a bluer, higher sky.
-  > 水洼倒映出更蓝、更高的天空。
+  > Spring's energy begins to hum.
+  > 春天的能量开始嗡鸣。
 
 * 扇贝单词
-  > How wonderful it is that nobody need wait a single moment before starting to improve the world.
-  > 无需等待就可行动起来，让世界变得更美好——这简直妙不可言！
+  > Always do your best. What you plant now, you will harvest later.
+  > 总要竭尽全力。你播种什么，就会收获什么。
 
 * 有道词典
-  > When you have nothing to lose, it's time to gain.
-  > 当你无可失去，便是收获之时。
+  > Take nothing on its looks; take everything on evidence.
+  > 切勿以貌取人，凡事当以证据为凭。
 
 ```
