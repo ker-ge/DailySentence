@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-05已更新 
+2026-03-06已更新 
 ```
 * 金山词霸
-  > Spring's energy begins to hum.
-  > 春天的能量开始嗡鸣。
+  > Buds press against brown branches, eager to speak.
+  > 嫩芽顶破褐色的枝桠，急着开口说话。
 
 * 扇贝单词
-  > Always do your best. What you plant now, you will harvest later.
-  > 总要竭尽全力。你播种什么，就会收获什么。
+  > Too many of us are not living our dreams because we are living our fears.
+  > 我们中有太多人没有践行自己的梦想，因为我们活在担心惧怕中。
 
 * 有道词典
-  > Take nothing on its looks; take everything on evidence.
-  > 切勿以貌取人，凡事当以证据为凭。
+  > I didn't fall in love, I rose in it.
+  > 我并非坠入爱河，而是在爱中崛起。
 
 ```
