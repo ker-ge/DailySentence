@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-06已更新 
+2026-03-07已更新 
 ```
 * 金山词霸
-  > Buds press against brown branches, eager to speak.
-  > 嫩芽顶破褐色的枝桠，急着开口说话。
+  > The hearth crackles, keeping the late-night thinker company.
+  > 炉火噼啪，陪伴深夜里独思者。
 
 * 扇贝单词
-  > Too many of us are not living our dreams because we are living our fears.
-  > 我们中有太多人没有践行自己的梦想，因为我们活在担心惧怕中。
+  > We can't help everyone, but everyone can help someone.
+  > 我们不能帮助所有人，但每个人都能帮到别人。
 
 * 有道词典
-  > I didn't fall in love, I rose in it.
-  > 我并非坠入爱河，而是在爱中崛起。
+  > Women belong in all places where decisions are being made.
+  > 女性应存在于每一个决策之地。
 
 ```
