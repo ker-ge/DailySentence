@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-07已更新 
+2026-03-08已更新 
 ```
 * 金山词霸
-  > The hearth crackles, keeping the late-night thinker company.
-  > 炉火噼啪，陪伴深夜里独思者。
+  > Honor her journey, celebrate her light.
+  > 致敬她的旅程，庆祝她的光芒。
 
 * 扇贝单词
-  > We can't help everyone, but everyone can help someone.
-  > 我们不能帮助所有人，但每个人都能帮到别人。
+  > If I am walking with two other men, each of them will serve as my teacher.
+  > 三人行，必有我师焉。
 
 * 有道词典
-  > Women belong in all places where decisions are being made.
-  > 女性应存在于每一个决策之地。
+  > Women can do anything.
+  > 女性可以做任何事。
 
 ```
