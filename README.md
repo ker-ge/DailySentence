@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-09已更新 
+2026-03-10已更新 
 ```
 * 金山词霸
-  > Green appears overnight, shy but sure.
-  > 绿色在一夜之间浮现，羞涩而坚定。
+  > The old tree wears a cloak of new moss.
+  > 老树披上了一层新苔藓的外衣。
 
 * 扇贝单词
-  > Always bear in mind that your own resolution to succeed is more important than any one thing.
-  > 时刻牢记，渴望成功的决心比任何事情都重要。
+  > Care and diligence bring luck.
+  > 细心和勤奋能带来好运。
 
 * 有道词典
-  > I am no bird, and no net ensnares me.
-  > 我不是鸟儿，也无网能困住我。
+  > Downwards is the only way backwards.
+  > 前进是唯一的退路。
 
 ```
