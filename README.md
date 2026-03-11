@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-10已更新 
+2026-03-11已更新 
 ```
 * 金山词霸
-  > The old tree wears a cloak of new moss.
-  > 老树披上了一层新苔藓的外衣。
+  > New leaves whisper where the spade once dug.
+  > 铁锹翻过的地方，新叶正低语。
 
 * 扇贝单词
-  > Care and diligence bring luck.
-  > 细心和勤奋能带来好运。
+  > It takes a great deal of courage to stand up to your enemies, but a great deal more to stand up to your friends.
+  > 要挺身而出对抗敌人的确需要很大的勇气，但要挺身而出反抗朋友却需要更大的勇气。
 
 * 有道词典
-  > Downwards is the only way backwards.
-  > 前进是唯一的退路。
+  > When the past is recaptured by the imagination, breath is put back into life.
+  > 当过往在想象中重现，生命便又充满了活力。
 
 ```
