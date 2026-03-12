@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-11已更新 
+2026-03-12已更新 
 ```
 * 金山词霸
-  > New leaves whisper where the spade once dug.
-  > 铁锹翻过的地方，新叶正低语。
+  > The starry sky hangs lower than usual, leaning toward the sleepless.
+  > 星空比往常更低，垂向未眠人的肩头。
 
 * 扇贝单词
-  > It takes a great deal of courage to stand up to your enemies, but a great deal more to stand up to your friends.
-  > 要挺身而出对抗敌人的确需要很大的勇气，但要挺身而出反抗朋友却需要更大的勇气。
+  > Leave nothing for tomorrow which can be done today.
+  > 今天能做的，就不要拖到明天。
 
 * 有道词典
-  > When the past is recaptured by the imagination, breath is put back into life.
-  > 当过往在想象中重现，生命便又充满了活力。
+  > The clearest way into the universe is through a forest wilderness.
+  > 通往宇宙最清晰的路径，就是穿过森林荒野。
 
 ```
