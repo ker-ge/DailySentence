@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-12已更新 
+2026-03-13已更新 
 ```
 * 金山词霸
-  > The starry sky hangs lower than usual, leaning toward the sleepless.
-  > 星空比往常更低，垂向未眠人的肩头。
+  > Listen to your innermost self.
+  > 倾听内心深处。
 
 * 扇贝单词
-  > Leave nothing for tomorrow which can be done today.
-  > 今天能做的，就不要拖到明天。
+  > If you tell the truth, you don't have to remember anything.
+  > 如果你说实话，就不必刻意记住任何事。
 
 * 有道词典
-  > The clearest way into the universe is through a forest wilderness.
-  > 通往宇宙最清晰的路径，就是穿过森林荒野。
+  > Time is a river which sweeps me along, but I am the river.
+  > 时间是一条裹挟我的河流，而我即是那河流。
 
 ```
