@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-13已更新 
+2026-03-14已更新 
 ```
 * 金山词霸
-  > Listen to your innermost self.
-  > 倾听内心深处。
+  > The heart, like a still pond, reflects all things without disturbance.
+  > 心如静水，无波不映。
 
 * 扇贝单词
-  > If you tell the truth, you don't have to remember anything.
-  > 如果你说实话，就不必刻意记住任何事。
+  > Two wrongs don't make a right, but they make a good excuse.
+  > 两个人都犯了错不能把事情变成对的，但能成为一个好借口。
 
 * 有道词典
-  > Time is a river which sweeps me along, but I am the river.
-  > 时间是一条裹挟我的河流，而我即是那河流。
+  > The future belongs to those who believe in the beauty of their dreams.
+  > 未来属于那些相信自己梦想之美的人。
 
 ```
