@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-16已更新 
+2026-03-17已更新 
 ```
 * 金山词霸
-  > Grass grows an inch while no one watches.
-  > 无人注意时，草长高了一寸。
+  > Warmth shared comes back to you.
+  > 温暖的分享终将回馈于你。
 
 * 扇贝单词
-  > It is not beauty that endears, it's love that makes us see beauty.
-  > 并非美丽招人爱，而是爱让我们看到了美丽。
+  > Nothing is impossible, the word itself says "I'm possible"!
+  > 没有不可能，连“不可能”这个词自己都说：“不，可能！”
 
 * 有道词典
-  > Be the reason someone feels loved and believes in the goodness in people.
-  > 成为让他人感受到被爱、并相信人性本善的原因。
+  > Courage is grace under pressure.
+  > 勇气，就是在压力之下保持优雅。
 
 ```
