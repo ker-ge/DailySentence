@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-17已更新 
+2026-03-18已更新 
 ```
 * 金山词霸
-  > Warmth shared comes back to you.
-  > 温暖的分享终将回馈于你。
+  > Life stirs in every crack and corner.
+  > 生命在每道缝隙和角落醒来。
 
 * 扇贝单词
-  > Nothing is impossible, the word itself says "I'm possible"!
-  > 没有不可能，连“不可能”这个词自己都说：“不，可能！”
+  > You can't use up creativity. The more you use, the more you have.
+  > 创新取之不尽用之不竭，越用越多。
 
 * 有道词典
-  > Courage is grace under pressure.
-  > 勇气，就是在压力之下保持优雅。
+  > The best way to predict the future is to invent it.
+  > 预测未来的最佳方式，是亲手创造它。
 
 ```
