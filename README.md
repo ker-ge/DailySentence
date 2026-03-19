@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-18已更新 
+2026-03-19已更新 
 ```
 * 金山词霸
-  > Life stirs in every crack and corner.
-  > 生命在每道缝隙和角落醒来。
+  > Dandelions write suns on the lawn.
+  > 蒲公英在草坪上写下一个个小太阳。
 
 * 扇贝单词
-  > You can't use up creativity. The more you use, the more you have.
-  > 创新取之不尽用之不竭，越用越多。
+  > Every day brings new choices.
+  > 每一天都会有新的选择。
 
 * 有道词典
-  > The best way to predict the future is to invent it.
-  > 预测未来的最佳方式，是亲手创造它。
+  > The privilege of a lifetime is to become who you truly are.
+  > 生的至高特权，是成为真正的自己。
 
 ```
