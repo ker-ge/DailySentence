@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-19已更新 
+2026-03-20已更新 
 ```
 * 金山词霸
-  > Dandelions write suns on the lawn.
-  > 蒲公英在草坪上写下一个个小太阳。
+  > Day and night shake hands in perfect balance.
+  > 白昼与黑夜握手，达成完美的平衡。
 
 * 扇贝单词
-  > Every day brings new choices.
-  > 每一天都会有新的选择。
+  > It seems the harder I work, the more luck I have.
+  > 我工作愈加努力，似乎就越幸运。
 
 * 有道词典
-  > The privilege of a lifetime is to become who you truly are.
-  > 生的至高特权，是成为真正的自己。
+  > What you planted in winter, now has permission to bloom.
+  > 你在寒冬播下的种子，此刻已被准许绽放。
 
 ```
