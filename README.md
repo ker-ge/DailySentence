@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-20已更新 
+2026-03-21已更新 
 ```
 * 金山词霸
-  > Day and night shake hands in perfect balance.
-  > 白昼与黑夜握手，达成完美的平衡。
+  > Plan your path with care and a smile.
+  > 带着细心和微笑规划你的路途。
 
 * 扇贝单词
-  > It seems the harder I work, the more luck I have.
-  > 我工作愈加努力，似乎就越幸运。
+  > Alone we can do so little; together we can do so much.
+  > 独自一人，我们能做的很少；团结一心，我们能成就很多。
 
 * 有道词典
-  > What you planted in winter, now has permission to bloom.
-  > 你在寒冬播下的种子，此刻已被准许绽放。
+  > The empty vessel makes the loudest sound.
+  > 满瓶不响，半瓶哐当。
 
 ```
