@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-21已更新 
+2026-03-22已更新 
 ```
 * 金山词霸
-  > Plan your path with care and a smile.
-  > 带着细心和微笑规划你的路途。
+  > Cherry blossoms blush before they bloom.
+  > 樱花在盛开前先红了脸颊。
 
 * 扇贝单词
-  > Alone we can do so little; together we can do so much.
-  > 独自一人，我们能做的很少；团结一心，我们能成就很多。
+  > Don't watch the clock. Do what it does. Keep going.
+  > 不要只看时钟，要效仿时钟，一直前行。
 
 * 有道词典
-  > The empty vessel makes the loudest sound.
-  > 满瓶不响，半瓶哐当。
+  > Go fast enough to get there, but slow enough to see.
+  > 行速以达，行缓以观。
 
 ```
