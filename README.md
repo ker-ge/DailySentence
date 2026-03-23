@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-22已更新 
+2026-03-23已更新 
 ```
 * 金山词霸
-  > Cherry blossoms blush before they bloom.
-  > 樱花在盛开前先红了脸颊。
+  > Endings make room for new starts.
+  > 结束为新开始腾出空间。
 
 * 扇贝单词
-  > Don't watch the clock. Do what it does. Keep going.
-  > 不要只看时钟，要效仿时钟，一直前行。
+  > We become what we think about.
+  > 我们思考什么，就会变成什么。
 
 * 有道词典
-  > Go fast enough to get there, but slow enough to see.
-  > 行速以达，行缓以观。
+  > The future belongs to the light, the past belongs to the heavy.
+  > 未来属于轻盈者，过去属于沉重者。
 
 ```
