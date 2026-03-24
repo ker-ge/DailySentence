@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-23已更新 
+2026-03-24已更新 
 ```
 * 金山词霸
-  > Endings make room for new starts.
-  > 结束为新开始腾出空间。
+  > Past lessons are gifts for tomorrow.
+  > 过去的经验是给明天的礼物。
 
 * 扇贝单词
-  > We become what we think about.
-  > 我们思考什么，就会变成什么。
+  > Failure is success if you learn from it.
+  > 只要能吸取教训，失败也是成功。
 
 * 有道词典
-  > The future belongs to the light, the past belongs to the heavy.
-  > 未来属于轻盈者，过去属于沉重者。
+  > Travel far enough, you meet yourself.
+  > 走得足够远，你会遇见真正的自己。
 
 ```
