@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-24已更新 
+2026-03-25已更新 
 ```
 * 金山词霸
-  > Past lessons are gifts for tomorrow.
-  > 过去的经验是给明天的礼物。
+  > Each day adds strength to your story.
+  > 每一天都为你的故事增添力量。
 
 * 扇贝单词
-  > Failure is success if you learn from it.
-  > 只要能吸取教训，失败也是成功。
+  > Look back, and smile on perils past.
+  > 回首往事，向过去的苦难微笑。
 
 * 有道词典
-  > Travel far enough, you meet yourself.
-  > 走得足够远，你会遇见真正的自己。
+  > Hope is the only thing stronger than fear.
+  > 希望，是唯一比恐惧更强大的力量。
 
 ```
