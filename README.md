@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-25已更新 
+2026-03-26已更新 
 ```
 * 金山词霸
-  > Each day adds strength to your story.
-  > 每一天都为你的故事增添力量。
+  > You can draw a new picture each day.
+  > 你每天都可以绘制一幅新画面。
 
 * 扇贝单词
-  > Look back, and smile on perils past.
-  > 回首往事，向过去的苦难微笑。
+  > When you reach the end of your rope, tie a knot in it and hang on.
+  > 哪怕希望快要破灭，也要努力挣扎，坚持下去。
 
 * 有道词典
-  > Hope is the only thing stronger than fear.
-  > 希望，是唯一比恐惧更强大的力量。
+  > The higher we soar, the smaller we appear to those who cannot fly.
+  > 我们飞得越高，在那些不会飞翔者眼中便越显渺小。
 
 ```
