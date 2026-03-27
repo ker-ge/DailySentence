@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-26已更新 
+2026-03-27已更新 
 ```
 * 金山词霸
-  > You can draw a new picture each day.
-  > 你每天都可以绘制一幅新画面。
+  > If the future does not come to me, I will walk toward the future.
+  > 未来不来，我便向未来走去。
 
 * 扇贝单词
-  > When you reach the end of your rope, tie a knot in it and hang on.
-  > 哪怕希望快要破灭，也要努力挣扎，坚持下去。
+  > No one can make you feel inferior without your consent.
+  > 未经你的许可，没人能让你妄自菲薄。
 
 * 有道词典
-  > The higher we soar, the smaller we appear to those who cannot fly.
-  > 我们飞得越高，在那些不会飞翔者眼中便越显渺小。
+  > Freedom is nothing but the chance to be better.
+  > 自由不过是一种变得更好的可能。
 
 ```
