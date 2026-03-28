@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-27已更新 
+2026-03-28已更新 
 ```
 * 金山词霸
-  > If the future does not come to me, I will walk toward the future.
-  > 未来不来，我便向未来走去。
+  > White petals fall like snow, but softer.
+  > 白色的花瓣飘落如雪，却更温柔。
 
 * 扇贝单词
-  > No one can make you feel inferior without your consent.
-  > 未经你的许可，没人能让你妄自菲薄。
+  > Without a struggle, there can be no progress.
+  > 没有奋斗，就没有进步。
 
 * 有道词典
-  > Freedom is nothing but the chance to be better.
-  > 自由不过是一种变得更好的可能。
+  > Facts do not cease to exist because they are ignored.
+  > 事实不会因为被忽视而停止存在。
 
 ```
