@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-28已更新 
+2026-03-29已更新 
 ```
 * 金山词霸
-  > White petals fall like snow, but softer.
-  > 白色的花瓣飘落如雪，却更温柔。
+  > Warm rain writes poems on the window.
+  > 温润的雨在窗上写诗。
 
 * 扇贝单词
-  > Without a struggle, there can be no progress.
-  > 没有奋斗，就没有进步。
+  > The fruit derived from labor is the sweetest of pleasures.
+  > 劳动所得的果实是最甜美的。
 
 * 有道词典
-  > Facts do not cease to exist because they are ignored.
-  > 事实不会因为被忽视而停止存在。
+  > Simplicity is the ultimate sophistication.
+  > 至繁归于至简。
 
 ```
