@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-29已更新 
+2026-03-30已更新 
 ```
 * 金山词霸
-  > Warm rain writes poems on the window.
-  > 温润的雨在窗上写诗。
+  > Rain stitches the earth with silver thread.
+  > 雨用银线把大地细细缝起。
 
 * 扇贝单词
-  > The fruit derived from labor is the sweetest of pleasures.
-  > 劳动所得的果实是最甜美的。
+  > In the depth of winter I finally learned that there was in me an invincible summer.
+  > 在隆冬，我终于知道，在我的身体里面，藏着一个无法战胜的夏天。
 
 * 有道词典
-  > Simplicity is the ultimate sophistication.
-  > 至繁归于至简。
+  > Life is a balance of holding on and letting go.
+  > 生活是一种坚持与放手之间的平衡。
 
 ```
