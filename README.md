@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-30已更新 
+2026-03-31已更新 
 ```
 * 金山词霸
-  > Rain stitches the earth with silver thread.
-  > 雨用银线把大地细细缝起。
+  > March ends with a promise in its pocket.
+  > 三月将尽，口袋里装着一个承诺。
 
 * 扇贝单词
-  > In the depth of winter I finally learned that there was in me an invincible summer.
-  > 在隆冬，我终于知道，在我的身体里面，藏着一个无法战胜的夏天。
+  > Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don't belong.
+  > 成长很痛苦，改变很痛苦，但是最痛苦的是卡在你本不应该在的地方。
 
 * 有道词典
-  > Life is a balance of holding on and letting go.
-  > 生活是一种坚持与放手之间的平衡。
+  > We do not remember days, we remember moments.
+  > 我们记住的不是日子，而是瞬间。
 
 ```
