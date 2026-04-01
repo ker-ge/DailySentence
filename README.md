@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-03-31已更新 
+2026-04-01已更新 
 ```
 * 金山词霸
-  > March ends with a promise in its pocket.
-  > 三月将尽，口袋里装着一个承诺。
+  > Dawn breaks not with a shout, but with a quiet glow.
+  > 黎明不以喧嚣降临，而以静默的光绽放。
 
 * 扇贝单词
-  > Growth is painful. Change is painful. But nothing is as painful as staying stuck somewhere you don't belong.
-  > 成长很痛苦，改变很痛苦，但是最痛苦的是卡在你本不应该在的地方。
+  > Integrity is the most valuable and respected quality of leadership. Always keep your word.
+  > 诚信是最宝贵和最受尊重的领导品质。永远要信守诺言。
 
 * 有道词典
-  > We do not remember days, we remember moments.
-  > 我们记住的不是日子，而是瞬间。
+  > April showers bring May flowers.
+  > 四月的阵雨带来五月的繁花。
 
 ```
