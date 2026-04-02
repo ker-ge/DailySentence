@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-01已更新 
+2026-04-02已更新 
 ```
 * 金山词霸
-  > Dawn breaks not with a shout, but with a quiet glow.
-  > 黎明不以喧嚣降临，而以静默的光绽放。
+  > Roots grow deep in the dark, so the tree can trust the light.
+  > 根在黑暗中深扎，树才能信任光明。
 
 * 扇贝单词
-  > Integrity is the most valuable and respected quality of leadership. Always keep your word.
-  > 诚信是最宝贵和最受尊重的领导品质。永远要信守诺言。
+  > One benefit of Summer was that each day we had more light to read by.
+  > 夏天的好处之一便是我们有更多的阳光来阅读。
 
 * 有道词典
-  > April showers bring May flowers.
-  > 四月的阵雨带来五月的繁花。
+  > Growing up is losing some illusions, in order to acquire others.
+  > 为了怀抱一些新幻想，我们失去一些旧幻想，这就是成长。
 
 ```
