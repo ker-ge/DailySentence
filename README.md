@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-02已更新 
+2026-04-03已更新 
 ```
 * 金山词霸
-  > Roots grow deep in the dark, so the tree can trust the light.
-  > 根在黑暗中深扎，树才能信任光明。
+  > The river does not hurry; it simply knows the sea.
+  > 河流不急于赶路，它只是知道海的方向。
 
 * 扇贝单词
-  > One benefit of Summer was that each day we had more light to read by.
-  > 夏天的好处之一便是我们有更多的阳光来阅读。
+  > We are no longer happy so soon as we wish to be happier.
+  > 在祈求更快乐的那一刻，我们便不再真正快乐。
 
 * 有道词典
-  > Growing up is losing some illusions, in order to acquire others.
-  > 为了怀抱一些新幻想，我们失去一些旧幻想，这就是成长。
+  > All tragedy erased, I see only wonders.
+  > 我忘却了所有悲剧，所见皆是奇迹。
 
 ```
