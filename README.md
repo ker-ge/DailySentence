@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-03已更新 
+2026-04-04已更新 
 ```
 * 金山词霸
-  > The river does not hurry; it simply knows the sea.
-  > 河流不急于赶路，它只是知道海的方向。
+  > Each fallen petal makes room for the fruit to come.
+  > 每一片落花，都为果实让出未来的位置。
 
 * 扇贝单词
-  > We are no longer happy so soon as we wish to be happier.
-  > 在祈求更快乐的那一刻，我们便不再真正快乐。
+  > Never deprive someone of hope; it might be all they have.
+  > 千万不要剥夺别人的希望，那可能是他们所拥有的全部。
 
 * 有道词典
-  > All tragedy erased, I see only wonders.
-  > 我忘却了所有悲剧，所见皆是奇迹。
+  > Happiness is a journey, not a destination.
+  > 幸福是一段旅程，而不是终点。
 
 ```
