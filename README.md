@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-04已更新 
+2026-04-05已更新 
 ```
 * 金山词霸
-  > Each fallen petal makes room for the fruit to come.
-  > 每一片落花，都为果实让出未来的位置。
+  > Rain cleanses yesterday's tears; new green appears.
+  > 雨洗昨日泪，新绿悄然生。
 
 * 扇贝单词
-  > Never deprive someone of hope; it might be all they have.
-  > 千万不要剥夺别人的希望，那可能是他们所拥有的全部。
+  > In fair weather prepare for foul.
+  > 宜未雨绸缪。
 
 * 有道词典
-  > Happiness is a journey, not a destination.
-  > 幸福是一段旅程，而不是终点。
+  > What we have once enjoyed we can never lose.
+  > 我们曾经享受过的，永远不会失去。
 
 ```
