@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-05已更新 
+2026-04-06已更新 
 ```
 * 金山词霸
-  > Rain cleanses yesterday's tears; new green appears.
-  > 雨洗昨日泪，新绿悄然生。
+  > The path is made by walking, not by waiting for signs.
+  > 路是走出来的而不是等待征兆。
 
 * 扇贝单词
-  > In fair weather prepare for foul.
-  > 宜未雨绸缪。
+  > There are no limits to what you can accomplish, except the limits you place on your own thinking.
+  > 你所能完成的事情没有限制，除非你限制了自己的想法。
 
 * 有道词典
-  > What we have once enjoyed we can never lose.
-  > 我们曾经享受过的，永远不会失去。
+  > Chance encounters are what keep us going.
+  > 意外的邂逅是我们前行的动力。
 
 ```
