@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-06已更新 
+2026-04-07已更新 
 ```
 * 金山词霸
-  > The path is made by walking, not by waiting for signs.
-  > 路是走出来的而不是等待征兆。
+  > The seed believes in spring while winter still rages.
+  > 当冬天还在肆虐，种子已经相信春天。
 
 * 扇贝单词
-  > There are no limits to what you can accomplish, except the limits you place on your own thinking.
-  > 你所能完成的事情没有限制，除非你限制了自己的想法。
+  > You may not control all the events that happen to you, but you can decide not to be reduced by them.
+  > 你可能无法控制所有发生在你身上的事，但是你可以决定不被它们所累。
 
 * 有道词典
-  > Chance encounters are what keep us going.
-  > 意外的邂逅是我们前行的动力。
+  > Freedom is the oxygen of the soul.
+  > 自由是灵魂的氧气。
 
 ```
