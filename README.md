@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-07已更新 
+2026-04-08已更新 
 ```
 * 金山词霸
-  > The seed believes in spring while winter still rages.
-  > 当冬天还在肆虐，种子已经相信春天。
+  > Waves do not fear the shore; they embrace their ending as a new beginning.
+  > 海浪不畏惧海岸，它把终结拥作新的开端。
 
 * 扇贝单词
-  > You may not control all the events that happen to you, but you can decide not to be reduced by them.
-  > 你可能无法控制所有发生在你身上的事，但是你可以决定不被它们所累。
+  > If you change the way you look at things, the things you look at change.
+  > 如果你改变看事物的方式，事物也会因此而改变。
 
 * 有道词典
-  > Freedom is the oxygen of the soul.
-  > 自由是灵魂的氧气。
+  > Talk to yourself like you would to someone you love.
+  > 像对待你爱的人那样对自己说话。
 
 ```
