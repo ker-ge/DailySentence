@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-08已更新 
+2026-04-09已更新 
 ```
 * 金山词霸
-  > Waves do not fear the shore; they embrace their ending as a new beginning.
-  > 海浪不畏惧海岸，它把终结拥作新的开端。
+  > The mountain never moves, yet it teaches the clouds to dance.
+  > 山峦岿然不动，却教会了云朵如何舞蹈。
 
 * 扇贝单词
-  > If you change the way you look at things, the things you look at change.
-  > 如果你改变看事物的方式，事物也会因此而改变。
+  > We do not remember days, we remember moments.
+  > 我们往往记住的不是某一天，而是某个时刻。
 
 * 有道词典
-  > Talk to yourself like you would to someone you love.
-  > 像对待你爱的人那样对自己说话。
+  > The right thing and the easy thing are never the same.
+  > 正确的事和容易的事，从来都不是一回事。
 
 ```
