@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-09已更新 
+2026-04-10已更新 
 ```
 * 金山词霸
-  > The mountain never moves, yet it teaches the clouds to dance.
-  > 山峦岿然不动，却教会了云朵如何舞蹈。
+  > Your heartbeat is the drum of a journey only you can walk.
+  > 你的心跳，是那场独属于你的征程的战鼓。
 
 * 扇贝单词
-  > We do not remember days, we remember moments.
-  > 我们往往记住的不是某一天，而是某个时刻。
+  > Shallow men believe in luck. Strong men believe in cause and effect.
+  > 浅薄者相信运气；有能力的人相信因果。
 
 * 有道词典
-  > The right thing and the easy thing are never the same.
-  > 正确的事和容易的事，从来都不是一回事。
+  > The memories I value most, I don't ever see them fading.
+  > 我最珍视的那些回忆，永远不会消逝。
 
 ```
