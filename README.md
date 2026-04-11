@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-10已更新 
+2026-04-11已更新 
 ```
 * 金山词霸
-  > Your heartbeat is the drum of a journey only you can walk.
-  > 你的心跳，是那场独属于你的征程的战鼓。
+  > Forward ever, backward never.
+  > 永远向前，绝不后退。
 
 * 扇贝单词
-  > Shallow men believe in luck. Strong men believe in cause and effect.
-  > 浅薄者相信运气；有能力的人相信因果。
+  > You were not made to live like brute beasts, but to pursue virtue and knowledge.
+  > 人不应当像走兽一样活着，而应该追求知识和美德。
 
 * 有道词典
-  > The memories I value most, I don't ever see them fading.
-  > 我最珍视的那些回忆，永远不会消逝。
+  > A dream doesn't become reality through magic.
+  > 梦想不是靠魔术来实现的。
 
 ```
