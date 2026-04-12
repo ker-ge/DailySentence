@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-11已更新 
+2026-04-12已更新 
 ```
 * 金山词霸
-  > Forward ever, backward never.
-  > 永远向前，绝不后退。
+  > Life is short; smile while you still have teeth.
+  > 人生苦短，趁牙齿未落微笑。
 
 * 扇贝单词
-  > You were not made to live like brute beasts, but to pursue virtue and knowledge.
-  > 人不应当像走兽一样活着，而应该追求知识和美德。
+  > Be a first rate version of yourself, not a second rate version of someone else.
+  > 做一流的自己，不做二流的别人。
 
 * 有道词典
-  > A dream doesn't become reality through magic.
-  > 梦想不是靠魔术来实现的。
+  > The fog comes on little cat feet.
+  > 雾来了，迈着小猫的细步。
 
 ```
