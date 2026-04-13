@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-12已更新 
+2026-04-13已更新 
 ```
 * 金山词霸
-  > Life is short; smile while you still have teeth.
-  > 人生苦短，趁牙齿未落微笑。
+  > Your potential is a universe; don't settle for being a single star.
+  > 你的潜力是一个宇宙，别满足于做一颗孤星。
 
 * 扇贝单词
-  > Be a first rate version of yourself, not a second rate version of someone else.
-  > 做一流的自己，不做二流的别人。
+  > The expert in anything was once a beginner.
+  > 任何领域的专家也曾是一名初学者。
 
 * 有道词典
-  > The fog comes on little cat feet.
-  > 雾来了，迈着小猫的细步。
+  > Life is the flower for which love is the honey.
+  > 生命如花，爱情是蜜。
 
 ```
