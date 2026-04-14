@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-13已更新 
+2026-04-14已更新 
 ```
 * 金山词霸
-  > Your potential is a universe; don't settle for being a single star.
-  > 你的潜力是一个宇宙，别满足于做一颗孤星。
+  > Every scar on the earth becomes a valley or a river.
+  > 大地上的每道伤痕，最终都成了山谷或河流。
 
 * 扇贝单词
-  > The expert in anything was once a beginner.
-  > 任何领域的专家也曾是一名初学者。
+  > Wish not so much to live long as to live well.
+  > 与其希望活得久，不如祈盼过得好。
 
 * 有道词典
-  > Life is the flower for which love is the honey.
-  > 生命如花，爱情是蜜。
+  > The unexamined life is not worth living.
+  > 未经审视的人生是不值得过的。
 
 ```
