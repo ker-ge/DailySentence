@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-14已更新 
+2026-04-15已更新 
 ```
 * 金山词霸
-  > Every scar on the earth becomes a valley or a river.
-  > 大地上的每道伤痕，最终都成了山谷或河流。
+  > Hope is the feather that balances the stone of today.
+  > 希望是那根羽毛，平衡着今日的顽石。
 
 * 扇贝单词
-  > Wish not so much to live long as to live well.
-  > 与其希望活得久，不如祈盼过得好。
+  > I cannot give you the formula for success, but I can give you the formula for failure—which is: try to please everybody.
+  > 我不能给你成功的公式，但我可以给你失败的公式，那就是：试图取悦每个人。
 
 * 有道词典
-  > The unexamined life is not worth living.
-  > 未经审视的人生是不值得过的。
+  > The only source of knowledge is experience.
+  > 知识的唯一源泉是经验。
 
 ```
