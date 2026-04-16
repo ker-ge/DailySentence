@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-15已更新 
+2026-04-16已更新 
 ```
 * 金山词霸
-  > Hope is the feather that balances the stone of today.
-  > 希望是那根羽毛，平衡着今日的顽石。
+  > Your thoughts are gardeners; tend only to the flowers.
+  > 你的思绪是园丁，只去照料那些花朵吧。
 
 * 扇贝单词
-  > I cannot give you the formula for success, but I can give you the formula for failure—which is: try to please everybody.
-  > 我不能给你成功的公式，但我可以给你失败的公式，那就是：试图取悦每个人。
+  > Never help a child with a task at which he feels he can succeed.
+  > 当一个孩子觉得自己能成功完成一项任务时，千万别去帮他。
 
 * 有道词典
-  > The only source of knowledge is experience.
-  > 知识的唯一源泉是经验。
+  > I don't think of all the misery, but of the beauty that still remains.
+  > 我不会去想所有的苦难，而是想着依然存在的美好。
 
 ```
