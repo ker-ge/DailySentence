@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-16已更新 
+2026-04-17已更新 
 ```
 * 金山词霸
-  > Your thoughts are gardeners; tend only to the flowers.
-  > 你的思绪是园丁，只去照料那些花朵吧。
+  > Raindrops never compete; they all reach the ground together.
+  > 雨滴从不竞争，它们终将一起抵达大地。
 
 * 扇贝单词
-  > Never help a child with a task at which he feels he can succeed.
-  > 当一个孩子觉得自己能成功完成一项任务时，千万别去帮他。
+  > We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are.
+  > 我们心中都有光明和黑暗，但更重要的是我们选择哪一面。这才是我们真正的样子。
 
 * 有道词典
-  > I don't think of all the misery, but of the beauty that still remains.
-  > 我不会去想所有的苦难，而是想着依然存在的美好。
+  > The art of being wise is the art of knowing what to overlook.
+  > 智慧的艺术，在于懂得何时视而不见。
 
 ```
