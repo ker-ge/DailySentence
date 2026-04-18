@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-17已更新 
+2026-04-18已更新 
 ```
 * 金山词霸
-  > Raindrops never compete; they all reach the ground together.
-  > 雨滴从不竞争，它们终将一起抵达大地。
+  > Within you is a stillness vast enough to hold every storm.
+  > 你的内心深处，有一片足以容纳所有风暴的宁静。
 
 * 扇贝单词
-  > We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are.
-  > 我们心中都有光明和黑暗，但更重要的是我们选择哪一面。这才是我们真正的样子。
+  > The wisest mind has something yet to learn.
+  > 就连最智慧的人也有东西要学。
 
 * 有道词典
-  > The art of being wise is the art of knowing what to overlook.
-  > 智慧的艺术，在于懂得何时视而不见。
+  > The only thing that is constant is change.
+  > 唯一不变的是变化本身。
 
 ```
