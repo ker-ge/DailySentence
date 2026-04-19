@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-18已更新 
+2026-04-19已更新 
 ```
 * 金山词霸
-  > Within you is a stillness vast enough to hold every storm.
-  > 你的内心深处，有一片足以容纳所有风暴的宁静。
+  > Bamboo grows skyward by bending with the wind.
+  > 竹子向天生长，靠的是随风俯身。
 
 * 扇贝单词
-  > The wisest mind has something yet to learn.
-  > 就连最智慧的人也有东西要学。
+  > We can draw lessons from the past, but we cannot live in it.
+  > 我们可以从过去学些什么，但不能活在过去。
 
 * 有道词典
-  > The only thing that is constant is change.
-  > 唯一不变的是变化本身。
+  > Pursue what catches your heart, not what catches your eyes.
+  > 追求让你心动的事物，而不是让你眼花缭乱的事物。
 
 ```
