@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-19已更新 
+2026-04-20已更新 
 ```
 * 金山词霸
-  > Bamboo grows skyward by bending with the wind.
-  > 竹子向天生长，靠的是随风俯身。
+  > Rain awakens the seeds sleeping in your heart.
+  > 谷雨唤醒你心中沉睡的种子。
 
 * 扇贝单词
-  > We can draw lessons from the past, but we cannot live in it.
-  > 我们可以从过去学些什么，但不能活在过去。
+  > One's destination is never a place, but a new way of seeing things.
+  > 一个人的目的地永远不是某个地方，而是一种看待事物的新方式。
 
 * 有道词典
-  > Pursue what catches your heart, not what catches your eyes.
-  > 追求让你心动的事物，而不是让你眼花缭乱的事物。
+  > Into each life, some rain must fall.
+  > 人生总有风雨时。
 
 ```
