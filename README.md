@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-20已更新 
+2026-04-21已更新 
 ```
 * 金山词霸
-  > Rain awakens the seeds sleeping in your heart.
-  > 谷雨唤醒你心中沉睡的种子。
+  > The moon doesn't need to be full to light the path.
+  > 月亮不必圆满，也能照亮前路。
 
 * 扇贝单词
-  > One's destination is never a place, but a new way of seeing things.
-  > 一个人的目的地永远不是某个地方，而是一种看待事物的新方式。
+  > The knowledge of the world is only to be acquired in the world, and not in a closet.
+  > 对世界的了解是在世界中获得的，而不是在储物间里。
 
 * 有道词典
-  > Into each life, some rain must fall.
-  > 人生总有风雨时。
+  > What makes the desert beautiful is that somewhere it hides a well.
+  > 沙漠之所以美丽，是因为它在某个地方藏着一口井。
 
 ```
