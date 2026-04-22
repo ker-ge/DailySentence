@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-21已更新 
+2026-04-22已更新 
 ```
 * 金山词霸
-  > The moon doesn't need to be full to light the path.
-  > 月亮不必圆满，也能照亮前路。
+  > A kind word is a boomerang that returns with warmth.
+  > 一句善意的话，是带着温暖飞回的回旋镖。
 
 * 扇贝单词
-  > The knowledge of the world is only to be acquired in the world, and not in a closet.
-  > 对世界的了解是在世界中获得的，而不是在储物间里。
+  > The one thing that doesn't abide by majority rule is a person's conscience.
+  > 世上唯一不能遵循从众原则的东西，是人的良心。
 
 * 有道词典
-  > What makes the desert beautiful is that somewhere it hides a well.
-  > 沙漠之所以美丽，是因为它在某个地方藏着一口井。
+  > Impropriety is the soul of wit.
+  > 逾越礼规的言词是机智的灵魂。
 
 ```
