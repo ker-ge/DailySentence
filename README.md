@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-22已更新 
+2026-04-23已更新 
 ```
 * 金山词霸
-  > A kind word is a boomerang that returns with warmth.
-  > 一句善意的话，是带着温暖飞回的回旋镖。
+  > The butterfly's beauty is born from the caterpillar's patience.
+  > 蝴蝶的美丽，诞生于毛虫的耐心。
 
 * 扇贝单词
-  > The one thing that doesn't abide by majority rule is a person's conscience.
-  > 世上唯一不能遵循从众原则的东西，是人的良心。
+  > Every artist was first an amateur.
+  > 每个艺术家在一开始都是外行。
 
 * 有道词典
-  > Impropriety is the soul of wit.
-  > 逾越礼规的言词是机智的灵魂。
+  > Books are a uniquely portable magic.
+  > 书籍是随身携带的魔法。
 
 ```
