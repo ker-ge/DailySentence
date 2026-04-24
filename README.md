@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-23已更新 
+2026-04-24已更新 
 ```
 * 金山词霸
-  > The butterfly's beauty is born from the caterpillar's patience.
-  > 蝴蝶的美丽，诞生于毛虫的耐心。
+  > Every sunset is a promise of a dawn we haven't met.
+  > 每一次日落，都是对我们尚未谋面的黎明的承诺。
 
 * 扇贝单词
-  > Every artist was first an amateur.
-  > 每个艺术家在一开始都是外行。
+  > Live your life as though your every act were to become a universal law.
+  > 过好你的生活，就像你的每一个行为都将成为一个普遍规律。
 
 * 有道词典
-  > Books are a uniquely portable magic.
-  > 书籍是随身携带的魔法。
+  > Your time is limited, don't waste it living someone else's life.
+  > 你的时间有限，不要浪费在过别人的生活上。
 
 ```
