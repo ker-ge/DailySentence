@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-24已更新 
+2026-04-25已更新 
 ```
 * 金山词霸
-  > Every sunset is a promise of a dawn we haven't met.
-  > 每一次日落，都是对我们尚未谋面的黎明的承诺。
+  > Hope and love truly make every challenge a little easier.
+  > 希望与爱让每个挑战变得更容易。
 
 * 扇贝单词
-  > Live your life as though your every act were to become a universal law.
-  > 过好你的生活，就像你的每一个行为都将成为一个普遍规律。
+  > Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.
+  > 衡量成功的标准不是看一个人在生活中所处的地位，而是看他所克服的障碍。
 
 * 有道词典
-  > Your time is limited, don't waste it living someone else's life.
-  > 你的时间有限，不要浪费在过别人的生活上。
+  > Silence is the sleep that nourishes wisdom.
+  > 沉默是滋养智慧的睡眠。
 
 ```
