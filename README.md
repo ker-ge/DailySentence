@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-25已更新 
+2026-04-26已更新 
 ```
 * 金山词霸
-  > Hope and love truly make every challenge a little easier.
-  > 希望与爱让每个挑战变得更容易。
+  > You are the painter of skies you have yet to see.
+  > 你是那片你尚未见过的天空的画师。
 
 * 扇贝单词
-  > Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.
-  > 衡量成功的标准不是看一个人在生活中所处的地位，而是看他所克服的障碍。
+  > A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.
+  > 成功的生活就是早上起床，晚上睡觉，白天做自己想做的事。
 
 * 有道词典
-  > Silence is the sleep that nourishes wisdom.
-  > 沉默是滋养智慧的睡眠。
+  > May you be unwavering day and night, loyal to yourself.
+  > 愿你不舍昼夜，忠于自己。
 
 ```
