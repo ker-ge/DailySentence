@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-26已更新 
+2026-04-27已更新 
 ```
 * 金山词霸
-  > You are the painter of skies you have yet to see.
-  > 你是那片你尚未见过的天空的画师。
+  > Small acts of kindness are the stars that navigate lost ships.
+  > 微小的善行，是为迷航的船只引路的星星。
 
 * 扇贝单词
-  > A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.
-  > 成功的生活就是早上起床，晚上睡觉，白天做自己想做的事。
+  > However difficult life may seem, there is always something you can do and succeed at.
+  > 无论生活看起来多么困难，总有一些你可以做，并能获得成功的事情。
 
 * 有道词典
-  > May you be unwavering day and night, loyal to yourself.
-  > 愿你不舍昼夜，忠于自己。
+  > Night is a world lit by itself.
+  > 暗夜自有光，不借日月明。
 
 ```
