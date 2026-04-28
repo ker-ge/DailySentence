@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-27已更新 
+2026-04-28已更新 
 ```
 * 金山词霸
-  > Small acts of kindness are the stars that navigate lost ships.
-  > 微小的善行，是为迷航的船只引路的星星。
+  > Growth is not a straight line, but a spiral reaching higher.
+  > 成长不是直线，而是盘旋上升的螺旋。
 
 * 扇贝单词
-  > However difficult life may seem, there is always something you can do and succeed at.
-  > 无论生活看起来多么困难，总有一些你可以做，并能获得成功的事情。
+  > Your life is a reflection of your thoughts. If you change your thinking, you change your life.
+  > 你的生活是你思维的反映。如果你改变了你的思维，你就改变了你的生活。
 
 * 有道词典
-  > Night is a world lit by itself.
-  > 暗夜自有光，不借日月明。
+  > An appreciative listener is always stimulating.
+  > 一位懂得欣赏的听众总是令人振奋的。
 
 ```
