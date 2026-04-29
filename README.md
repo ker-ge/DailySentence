@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-28已更新 
+2026-04-29已更新 
 ```
 * 金山词霸
-  > Growth is not a straight line, but a spiral reaching higher.
-  > 成长不是直线，而是盘旋上升的螺旋。
+  > The most beautiful melodies come from instruments that were carved.
+  > 最美妙的旋律，来自被精心雕琢的乐器。
 
 * 扇贝单词
-  > Your life is a reflection of your thoughts. If you change your thinking, you change your life.
-  > 你的生活是你思维的反映。如果你改变了你的思维，你就改变了你的生活。
+  > All the adversity I've had in my life, all my troubles and obstacles, have strengthened me.
+  > 我生命中经历的所有逆境，所有的困难和障碍，都让我变得更强大。
 
 * 有道词典
-  > An appreciative listener is always stimulating.
-  > 一位懂得欣赏的听众总是令人振奋的。
+  > Keep your friends close, but your enemies closer.
+  > 离你的朋友近些，但离你的敌人要更近。
 
 ```
