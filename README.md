@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-29已更新 
+2026-04-30已更新 
 ```
 * 金山词霸
-  > The most beautiful melodies come from instruments that were carved.
-  > 最美妙的旋律，来自被精心雕琢的乐器。
+  > Let your mistakes be the compost for your future garden.
+  > 让你的错误，成为未来花园的养料。
 
 * 扇贝单词
-  > All the adversity I've had in my life, all my troubles and obstacles, have strengthened me.
-  > 我生命中经历的所有逆境，所有的困难和障碍，都让我变得更强大。
+  > Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
+  > 梦想就像星星。也许你永远无法触碰，但如果你跟随它们，它们将引领你找到人生的路。
 
 * 有道词典
-  > Keep your friends close, but your enemies closer.
-  > 离你的朋友近些，但离你的敌人要更近。
+  > If you shed tears when you miss the sun, you also miss the stars.
+  > 如果你因错过了太阳而流泪，那么你也将失去群星。
 
 ```
