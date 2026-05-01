@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-04-30已更新 
+2026-05-01已更新 
 ```
 * 金山词霸
-  > Let your mistakes be the compost for your future garden.
-  > 让你的错误，成为未来花园的养料。
+  > All labor that uplifts humanity has dignity and importance.
+  > 所有提升人类的劳动都具有尊严和重要性。
 
 * 扇贝单词
-  > Dreams are like stars. You may never touch them, but if you follow them, they will lead you to your destiny.
-  > 梦想就像星星。也许你永远无法触碰，但如果你跟随它们，它们将引领你找到人生的路。
+  > The hardships that I encountered in the past will help me succeed in the future.
+  > 我过去遇到的困难将帮助我在未来取得成功。
 
 * 有道词典
-  > If you shed tears when you miss the sun, you also miss the stars.
-  > 如果你因错过了太阳而流泪，那么你也将失去群星。
+  > Our most beautiful things in the world are by Labour, by human's hand created.
+  > 世界上最美好的东西，都是由劳动、由人的聪明的双手创造出来的。
 
 ```
