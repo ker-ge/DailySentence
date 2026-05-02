@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-01已更新 
+2026-05-02已更新 
 ```
 * 金山词霸
-  > All labor that uplifts humanity has dignity and importance.
-  > 所有提升人类的劳动都具有尊严和重要性。
+  > Here comes the sun. And I say, it’s all right.
+  > 阳光来了，我说，一切都好。
 
 * 扇贝单词
-  > The hardships that I encountered in the past will help me succeed in the future.
-  > 我过去遇到的困难将帮助我在未来取得成功。
+  > The constant happiness is curiosity.
+  > 求知欲是长久的快乐。
 
 * 有道词典
-  > Our most beautiful things in the world are by Labour, by human's hand created.
-  > 世界上最美好的东西，都是由劳动、由人的聪明的双手创造出来的。
+  > Kindness is a language that the deaf can hear and the blind can see.
+  > 善良是一种语言，聋者能听，盲者能见。
 
 ```
