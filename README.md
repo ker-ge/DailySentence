@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-02已更新 
+2026-05-03已更新 
 ```
 * 金山词霸
-  > Here comes the sun. And I say, it’s all right.
-  > 阳光来了，我说，一切都好。
+  > When clouds part, the sky reveals its pale blue base.
+  > 云层散开时，天空露出淡蓝的底色。
 
 * 扇贝单词
-  > The constant happiness is curiosity.
-  > 求知欲是长久的快乐。
+  > True friends are never apart, maybe in distance but never in heart.
+  > 真正的朋友从不分离，也许相距甚远，但心永远相连。
 
 * 有道词典
-  > Kindness is a language that the deaf can hear and the blind can see.
-  > 善良是一种语言，聋者能听，盲者能见。
+  > Still water runs deep.
+  > 静水流深。
 
 ```
