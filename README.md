@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-03已更新 
+2026-05-04已更新 
 ```
 * 金山词霸
-  > When clouds part, the sky reveals its pale blue base.
-  > 云层散开时，天空露出淡蓝的底色。
+  > Youth like morning light holds endless promise.
+  > 青年如晨光，充满无限可能。
 
 * 扇贝单词
-  > True friends are never apart, maybe in distance but never in heart.
-  > 真正的朋友从不分离，也许相距甚远，但心永远相连。
+  > Nothing is so strong as gentleness, nothing so gentle as real strength.
+  > 没有什么比温柔更有力量，也没有什么比真正的力量更温柔。
 
 * 有道词典
-  > Still water runs deep.
-  > 静水流深。
+  > From now on, if there is no torchlight, then I will be the only light.
+  > 此后如竟没有炬火，我便是唯一的光。
 
 ```
