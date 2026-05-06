@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-05已更新 
+2026-05-06已更新 
 ```
 * 金山词霸
-  > A cool breeze still visits, saying goodbye to spring.
-  > 凉风偶尔到访，与春天告别。
+  > The smell of wet earth brings peace to the heart.
+  > 雨后泥土的气息让人心安。
 
 * 扇贝单词
-  > Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.
-  > 即使是幸福的生活也不可能没有一丝黑暗，如果没有悲伤来平衡，快乐这个词就会失去意义。
+  > Life is partly what we make it, and partly what it is made by the friends we choose.
+  > 生活一部分是我们自己创造的，另一部分是由我们选择的朋友造就的。
 
 * 有道词典
-  > Summer, after all, is a time when wonderful things can happen to quiet people.
-  > 毕竟，夏天是安静之人也会遇到美好事情的季节。
+  > Energy and persistence conquer all things.
+  > 精力与坚持，能征服万物。
 
 ```
