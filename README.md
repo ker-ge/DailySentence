@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-06已更新 
+2026-05-07已更新 
 ```
 * 金山词霸
-  > The smell of wet earth brings peace to the heart.
-  > 雨后泥土的气息让人心安。
+  > Wild flowers on the ridge quietly weave a colorful blanket.
+  > 田埂上的野花，悄悄铺成彩毯。
 
 * 扇贝单词
-  > Life is partly what we make it, and partly what it is made by the friends we choose.
-  > 生活一部分是我们自己创造的，另一部分是由我们选择的朋友造就的。
+  > Without the dark there isn't light. Without the pain there is no relief.
+  > 没有黑暗，也就没有光明。没有痛苦，也就没有痛苦的缓解。
 
 * 有道词典
-  > Energy and persistence conquer all things.
-  > 精力与坚持，能征服万物。
+  > We all live under the same sky, but we don't all have the same horizon.
+  > 我们头顶同一片天空，但眼中的地平线却各不相同。
 
 ```
