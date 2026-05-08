@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-07已更新 
+2026-05-08已更新 
 ```
 * 金山词霸
-  > Wild flowers on the ridge quietly weave a colorful blanket.
-  > 田埂上的野花，悄悄铺成彩毯。
+  > I’ve nothing to do today but smile.
+  > 你今天唯一能做的事就是微笑。
 
 * 扇贝单词
-  > Without the dark there isn't light. Without the pain there is no relief.
-  > 没有黑暗，也就没有光明。没有痛苦，也就没有痛苦的缓解。
+  > Respect for ourselves guides our morals, respect for others guides our manners.
+  > 对自己的尊重引导着我们的品德，对他人的尊重指导着我们的礼仪。
 
 * 有道词典
-  > We all live under the same sky, but we don't all have the same horizon.
-  > 我们头顶同一片天空，但眼中的地平线却各不相同。
+  > Life is a game in which the player must appear ridiculous.
+  > 人生就是一场游戏，所有玩家都必须表现得很荒唐。
 
 ```
