@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-08已更新 
+2026-05-09已更新 
 ```
 * 金山词霸
-  > I’ve nothing to do today but smile.
-  > 你今天唯一能做的事就是微笑。
+  > You can, you should, and if you’re brave, you will.
+  > 你可以，你应该，若你勇敢，你会做到。
 
 * 扇贝单词
-  > Respect for ourselves guides our morals, respect for others guides our manners.
-  > 对自己的尊重引导着我们的品德，对他人的尊重指导着我们的礼仪。
+  > One can never consent to creep when one feels an impulse to soar.
+  > 一个人内心有了飞翔的冲动，就不会满足于在地上匍匐。
 
 * 有道词典
-  > Life is a game in which the player must appear ridiculous.
-  > 人生就是一场游戏，所有玩家都必须表现得很荒唐。
+  > It's not who we are underneath, but what we do that defines us.
+  > 决定我们是谁的，不是我们的内在本性，而是我们的所作所为。
 
 ```
