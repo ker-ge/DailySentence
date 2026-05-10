@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-09已更新 
+2026-05-10已更新 
 ```
 * 金山词霸
-  > You can, you should, and if you’re brave, you will.
-  > 你可以，你应该，若你勇敢，你会做到。
+  > A mother's love blows like the May wind, soft and long.
+  > 母亲的爱像五月的风，温柔而绵长。
 
 * 扇贝单词
-  > One can never consent to creep when one feels an impulse to soar.
-  > 一个人内心有了飞翔的冲动，就不会满足于在地上匍匐。
+  > Do not look for happiness outside yourself. The awakened seek happiness inside.
+  > 不要向外寻找快乐，开悟之人在内心寻找幸福。
 
 * 有道词典
-  > It's not who we are underneath, but what we do that defines us.
-  > 决定我们是谁的，不是我们的内在本性，而是我们的所作所为。
+  > Life began with waking up and loving my mother's face.
+  > 生命始于醒来之时，始于爱上母亲的面容。
 
 ```
