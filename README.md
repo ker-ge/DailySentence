@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-10已更新 
+2026-05-11已更新 
 ```
 * 金山词霸
-  > A mother's love blows like the May wind, soft and long.
-  > 母亲的爱像五月的风，温柔而绵长。
+  > The calendar turns, and time quietly flows forward.
+  > 日历翻动，时间静静流淌向前。
 
 * 扇贝单词
-  > Do not look for happiness outside yourself. The awakened seek happiness inside.
-  > 不要向外寻找快乐，开悟之人在内心寻找幸福。
+  > Knowledge will give you power, but character respect.
+  > 知识会带给你力量，而品格会带给你他人的尊重。
 
 * 有道词典
-  > Life began with waking up and loving my mother's face.
-  > 生命始于醒来之时，始于爱上母亲的面容。
+  > Send me the words 'Goodnight' to put under my pillow.
+  > 请在临睡前向我道声“晚安”，我要把它放在我的枕头下面。
 
 ```
