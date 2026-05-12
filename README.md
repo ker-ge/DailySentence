@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-11已更新 
+2026-05-12已更新 
 ```
 * 金山词霸
-  > The calendar turns, and time quietly flows forward.
-  > 日历翻动，时间静静流淌向前。
+  > A soft breeze brings the scent of locust flowers, sweetening the way home.
+  > 微风送来槐花香，甜了归途。
 
 * 扇贝单词
-  > Knowledge will give you power, but character respect.
-  > 知识会带给你力量，而品格会带给你他人的尊重。
+  > First keep peace with yourself, then you can also bring peace to others.
+  > 首先让自己保持平和，然后你也可以给别人带来平和。
 
 * 有道词典
-  > Send me the words 'Goodnight' to put under my pillow.
-  > 请在临睡前向我道声“晚安”，我要把它放在我的枕头下面。
+  > You never know how strong you are until being strong is your only choice.
+  > 唯有身处低谷，你才会发现自己有多坚强。
 
 ```
