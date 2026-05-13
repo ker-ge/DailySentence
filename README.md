@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-12已更新 
+2026-05-13已更新 
 ```
 * 金山词霸
-  > A soft breeze brings the scent of locust flowers, sweetening the way home.
-  > 微风送来槐花香，甜了归途。
+  > Rain taps on the window, like a quiet whisper.
+  > 雨水轻轻敲着窗，像在说悄悄话。
 
 * 扇贝单词
-  > First keep peace with yourself, then you can also bring peace to others.
-  > 首先让自己保持平和，然后你也可以给别人带来平和。
+  > A multitude of small delights constitute happiness.
+  > 幸福就是许多小确幸的总和。
 
 * 有道词典
-  > You never know how strong you are until being strong is your only choice.
-  > 唯有身处低谷，你才会发现自己有多坚强。
+  > When all is lost, then all is found.
+  > 一切尽失时，一切将再临。
 
 ```
