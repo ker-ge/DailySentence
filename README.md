@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-13已更新 
+2026-05-14已更新 
 ```
 * 金山词霸
-  > Rain taps on the window, like a quiet whisper.
-  > 雨水轻轻敲着窗，像在说悄悄话。
+  > The wheat bows in the wind, making green waves.
+  > 麦田在风中泛起绿色的波浪。
 
 * 扇贝单词
-  > A multitude of small delights constitute happiness.
-  > 幸福就是许多小确幸的总和。
+  > Hope sees the invisible, feels the intangible, and achieves the impossible.
+  > 拥有希望可以看见他人不可见的，感受他人不能觉知的，并且实现那些不可能的事。
 
 * 有道词典
-  > When all is lost, then all is found.
-  > 一切尽失时，一切将再临。
+  > Youth is the gift of nature, but age is a work of art.
+  > 青春是自然的馈赠，而年岁是艺术的杰作。
 
 ```
