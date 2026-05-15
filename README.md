@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-14已更新 
+2026-05-15已更新 
 ```
 * 金山词霸
-  > The wheat bows in the wind, making green waves.
-  > 麦田在风中泛起绿色的波浪。
+  > Roses climb the fence, blooming pink dreams one by one.
+  > 蔷薇爬满篱笆，开出一朵朵粉色的梦。
 
 * 扇贝单词
-  > Hope sees the invisible, feels the intangible, and achieves the impossible.
-  > 拥有希望可以看见他人不可见的，感受他人不能觉知的，并且实现那些不可能的事。
+  > The only thing I knew how to do was to keep on keeping on like a bird that flew.
+  > 我唯一会的事情就是像只飞鸟一样继续前进。
 
 * 有道词典
-  > Youth is the gift of nature, but age is a work of art.
-  > 青春是自然的馈赠，而年岁是艺术的杰作。
+  > Trees are poems that the earth writes upon the sky.
+  > 树是大地写在天空的诗。
 
 ```
