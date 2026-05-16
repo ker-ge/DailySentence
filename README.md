@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-15已更新 
+2026-05-16已更新 
 ```
 * 金山词霸
-  > Roses climb the fence, blooming pink dreams one by one.
-  > 蔷薇爬满篱笆，开出一朵朵粉色的梦。
+  > I’ve found 10,000 ways that won’t work.
+  > 我找到了10,000种行不通的方法。
 
 * 扇贝单词
-  > The only thing I knew how to do was to keep on keeping on like a bird that flew.
-  > 我唯一会的事情就是像只飞鸟一样继续前进。
+  > There is more treasure in books than in all the pirate's loot on Treasure Island.
+  > 书中的宝藏比海盗在金银岛上的所有战利品还要多。
 
 * 有道词典
-  > Trees are poems that the earth writes upon the sky.
-  > 树是大地写在天空的诗。
+  > Good fences make good neighbors.
+  > 好篱笆造就好邻居。
 
 ```
