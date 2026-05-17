@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-16已更新 
+2026-05-17已更新 
 ```
 * 金山词霸
-  > I’ve found 10,000 ways that won’t work.
-  > 我找到了10,000种行不通的方法。
+  > Under the shade, ants work hard carrying summer.
+  > 树荫下，蚂蚁们忙着搬运夏天。
 
 * 扇贝单词
-  > There is more treasure in books than in all the pirate's loot on Treasure Island.
-  > 书中的宝藏比海盗在金银岛上的所有战利品还要多。
+  > Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+  > 感恩之心赋予过去意义，为当下带来平静，为未来创造愿景。
 
 * 有道词典
-  > Good fences make good neighbors.
-  > 好篱笆造就好邻居。
+  > No one is useless in this world who lightens the burdens of another.
+  > 在这个世界上，凡是能为他人减轻负担的人，都不是无用之辈。
 
 ```
