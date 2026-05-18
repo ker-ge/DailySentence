@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-17已更新 
+2026-05-18已更新 
 ```
 * 金山词霸
-  > Under the shade, ants work hard carrying summer.
-  > 树荫下，蚂蚁们忙着搬运夏天。
+  > Cherries turn red, like a shy girl's cheeks.
+  > 樱桃开始泛红，像少女害羞的脸颊。
 
 * 扇贝单词
-  > Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
-  > 感恩之心赋予过去意义，为当下带来平静，为未来创造愿景。
+  > One of the most sincere forms of respect is actually listening to what another has to say.
+  > 表达尊重最真诚的方式之一就是真正倾听别人说的话。
 
 * 有道词典
-  > No one is useless in this world who lightens the burdens of another.
-  > 在这个世界上，凡是能为他人减轻负担的人，都不是无用之辈。
+  > Suffering has been stronger than all other teaching.
+  > 痛苦比其他任何教训都更有力量。
 
 ```
