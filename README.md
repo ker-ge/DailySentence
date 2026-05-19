@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-18已更新 
+2026-05-19已更新 
 ```
 * 金山词霸
-  > Cherries turn red, like a shy girl's cheeks.
-  > 樱桃开始泛红，像少女害羞的脸颊。
+  > Lazy afternoon sun is good for half a book.
+  > 午后阳光慵懒，适合读半本书。
 
 * 扇贝单词
-  > One of the most sincere forms of respect is actually listening to what another has to say.
-  > 表达尊重最真诚的方式之一就是真正倾听别人说的话。
+  > If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.
+  > 你若思想美好，面容就会如阳光般灿烂，看上去永远可爱迷人。
 
 * 有道词典
-  > Suffering has been stronger than all other teaching.
-  > 痛苦比其他任何教训都更有力量。
+  > Wanting to be someone else is a waste of the person you are.
+  > 想要成为别人是对你自己的浪费。
 
 ```
