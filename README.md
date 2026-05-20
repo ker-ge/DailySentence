@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-19已更新 
+2026-05-20已更新 
 ```
 * 金山词霸
-  > Lazy afternoon sun is good for half a book.
-  > 午后阳光慵懒，适合读半本书。
+  > Light stretches longer, painting walls gold.
+  > 日光拉得更长，把墙壁染成金色。
 
 * 扇贝单词
-  > If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.
-  > 你若思想美好，面容就会如阳光般灿烂，看上去永远可爱迷人。
+  > True love comes quietly, without banners or flashing lights.
+  > 真爱都是悄然降临，既不旗幡招展，也不灯火辉煌。
 
 * 有道词典
-  > Wanting to be someone else is a waste of the person you are.
-  > 想要成为别人是对你自己的浪费。
+  > The sun is new each day.
+  > 太阳每天都是新的。
 
 ```
