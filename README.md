@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-20已更新 
+2026-05-21已更新 
 ```
 * 金山词霸
-  > Light stretches longer, painting walls gold.
-  > 日光拉得更长，把墙壁染成金色。
+  > Wheat grains grow full; the rain comes more often.
+  > 麦粒渐满，雨水增多。
 
 * 扇贝单词
-  > True love comes quietly, without banners or flashing lights.
-  > 真爱都是悄然降临，既不旗幡招展，也不灯火辉煌。
+  > A great obstacle to happiness is to expect too much happiness.
+  > 获得幸福的一大障碍是对幸福期望太高。
 
 * 有道词典
-  > The sun is new each day.
-  > 太阳每天都是新的。
+  > Let life be beautiful like summer flowers and death like autumn leaves.
+  > 使生如夏花之绚烂，死如秋叶之静美。
 
 ```
