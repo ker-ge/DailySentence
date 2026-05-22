@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-21已更新 
+2026-05-22已更新 
 ```
 * 金山词霸
-  > Wheat grains grow full; the rain comes more often.
-  > 麦粒渐满，雨水增多。
+  > A dragonfly stands on a lotus tip, still like a guard.
+  > 蜻蜓立在荷尖上，一动不动像个哨兵。
 
 * 扇贝单词
-  > A great obstacle to happiness is to expect too much happiness.
-  > 获得幸福的一大障碍是对幸福期望太高。
+  > The verse of Qu Ping shines as bright as sun and moon, while palaces of Chu vanish like dreams at noon.
+  > 屈平辞赋悬日月，楚王台榭空山丘。
 
 * 有道词典
-  > Let life be beautiful like summer flowers and death like autumn leaves.
-  > 使生如夏花之绚烂，死如秋叶之静美。
+  > A day without laughter is a day wasted.
+  > 没有笑声的一天，就是虚度的一天。
 
 ```
