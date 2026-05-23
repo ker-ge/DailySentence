@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-22已更新 
+2026-05-23已更新 
 ```
 * 金山词霸
-  > A dragonfly stands on a lotus tip, still like a guard.
-  > 蜻蜓立在荷尖上，一动不动像个哨兵。
+  > Each of us is more than our worst mistake.
+  > 我们每个人都超越了自己最糟的错误。
 
 * 扇贝单词
-  > The verse of Qu Ping shines as bright as sun and moon, while palaces of Chu vanish like dreams at noon.
-  > 屈平辞赋悬日月，楚王台榭空山丘。
+  > The two things in life you are in total control over are your attitude and your effort.
+  > 生活中你可以全权掌控的两件事：你的态度和你付出的努力。
 
 * 有道词典
-  > A day without laughter is a day wasted.
-  > 没有笑声的一天，就是虚度的一天。
+  > The great tragedy of life is not that men perish, but that they cease to love.
+  > 人生最大的悲剧，不是人终有一死，而是人终有一日不再去爱。
 
 ```
