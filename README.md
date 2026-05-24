@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-23已更新 
+2026-05-24已更新 
 ```
 * 金山词霸
-  > Each of us is more than our worst mistake.
-  > 我们每个人都超越了自己最糟的错误。
+  > After rain, a rainbow bridges the sky and the earth.
+  > 雨后彩虹像一座桥，连接天空和大地。
 
 * 扇贝单词
-  > The two things in life you are in total control over are your attitude and your effort.
-  > 生活中你可以全权掌控的两件事：你的态度和你付出的努力。
+  > True happiness is not attained through self-gratification, but through fidelity to a worthy purpose.
+  > 真正的幸福不是通过自我满足获得的，而是来自于对有价值目标的忠诚。
 
 * 有道词典
-  > The great tragedy of life is not that men perish, but that they cease to love.
-  > 人生最大的悲剧，不是人终有一死，而是人终有一日不再去爱。
+  > The only limit to our realization of tomorrow will be doubts.
+  > 实现明天理想的唯一障碍，就是今日的疑虑。
 
 ```
