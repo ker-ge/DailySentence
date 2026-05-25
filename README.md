@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-24已更新 
+2026-05-25已更新 
 ```
 * 金山词霸
-  > After rain, a rainbow bridges the sky and the earth.
-  > 雨后彩虹像一座桥，连接天空和大地。
+  > Clouds drift like thoughts, light and slow.
+  > 云如思绪，轻轻缓缓地飘。
 
 * 扇贝单词
-  > True happiness is not attained through self-gratification, but through fidelity to a worthy purpose.
-  > 真正的幸福不是通过自我满足获得的，而是来自于对有价值目标的忠诚。
+  > Love is just a word until someone comes along and gives it meaning.
+  > 爱不过是一个词而已，直到有一个人来到你面前，赋予它意义。
 
 * 有道词典
-  > The only limit to our realization of tomorrow will be doubts.
-  > 实现明天理想的唯一障碍，就是今日的疑虑。
+  > Without music, life would be a mistake and a meaningless, dreary existence.
+  > 没有音乐，生命将是一个错误，一段毫无意义的灰暗岁月。
 
 ```
