@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-25已更新 
+2026-05-26已更新 
 ```
 * 金山词霸
-  > Clouds drift like thoughts, light and slow.
-  > 云如思绪，轻轻缓缓地飘。
+  > The sound of a cut watermelon is summer's sweetest hello.
+  > 西瓜切开的声音，是夏天最动听的问候。
 
 * 扇贝单词
-  > Love is just a word until someone comes along and gives it meaning.
-  > 爱不过是一个词而已，直到有一个人来到你面前，赋予它意义。
+  > Green was the silence, wet was the light, the month of June trembled like a butterfly.
+  > 寂静生碧色，黎明露华浓，六月似蝴蝶在颤动。
 
 * 有道词典
-  > Without music, life would be a mistake and a meaningless, dreary existence.
-  > 没有音乐，生命将是一个错误，一段毫无意义的灰暗岁月。
+  > The summer morning was a soft pink bubble resting on the green pasture.
+  > 夏日的清晨，宛如一枚粉色的柔软气泡，停歇在绿色牧场上。
 
 ```
