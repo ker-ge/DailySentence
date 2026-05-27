@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-26已更新 
+2026-05-27已更新 
 ```
 * 金山词霸
-  > The sound of a cut watermelon is summer's sweetest hello.
-  > 西瓜切开的声音，是夏天最动听的问候。
+  > The wind carries a softer, greener scent.
+  > 风捎来更柔软、更青翠的气息。
 
 * 扇贝单词
-  > Green was the silence, wet was the light, the month of June trembled like a butterfly.
-  > 寂静生碧色，黎明露华浓，六月似蝴蝶在颤动。
+  > Storms make trees take deeper roots.
+  > 暴风雨使得树木的根扎得更深。
 
 * 有道词典
-  > The summer morning was a soft pink bubble resting on the green pasture.
-  > 夏日的清晨，宛如一枚粉色的柔软气泡，停歇在绿色牧场上。
+  > I deeply and completely love and accept myself just as I am.
+  > 我深深地、完全地爱并接受真实的自己。
 
 ```
