@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-27已更新 
+2026-05-28已更新 
 ```
 * 金山词霸
-  > The wind carries a softer, greener scent.
-  > 风捎来更柔软、更青翠的气息。
+  > By the pond, kids splash water with bare feet.
+  > 池塘边，孩子们光着脚丫踩水花。
 
 * 扇贝单词
-  > Storms make trees take deeper roots.
-  > 暴风雨使得树木的根扎得更深。
+  > Passion makes the world go round. Love just makes it a safer place.
+  > 热情使世界转动。爱让它成为一个更安全的地方。
 
 * 有道词典
-  > I deeply and completely love and accept myself just as I am.
-  > 我深深地、完全地爱并接受真实的自己。
+  > Let your life come amongst them like a flame of light, unflickering and pure.
+  > 让你的生命如同一束纯净而稳定的光焰，照入人群之中。
 
 ```
