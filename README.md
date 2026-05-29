@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-28已更新 
+2026-05-29已更新 
 ```
 * 金山词霸
-  > By the pond, kids splash water with bare feet.
-  > 池塘边，孩子们光着脚丫踩水花。
+  > Gardenias bloom, turning the yard white with scent.
+  > 栀子花开了，整个院子都是白色的香气。
 
 * 扇贝单词
-  > Passion makes the world go round. Love just makes it a safer place.
-  > 热情使世界转动。爱让它成为一个更安全的地方。
+  > It is very simple to be happy, but it is very difficult to be simple.
+  > 快乐很简单，但要做到简单却很困难。
 
 * 有道词典
-  > Let your life come amongst them like a flame of light, unflickering and pure.
-  > 让你的生命如同一束纯净而稳定的光焰，照入人群之中。
+  > Time is the most valuable thing a person can spend.
+  > 时间是一个人所能花费的最宝贵的东西。
 
 ```
