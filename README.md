@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-29已更新 
+2026-05-30已更新 
 ```
 * 金山词霸
-  > Gardenias bloom, turning the yard white with scent.
-  > 栀子花开了，整个院子都是白色的香气。
+  > No one is useless who lightens another’s burden.
+  > 减轻他人负担的人绝非无用。
 
 * 扇贝单词
-  > It is very simple to be happy, but it is very difficult to be simple.
-  > 快乐很简单，但要做到简单却很困难。
+  > If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+  > 如果你一生都在等待暴风雨，你就永远不会享受阳光。
 
 * 有道词典
-  > Time is the most valuable thing a person can spend.
-  > 时间是一个人所能花费的最宝贵的东西。
+  > Keep your face always toward the sunshine, and shadows will fall behind you.
+  > 始终面朝阳光，那样阴影自会退至你身后。
 
 ```
