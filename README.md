@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-30已更新 
+2026-05-31已更新 
 ```
 * 金山词霸
-  > No one is useless who lightens another’s burden.
-  > 减轻他人负担的人绝非无用。
+  > Light lingers, reluctant to say goodbye.
+  > 光线流连着，不舍得说再见。
 
 * 扇贝单词
-  > If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
-  > 如果你一生都在等待暴风雨，你就永远不会享受阳光。
+  > It is one thing to be clever and another to be wise.
+  > 聪明和智慧是两码事。
 
 * 有道词典
-  > Keep your face always toward the sunshine, and shadows will fall behind you.
-  > 始终面朝阳光，那样阴影自会退至你身后。
+  > Recharge your body and mind daily to stay full of vitality and make steady exam progress.
+  > 每日为身心充电，备考路上能量满格，步步飞升。
 
 ```
