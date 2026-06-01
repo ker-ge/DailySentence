@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-05-31已更新 
+2026-06-01已更新 
 ```
 * 金山词霸
-  > Light lingers, reluctant to say goodbye.
-  > 光线流连着，不舍得说再见。
+  > Don't grow up today. Be a happy kid for one day.
+  > 今天不长大，做一天快乐的小孩。
 
 * 扇贝单词
-  > It is one thing to be clever and another to be wise.
-  > 聪明和智慧是两码事。
+  > We are never really happy until we try to brighten the lives of others.
+  > 除非我们努力照亮别人的生活，否则我们永远不会真正快乐。
 
 * 有道词典
-  > Recharge your body and mind daily to stay full of vitality and make steady exam progress.
-  > 每日为身心充电，备考路上能量满格，步步飞升。
+  > What makes life so beautiful is our hidden sincerity and childlike innocence.
+  > 使生活如此美丽的，是我们藏起来的真诚和童心。
 
 ```
