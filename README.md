@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-01已更新 
+2026-06-02已更新 
 ```
 * 金山词霸
-  > Don't grow up today. Be a happy kid for one day.
-  > 今天不长大，做一天快乐的小孩。
+  > Sunlight pools where shadows used to live.
+  > 阳光在曾是阴影的地方积成了水洼。
 
 * 扇贝单词
-  > We are never really happy until we try to brighten the lives of others.
-  > 除非我们努力照亮别人的生活，否则我们永远不会真正快乐。
+  > Wherever there is a human being, there is an opportunity for a kindness.
+  > 哪里有人，哪里就有良善的机会。
 
 * 有道词典
-  > What makes life so beautiful is our hidden sincerity and childlike innocence.
-  > 使生活如此美丽的，是我们藏起来的真诚和童心。
+  > To plant a garden is to believe in tomorrow and a greener future
+  > 种下一座花园，就是选择相信明天，相信一个更加生机盎然的未来。
 
 ```
