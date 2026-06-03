@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-02已更新 
+2026-06-03已更新 
 ```
 * 金山词霸
-  > Sunlight pools where shadows used to live.
-  > 阳光在曾是阴影的地方积成了水洼。
+  > The pendulum sways, counting time's soft joints.
+  > 钟摆摇晃，数着时间柔软的骨节。
 
 * 扇贝单词
-  > Wherever there is a human being, there is an opportunity for a kindness.
-  > 哪里有人，哪里就有良善的机会。
+  > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
+  > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > To plant a garden is to believe in tomorrow and a greener future
-  > 种下一座花园，就是选择相信明天，相信一个更加生机盎然的未来。
+  > For me, it's enough to be sure that you and I exist at this moment.
+  > 对我而言，只要确知你我此刻共同存在着，便已足够。
 
 ```
