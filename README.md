@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-03已更新 
+2026-06-04已更新 
 ```
 * 金山词霸
-  > The pendulum sways, counting time's soft joints.
-  > 钟摆摇晃，数着时间柔软的骨节。
+  > Between the unread pages dwells the silence of a long hallway.
+  > 未读完的书页间，栖居着寂静的走廊。
 
 * 扇贝单词
   > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
   > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > For me, it's enough to be sure that you and I exist at this moment.
-  > 对我而言，只要确知你我此刻共同存在着，便已足够。
+  > It was June, and the world smelled of roses and sweet summer air.
+  > 时值六月，天地间满是玫瑰的幽香与甘甜的夏风。
 
 ```
