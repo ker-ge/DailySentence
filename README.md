@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-04已更新 
+2026-06-05已更新 
 ```
 * 金山词霸
-  > Between the unread pages dwells the silence of a long hallway.
-  > 未读完的书页间，栖居着寂静的走廊。
+  > Wheat awns pierce the dawn. Farmers bend to pick up gold.
+  > 麦芒刺破晨光，农人弯腰拾起金黄。
 
 * 扇贝单词
   > This universe is not outside of you. Look inside yourself; everything that you want, you already are.
   > 宇宙并不在你之外。看看自己的内心吧。你想要的一切，都已尽在你身。
 
 * 有道词典
-  > It was June, and the world smelled of roses and sweet summer air.
-  > 时值六月，天地间满是玫瑰的幽香与甘甜的夏风。
+  > When the soul lies down in that grass the world is too full to talk about.
+  > 当灵魂在那片草地上躺下，世界便丰盈得无法言说。
 
 ```
