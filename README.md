@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-06已更新 
+2026-06-07已更新 
 ```
 * 金山词霸
-  > Trust time. Good things grow slowly.
-  > 相信时间。美好的事物需要慢慢生长。
+  > You are stronger than you imagine.
+  > 你比自己想象的更强大。
 
 * 扇贝单词
-  > Neutral men are the devil's allies.
-  > 中立的人是魔鬼的盟友。
+  > Culture makes all men gentle.
+  > 文化使人温文尔雅。
 
 * 有道词典
-  > The real difficulty is to overcome how you think about yourself.
-  > 真正的困难在于克服你对自己的看法。
+  > A diamond is a chunk of coal that did well under pressure.
+  > 钻石不过是一块在压力下表现出色的煤炭。
 
 ```
