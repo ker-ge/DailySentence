@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-07已更新 
+2026-06-08已更新 
 ```
 * 金山词霸
-  > You are stronger than you imagine.
-  > 你比自己想象的更强大。
+  > Go forth—the outcome will give you the answer.
+  > 去做吧，结果会给你答案。
 
 * 扇贝单词
-  > Culture makes all men gentle.
-  > 文化使人温文尔雅。
+  > Good judgment comes from experience, and a lot of that comes from bad judgment.
+  > 正确的决断源自经验，而大部分经验源自错误的决断。
 
 * 有道词典
-  > A diamond is a chunk of coal that did well under pressure.
-  > 钻石不过是一块在压力下表现出色的煤炭。
+  > The key of joy is disobedience.
+  > 快乐的真谛是不顺从。
 
 ```
