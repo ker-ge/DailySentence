@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-08已更新 
+2026-06-09已更新 
 ```
 * 金山词霸
-  > Go forth—the outcome will give you the answer.
-  > 去做吧，结果会给你答案。
+  > Memory sometimes short-circuits.
+  > 记忆有时会短路。
 
 * 扇贝单词
-  > Good judgment comes from experience, and a lot of that comes from bad judgment.
-  > 正确的决断源自经验，而大部分经验源自错误的决断。
+  > One benefit of Summer was that each day we had more light to read by.
+  > 夏天的好处之一便是我们有更多的阳光来阅读。
 
 * 有道词典
-  > The key of joy is disobedience.
-  > 快乐的真谛是不顺从。
+  > It is no use crying over spilt milk.
+  > 覆水难收。
 
 ```
