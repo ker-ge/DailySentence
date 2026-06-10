@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-09已更新 
+2026-06-10已更新 
 ```
 * 金山词霸
-  > Memory sometimes short-circuits.
-  > 记忆有时会短路。
+  > Shadows are sketches made of light.
+  > 影子是光做的素描。
 
 * 扇贝单词
-  > One benefit of Summer was that each day we had more light to read by.
-  > 夏天的好处之一便是我们有更多的阳光来阅读。
+  > Don't go through life, grow through life.
+  > 不要此生匆匆过，但求每日都成长。
 
 * 有道词典
-  > It is no use crying over spilt milk.
-  > 覆水难收。
+  > Only in the darkness can you see the stars.
+  > 只有在黑暗中，你才能看见星星。
 
 ```
