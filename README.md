@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-10已更新 
+2026-06-11已更新 
 ```
 * 金山词霸
-  > Shadows are sketches made of light.
-  > 影子是光做的素描。
+  > The door closed on the story just now.
+  > 门合上了刚才的故事。
 
 * 扇贝单词
-  > Don't go through life, grow through life.
-  > 不要此生匆匆过，但求每日都成长。
+  > The quality, not the longevity, of one's life is what is important.
+  > 人重要的并非生命的长度，而是生命的质量。
 
 * 有道词典
-  > Only in the darkness can you see the stars.
-  > 只有在黑暗中，你才能看见星星。
+  > You miss one hundred percent of the shots you don't take.
+  > 你不去尝试的每一次机会，失败率是百分之百。
 
 ```
