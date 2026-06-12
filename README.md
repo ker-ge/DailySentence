@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-11已更新 
+2026-06-12已更新 
 ```
 * 金山词霸
-  > The door closed on the story just now.
-  > 门合上了刚才的故事。
+  > The scent of green lime cuts through the stifling air.
+  > 青柠的气味切开沉闷。
 
 * 扇贝单词
-  > The quality, not the longevity, of one's life is what is important.
-  > 人重要的并非生命的长度，而是生命的质量。
+  > Music is well said to be the speech of angels.
+  > 音乐被赞为天使的语言。
 
 * 有道词典
-  > You miss one hundred percent of the shots you don't take.
-  > 你不去尝试的每一次机会，失败率是百分之百。
+  > The truth is rarely pure and never simple.
+  > 真相很少是纯粹的，也从来不是简单的。
 
 ```
