@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-12已更新 
+2026-06-13已更新 
 ```
 * 金山词霸
-  > The scent of green lime cuts through the stifling air.
-  > 青柠的气味切开沉闷。
+  > You miss 100% of the shots you don’t take.
+  > 你不射门，就永远得不了分。
 
 * 扇贝单词
-  > Music is well said to be the speech of angels.
-  > 音乐被赞为天使的语言。
+  > Weaknesses are just strengths in the wrong environment.
+  > 弱点不过是优点处在了错误的环境中。
 
 * 有道词典
-  > The truth is rarely pure and never simple.
-  > 真相很少是纯粹的，也从来不是简单的。
+  > It is better to light a candle than to curse the darkness around you.
+  > 与其诅咒周围的黑暗，不如点亮一支蜡烛。
 
 ```
