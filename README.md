@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-13已更新 
+2026-06-14已更新 
 ```
 * 金山词霸
-  > You miss 100% of the shots you don’t take.
-  > 你不射门，就永远得不了分。
+  > The eraser wears itself away.
+  > 橡皮擦消耗着自己。
 
 * 扇贝单词
-  > Weaknesses are just strengths in the wrong environment.
-  > 弱点不过是优点处在了错误的环境中。
+  > If you try to be anyone but yourself, you will fail; if you are not true to your own heart, you will fail.
+  > 如果你试图成为别人而不是你自己，你将会失败；如果你不忠于自己的内心，你也会失败。
 
 * 有道词典
-  > It is better to light a candle than to curse the darkness around you.
-  > 与其诅咒周围的黑暗，不如点亮一支蜡烛。
+  > It's not the load that breaks you down, it's the way you carry it every day.
+  > 压垮你的不是负担本身，而是你每天背负它的方式。
 
 ```
