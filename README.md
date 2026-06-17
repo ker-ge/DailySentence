@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-16已更新 
+2026-06-17已更新 
 ```
 * 金山词霸
-  > Not seeking fleeting acclaim, But only that the echoes linger on.
-  > 不争一时之响，只求余音绵长。
+  > Dark clouds fringed with gold are where the light struggles through.
+  > 乌云镶着金边，是光在努力穿透。
 
 * 扇贝单词
-  > That it will never come again is what makes life sweet.
-  > 生活不会重来，这正是它美好的原因。
+  > Maybe that's what life is: a wink of the eye and winking stars.
+  > 或许这就是人生：转瞬即逝，像闪烁的繁星。
 
 * 有道词典
-  > Beauty is how you feel inside, and it reflects in your eyes, it is not physical.
-  > 美是你内心的感受，它映照在你的眼睛里，而非取决于外表。
+  > The mind is not a vessel to be filled, but a fire to be kindled.
+  > 心智不是一个需要被填满的容器，而是一团有待被点燃的火焰。
 
 ```
