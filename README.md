@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-17已更新 
+2026-06-18已更新 
 ```
 * 金山词霸
-  > Dark clouds fringed with gold are where the light struggles through.
-  > 乌云镶着金边，是光在努力穿透。
+  > One smile can warm another person's heart.
+  > 一个微笑，可以点燃另一颗心。
 
 * 扇贝单词
-  > Maybe that's what life is: a wink of the eye and winking stars.
-  > 或许这就是人生：转瞬即逝，像闪烁的繁星。
+  > Nature never did betray a heart that loved her.
+  > 大自然从不离弃一颗爱她的心。
 
 * 有道词典
-  > The mind is not a vessel to be filled, but a fire to be kindled.
-  > 心智不是一个需要被填满的容器，而是一团有待被点燃的火焰。
+  > I am not one and simple, but complex and many, do not ask me to be consistent.
+  > 我不是单一而简单的，而是复杂而多面的，不要要求我始终如一。
 
 ```
