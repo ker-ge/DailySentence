@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-18已更新 
+2026-06-19已更新 
 ```
 * 金山词霸
-  > One smile can warm another person's heart.
-  > 一个微笑，可以点燃另一颗心。
+  > Reed leaves wrap rice scent, and also a thousand years of longing.
+  > 粽叶裹着米香，也裹着千年的想念。
 
 * 扇贝单词
-  > Nature never did betray a heart that loved her.
-  > 大自然从不离弃一颗爱她的心。
+  > The only thing that matters is the everlasting present.
+  > 唯一重要的事情就是永恒的现在。
 
 * 有道词典
-  > I am not one and simple, but complex and many, do not ask me to be consistent.
-  > 我不是单一而简单的，而是复杂而多面的，不要要求我始终如一。
+  > He walked into the river with sorrow, and left behind words that outlived every empire.
+  > 他带着悲伤走入江水，留下了比任何帝国都长久的文字。
 
 ```
