@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-19已更新 
+2026-06-20已更新 
 ```
 * 金山词霸
-  > Reed leaves wrap rice scent, and also a thousand years of longing.
-  > 粽叶裹着米香，也裹着千年的想念。
+  > Too many of us are not living our dreams because we are living our fears.
+  > 我们太多人没有实现梦想，因为我们活在恐惧中。
 
 * 扇贝单词
-  > The only thing that matters is the everlasting present.
-  > 唯一重要的事情就是永恒的现在。
+  > With the new day comes new strength and new thoughts.
+  > 全新的一天带给你全新的力量和思想。
 
 * 有道词典
-  > He walked into the river with sorrow, and left behind words that outlived every empire.
-  > 他带着悲伤走入江水，留下了比任何帝国都长久的文字。
+  > We never really grow up, we only learn how to act in public while staying young inside.
+  > 我们从未真正长大，只是学会了如何在人前表演成熟，内心依然年少。
 
 ```
