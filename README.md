@@ -19,15 +19,15 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-20已更新 
+2026-06-21已更新 
 ```
 * 金山词霸
-  > Too many of us are not living our dreams because we are living our fears.
-  > 我们太多人没有实现梦想，因为我们活在恐惧中。
+  > Cicada songs fall from treetops, splashing heat waves on the ground.
+  > 蝉声从树梢落下，砸出一地热浪。
 
 * 扇贝单词
-  > With the new day comes new strength and new thoughts.
-  > 全新的一天带给你全新的力量和思想。
+  > Attention is vitality. It connects you with others. It makes you eager. Stay eager.
+  > 专注带来活力。它让你和他人联结起来。它让你求知若渴、步履不停。
 
 * 有道词典
   > We never really grow up, we only learn how to act in public while staying young inside.
