@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-22已更新 
+2026-06-23已更新 
 ```
 * 金山词霸
-  > The ocean's vastness lies in embracing countless ordinary rivers.
-  > 大海的宽广，在于接纳无数江河的平凡。
+  > You needn't be born radiant, but you can keep shining.
+  > 你不必天生闪耀，但可以持续发光。
 
 * 扇贝单词
-  > To free us from the expectations of others, to give us back to ourselves—there lies the great, singular power of self-respect.
-  > 将自己从他人的期待中解放出来，把自己还给自己——这样你就获得了最为伟大、独特的自尊。
+  > My big fish must be somewhere.
+  > 一定有属于我的大鱼在什么地方等着。
 
 * 有道词典
-  > A smooth sea never made a skilled sailor.
-  > 平静的海洋造就不了熟练的水手。
+  > If you are lonely when you are alone, you are in bad company with yourself.
+  > 如果你独处时感到孤独，说明你和自己相处得不好。
 
 ```
