@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-23已更新 
+2026-06-24已更新 
 ```
 * 金山词霸
-  > You needn't be born radiant, but you can keep shining.
-  > 你不必天生闪耀，但可以持续发光。
+  > Silence grows in the forest.
+  > 寂静在树林里生长。
 
 * 扇贝单词
-  > My big fish must be somewhere.
-  > 一定有属于我的大鱼在什么地方等着。
+  > There are no seven wonders of the world in the eyes of a child. There are seven million.
+  > 在孩子们眼中，这世上不是只有七大奇迹，而是有七百万种奇迹。
 
 * 有道词典
-  > If you are lonely when you are alone, you are in bad company with yourself.
-  > 如果你独处时感到孤独，说明你和自己相处得不好。
+  > The only true wisdom is in knowing that you know nothing at all.
+  > 唯一真正的智慧，在于知道自己一无所知。
 
 ```
