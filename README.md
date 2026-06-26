@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-25已更新 
+2026-06-26已更新 
 ```
 * 金山词霸
-  > Dewdrops await the dawn upon blades of grass.
-  > 露珠在草叶上等待黎明。
+  > Longing is a letter without an address.
+  > 思念是没有地址的信。
 
 * 扇贝单词
-  > The real difficulty is to overcome how you think about yourself.
-  > 真正的困难是克服你对自己的看法。
+  > The only limit to the height of your achievements is the reach of your dreams and your willingness to work hard for them.
+  > 唯一限制你成就高度的，是你梦想的限度，以及为之努力的意愿。
 
 * 有道词典
-  > Enjoy the little things in life, for one day you may look back and realize they were big.
-  > 享受生活中的小事吧，因为有一天你回头看时会发现，它们其实很重大。
+  > To love and be loved is to feel the sun from both sides.
+  > 去爱且被爱，就是从两面都感受到阳光的温暖。
 
 ```
