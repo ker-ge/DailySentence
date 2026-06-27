@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-26已更新 
+2026-06-27已更新 
 ```
 * 金山词霸
-  > Longing is a letter without an address.
-  > 思念是没有地址的信。
+  > Great people do things before they are ready.
+  > 伟大的人在准备好前就行动。
 
 * 扇贝单词
-  > The only limit to the height of your achievements is the reach of your dreams and your willingness to work hard for them.
-  > 唯一限制你成就高度的，是你梦想的限度，以及为之努力的意愿。
+  > A loving heart is the beginning of all knowledge.
+  > 一颗充满热爱的心是一切知识的起源。
 
 * 有道词典
-  > To love and be loved is to feel the sun from both sides.
-  > 去爱且被爱，就是从两面都感受到阳光的温暖。
+  > You never really understand a person until you walk in their shoes.
+  > 你永远无法真正理解一个人，除非你穿上他的鞋走一遭。
 
 ```
