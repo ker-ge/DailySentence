@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-27已更新 
+2026-06-28已更新 
 ```
 * 金山词霸
-  > Great people do things before they are ready.
-  > 伟大的人在准备好前就行动。
+  > Screen light illuminates a face deep in focus.
+  > 屏幕的光照亮了专注的脸。
 
 * 扇贝单词
-  > A loving heart is the beginning of all knowledge.
-  > 一颗充满热爱的心是一切知识的起源。
+  > You think you know someone. But mostly you just know what you want to know.
+  > 你以为你很了解某个人，但大多时候你了解的只是你想了解的部分。
 
 * 有道词典
-  > You never really understand a person until you walk in their shoes.
-  > 你永远无法真正理解一个人，除非你穿上他的鞋走一遭。
+  > Flowers don't tell, they simply show, and that is enough for the world.
+  > 花不诉说，它们只是绽放，这对世界来说已经足够。
 
 ```
