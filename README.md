@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-28已更新 
+2026-06-29已更新 
 ```
 * 金山词霸
-  > Screen light illuminates a face deep in focus.
-  > 屏幕的光照亮了专注的脸。
+  > The radio crackles with hoarse memories.
+  > 收音机发出沙哑的回忆。
 
 * 扇贝单词
-  > You think you know someone. But mostly you just know what you want to know.
-  > 你以为你很了解某个人，但大多时候你了解的只是你想了解的部分。
+  > We laughed and kept saying "see you soon", but inside we both knew we'd never see each other again.
+  > 我们笑着说再见，但我们都心知肚明，再见遥遥无期。
 
 * 有道词典
-  > Flowers don't tell, they simply show, and that is enough for the world.
-  > 花不诉说，它们只是绽放，这对世界来说已经足够。
+  > We need never be ashamed of our tears.
+  > 我们永远不必为自己的眼泪感到羞愧。
 
 ```
