@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-29已更新 
+2026-06-30已更新 
 ```
 * 金山词霸
-  > The radio crackles with hoarse memories.
-  > 收音机发出沙哑的回忆。
+  > Stamps are tickets to distant lands.
+  > 邮票是远方的门票。
 
 * 扇贝单词
-  > We laughed and kept saying "see you soon", but inside we both knew we'd never see each other again.
-  > 我们笑着说再见，但我们都心知肚明，再见遥遥无期。
+  > Adopting the right attitude can convert a negative stress into a positive one.
+  > 采取正确的态度可以将负面的压力转化为积极的动力。
 
 * 有道词典
-  > We need never be ashamed of our tears.
-  > 我们永远不必为自己的眼泪感到羞愧。
+  > The things we hide are the very things that keep us apart from others.
+  > 我们所隐藏的，恰恰是让我们与他人隔绝的东西。
 
 ```
