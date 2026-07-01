@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-06-30已更新 
+2026-07-01已更新 
 ```
 * 金山词霸
-  > Stamps are tickets to distant lands.
-  > 邮票是远方的门票。
+  > Focus on the present, not the past or future.
+  > 不念过往，不畏将来，专注当下。
 
 * 扇贝单词
-  > Adopting the right attitude can convert a negative stress into a positive one.
-  > 采取正确的态度可以将负面的压力转化为积极的动力。
+  > Kind words can be short and easy to speak, but their echoes are truly endless.
+  > 善良的话语或许很简短，很简单，但产生的回响却是无穷止尽。
 
 * 有道词典
-  > The things we hide are the very things that keep us apart from others.
-  > 我们所隐藏的，恰恰是让我们与他人隔绝的东西。
+  > Growth and comfort do not coexist, you must choose one or the other.
+  > 成长与舒适无法共存，你必须二择其一。
 
 ```
