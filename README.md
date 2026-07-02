@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-01已更新 
+2026-07-02已更新 
 ```
 * 金山词霸
-  > Focus on the present, not the past or future.
-  > 不念过往，不畏将来，专注当下。
+  > Every raindrop falls from the clouds above.
+  > 每一滴雨，都从云层里落下来。
 
 * 扇贝单词
-  > Kind words can be short and easy to speak, but their echoes are truly endless.
-  > 善良的话语或许很简短，很简单，但产生的回响却是无穷止尽。
+  > What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.
+  > 无论是你的过去，还是将来，与你的内在相比，都微不足道。
 
 * 有道词典
-  > Growth and comfort do not coexist, you must choose one or the other.
-  > 成长与舒适无法共存，你必须二择其一。
+  > What you seek is seeking you, trust that longing inside your heart.
+  > 你所寻找的，也在寻找你，相信内心那份渴望。
 
 ```
