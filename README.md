@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-02已更新 
+2026-07-03已更新 
 ```
 * 金山词霸
-  > Every raindrop falls from the clouds above.
-  > 每一滴雨，都从云层里落下来。
+  > Light bulbs are like fruits that light up the night.
+  > 灯泡像黑夜里结出的果实。
 
 * 扇贝单词
-  > What lies behind you and what lies in front of you, pales in comparison to what lies inside of you.
-  > 无论是你的过去，还是将来，与你的内在相比，都微不足道。
+  > Success is the sum of small efforts — repeated day in and day out.
+  > 成功就是日复一日那一点点小小努力的积累。
 
 * 有道词典
-  > What you seek is seeking you, trust that longing inside your heart.
-  > 你所寻找的，也在寻找你，相信内心那份渴望。
+  > Fortune favors the bold.
+  > 命运眷顾勇者。
 
 ```
