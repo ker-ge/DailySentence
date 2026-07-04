@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-03已更新 
+2026-07-04已更新 
 ```
 * 金山词霸
-  > Light bulbs are like fruits that light up the night.
-  > 灯泡像黑夜里结出的果实。
+  > Silence is the most perfect expression of scorn.
+  > 沉默是轻蔑最完美的表达。
 
 * 扇贝单词
-  > Success is the sum of small efforts — repeated day in and day out.
-  > 成功就是日复一日那一点点小小努力的积累。
+  > Climb mountains not so the world can see you, but so you can see the world.
+  > 爬上山顶并不是为了让世界看到你，而是为了让你看到整个世界。
 
 * 有道词典
-  > Fortune favors the bold.
-  > 命运眷顾勇者。
+  > Feelings are just visitors, let them come and go.
+  > 情绪不过是过客，任其来去便是。
 
 ```
