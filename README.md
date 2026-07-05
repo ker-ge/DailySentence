@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-04已更新 
+2026-07-05已更新 
 ```
 * 金山词霸
-  > Silence is the most perfect expression of scorn.
-  > 沉默是轻蔑最完美的表达。
+  > No matter how long the rain lasts, there will be a rainbow.
+  > 无论雨下多久，终见彩虹。
 
 * 扇贝单词
-  > Climb mountains not so the world can see you, but so you can see the world.
-  > 爬上山顶并不是为了让世界看到你，而是为了让你看到整个世界。
+  > Don't go through life; grow through life.
+  > 别只是过活，要通过生活获得成长。
 
 * 有道词典
-  > Feelings are just visitors, let them come and go.
-  > 情绪不过是过客，任其来去便是。
+  > People may forget what you said, but never how you made them feel.
+  > 人们会忘记你说了什么，但永远不会忘记你给他们的感受。
 
 ```
