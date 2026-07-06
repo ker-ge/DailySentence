@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-05已更新 
+2026-07-06已更新 
 ```
 * 金山词霸
-  > No matter how long the rain lasts, there will be a rainbow.
-  > 无论雨下多久，终见彩虹。
+  > Life is a question and how we live it is our answer.
+  > 生活是一个问题，我们如何生活是我们的答案。
 
 * 扇贝单词
-  > Don't go through life; grow through life.
-  > 别只是过活，要通过生活获得成长。
+  > Appreciation is a wonderful thing. It makes what is excellent in others belong to us as well.
+  > 欣赏是一件美妙的事，它让别人的优点也成为我们自己的。
 
 * 有道词典
-  > People may forget what you said, but never how you made them feel.
-  > 人们会忘记你说了什么，但永远不会忘记你给他们的感受。
+  > Freedom lies in being bold.
+  > 自由在于勇敢。
 
 ```
