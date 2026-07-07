@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-06已更新 
+2026-07-07已更新 
 ```
 * 金山词霸
-  > Life is a question and how we live it is our answer.
-  > 生活是一个问题，我们如何生活是我们的答案。
+  > Don’t burn bridges. A wide network provides support.
+  > 别自断后路，广阔人脉网提供前进资源。
 
 * 扇贝单词
-  > Appreciation is a wonderful thing. It makes what is excellent in others belong to us as well.
-  > 欣赏是一件美妙的事，它让别人的优点也成为我们自己的。
+  > Here's to a vacation of no regrets!
+  > 为无悔的假期干杯！
 
 * 有道词典
-  > Freedom lies in being bold.
-  > 自由在于勇敢。
+  > A still heart finds coolness even in midsummer heat.
+  > 心静自然凉，纵使身处盛夏酷暑之中。
 
 ```
