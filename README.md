@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-07已更新 
+2026-07-08已更新 
 ```
 * 金山词霸
-  > Don’t burn bridges. A wide network provides support.
-  > 别自断后路，广阔人脉网提供前进资源。
+  > All advantages aren't in running quickly, but in getting a head start.​
+  > 优势不在于跑得快，而在于起身早。
 
 * 扇贝单词
-  > Here's to a vacation of no regrets!
-  > 为无悔的假期干杯！
+  > Magic is believing in yourself; if you can do that, you can make anything happen.
+  > 相信自己是种魔法，能做到这一点，就可以实现任何事。
 
 * 有道词典
-  > A still heart finds coolness even in midsummer heat.
-  > 心静自然凉，纵使身处盛夏酷暑之中。
+  > A truth told with bad intent beats all the lies.
+  > 带着恶意说出的真相，伤害胜过所有的谎言。
 
 ```
