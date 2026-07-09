@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-08已更新 
+2026-07-09已更新 
 ```
 * 金山词霸
-  > All advantages aren't in running quickly, but in getting a head start.​
-  > 优势不在于跑得快，而在于起身早。
+  > Stay curious, and the world stays fresh.
+  > 保持好奇，世界永远新鲜。
 
 * 扇贝单词
-  > Magic is believing in yourself; if you can do that, you can make anything happen.
-  > 相信自己是种魔法，能做到这一点，就可以实现任何事。
+  > Happiness is not by chance, but by choice.
+  > 幸福靠的不是运气，而是选择。
 
 * 有道词典
-  > A truth told with bad intent beats all the lies.
-  > 带着恶意说出的真相，伤害胜过所有的谎言。
+  > The only way out is always through, never around.
+  > 唯一的出路永远是穿越，而非绕行。
 
 ```
