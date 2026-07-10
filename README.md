@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-09已更新 
+2026-07-10已更新 
 ```
 * 金山词霸
-  > Stay curious, and the world stays fresh.
-  > 保持好奇，世界永远新鲜。
+  > You are becoming the person you are meant to be.
+  > 你正在成为你该成为的人。
 
 * 扇贝单词
-  > Happiness is not by chance, but by choice.
-  > 幸福靠的不是运气，而是选择。
+  > If life throws you a few bad notes or vibrations, don't let them interrupt or alter your song.
+  > 即便生活给了你一些不和谐的音符，也别让它们破坏你的人生之歌。
 
 * 有道词典
-  > The only way out is always through, never around.
-  > 唯一的出路永远是穿越，而非绕行。
+  > The search itself is the reward, not the destination.
+  > 寻找本身就是回报，而非终点。
 
 ```
