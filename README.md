@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-10已更新 
+2026-07-11已更新 
 ```
 * 金山词霸
-  > You are becoming the person you are meant to be.
-  > 你正在成为你该成为的人。
+  > You're someone's whole world.
+  > 一人即某人的全世界。
 
 * 扇贝单词
-  > If life throws you a few bad notes or vibrations, don't let them interrupt or alter your song.
-  > 即便生活给了你一些不和谐的音符，也别让它们破坏你的人生之歌。
+  > The most wasted of all days is one without laughter.
+  > 没有欢笑的一天便最是虚度。
 
 * 有道词典
-  > The search itself is the reward, not the destination.
-  > 寻找本身就是回报，而非终点。
+  > Look before you leap.
+  > 三思而后行。
 
 ```
