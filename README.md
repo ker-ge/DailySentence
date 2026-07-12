@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-11已更新 
+2026-07-12已更新 
 ```
 * 金山词霸
-  > You're someone's whole world.
-  > 一人即某人的全世界。
+  > The tallest tree was once a seed brave enough to sprout.
+  > 最高的树，也曾是一粒敢于发芽的种子。
 
 * 扇贝单词
-  > The most wasted of all days is one without laughter.
-  > 没有欢笑的一天便最是虚度。
+  > One man with courage makes a majority.
+  > 若有勇气，一个人抵得上千军万马。
 
 * 有道词典
-  > Look before you leap.
-  > 三思而后行。
+  > Beauty that haunts is beauty that never truly leaves you.
+  > 萦绕不去的美，是永远不会真正离开你的美。
 
 ```
