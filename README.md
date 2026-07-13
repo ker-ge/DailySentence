@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-12已更新 
+2026-07-13已更新 
 ```
 * 金山词霸
-  > The tallest tree was once a seed brave enough to sprout.
-  > 最高的树，也曾是一粒敢于发芽的种子。
+  > Patience is not just waiting. It makes us stronger.
+  > 耐心不是干等，而是在等待里变强。
 
 * 扇贝单词
-  > One man with courage makes a majority.
-  > 若有勇气，一个人抵得上千军万马。
+  > Life is a pure flame, and we live by an invisible sun within us.
+  > 生命是一束纯净的火焰，我们依靠内心看不见的太阳而存在。
 
 * 有道词典
-  > Beauty that haunts is beauty that never truly leaves you.
-  > 萦绕不去的美，是永远不会真正离开你的美。
+  > Hold fast to dreams, for if dreams die, life is barren.
+  > 紧紧抓住梦想，因为如果梦死了，生命便是荒原。
 
 ```
