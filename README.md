@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-13已更新 
+2026-07-14已更新 
 ```
 * 金山词霸
-  > Patience is not just waiting. It makes us stronger.
-  > 耐心不是干等，而是在等待里变强。
+  > Living a meaningful life is a great achievement.
+  > 过有意义的生活，就是伟大的成就。
 
 * 扇贝单词
-  > Life is a pure flame, and we live by an invisible sun within us.
-  > 生命是一束纯净的火焰，我们依靠内心看不见的太阳而存在。
+  > Life is a beautiful magnificent thing, even to a jellyfish.
+  > 生命美好而壮丽，就算对一只水母来说也是。
 
 * 有道词典
-  > Hold fast to dreams, for if dreams die, life is barren.
-  > 紧紧抓住梦想，因为如果梦死了，生命便是荒原。
+  > I think, therefore I am.
+  > 我思，故我在。
 
 ```
