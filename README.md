@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-14已更新 
+2026-07-15已更新 
 ```
 * 金山词霸
-  > Living a meaningful life is a great achievement.
-  > 过有意义的生活，就是伟大的成就。
+  > Not too much, not too little — just enough.
+  > 不溢不缺，恰如其分。
 
 * 扇贝单词
-  > Life is a beautiful magnificent thing, even to a jellyfish.
-  > 生命美好而壮丽，就算对一只水母来说也是。
+  > The cure to boredom is curiosity. There is no cure for curiosity.
+  > 无聊的解药是好奇心，但好奇心没有解药。
 
 * 有道词典
-  > I think, therefore I am.
-  > 我思，故我在。
+  > Simple can be harder than complex, it takes great effort.
+  > 简单可以比复杂更难，它需要巨大的努力。
 
 ```
