@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-15已更新 
+2026-07-16已更新 
 ```
 * 金山词霸
-  > Not too much, not too little — just enough.
-  > 不溢不缺，恰如其分。
+  > Listening is a silent embrace.
+  > 倾听，是沉默的拥抱。
 
 * 扇贝单词
-  > The cure to boredom is curiosity. There is no cure for curiosity.
-  > 无聊的解药是好奇心，但好奇心没有解药。
+  > The bravest sight in the world is to see a great man struggling against adversity.
+  > 世界上最勇敢的景象，便是勇者无畏地与逆境搏斗。
 
 * 有道词典
-  > Simple can be harder than complex, it takes great effort.
-  > 简单可以比复杂更难，它需要巨大的努力。
+  > Failure is an event, never a person.
+  > 失败是一个事件，永远不是一个人。
 
 ```
