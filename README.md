@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-16已更新 
+2026-07-17已更新 
 ```
 * 金山词霸
-  > Listening is a silent embrace.
-  > 倾听，是沉默的拥抱。
+  > Trust is the gentle care we give each other.
+  > 信任，是彼此愿意给出的温柔。
 
 * 扇贝单词
-  > The bravest sight in the world is to see a great man struggling against adversity.
-  > 世界上最勇敢的景象，便是勇者无畏地与逆境搏斗。
+  > You must take life the way it comes at you and make the best of it.
+  > 要接受生活本来的样子，而后尽力而为。
 
 * 有道词典
-  > Failure is an event, never a person.
-  > 失败是一个事件，永远不是一个人。
+  > The swamp does not hold you, your fear of sinking does.
+  > 困住你的不是沼泽，是你对下沉的恐惧。
 
 ```
