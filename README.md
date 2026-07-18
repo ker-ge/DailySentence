@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-17已更新 
+2026-07-18已更新 
 ```
 * 金山词霸
-  > Trust is the gentle care we give each other.
-  > 信任，是彼此愿意给出的温柔。
+  > Custom makes all things easy.
+  > 习惯成自然。
 
 * 扇贝单词
-  > You must take life the way it comes at you and make the best of it.
-  > 要接受生活本来的样子，而后尽力而为。
+  > Never, never, never give up.
+  > 不，绝不，永不放弃。
 
 * 有道词典
-  > The swamp does not hold you, your fear of sinking does.
-  > 困住你的不是沼泽，是你对下沉的恐惧。
+  > Character is what you are in the dark, unseen, unjudged.
+  > 品格是你在黑暗中的样子，无人看见，无人评判。
 
 ```
