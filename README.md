@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-18已更新 
+2026-07-19已更新 
 ```
 * 金山词霸
-  > Custom makes all things easy.
-  > 习惯成自然。
+  > Be grateful for now. The future is full of hope.
+  > 感恩此刻，未来还充满可能。
 
 * 扇贝单词
-  > Never, never, never give up.
-  > 不，绝不，永不放弃。
+  > We must act out passion before we can feel it.
+  > 要感受热情，须先表达热情。
 
 * 有道词典
-  > Character is what you are in the dark, unseen, unjudged.
-  > 品格是你在黑暗中的样子，无人看见，无人评判。
+  > Those who dream by day know things others never will.
+  > 白天也在做梦的人，知道别人永远不会知道的事。
 
 ```
