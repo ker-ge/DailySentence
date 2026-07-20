@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-19已更新 
+2026-07-20已更新 
 ```
 * 金山词霸
-  > Be grateful for now. The future is full of hope.
-  > 感恩此刻，未来还充满可能。
+  > True strength is standing up again after we fall.
+  > 真正的强大，是跌倒后再站起来。
 
 * 扇贝单词
-  > We must act out passion before we can feel it.
-  > 要感受热情，须先表达热情。
+  > Love one another, but make not a bond of love: let it rather be a moving sea between the shores of your souls.
+  > 相爱吧！但别让爱成为羁绊，爱应当是两个灵魂间涌动的海洋。
 
 * 有道词典
-  > Those who dream by day know things others never will.
-  > 白天也在做梦的人，知道别人永远不会知道的事。
+  > Be yourself, everyone else is already taken.
+  > 做你自己，因为别人都有人做了。
 
 ```
