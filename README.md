@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-20已更新 
+2026-07-21已更新 
 ```
 * 金山词霸
-  > True strength is standing up again after we fall.
-  > 真正的强大，是跌倒后再站起来。
+  > Calm is the quiet deep place in a lake.
+  > 平静，像湖水最深处的安静。
 
 * 扇贝单词
-  > Love one another, but make not a bond of love: let it rather be a moving sea between the shores of your souls.
-  > 相爱吧！但别让爱成为羁绊，爱应当是两个灵魂间涌动的海洋。
+  > The horizon of life is broadened chiefly by means of the enlargement of heart.
+  > 扩展生活的视野，主要靠开阔心胸。
 
 * 有道词典
-  > Be yourself, everyone else is already taken.
-  > 做你自己，因为别人都有人做了。
+  > The mind has no walls, only the body knows finitude.
+  > 心智没有围墙，唯有身体知道何为有限。
 
 ```
