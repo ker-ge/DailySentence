@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-22已更新 
+2026-07-23已更新 
 ```
 * 金山词霸
-  > In conflict, the heart seems to speak with two voices.
-  > 矛盾时，心里像有两个声音在说话。
+  > Heat rolls in, but watermelon tastes just right.
+  > 热浪滚滚，但西瓜甜得正好。
 
 * 扇贝单词
-  > Nothing behind me, everything ahead of me, as is ever so on the road.
-  > 抛开顾虑，探索未知，永远在路上。
+  > To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+  > 生存就意味着去改变，改变就意味着成熟，而成熟就意味着孜孜不倦地创造自我。
 
 * 有道词典
-  > One lives in the hope of becoming a memory worth keeping.
-  > 人活着，是为了成为一段值得保留的记忆。
+  > This blazing heat is life at its most alive and urgent.
+  > 这灼人的热，正是生命最蓬勃、最迫切的状态。
 
 ```
