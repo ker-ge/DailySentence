@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-23已更新 
+2026-07-24已更新 
 ```
 * 金山词霸
-  > Heat rolls in, but watermelon tastes just right.
-  > 热浪滚滚，但西瓜甜得正好。
+  > Friends by our side make the road feel shorter.
+  > 同行的人让路变短了。
 
 * 扇贝单词
-  > To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
-  > 生存就意味着去改变，改变就意味着成熟，而成熟就意味着孜孜不倦地创造自我。
+  > If you wish to reach the highest, begin at the lowest.
+  > 若想到达最高处，先从最低处做起。
 
 * 有道词典
-  > This blazing heat is life at its most alive and urgent.
-  > 这灼人的热，正是生命最蓬勃、最迫切的状态。
+  > Nature never draws a straight line, and it is beautiful.
+  > 大自然从不画直线，而这正是它的美之所在。
 
 ```
