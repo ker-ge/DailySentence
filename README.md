@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-24已更新 
+2026-07-25已更新 
 ```
 * 金山词霸
-  > Friends by our side make the road feel shorter.
-  > 同行的人让路变短了。
+  > Pains make stronger, tears make braver,and heartbreaks make wiser.
+  > 伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
 
 * 扇贝单词
-  > If you wish to reach the highest, begin at the lowest.
-  > 若想到达最高处，先从最低处做起。
+  > Love and a cough cannot be hid.
+  > 爱与咳嗽均无法掩藏。
 
 * 有道词典
-  > Nature never draws a straight line, and it is beautiful.
-  > 大自然从不画直线，而这正是它的美之所在。
+  > The fool is certain, the wise man is full of doubt.
+  > 愚者笃定，智者满怀疑虑。
 
 ```
