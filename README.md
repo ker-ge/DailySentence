@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-25已更新 
+2026-07-26已更新 
 ```
 * 金山词霸
-  > Pains make stronger, tears make braver,and heartbreaks make wiser.
-  > 伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
+  > Your life is a gift to someone.
+  > 你的存在本身，就是某些人的礼物。
 
 * 扇贝单词
-  > Love and a cough cannot be hid.
-  > 爱与咳嗽均无法掩藏。
+  > Tomorrow belongs to those who can hear it coming.
+  > 明天属于那些能听见它来临的人。
 
 * 有道词典
-  > The fool is certain, the wise man is full of doubt.
-  > 愚者笃定，智者满怀疑虑。
+  > Everything you can imagine is real.
+  > 你能想象的一切都是真的。
 
 ```
