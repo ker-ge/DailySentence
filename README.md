@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-26已更新 
+2026-07-27已更新 
 ```
 * 金山词霸
-  > Your life is a gift to someone.
-  > 你的存在本身，就是某些人的礼物。
+  > Kind words can gently hold a hurting heart.
+  > 安慰的话，能轻轻扶住受伤的心。
 
 * 扇贝单词
-  > Tomorrow belongs to those who can hear it coming.
-  > 明天属于那些能听见它来临的人。
+  > Changes and progress very rarely are gifts from above. They come out of struggles from below.
+  > 鲜有改变和进步是上天赐予的，它们来自于自己的苦心奋斗。
 
 * 有道词典
-  > Everything you can imagine is real.
-  > 你能想象的一切都是真的。
+  > Time and tide wait for no man, never have.
+  > 时间与潮汐不等人，从来都不曾等过。
 
 ```
