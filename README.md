@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-27已更新 
+2026-07-28已更新 
 ```
 * 金山词霸
-  > Kind words can gently hold a hurting heart.
-  > 安慰的话，能轻轻扶住受伤的心。
+  > Habit is like a path that leads us forward.
+  > 习惯像一条路，引着我们往前走。
 
 * 扇贝单词
-  > Changes and progress very rarely are gifts from above. They come out of struggles from below.
-  > 鲜有改变和进步是上天赐予的，它们来自于自己的苦心奋斗。
+  > Never give up. Expect only the best from life and take action to get it.
+  > 永远不要言弃。要永远只期待最好的事物，并为之付出行动。
 
 * 有道词典
-  > Time and tide wait for no man, never have.
-  > 时间与潮汐不等人，从来都不曾等过。
+  > Every time I forgive, I give myself a fresh beginning.
+  > 每一次宽恕，都是我给自己的一次崭新开始。
 
 ```
