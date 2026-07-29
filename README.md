@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-28已更新 
+2026-07-29已更新 
 ```
 * 金山词霸
-  > Habit is like a path that leads us forward.
-  > 习惯像一条路，引着我们往前走。
+  > Waiting turns time into something sweet.
+  > 等待把时间熬成了糖。
 
 * 扇贝单词
-  > Never give up. Expect only the best from life and take action to get it.
-  > 永远不要言弃。要永远只期待最好的事物，并为之付出行动。
+  > A book should serve as the ax for the frozen sea within us.
+  > 书籍是一把利斧，凿开我们内心冰封的海洋。
 
 * 有道词典
-  > Every time I forgive, I give myself a fresh beginning.
-  > 每一次宽恕，都是我给自己的一次崭新开始。
+  > A cage is safe, but it is still a cage, nothing more.
+  > 笼子是安全的，但它仍然是笼子，仅此而已。
 
 ```
