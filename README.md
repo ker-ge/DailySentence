@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-29已更新 
+2026-07-30已更新 
 ```
 * 金山词霸
-  > Waiting turns time into something sweet.
-  > 等待把时间熬成了糖。
+  > A chance meeting is candy from fate.
+  > 偶遇是命运送的糖果。
 
 * 扇贝单词
-  > A book should serve as the ax for the frozen sea within us.
-  > 书籍是一把利斧，凿开我们内心冰封的海洋。
+  > Learn from yesterday, live for today, hope for tomorrow.
+  > 借鉴昨天，活在今天，憧憬明天。
 
 * 有道词典
-  > A cage is safe, but it is still a cage, nothing more.
-  > 笼子是安全的，但它仍然是笼子，仅此而已。
+  > You will never find time, you must make it yourself.
+  > 你永远找不到时间，你必须自己创造它。
 
 ```
