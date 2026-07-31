@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-30已更新 
+2026-07-31已更新 
 ```
 * 金山词霸
-  > A chance meeting is candy from fate.
-  > 偶遇是命运送的糖果。
+  > At goodbye, even a full suitcase cannot hold all our cares.
+  > 离别时，行李箱再满，也装不下全部牵挂。
 
 * 扇贝单词
-  > Learn from yesterday, live for today, hope for tomorrow.
-  > 借鉴昨天，活在今天，憧憬明天。
+  > Beauty is how you feel inside, and it reflects in your eyes.
+  > 美是一种内心的感觉，并反映在你的眼睛里。
 
 * 有道词典
-  > You will never find time, you must make it yourself.
-  > 你永远找不到时间，你必须自己创造它。
+  > You cannot escape the responsibility of tomorrow by evading it today.
+  > 你无法通过今天的逃避来摆脱明天的责任。
 
 ```

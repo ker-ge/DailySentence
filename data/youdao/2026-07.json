@@ -148,5 +148,10 @@
 		"date": "2026-07-30",
 		"txt_en": "You will never find time, you must make it yourself.",
 		"txt_cn": "你永远找不到时间，你必须自己创造它。"
+	},
+	{
+		"date": "2026-07-31",
+		"txt_en": "You cannot escape the responsibility of tomorrow by evading it today.",
+		"txt_cn": "你无法通过今天的逃避来摆脱明天的责任。"
 	}
 ]
