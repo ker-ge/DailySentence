@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-07-31已更新 
+2026-08-01已更新 
 ```
 * 金山词霸
-  > At goodbye, even a full suitcase cannot hold all our cares.
-  > 离别时，行李箱再满，也装不下全部牵挂。
+  > Your silent march through storms writes peace upon our land.
+  > 你穿越风暴的无声行进，在大地写下和平。
 
 * 扇贝单词
-  > Beauty is how you feel inside, and it reflects in your eyes.
-  > 美是一种内心的感觉，并反映在你的眼睛里。
+  > Love is the master key that opens the gates of happiness.
+  > 爱是打开幸福之门的万能钥匙。
 
 * 有道词典
-  > You cannot escape the responsibility of tomorrow by evading it today.
-  > 你无法通过今天的逃避来摆脱明天的责任。
+  > What doesn't kill you makes you stronger.
+  > 杀不死你的，终将使你更强大。
 
 ```
