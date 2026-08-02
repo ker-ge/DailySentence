@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-01已更新 
+2026-08-02已更新 
 ```
 * 金山词霸
-  > Your silent march through storms writes peace upon our land.
-  > 你穿越风暴的无声行进，在大地写下和平。
+  > To be human is to hold sovereignty over one's fate.​
+  > 为人之本，在于对命运的掌控。
 
 * 扇贝单词
-  > Love is the master key that opens the gates of happiness.
-  > 爱是打开幸福之门的万能钥匙。
+  > The world spins. We stumble on. It is enough.
+  > 世界快速旋转，我们踉跄前行，就已足够。
 
 * 有道词典
-  > What doesn't kill you makes you stronger.
-  > 杀不死你的，终将使你更强大。
+  > Fiction is the lie through which we tell the truth.
+  > 虚构是我们用来讲述真相的谎言。
 
 ```
