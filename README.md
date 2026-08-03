@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-02已更新 
+2026-08-03已更新 
 ```
 * 金山词霸
-  > To be human is to hold sovereignty over one's fate.​
-  > 为人之本，在于对命运的掌控。
+  > Keep your eyes on the stars and your feet on the ground.
+  > 仰望星空，脚踏实地。
 
 * 扇贝单词
-  > The world spins. We stumble on. It is enough.
-  > 世界快速旋转，我们踉跄前行，就已足够。
+  > Reprove thy friend privately; commend him publicly.
+  > 在私下批评你的朋友，在公开场合赞扬他。
 
 * 有道词典
-  > Fiction is the lie through which we tell the truth.
-  > 虚构是我们用来讲述真相的谎言。
+  > The answer is always hiding inside the question you fear asking.
+  > 答案总是藏在你不敢提出的那个问题里。
 
 ```
