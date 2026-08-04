@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-03已更新 
+2026-08-04已更新 
 ```
 * 金山词霸
-  > Keep your eyes on the stars and your feet on the ground.
-  > 仰望星空，脚踏实地。
+  > A lazy youth, a lousy age.
+  > 少壮不努力，老大徒伤悲。
 
 * 扇贝单词
-  > Reprove thy friend privately; commend him publicly.
-  > 在私下批评你的朋友，在公开场合赞扬他。
+  > The weak can never forgive. Forgiveness is the attribute of the strong.
+  > 弱者永远不懂宽恕，宽恕是强者的品质。
 
 * 有道词典
-  > The answer is always hiding inside the question you fear asking.
-  > 答案总是藏在你不敢提出的那个问题里。
+  > It takes courage to shine in a world that prefers shadows.
+  > 在一个偏爱阴影的世界里，敢于发光需要勇气。
 
 ```
