@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-04已更新 
+2026-08-05已更新 
 ```
 * 金山词霸
-  > A lazy youth, a lousy age.
-  > 少壮不努力，老大徒伤悲。
+  > Nurture passes nature.
+  > 教养胜过天性。
 
 * 扇贝单词
-  > The weak can never forgive. Forgiveness is the attribute of the strong.
-  > 弱者永远不懂宽恕，宽恕是强者的品质。
+  > Action is the foundational key to all success.
+  > 行动是所有成功的根本。
 
 * 有道词典
-  > It takes courage to shine in a world that prefers shadows.
-  > 在一个偏爱阴影的世界里，敢于发光需要勇气。
+  > You never fail until you stop trying.
+  > 你永远不会失败，除非你停止尝试。
 
 ```
