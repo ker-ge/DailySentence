@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-05已更新 
+2026-08-06已更新 
 ```
 * 金山词霸
-  > Nurture passes nature.
-  > 教养胜过天性。
+  > One swallow does not make a summer.
+  > 一燕不成夏（一花独放不是春）。
 
 * 扇贝单词
-  > Action is the foundational key to all success.
-  > 行动是所有成功的根本。
+  > The art of being happy lies in the power of extracting happiness from common things.
+  > 幸福的诀窍在于能从平凡事物中提取快乐。
 
 * 有道词典
-  > You never fail until you stop trying.
-  > 你永远不会失败，除非你停止尝试。
+  > Hope is the thing with feathers that never stops singing.
+  > 希望是那只长着羽毛的鸟，它永远不会停止歌唱。
 
 ```
