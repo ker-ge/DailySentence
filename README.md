@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-06已更新 
+2026-08-07已更新 
 ```
 * 金山词霸
-  > One swallow does not make a summer.
-  > 一燕不成夏（一花独放不是春）。
+  > Courage is not the absence of fear, but the will to guard what we cherish.
+  > 勇气非无畏，而是守护所爱的意志。
 
 * 扇贝单词
-  > The art of being happy lies in the power of extracting happiness from common things.
-  > 幸福的诀窍在于能从平凡事物中提取快乐。
+  > Children are not things to be molded, but are people to be unfolded.
+  > 孩子不是有待铸造的物料，而是有待启发的人。
 
 * 有道词典
-  > Hope is the thing with feathers that never stops singing.
-  > 希望是那只长着羽毛的鸟，它永远不会停止歌唱。
+  > Every falling leaf is a homecoming.
+  > 每一片落叶，都是一次归家
 
 ```
