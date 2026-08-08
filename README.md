@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-07已更新 
+2026-08-08已更新 
 ```
 * 金山词霸
-  > Courage is not the absence of fear, but the will to guard what we cherish.
-  > 勇气非无畏，而是守护所爱的意志。
+  > Poverty is stranger to industry.
+  > 勤劳之人不受穷。
 
 * 扇贝单词
-  > Children are not things to be molded, but are people to be unfolded.
-  > 孩子不是有待铸造的物料，而是有待启发的人。
+  > They always say time changes things, but you actually have to change them yourself.
+  > 人们总说时间会改变一切，但改变还是要靠你自己。
 
 * 有道词典
-  > Every falling leaf is a homecoming.
-  > 每一片落叶，都是一次归家
+  > A cat lives entirely in the now, no regret, no worry.
+  > 猫活在纯粹的当下，没有悔恨，没有忧虑。
 
 ```
