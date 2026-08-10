@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-09已更新 
+2026-08-10已更新 
 ```
 * 金山词霸
-  > Even short goodbyes leave long shadows behind.
-  > 再短的告别，也会留下长长的影子。
+  > Love looks not with the eyes, but with the mind.
+  > 爱情不用眼睛看，而用心灵看。
 
 * 扇贝单词
-  > The greater the obstacle, the more glory in overcoming it.
-  > 阻碍越大，逾越过去就越光荣。
+  > Life is something that happens when you can't get to sleep.
+  > 生活就是那些在你失眠的时候发生的事情。
 
 * 有道词典
-  > Everyone is a moon, with a dark side never shown.
-  > 每个人都是月亮，有永远不展示的暗面。
+  > It's kind of fun to do impossible.
+  > 做不可能的事挺有意思的。
 
 ```
