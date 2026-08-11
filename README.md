@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-10已更新 
+2026-08-11已更新 
 ```
 * 金山词霸
-  > Love looks not with the eyes, but with the mind.
-  > 爱情不用眼睛看，而用心灵看。
+  > Morning light makes its way through half-drawn curtains.
+  > 晨光穿过半掩的窗帘，慢慢进来。
 
 * 扇贝单词
-  > Life is something that happens when you can't get to sleep.
-  > 生活就是那些在你失眠的时候发生的事情。
+  > Not hammer-strokes but dance of the water sings the pebbles into perfection.
+  > 使卵石臻于完美的，不是锤击，而是水的且歌且舞。
 
 * 有道词典
-  > It's kind of fun to do impossible.
-  > 做不可能的事挺有意思的。
+  > Wherever you go, bring your own sunshine with you.
+  > 无论你去哪里，带上你自己的阳光。
 
 ```
