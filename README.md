@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-11已更新 
+2026-08-12已更新 
 ```
 * 金山词霸
-  > Morning light makes its way through half-drawn curtains.
-  > 晨光穿过半掩的窗帘，慢慢进来。
+  > Kindness costs little, yet it changes the whole room.
+  > 善意花费很少，却能改变整个房间。
 
 * 扇贝单词
-  > Not hammer-strokes but dance of the water sings the pebbles into perfection.
-  > 使卵石臻于完美的，不是锤击，而是水的且歌且舞。
+  > Some people dream of success, while other people get up and make it happen.
+  > 有些人只是梦想去成功，而其他人却起身让梦想成真。
 
 * 有道词典
-  > Wherever you go, bring your own sunshine with you.
-  > 无论你去哪里，带上你自己的阳光。
+  > Clouds never rush, they always arrive on time.
+  > 云从不匆忙，它们总是准时到达。
 
 ```
