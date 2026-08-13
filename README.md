@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-12已更新 
+2026-08-13已更新 
 ```
 * 金山词霸
-  > Kindness costs little, yet it changes the whole room.
-  > 善意花费很少，却能改变整个房间。
+  > Warm tea on a quiet night softens a hard day.
+  > 安静夜里的热茶，能软化艰难的一天。
 
 * 扇贝单词
-  > Some people dream of success, while other people get up and make it happen.
-  > 有些人只是梦想去成功，而其他人却起身让梦想成真。
+  > Those who bring sunshine to the lives of others cannot keep it from themselves.
+  > 为他人带来阳光的人，自己也一定会沐浴在阳光下。
 
 * 有道词典
-  > Clouds never rush, they always arrive on time.
-  > 云从不匆忙，它们总是准时到达。
+  > It does not do to dwell on dreams and forget to live.
+  > 沉湎于梦想而忘记生活，这是不可取的。
 
 ```
