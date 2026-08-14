@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-13已更新 
+2026-08-14已更新 
 ```
 * 金山词霸
-  > Warm tea on a quiet night softens a hard day.
-  > 安静夜里的热茶，能软化艰难的一天。
+  > Let today be enough; tomorrow can wait a while.
+  > 让今天就够了，明天可以再等等。
 
 * 扇贝单词
-  > Those who bring sunshine to the lives of others cannot keep it from themselves.
-  > 为他人带来阳光的人，自己也一定会沐浴在阳光下。
+  > Never bend your head. Always hold it high. Look the world straight in the face.
+  > 永远不要垂下头。要高昂着头，直面这世界。
 
 * 有道词典
-  > It does not do to dwell on dreams and forget to live.
-  > 沉湎于梦想而忘记生活，这是不可取的。
+  > We grow neither better nor worse as we get old, but more like ourselves.
+  > 变老时我们既不变好也不变坏，只是更像自己了。
 
 ```
