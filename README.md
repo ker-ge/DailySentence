@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-14已更新 
+2026-08-15已更新 
 ```
 * 金山词霸
-  > Let today be enough; tomorrow can wait a while.
-  > 让今天就够了，明天可以再等等。
+  > Virtue never grows old.
+  > 美德常青。
 
 * 扇贝单词
-  > Never bend your head. Always hold it high. Look the world straight in the face.
-  > 永远不要垂下头。要高昂着头，直面这世界。
+  > Give whatever you are doing and whoever you are with the gift of your attention.
+  > 无论在做什么，跟谁相处，都要送出这份礼物：保持专注。
 
 * 有道词典
-  > We grow neither better nor worse as we get old, but more like ourselves.
-  > 变老时我们既不变好也不变坏，只是更像自己了。
+  > We forget because we must, not because we will.
+  > 我们遗忘，是因为不得不忘，而非因为我们愿意忘。
 
 ```
