@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-15已更新 
+2026-08-16已更新 
 ```
 * 金山词霸
-  > Virtue never grows old.
-  > 美德常青。
+  > Clouds drift low, and the city breathes more slowly.
+  > 云压得很低，城市也呼吸得更慢。
 
 * 扇贝单词
-  > Give whatever you are doing and whoever you are with the gift of your attention.
-  > 无论在做什么，跟谁相处，都要送出这份礼物：保持专注。
+  > Happy people build their inner world. Unhappy people blame their outer world.
+  > 快乐的人建构内心世界，不快乐的人责怪外在世界。
 
 * 有道词典
-  > We forget because we must, not because we will.
-  > 我们遗忘，是因为不得不忘，而非因为我们愿意忘。
+  > Absence makes the heart grow fonder.
+  > 距离使思念更深。
 
 ```
