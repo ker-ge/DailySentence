@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-16已更新 
+2026-08-17已更新 
 ```
 * 金山词霸
-  > Clouds drift low, and the city breathes more slowly.
-  > 云压得很低，城市也呼吸得更慢。
+  > A shared meal turns ordinary hours into memories.
+  > 一顿共享的饭，把平常时光变成回忆。
 
 * 扇贝单词
-  > Happy people build their inner world. Unhappy people blame their outer world.
-  > 快乐的人建构内心世界，不快乐的人责怪外在世界。
+  > Keep moving forward, and if it's time to go, it's time.
+  > 保持前进，步履不停，如果是时候该走了，那就顺其自然。
 
 * 有道词典
-  > Absence makes the heart grow fonder.
-  > 距离使思念更深。
+  > A man is not a prisoner of his past.
+  > 人不是自己过去的囚徒。
 
 ```
