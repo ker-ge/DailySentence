@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-17已更新 
+2026-08-18已更新 
 ```
 * 金山词霸
-  > A shared meal turns ordinary hours into memories.
-  > 一顿共享的饭，把平常时光变成回忆。
+  > Distance tests love, but it also teaches patience.
+  > 距离考验爱情，也教会人耐心。
 
 * 扇贝单词
-  > Keep moving forward, and if it's time to go, it's time.
-  > 保持前进，步履不停，如果是时候该走了，那就顺其自然。
+  > We are each responsible for our own life—no other person is or even can be.
+  > 自己的生活只能由自己负责，没有别人，也不会有人代劳。
 
 * 有道词典
-  > A man is not a prisoner of his past.
-  > 人不是自己过去的囚徒。
+  > Life finds a way.
+  > 生命总会找到出路。
 
 ```
