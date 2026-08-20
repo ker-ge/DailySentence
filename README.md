@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-19已更新 
+2026-08-20已更新 
 ```
 * 金山词霸
-  > Across the river of stars, two hearts still meet.
-  > 隔着星河，两颗心依然相逢。
+  > After meeting, parting arrives more gently than we fear.
+  > 相逢之后，离别来得比我们担心的更轻柔。
 
 * 扇贝单词
-  > It is not worth the while to let our imperfections disturb us always.
-  > 犯不着总是为自己的不完美而烦恼。
+  > Be steady and well-ordered in your life so that you can be fierce and original in your work.
+  > 生活中沉稳可靠、井井有条，方能在工作中脱颖而出、不同凡响。
 
 * 有道词典
-  > Miles apart, never hearts apart.
-  > 相隔千里，心从未分离。
+  > Silence in the face of evil is itself evil.
+  > 面对邪恶时的沉默，本身就是邪恶。
 
 ```
