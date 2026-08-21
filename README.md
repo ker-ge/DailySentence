@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-20已更新 
+2026-08-21已更新 
 ```
 * 金山词霸
-  > After meeting, parting arrives more gently than we fear.
-  > 相逢之后，离别来得比我们担心的更轻柔。
+  > Deep green still drinks the long summer light.
+  > 浓绿仍在畅饮悠长的夏日光。
 
 * 扇贝单词
-  > Be steady and well-ordered in your life so that you can be fierce and original in your work.
-  > 生活中沉稳可靠、井井有条，方能在工作中脱颖而出、不同凡响。
+  > Courage is resistance to fear, mastery of fear, not absence of fear.
+  > 勇敢并非没有恐惧，而是克服恐惧，战胜恐惧。
 
 * 有道词典
-  > Silence in the face of evil is itself evil.
-  > 面对邪恶时的沉默，本身就是邪恶。
+  > Time is the longest distance between two places.
+  > 时间是两个地方之间最遥远的距离。
 
 ```
