@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-21已更新 
+2026-08-22已更新 
 ```
 * 金山词霸
-  > Deep green still drinks the long summer light.
-  > 浓绿仍在畅饮悠长的夏日光。
+  > There is a crack in everything; that's how the light gets in.
+  > 万物皆有裂痕，那是光照进来的地方。
 
 * 扇贝单词
-  > Courage is resistance to fear, mastery of fear, not absence of fear.
-  > 勇敢并非没有恐惧，而是克服恐惧，战胜恐惧。
+  > Just do the best you can. No one can do more than that.
+  > 唯有竭尽全力，此外别无他法。
 
 * 有道词典
-  > Time is the longest distance between two places.
-  > 时间是两个地方之间最遥远的距离。
+  > A friend in need is a friend indeed.
+  > 患难见真情。
 
 ```

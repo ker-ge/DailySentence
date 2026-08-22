@@ -113,5 +113,10 @@
 		"date": "2026-08-21",
 		"txt_en": "Time is the longest distance between two places.",
 		"txt_cn": "时间是两个地方之间最遥远的距离。"
+	},
+	{
+		"date": "2026-08-22",
+		"txt_en": "A friend in need is a friend indeed.",
+		"txt_cn": "患难见真情。"
 	}
 ]
