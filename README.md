@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-22已更新 
+2026-08-23已更新 
 ```
 * 金山词霸
-  > There is a crack in everything; that's how the light gets in.
-  > 万物皆有裂痕，那是光照进来的地方。
+  > The heat still reigns, yet evenings turn a little milder.
+  > 暑气仍盛，傍晚却稍稍温和了些。
 
 * 扇贝单词
-  > Just do the best you can. No one can do more than that.
-  > 唯有竭尽全力，此外别无他法。
+  > An unexamined life is not worth living.
+  > 浑浑噩噩的生活不值得过。
 
 * 有道词典
-  > A friend in need is a friend indeed.
-  > 患难见真情。
+  > A rose by any other name would smell as sweet.
+  > 玫瑰即使换了名字，闻起来依然芬芳。
 
 ```
