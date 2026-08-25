@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-24已更新 
+2026-08-25已更新 
 ```
 * 金山词霸
-  > New habits grow best in the quiet of early days.
-  > 新习惯最适合在安静的早期生长。
+  > Listen closely: even wind can carry a gentle song.
+  > 仔细听：风也能带来轻柔的歌。
 
 * 扇贝单词
-  > To live in hearts we leave behind is not to die.
-  > 活在生者心里，便永远不会逝去。
+  > One part of wisdom is knowing what you don't need anymore and letting it go.
+  > 有种智慧是知道自己不再需要什么，然后学会放手。
 
 * 有道词典
-  > Do not pray for an easy life, pray for the strength to endure a difficult one.
-  > 不要祈求轻松的生活，要祈求拥有承受艰难生活的力量。
+  > Art is not what you see, but what you make others see.
+  > 艺术不是你所看到的，而是你让别人看到的。
 
 ```
