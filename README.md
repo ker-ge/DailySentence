@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-25已更新 
+2026-08-26已更新 
 ```
 * 金山词霸
-  > Listen closely: even wind can carry a gentle song.
-  > 仔细听：风也能带来轻柔的歌。
+  > We leave pieces of ourselves in places we loved.
+  > 我们把自己的碎片，留在爱过的地方。
 
 * 扇贝单词
-  > One part of wisdom is knowing what you don't need anymore and letting it go.
-  > 有种智慧是知道自己不再需要什么，然后学会放手。
+  > Take chances; make mistakes. That's how you grow.
+  > 去冒险，去犯错。你就是这样成长起来的。
 
 * 有道词典
-  > Art is not what you see, but what you make others see.
-  > 艺术不是你所看到的，而是你让别人看到的。
+  > Kites rise highest against the wind, not with it.
+  > 风筝逆风才飞得最高，而非顺风。
 
 ```
