@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-26已更新 
+2026-08-27已更新 
 ```
 * 金山词霸
-  > We leave pieces of ourselves in places we loved.
-  > 我们把自己的碎片，留在爱过的地方。
+  > A late walk clears the mind better than long worry.
+  > 晚间散步，比漫长忧虑更能清空思绪。
 
 * 扇贝单词
-  > Take chances; make mistakes. That's how you grow.
-  > 去冒险，去犯错。你就是这样成长起来的。
+  > I am always ready to learn although I do not always like being taught.
+  > 虽然我并不喜欢有人教我，但我一直乐于学习。
 
 * 有道词典
-  > Kites rise highest against the wind, not with it.
-  > 风筝逆风才飞得最高，而非顺风。
+  > Never put off till tomorrow what you can do today.
+  > 今日事，今日毕。
 
 ```
