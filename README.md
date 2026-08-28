@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-27已更新 
+2026-08-28已更新 
 ```
 * 金山词霸
-  > A late walk clears the mind better than long worry.
-  > 晚间散步，比漫长忧虑更能清空思绪。
+  > No man is an island.
+  > 没有人是一座孤岛。
 
 * 扇贝单词
-  > I am always ready to learn although I do not always like being taught.
-  > 虽然我并不喜欢有人教我，但我一直乐于学习。
+  > Live in the sunshine, swim the sea, drink the wild air.
+  > 去生活在阳光下吧，去畅游大海，去畅饮野外的空气。
 
 * 有道词典
-  > Never put off till tomorrow what you can do today.
-  > 今日事，今日毕。
+  > I never get tired of the blue sky.
+  > 我永远不会厌倦蓝天。
 
 ```
