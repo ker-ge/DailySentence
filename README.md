@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-28已更新 
+2026-08-29已更新 
 ```
 * 金山词霸
-  > No man is an island.
-  > 没有人是一座孤岛。
+  > Meet me where the magpies bridge the sky, just once a year yet forever.
+  > 鹊桥相会，一年一度，却是一生一世。
 
 * 扇贝单词
-  > Live in the sunshine, swim the sea, drink the wild air.
-  > 去生活在阳光下吧，去畅游大海，去畅饮野外的空气。
+  > Argue for your limitations, and sure enough they're yours.
+  > 为你的局限而辩解，那你就真的把自己局限在里面了。
 
 * 有道词典
-  > I never get tired of the blue sky.
-  > 我永远不会厌倦蓝天。
+  > In one drop of water are found all the secrets of all the oceans.
+  > 一滴水中，蕴含着所有海洋的全部秘密。
 
 ```
