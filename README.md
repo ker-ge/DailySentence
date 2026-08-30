@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-29已更新 
+2026-08-30已更新 
 ```
 * 金山词霸
-  > Meet me where the magpies bridge the sky, just once a year yet forever.
-  > 鹊桥相会，一年一度，却是一生一世。
+  > Pack lightly; carry only what still warms you.
+  > 轻装前行，只带走仍能温暖你的东西。
 
 * 扇贝单词
-  > Argue for your limitations, and sure enough they're yours.
-  > 为你的局限而辩解，那你就真的把自己局限在里面了。
+  > Wanting to be someone else is a waste of the person you are.
+  > 试图成为另一个人，便是浪费了成为你自己的机会。
 
 * 有道词典
-  > In one drop of water are found all the secrets of all the oceans.
-  > 一滴水中，蕴含着所有海洋的全部秘密。
+  > The face you give the world tells the world how to treat you.
+  > 你给世界呈现怎样的面容，世界就以什么方式对待你。
 
 ```
