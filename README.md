@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-08-31已更新 
+2026-09-01已更新 
 ```
 * 金山词霸
-  > August holds the sun a little longer for us.
-  > 八月为我们多留住了一会儿阳光。
+  > September opens with a sky both clear and wide.
+  > 九月展开，天空又清又阔。
 
 * 扇贝单词
-  > It is in your moments of decision that your destiny is shaped.
-  > 命运形成于你做出决定的那一刻。
+  > Wisdom is oftentimes nearer when we stoop than when we soar.
+  > 比起高飞的时候，智慧往往在我们俯身时更接近我们。
 
 * 有道词典
-  > The only way to have a friend is to be one.
-  > 拥有朋友的唯一方式，就是先成为别人的朋友。
+  > What we learn with pleasure we never forget.
+  > 在快乐中学到的东西，我们永远不会忘记。
 
 ```
