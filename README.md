@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-02已更新 
+2026-09-03已更新 
 ```
 * 金山词霸
-  > Morning sun rests on the quiet street.
-  > 早晨的太阳，停在安静的街上。
+  > The woods are lovely, dark and deep.
+  > 树林可爱，又暗又深。
 
 * 扇贝单词
-  > Trees are poems that the earth writes upon the sky.
-  > 绿树是大地谱于苍宇的诗篇。
+  > Find a place inside where there's joy, and the joy will burn out the pain.
+  > 在内心找一个欢乐的角落，这欢乐可让痛苦烟消云散。
 
 * 有道词典
-  > Autumn is a second spring when every leaf is a flower.
-  > 秋天是第二个春天，每片叶子都是一朵花。
+  > The pain of parting is nothing to the joy of meeting again.
+  > 离别的痛苦与重逢的喜悦相比，算不了什么。
 
 ```
