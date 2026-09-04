@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-03已更新 
+2026-09-04已更新 
 ```
 * 金山词霸
-  > The woods are lovely, dark and deep.
-  > 树林可爱，又暗又深。
+  > A slow cup of tea starts a peaceful morning hour.
+  > 慢慢喝一杯茶，开启平和的早晨。
 
 * 扇贝单词
-  > Find a place inside where there's joy, and the joy will burn out the pain.
-  > 在内心找一个欢乐的角落，这欢乐可让痛苦烟消云散。
+  > A happy marriage is the union of two good forgivers.
+  > 两个善解人意的人才能缔造一段幸福的婚姻。
 
 * 有道词典
-  > The pain of parting is nothing to the joy of meeting again.
-  > 离别的痛苦与重逢的喜悦相比，算不了什么。
+  > What sunshine is to flowers, smiles are to humanity.
+  > 阳光之于花朵，恰如微笑之于人类。
 
 ```
