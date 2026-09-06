@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-05已更新 
+2026-09-06已更新 
 ```
 * 金山词霸
-  > In the age of AI, curiosity is still our superpower.  
-  > 在AI时代，好奇心仍是我们的超能力。
+  > Evening light moves slowly across the floor.
+  > 晚间的光，慢慢挪过地板。
 
 * 扇贝单词
-  > The future has several names. For the weak, it is the impossible. For the fainthearted, it is the unknown. For the thoughtful and valiant, it is the ideal.
-  > 未来有几个名字：对软弱的人来说，它叫不可能；对胆怯懦弱的人来说，它叫未知；对于深思熟虑且有勇气的人来说，它叫理想。
+  > Character may be manifested in the great moments, but it is made in the small ones.
+  > 品格彰显于重要时刻，却培养于日常琐事中。
 
 * 有道词典
-  > I have not failed, I've just found 10,000 ways that won't work.
-  > 我没有失败，我只是找到了一万种行不通的方法。
+  > You are not in the mountains, the mountains are in you.
+  > 你不在山中，山在你心中。
 
 ```
