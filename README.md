@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-06已更新 
+2026-09-07已更新 
 ```
 * 金山词霸
-  > Evening light moves slowly across the floor.
-  > 晚间的光，慢慢挪过地板。
+  > White dew cools the green at break of day.
+  > 白露在破晓时，凉了满地的绿。
 
 * 扇贝单词
-  > Character may be manifested in the great moments, but it is made in the small ones.
-  > 品格彰显于重要时刻，却培养于日常琐事中。
+  > The secret of getting ahead is getting started.
+  > 前进的秘诀是着手开始。
 
 * 有道词典
-  > You are not in the mountains, the mountains are in you.
-  > 你不在山中，山在你心中。
+  > The measure of a man is what he does with power.
+  > 衡量一个人的标准，是看他拥有权力后如何行事。
 
 ```
