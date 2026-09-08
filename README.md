@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-07已更新 
+2026-09-08已更新 
 ```
 * 金山词霸
-  > White dew cools the green at break of day.
-  > 白露在破晓时，凉了满地的绿。
+  > I wandered lonely as a cloud.
+  > 我孤独地漫游，像一朵云。
 
 * 扇贝单词
-  > The secret of getting ahead is getting started.
-  > 前进的秘诀是着手开始。
+  > Defeat is not the worst of failures. Not to have tried is the true failure.
+  > 被击倒不是最大的失败，不曾尝试过才是真正的失败。
 
 * 有道词典
-  > The measure of a man is what he does with power.
-  > 衡量一个人的标准，是看他拥有权力后如何行事。
+  > The breaking of a wave cannot explain the whole sea.
+  > 一朵浪花的碎裂，无法解释整片大海。
 
 ```
