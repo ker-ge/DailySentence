@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-08已更新 
+2026-09-09已更新 
 ```
 * 金山词霸
-  > I wandered lonely as a cloud.
-  > 我孤独地漫游，像一朵云。
+  > Books stay open when the heart stays curious.
+  > 心保持好奇，书就会一直打开。
 
 * 扇贝单词
-  > Defeat is not the worst of failures. Not to have tried is the true failure.
-  > 被击倒不是最大的失败，不曾尝试过才是真正的失败。
+  > Believe and act as if it were impossible to fail.
+  > 抱着必胜的信念行动。
 
 * 有道词典
-  > The breaking of a wave cannot explain the whole sea.
-  > 一朵浪花的碎裂，无法解释整片大海。
+  > The most alive is the wildest.
+  > 最有生命力的，就是最野性的。
 
 ```
