@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-09已更新 
+2026-09-10已更新 
 ```
 * 金山词霸
-  > Books stay open when the heart stays curious.
-  > 心保持好奇，书就会一直打开。
+  > A good teacher plants questions that keep growing.
+  > 好老师种下的，是不断生长的问题。
 
 * 扇贝单词
-  > Believe and act as if it were impossible to fail.
-  > 抱着必胜的信念行动。
+  > Friends and good manners will carry you where money won't go.
+  > 朋友和教养带给你的世界，是金钱所不能及的。
 
 * 有道词典
-  > The most alive is the wildest.
-  > 最有生命力的，就是最野性的。
+  > Education is not the filling of a pail, but the lighting of a fire.
+  > 教育不是往桶里灌水，而是把火点燃。
 
 ```
