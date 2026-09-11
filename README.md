@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-10已更新 
+2026-09-11已更新 
 ```
 * 金山词霸
-  > A good teacher plants questions that keep growing.
-  > 好老师种下的，是不断生长的问题。
+  > Curiosity makes ordinary work feel brand new.
+  > 好奇能让平常的工作，也焕然一新。
 
 * 扇贝单词
-  > Friends and good manners will carry you where money won't go.
-  > 朋友和教养带给你的世界，是金钱所不能及的。
+  > Love is like quicksilver in the hand. Leave the fingers open and it stays. Clutch it and it darts away.
+  > 爱情就如手中的水银。张开手指，它就留在手中；一旦攥紧，它就飞快离开。
 
 * 有道词典
-  > Education is not the filling of a pail, but the lighting of a fire.
-  > 教育不是往桶里灌水，而是把火点燃。
+  > Whatever the mind of man can conceive and believe, it can achieve.
+  > 人的心智所能构想和相信的，它就能实现。
 
 ```
