@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-11已更新 
+2026-09-12已更新 
 ```
 * 金山词霸
-  > Curiosity makes ordinary work feel brand new.
-  > 好奇能让平常的工作，也焕然一新。
+  > Shared laughter makes the long road feel easy.
+  > 一同笑过，长路也显得轻松。
 
 * 扇贝单词
-  > Love is like quicksilver in the hand. Leave the fingers open and it stays. Clutch it and it darts away.
-  > 爱情就如手中的水银。张开手指，它就留在手中；一旦攥紧，它就飞快离开。
+  > There is a pleasure in the pathless woods; there is a rapture on the lonely shore.
+  > 无径之林，常有乐趣；无人之岸，几多欢喜。
 
 * 有道词典
-  > Whatever the mind of man can conceive and believe, it can achieve.
-  > 人的心智所能构想和相信的，它就能实现。
+  > A great man is always willing to be little.
+  > 真正伟大的人，总是甘愿渺小。
 
 ```
