@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-12已更新 
+2026-09-13已更新 
 ```
 * 金山词霸
-  > Shared laughter makes the long road feel easy.
-  > 一同笑过，长路也显得轻松。
+  > Old songs return when evening grows still.
+  > 夜静下来，旧歌就会回来。
 
 * 扇贝单词
-  > There is a pleasure in the pathless woods; there is a rapture on the lonely shore.
-  > 无径之林，常有乐趣；无人之岸，几多欢喜。
+  > If you would be loved, love, and be loveable.
+  > 如果你想要被爱，就要去爱，并要让自己值得被爱。
 
 * 有道词典
-  > A great man is always willing to be little.
-  > 真正伟大的人，总是甘愿渺小。
+  > The young man knows the rules, but the old man knows the exceptions.
+  > 年轻人知道规则，但老人知道例外。
 
 ```
