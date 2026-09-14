@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-13已更新 
+2026-09-14已更新 
 ```
 * 金山词霸
-  > Old songs return when evening grows still.
-  > 夜静下来，旧歌就会回来。
+  > Do what you love, and the hours grow light.
+  > 做你热爱的事，时光也会变轻。
 
 * 扇贝单词
-  > If you would be loved, love, and be loveable.
-  > 如果你想要被爱，就要去爱，并要让自己值得被爱。
+  > Winners lose more than losers, because they stay in the game.
+  > 胜利者比失败者输得场次更多，因为他们一直留在赛场上。
 
 * 有道词典
-  > The young man knows the rules, but the old man knows the exceptions.
-  > 年轻人知道规则，但老人知道例外。
+  > The difference between ordinary and extraordinary is that little extra.
+  > 平凡和非凡之间的区别，就在于那一点"额外"。
 
 ```
