@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-14已更新 
+2026-09-15已更新 
 ```
 * 金山词霸
-  > Do what you love, and the hours grow light.
-  > 做你热爱的事，时光也会变轻。
+  > A kind word can turn a hard hour around.
+  > 一句善意的话，能让难熬的一小时好转。
 
 * 扇贝单词
-  > Winners lose more than losers, because they stay in the game.
-  > 胜利者比失败者输得场次更多，因为他们一直留在赛场上。
+  > Obstacles cannot crush me. Every obstacle yields to stern resolve.
+  > 障碍压垮不了我，在我坚定的决心面前，一切障碍都会让步。
 
 * 有道词典
-  > The difference between ordinary and extraordinary is that little extra.
-  > 平凡和非凡之间的区别，就在于那一点"额外"。
+  > If I have seen further, it is by standing on the shoulders of giants.
+  > 如果我看得更远，那是因为我站在了巨人的肩膀上。
 
 ```
