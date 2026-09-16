@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-15已更新 
+2026-09-16已更新 
 ```
 * 金山词霸
-  > A kind word can turn a hard hour around.
-  > 一句善意的话，能让难熬的一小时好转。
+  > Tread softly because you tread on my dreams.
+  > 轻轻走，因为你踏着我的梦。
 
 * 扇贝单词
-  > Obstacles cannot crush me. Every obstacle yields to stern resolve.
-  > 障碍压垮不了我，在我坚定的决心面前，一切障碍都会让步。
+  > If you saturate your mind with positive thoughts, it will sustain you in any situation.
+  > 让大脑装满积极的想法，能支撑你度过任何境遇。
 
 * 有道词典
-  > If I have seen further, it is by standing on the shoulders of giants.
-  > 如果我看得更远，那是因为我站在了巨人的肩膀上。
+  > It is better to be roughly right than precisely wrong.
+  > 大致正确，胜过精确地犯错。
 
 ```
