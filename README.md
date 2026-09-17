@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-16已更新 
+2026-09-17已更新 
 ```
 * 金山词霸
-  > Tread softly because you tread on my dreams.
-  > 轻轻走，因为你踏着我的梦。
+  > Warm bread on the table feels like home.
+  > 桌上的热面包，闻起来像家。
 
 * 扇贝单词
-  > If you saturate your mind with positive thoughts, it will sustain you in any situation.
-  > 让大脑装满积极的想法，能支撑你度过任何境遇。
+  > No matter what people tell you, words and ideas can change the world.
+  > 不论别人怎么说，言语和想法能改变世界。
 
 * 有道词典
-  > It is better to be roughly right than precisely wrong.
-  > 大致正确，胜过精确地犯错。
+  > Somewhere, something incredible is waiting to be known.
+  > 在某个地方，有某种不可思议的事物正等待着被发现。
 
 ```
