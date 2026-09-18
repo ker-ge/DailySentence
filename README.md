@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-17已更新 
+2026-09-18已更新 
 ```
 * 金山词霸
-  > Warm bread on the table feels like home.
-  > 桌上的热面包，闻起来像家。
+  > We speak much less, yet we understand much more.
+  > 我们说得更少，却懂得更多。
 
 * 扇贝单词
-  > No matter what people tell you, words and ideas can change the world.
-  > 不论别人怎么说，言语和想法能改变世界。
+  > One loves the sunset when one is so sad.
+  > 当一个人情绪低落的时候，他会格外喜欢看日落。
 
 * 有道词典
-  > Somewhere, something incredible is waiting to be known.
-  > 在某个地方，有某种不可思议的事物正等待着被发现。
+  > Truth is on the side of the oppressed.
+  > 真相站在被压迫者的那一边。
 
 ```
