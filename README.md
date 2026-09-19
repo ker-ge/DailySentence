@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-18已更新 
+2026-09-19已更新 
 ```
 * 金山词霸
-  > We speak much less, yet we understand much more.
-  > 我们说得更少，却懂得更多。
+  > Small thanks make big joy.  
+  > 小小的感恩，带来大大的快乐。  
 
 * 扇贝单词
-  > One loves the sunset when one is so sad.
-  > 当一个人情绪低落的时候，他会格外喜欢看日落。
+  > Progress is the activity of today and the assurance of tomorrow.
+  > 进步是今天的动力、明日的保证。
 
 * 有道词典
-  > Truth is on the side of the oppressed.
-  > 真相站在被压迫者的那一边。
+  > We never know the worth of water till the well is dry.
+  > 井干方知水可贵。
 
 ```
