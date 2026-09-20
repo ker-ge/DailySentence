@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-19已更新 
+2026-09-20已更新 
 ```
 * 金山词霸
-  > Small thanks make big joy.  
-  > 小小的感恩，带来大大的快乐。  
+  > Rain on the window makes the room feel safe.
+  > 雨打在窗上，房间也显得安稳。
 
 * 扇贝单词
-  > Progress is the activity of today and the assurance of tomorrow.
-  > 进步是今天的动力、明日的保证。
+  > For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness.
+  > 若想拥有美丽的双眸，请寻找他人的优点；若想拥有漂亮的双唇，请出言善良。
 
 * 有道词典
-  > We never know the worth of water till the well is dry.
-  > 井干方知水可贵。
+  > A rejection is nothing more than a necessary step in the pursuit of success.
+  > 被拒绝，不过是追求成功路上的一个必经台阶。
 
 ```
