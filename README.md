@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-20已更新 
+2026-09-21已更新 
 ```
 * 金山词霸
-  > Rain on the window makes the room feel safe.
-  > 雨打在窗上，房间也显得安稳。
+  > Brevity is the soul of wit.
+  > 简洁是智慧的灵魂。
 
 * 扇贝单词
-  > For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness.
-  > 若想拥有美丽的双眸，请寻找他人的优点；若想拥有漂亮的双唇，请出言善良。
+  > Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+  > 善良比智慧重要，承认这一点，才是智慧的开始。
 
 * 有道词典
-  > A rejection is nothing more than a necessary step in the pursuit of success.
-  > 被拒绝，不过是追求成功路上的一个必经台阶。
+  > No one can dim the light that shines from within.
+  > 没有人能熄灭你内心深处发出的光。
 
 ```
