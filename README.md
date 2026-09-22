@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-21已更新 
+2026-09-22已更新 
 ```
 * 金山词霸
-  > Brevity is the soul of wit.
-  > 简洁是智慧的灵魂。
+  > Balance lives between the rush and the rest.
+  > 平衡，住在忙碌与休息之间。
 
 * 扇贝单词
-  > Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
-  > 善良比智慧重要，承认这一点，才是智慧的开始。
+  > The only safe thing is to take a chance.
+  > 唯一稳妥的事是去冒险一试。
 
 * 有道词典
-  > No one can dim the light that shines from within.
-  > 没有人能熄灭你内心深处发出的光。
+  > A crow is no whiter for being washed.
+  > 乌鸦不会因为被洗过就变白。
 
 ```
