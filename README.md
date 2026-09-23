@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-22已更新 
+2026-09-23已更新 
 ```
 * 金山词霸
-  > Balance lives between the rush and the rest.
-  > 平衡，住在忙碌与休息之间。
+  > Day and night stand equal, calm and clear.
+  > 昼夜等长，平静而清澈。
 
 * 扇贝单词
-  > The only safe thing is to take a chance.
-  > 唯一稳妥的事是去冒险一试。
+  > I truly believe there's always a solution to every problem.
+  > 我确信，每个问题都有解决方案。
 
 * 有道词典
-  > A crow is no whiter for being washed.
-  > 乌鸦不会因为被洗过就变白。
+  > The harvest fills the barn and empties the field.
+  > 丰收填满了粮仓，也掏空了田野。
 
 ```
