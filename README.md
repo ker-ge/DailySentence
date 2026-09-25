@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-24已更新 
+2026-09-25已更新 
 ```
 * 金山词霸
-  > Write one short letter to someone you miss.
-  > 给想念的人，写一封短短的信。
+  > The full moon brings distant hearts back home.
+  > 圆月把远方的心，带回家里。
 
 * 扇贝单词
-  > Forever is composed of nows.
-  > 永恒是由每一个当下组成的。
+  > If you don't value your time, neither will others.
+  > 如果你不珍惜自己的时间，别人也不会珍惜。
 
 * 有道词典
-  > He who has a why to live can bear almost any how.
-  > 一个知道自己为何而活的人，几乎可以承受任何活法。
+  > The fullest moon rises from the deepest dark.
+  > 最圆满的月亮升起于最深沉的夜色。
 
 ```
