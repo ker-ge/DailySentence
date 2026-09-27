@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-26已更新 
+2026-09-27已更新 
 ```
 * 金山词霸
-  > Seeds grow in quiet soil.  
-  > 种子在寂静的泥土里生长。  
+  > Small habits, done daily, quietly change a year.
+  > 每天做的小习惯，会悄悄改变一年。
 
 * 扇贝单词
-  > An ounce of action is worth a ton of theory.
-  > 一盎司的行动，价值相当于一吨的理论。
+  > Discovery consists of seeing what everybody has seen and thinking what nobody has thought.
+  > 要有所发现，就要见别人见过的，想没人想过的。
 
 * 有道词典
-  > Madness is like gravity, all it takes is a little push.
-  > 疯狂就像地心引力，所需要的只是轻轻一推。
+  > You could not discover the limits of the soul, even if you traveled every road.
+  > 你无法找到灵魂的边界，哪怕你走遍每一条路。
 
 ```
