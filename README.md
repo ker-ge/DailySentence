@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-27已更新 
+2026-09-28已更新 
 ```
 * 金山词霸
-  > Small habits, done daily, quietly change a year.
-  > 每天做的小习惯，会悄悄改变一年。
+  > The world is too much with us.
+  > 这世界与我们纠缠得太深。
 
 * 扇贝单词
-  > Discovery consists of seeing what everybody has seen and thinking what nobody has thought.
-  > 要有所发现，就要见别人见过的，想没人想过的。
+  > Within our dreams and aspirations we find our opportunities.
+  > 我们会在梦想和抱负里找到机会。
 
 * 有道词典
-  > You could not discover the limits of the soul, even if you traveled every road.
-  > 你无法找到灵魂的边界，哪怕你走遍每一条路。
+  > The best thing one can do when it's raining is to let it rain.
+  > 下雨天，你能做的最好的事，就是由它去下。
 
 ```
