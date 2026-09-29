@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-28已更新 
+2026-09-29已更新 
 ```
 * 金山词霸
-  > The world is too much with us.
-  > 这世界与我们纠缠得太深。
+  > Keep one true task close to your hands.
+  > 把一件真正要做的事，留在手边。
 
 * 扇贝单词
-  > Within our dreams and aspirations we find our opportunities.
-  > 我们会在梦想和抱负里找到机会。
+  > There’s nothing more inspiring than the complexity and beauty of the human heart.
+  > 没有什么比人类心灵的复杂与美丽更能鼓舞人心的了。
 
 * 有道词典
-  > The best thing one can do when it's raining is to let it rain.
-  > 下雨天，你能做的最好的事，就是由它去下。
+  > If you gaze long into an abyss, the abyss will also gaze into you.
+  > 当你长久凝视深渊时，深渊也在凝视你。
 
 ```
