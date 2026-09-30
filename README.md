@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-29已更新 
+2026-09-30已更新 
 ```
 * 金山词霸
-  > Keep one true task close to your hands.
-  > 把一件真正要做的事，留在手边。
+  > We close the month with thanks, not haste.
+  > 我们用感谢，而不是匆忙，结束这个月。
 
 * 扇贝单词
-  > There’s nothing more inspiring than the complexity and beauty of the human heart.
-  > 没有什么比人类心灵的复杂与美丽更能鼓舞人心的了。
+  > I was always looking outside myself for strength and confidence, but it comes from within. It is there all the time.
+  > 我曾总是向自我之外寻找力量与自信，但其实它来自于我自身，始终如此。
 
 * 有道词典
-  > If you gaze long into an abyss, the abyss will also gaze into you.
-  > 当你长久凝视深渊时，深渊也在凝视你。
+  > Genius is one percent inspiration and ninety-nine percent perspiration.
+  > 天才是百分之一的灵感，加上百分之九十九的汗水。
 
 ```
