@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-09-30已更新 
+2026-10-01已更新 
 ```
 * 金山词霸
-  > We close the month with thanks, not haste.
-  > 我们用感谢，而不是匆忙，结束这个月。
+  > Red flags wave, hearts unite. 
+  > 红旗飘扬，万众一心。
 
 * 扇贝单词
-  > I was always looking outside myself for strength and confidence, but it comes from within. It is there all the time.
-  > 我曾总是向自我之外寻找力量与自信，但其实它来自于我自身，始终如此。
+  > Sometimes you have to travel a long way to find what is near.
+  > 有时候，要走很远才能发现，是什么一直陪伴在身边。
 
 * 有道词典
-  > Genius is one percent inspiration and ninety-nine percent perspiration.
-  > 天才是百分之一的灵感，加上百分之九十九的汗水。
+  > Flags rise because someone once refused to kneel.
+  > 旗帜升起，因为曾有人拒绝跪下。
 
 ```
