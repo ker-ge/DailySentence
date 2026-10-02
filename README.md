@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-01已更新 
+2026-10-02已更新 
 ```
 * 金山词霸
-  > Red flags wave, hearts unite. 
-  > 红旗飘扬，万众一心。
+  > Firmly hold mission in mind.
+  > 我们牢记使命。
 
 * 扇贝单词
-  > Sometimes you have to travel a long way to find what is near.
-  > 有时候，要走很远才能发现，是什么一直陪伴在身边。
+  > We love the things we love for what they are.
+  > 我们热爱那些事物，是因为热爱它们原本的样子。
 
 * 有道词典
-  > Flags rise because someone once refused to kneel.
-  > 旗帜升起，因为曾有人拒绝跪下。
+  > October is a symphony of permanence and change.
+  > 十月是一首关于永恒与改变的交响曲。
 
 ```
