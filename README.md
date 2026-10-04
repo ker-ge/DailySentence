@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-03已更新 
+2026-10-04已更新 
 ```
 * 金山词霸
-  > The moon leans on my windowsill tonight.
-  > 今晚，月亮倚在我的窗台上。
+  > Every creature carries its own small light.
+  > 每个生灵，都带着自己的微光。
 
 * 扇贝单词
-  > One of the most important things you can do on this earth is to let people know they are not alone.
-  > 在这个世界上，你所能做的最重要的事情之一，就是让别人知道他们并不孤单。
+  > The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+  > 我所知的最大乐趣是，暗中行善举，但又偶然间为人所知。
 
 * 有道词典
-  > Tears are words that need to be written.
-  > 眼泪是需要被写下的文字。
+  > A ship in harbor is safe, but that is not what ships are built for.
+  > 船泊港湾固然安全，但那不是造船的目的。
 
 ```
