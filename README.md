@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-04已更新 
+2026-10-05已更新 
 ```
 * 金山词霸
-  > Every creature carries its own small light.
-  > 每个生灵，都带着自己的微光。
+  > Slow mornings make the whole day feel longer.
+  > 不慌不忙的清晨，让一整天都变得悠长。
 
 * 扇贝单词
-  > The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
-  > 我所知的最大乐趣是，暗中行善举，但又偶然间为人所知。
+  > If opportunity doesn't knock, build a door.
+  > 如果机会没有来敲门，那就自己盖个门。
 
 * 有道词典
-  > A ship in harbor is safe, but that is not what ships are built for.
-  > 船泊港湾固然安全，但那不是造船的目的。
+  > We are all just prisoners of our own random thoughts.
+  > 我们都只是自己飘忽思绪的囚徒。
 
 ```
