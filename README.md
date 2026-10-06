@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-05已更新 
+2026-10-06已更新 
 ```
 * 金山词霸
-  > Slow mornings make the whole day feel longer.
-  > 不慌不忙的清晨，让一整天都变得悠长。
+  > Leaves let go, and the trees stand taller.
+  > 叶子放手了，树却站得更挺拔。
 
 * 扇贝单词
-  > If opportunity doesn't knock, build a door.
-  > 如果机会没有来敲门，那就自己盖个门。
+  > You cannot explore the universe if you think that you are the center of it.
+  > 若把自己当作宇宙的中心，就无法对宇宙进行探索。
 
 * 有道词典
-  > We are all just prisoners of our own random thoughts.
-  > 我们都只是自己飘忽思绪的囚徒。
+  > Keep a little fire burning, however small, however hidden.
+  > 让一小簇火焰继续燃烧，无论多微弱，无论多隐秘。
 
 ```
