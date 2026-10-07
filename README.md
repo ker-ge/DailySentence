@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-06已更新 
+2026-10-07已更新 
 ```
 * 金山词霸
-  > Leaves let go, and the trees stand taller.
-  > 叶子放手了，树却站得更挺拔。
+  > Wherever you go, your courage goes with you.
+  > 无论去哪里，勇气都与你同行。
 
 * 扇贝单词
-  > You cannot explore the universe if you think that you are the center of it.
-  > 若把自己当作宇宙的中心，就无法对宇宙进行探索。
+  > You have to have confidence in your ability, and then be tough enough to follow through.
+  > 你要对自己的能力有信心，然后保持坚强、坚持到底。
 
 * 有道词典
-  > Keep a little fire burning, however small, however hidden.
-  > 让一小簇火焰继续燃烧，无论多微弱，无论多隐秘。
+  > It is a brutal thing to be loved without knowing it.
+  > 被人所爱却浑然不觉，是一件残酷的事。
 
 ```
