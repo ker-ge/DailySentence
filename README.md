@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-07已更新 
+2026-10-08已更新 
 ```
 * 金山词霸
-  > Wherever you go, your courage goes with you.
-  > 无论去哪里，勇气都与你同行。
+  > Cold dew wets the grass, and autumn deepens its voice.
+  > 寒露打湿了草，秋天深沉了嗓音。
 
 * 扇贝单词
-  > You have to have confidence in your ability, and then be tough enough to follow through.
-  > 你要对自己的能力有信心，然后保持坚强、坚持到底。
+  > It is said the feeling called happiness cannot be known alone.
+  > 听说，有种叫幸福的感觉无法独享。
 
 * 有道词典
-  > It is a brutal thing to be loved without knowing it.
-  > 被人所爱却浑然不觉，是一件残酷的事。
+  > Every leaf speaks bliss to me, fluttering from the autumn tree.
+  > 每一片离枝的秋叶，都对我说着幸福的话语。
 
 ```
