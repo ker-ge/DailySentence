@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-08已更新 
+2026-10-09已更新 
 ```
 * 金山词霸
-  > Cold dew wets the grass, and autumn deepens its voice.
-  > 寒露打湿了草，秋天深沉了嗓音。
+  > A good book is a door you can open anywhere.
+  > 好书是一扇随处可开的门。
 
 * 扇贝单词
-  > It is said the feeling called happiness cannot be known alone.
-  > 听说，有种叫幸福的感觉无法独享。
+  > It is better to fail in originality than to succeed in imitation.
+  > 宁可在创新中失败，也不要在模仿中成功。
 
 * 有道词典
-  > Every leaf speaks bliss to me, fluttering from the autumn tree.
-  > 每一片离枝的秋叶，都对我说着幸福的话语。
+  > The quieter you become, the more you are able to hear.
+  > 你越安静，能听到的就越多。
 
 ```
