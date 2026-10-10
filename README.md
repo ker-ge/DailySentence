@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-09已更新 
+2026-10-10已更新 
 ```
 * 金山词霸
-  > A good book is a door you can open anywhere.
-  > 好书是一扇随处可开的门。
+  > Rivers never argue with the stones; they simply move on.
+  > 江河不与石头争辩，只管向前流淌。
 
 * 扇贝单词
-  > It is better to fail in originality than to succeed in imitation.
-  > 宁可在创新中失败，也不要在模仿中成功。
+  > Change your thoughts and you change your world.
+  > 改变你的想法，就是改变了你的世界。
 
 * 有道词典
-  > The quieter you become, the more you are able to hear.
-  > 你越安静，能听到的就越多。
+  > The marrow of our bones remembers what our minds have tried to forget.
+  > 我们骨髓深处记得那些大脑试图遗忘的东西。
 
 ```
