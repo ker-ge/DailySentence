@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-10已更新 
+2026-10-11已更新 
 ```
 * 金山词霸
-  > Rivers never argue with the stones; they simply move on.
-  > 江河不与石头争辩，只管向前流淌。
+  > The best memories are made around a full table.
+  > 最好的回忆，总在满满的餐桌旁。
 
 * 扇贝单词
-  > Change your thoughts and you change your world.
-  > 改变你的想法，就是改变了你的世界。
+  > It is difficult to free fools from the chains they revere.
+  > 很难使傻瓜摆脱他们所崇尚的束缚。
 
 * 有道词典
-  > The marrow of our bones remembers what our minds have tried to forget.
-  > 我们骨髓深处记得那些大脑试图遗忘的东西。
+  > I'm not scared of death, I'm scared of not having lived.
+  > 我不怕死亡，我怕的是没有真正活过。
 
 ```
