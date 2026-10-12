@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-11已更新 
+2026-10-12已更新 
 ```
 * 金山词霸
-  > The best memories are made around a full table.
-  > 最好的回忆，总在满满的餐桌旁。
+  > Small steps, taken daily, become a long road traveled.
+  > 每天一小步，走过就是长路。
 
 * 扇贝单词
-  > It is difficult to free fools from the chains they revere.
-  > 很难使傻瓜摆脱他们所崇尚的束缚。
+  > Only those who risk going too far can possibly find out how far they can go.
+  > 唯有那些敢于冒险大步向前的人，才能够了解自己能走多远。
 
 * 有道词典
-  > I'm not scared of death, I'm scared of not having lived.
-  > 我不怕死亡，我怕的是没有真正活过。
+  > If you look for perfection, you'll never be content.
+  > 如果你追求完美，你将永远无法满足。
 
 ```
