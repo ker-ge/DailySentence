@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-12已更新 
+2026-10-13已更新 
 ```
 * 金山词霸
-  > Small steps, taken daily, become a long road traveled.
-  > 每天一小步，走过就是长路。
+  > Your kindness may be someone's whole sunshine today.
+  > 你的善意，也许正是别人今天全部的阳光。
 
 * 扇贝单词
-  > Only those who risk going too far can possibly find out how far they can go.
-  > 唯有那些敢于冒险大步向前的人，才能够了解自己能走多远。
+  > When two people love each other, they don't look at each other, they look in the same direction.
+  > 两人相爱时，他们不会对视，而是会看向同一个方向。
 
 * 有道词典
-  > If you look for perfection, you'll never be content.
-  > 如果你追求完美，你将永远无法满足。
+  > You must never be fearful about what you are doing when it is right.
+  > 当你做的是正确的事时，绝不要害怕。
 
 ```
