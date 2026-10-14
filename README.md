@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-13已更新 
+2026-10-14已更新 
 ```
 * 金山词霸
-  > Your kindness may be someone's whole sunshine today.
-  > 你的善意，也许正是别人今天全部的阳光。
+  > Mist rolls over the hills like a slow song.
+  > 雾漫过山丘，像一首舒缓的歌。
 
 * 扇贝单词
-  > When two people love each other, they don't look at each other, they look in the same direction.
-  > 两人相爱时，他们不会对视，而是会看向同一个方向。
+  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
+  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
 
 * 有道词典
-  > You must never be fearful about what you are doing when it is right.
-  > 当你做的是正确的事时，绝不要害怕。
+  > You were born to break out of the box they put you in.
+  > 你生来就是要冲破他人给你设下的条条框框。
 
 ```
