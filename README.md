@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-14已更新 
+2026-10-15已更新 
 ```
 * 金山词霸
-  > Mist rolls over the hills like a slow song.
-  > 雾漫过山丘，像一首舒缓的歌。
+  > Choose the harder right instead of the easier wrong.
+  > 选择更难的正确，而非更容易的错误。
 
 * 扇贝单词
-  > Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose — it teaches you about life.
-  > 体育塑造你的性格，教会你遵守规则，让你体会输赢——它教会你生活。
+  > Don't compare your life to others. You have no idea what they have been through.
+  > 不要和别人比生活，你不知道他们经历了什么。
 
 * 有道词典
-  > You were born to break out of the box they put you in.
-  > 你生来就是要冲破他人给你设下的条条框框。
+  > I would always rather be happy than dignified.
+  > 我宁愿快乐，也不愿体面。
 
 ```
