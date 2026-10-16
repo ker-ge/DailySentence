@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-15已更新 
+2026-10-16已更新 
 ```
 * 金山词霸
-  > Choose the harder right instead of the easier wrong.
-  > 选择更难的正确，而非更容易的错误。
+  > Bread tastes better when it is shared.
+  > 一起分享的面包，格外香甜。
 
 * 扇贝单词
-  > Don't compare your life to others. You have no idea what they have been through.
-  > 不要和别人比生活，你不知道他们经历了什么。
+  > Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+  > 永远要做第一流的自己，而不是第二流的他人。
 
 * 有道词典
-  > I would always rather be happy than dignified.
-  > 我宁愿快乐，也不愿体面。
+  > I pick up the pieces of my broken heart and make a mosaic.
+  > 我拾起破碎之心的碎片，把它做成一幅马赛克拼贴画。
 
 ```
