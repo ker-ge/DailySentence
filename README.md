@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-16已更新 
+2026-10-17已更新 
 ```
 * 金山词霸
-  > Bread tastes better when it is shared.
-  > 一起分享的面包，格外香甜。
+  > Stars are the night's way of saying keep going.
+  > 星星是夜空在说：请继续前行。
 
 * 扇贝单词
-  > Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
-  > 永远要做第一流的自己，而不是第二流的他人。
+  > Hard work beats talent when talent fails to work hard.
+  > 有天分却不努力，就会被努力的人击败。
 
 * 有道词典
-  > I pick up the pieces of my broken heart and make a mosaic.
-  > 我拾起破碎之心的碎片，把它做成一幅马赛克拼贴画。
+  > The nameless people are the ones who carry the world on their backs.
+  > 无名之辈，正是以脊背托起世界的人。
 
 ```
