@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-17已更新 
+2026-10-18已更新 
 ```
 * 金山词霸
-  > Stars are the night's way of saying keep going.
-  > 星星是夜空在说：请继续前行。
+  > Climb high today, and think of those who wait at home.
+  > 今日登高处，也念家中人。
 
 * 扇贝单词
-  > Hard work beats talent when talent fails to work hard.
-  > 有天分却不努力，就会被努力的人击败。
+  > Optimism is the one quality more associated with success and happiness than any other.
+  > 与其他品质相比，乐观更能让你获得成功和幸福。
 
 * 有道词典
-  > The nameless people are the ones who carry the world on their backs.
-  > 无名之辈，正是以脊背托起世界的人。
+  > We climb not to escape the world but to see it whole.
+  > 我们登高，不是为了逃离世界，而是为了看见它的全貌。
 
 ```
