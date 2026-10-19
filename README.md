@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-18已更新 
+2026-10-19已更新 
 ```
 * 金山词霸
-  > Climb high today, and think of those who wait at home.
-  > 今日登高处，也念家中人。
+  > A candle loses nothing by lighting another candle.
+  > 蜡烛点亮另一支，自己并不损失什么。
 
 * 扇贝单词
-  > Optimism is the one quality more associated with success and happiness than any other.
-  > 与其他品质相比，乐观更能让你获得成功和幸福。
+  > Definiteness of purpose is the starting point of all achievement.
+  > 目标明确是一切成功的起点。
 
 * 有道词典
-  > We climb not to escape the world but to see it whole.
-  > 我们登高，不是为了逃离世界，而是为了看见它的全貌。
+  > Nature was here something savage and awful, though beautiful.
+  > 这里的大自然虽美，却也野性十足，令人畏惧。
 
 ```
