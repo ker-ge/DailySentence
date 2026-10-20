@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-19已更新 
+2026-10-20已更新 
 ```
 * 金山词霸
-  > A candle loses nothing by lighting another candle.
-  > 蜡烛点亮另一支，自己并不损失什么。
+  > The wind reads every leaf before it falls.
+  > 风在每片叶子落下前，都读过它。
 
 * 扇贝单词
-  > Definiteness of purpose is the starting point of all achievement.
-  > 目标明确是一切成功的起点。
+  > To be what we are, and to become what we are capable of becoming, is the only end of life.
+  > 做我们自己，并成为我们所能成为的人，是人生唯一的目的。
 
 * 有道词典
-  > Nature was here something savage and awful, though beautiful.
-  > 这里的大自然虽美，却也野性十足，令人畏惧。
+  > Although the world is full of suffering, it is full also of the overcoming of it.
+  > 世界虽然充满苦难，但也充满了对苦难的克服。
 
 ```
