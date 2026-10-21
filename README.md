@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-20已更新 
+2026-10-21已更新 
 ```
 * 金山词霸
-  > The wind reads every leaf before it falls.
-  > 风在每片叶子落下前，都读过它。
+  > Say thank you to the small things today.
+  > 今天，对身边的小事说声谢谢。
 
 * 扇贝单词
-  > To be what we are, and to become what we are capable of becoming, is the only end of life.
-  > 做我们自己，并成为我们所能成为的人，是人生唯一的目的。
+  > Good manners and soft words have brought many a difficult thing to pass.
+  > 礼貌的行为和温柔的话语会让很多难题迎刃而解。
 
 * 有道词典
-  > Although the world is full of suffering, it is full also of the overcoming of it.
-  > 世界虽然充满苦难，但也充满了对苦难的克服。
+  > All we have to decide is what to do with the time that is given us.
+  > 我们所要决定的，就是如何利用给予我们的时间。
 
 ```
