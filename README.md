@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-21已更新 
+2026-10-22已更新 
 ```
 * 金山词霸
-  > Say thank you to the small things today.
-  > 今天，对身边的小事说声谢谢。
+  > Rain on the roof is the sky's lullaby.
+  > 雨打屋檐，是天空的摇篮曲。
 
 * 扇贝单词
-  > Good manners and soft words have brought many a difficult thing to pass.
-  > 礼貌的行为和温柔的话语会让很多难题迎刃而解。
+  > One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+  > 只要一个人透过爱、友谊、义愤或怜悯，使他人的生活变美好，他的生命就有价值。
 
 * 有道词典
-  > All we have to decide is what to do with the time that is given us.
-  > 我们所要决定的，就是如何利用给予我们的时间。
+  > Words are, of course, the most powerful drug used by mankind.
+  > 语言当然是人类所使用的最强效的药物。
 
 ```
