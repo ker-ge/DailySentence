@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-22已更新 
+2026-10-23已更新 
 ```
 * 金山词霸
-  > Rain on the roof is the sky's lullaby.
-  > 雨打屋檐，是天空的摇篮曲。
+  > Frost is coming, yet the persimmons hang like lanterns.
+  > 霜要来了，柿子却像灯笼一样挂着。
 
 * 扇贝单词
-  > One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
-  > 只要一个人透过爱、友谊、义愤或怜悯，使他人的生活变美好，他的生命就有价值。
+  > People are lonely because they build walls instead of bridges.
+  > 人们感到孤独，是因为他们为自己修起了围墙而不是桥梁。
 
 * 有道词典
-  > Words are, of course, the most powerful drug used by mankind.
-  > 语言当然是人类所使用的最强效的药物。
+  > Happiness cannot be pursued, it must ensue.
+  > 幸福不可强求，只能随之而生。
 
 ```
