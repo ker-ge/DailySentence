@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-23已更新 
+2026-10-24已更新 
 ```
 * 金山词霸
-  > Frost is coming, yet the persimmons hang like lanterns.
-  > 霜要来了，柿子却像灯笼一样挂着。
+  > Grow through what you go through. 
+  > 穿越困境，得以成长。
 
 * 扇贝单词
-  > People are lonely because they build walls instead of bridges.
-  > 人们感到孤独，是因为他们为自己修起了围墙而不是桥梁。
+  > Blessed are the hearts that can bend; they shall never be broken.
+  > 能够弯曲的心灵是幸运的，因为它永远不会破碎。
 
 * 有道词典
-  > Happiness cannot be pursued, it must ensue.
-  > 幸福不可强求，只能随之而生。
+  > Those who cannot remember the past are condemned to repeat it.
+  > 不能铭记过去的人，注定要重蹈覆辙。
 
 ```
