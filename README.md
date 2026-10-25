@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-24已更新 
+2026-10-25已更新 
 ```
 * 金山词霸
-  > Grow through what you go through. 
-  > 穿越困境，得以成长。
+  > Patience is bitter, but its fruit is sweet.
+  > 忍耐是苦涩的，但它的果实是甜的。
 
 * 扇贝单词
-  > Blessed are the hearts that can bend; they shall never be broken.
-  > 能够弯曲的心灵是幸运的，因为它永远不会破碎。
+  > Growth is the only evidence of life.
+  > 成长是生命的唯一证据。
 
 * 有道词典
-  > Those who cannot remember the past are condemned to repeat it.
-  > 不能铭记过去的人，注定要重蹈覆辙。
+  > The heart is an arrow, it demands aim to land true.
+  > 人心如箭，唯有认准方向，才能抵达所向之处。
 
 ```
