@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-25已更新 
+2026-10-26已更新 
 ```
 * 金山词霸
-  > Patience is bitter, but its fruit is sweet.
-  > 忍耐是苦涩的，但它的果实是甜的。
+  > Old streets hold the warmest stories.
+  > 老街藏着最暖的故事。
 
 * 扇贝单词
-  > Growth is the only evidence of life.
-  > 成长是生命的唯一证据。
+  > You are not beaten until you admit it.
+  > 在你承认之前，你尚未失败。
 
 * 有道词典
-  > The heart is an arrow, it demands aim to land true.
-  > 人心如箭，唯有认准方向，才能抵达所向之处。
+  > You belong everywhere you dream of.
+  > 你属于你梦到的每一个地方
 
 ```
