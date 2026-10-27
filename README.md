@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-26已更新 
+2026-10-27已更新 
 ```
 * 金山词霸
-  > Old streets hold the warmest stories.
-  > 老街藏着最暖的故事。
+  > undefined
+  > undefined
 
 * 扇贝单词
-  > You are not beaten until you admit it.
-  > 在你承认之前，你尚未失败。
+  > Do something wonderful; people may imitate it.
+  > 去做美好的事，人们可能会效仿。
 
 * 有道词典
-  > You belong everywhere you dream of.
-  > 你属于你梦到的每一个地方
+  > Home is where the heart is.
+  > 心在哪里，家就在哪里。
 
 ```
