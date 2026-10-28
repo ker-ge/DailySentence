@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-27已更新 
+2026-10-28已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > Do something wonderful; people may imitate it.
-  > 去做美好的事，人们可能会效仿。
+  > To acquire the habit of reading is to construct for yourself a refuge from almost all the miseries of life.
+  > 养成阅读的习惯，就是给自己建造避难所，抵挡人生几乎所有不幸。
 
 * 有道词典
-  > Home is where the heart is.
-  > 心在哪里，家就在哪里。
+  > Courage is being scared to death, but saddling up anyway.
+  > 勇气就是，即使怕得要死，仍然上马出发。
 
 ```
