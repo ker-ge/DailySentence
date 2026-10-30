@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-29已更新 
+2026-10-30已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > Life is ours to be spent, not to be saved.
-  > 我们的生命应当物尽其用，而非固守保存。
+  > Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.
+  > 相比未有过可称之为失败的努力，坚持不懈之后的失败要伟大得多。
 
 * 有道词典
-  > If there is magic on this planet, it is contained in water.
-  > 如果这个星球上存在魔法，那它一定蕴藏在水里。
+  > The meaning of life is that it ends.
+  > 生命意义在于它会结束。
 
 ```
