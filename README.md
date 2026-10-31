@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-30已更新 
+2026-10-31已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > Failure after long perseverance is much grander than never to have a striving good enough to be called a failure.
-  > 相比未有过可称之为失败的努力，坚持不懈之后的失败要伟大得多。
+  > A plant does not bear fruit without its stem.
+  > 没有茎干，植物就无法结果。
 
 * 有道词典
-  > The meaning of life is that it ends.
-  > 生命意义在于它会结束。
+  > Remember that happiness is a way of travel, not a destination.
+  > 请记住，幸福是一种旅程，而非终点。
 
 ```
