@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-10-31已更新 
+2026-11-01已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > A plant does not bear fruit without its stem.
-  > 没有茎干，植物就无法结果。
+  > Always remember that you are absolutely unique. Just like everyone else.
+  > 永远记住你是独一无二的，就像其他人一样。
 
 * 有道词典
-  > Remember that happiness is a way of travel, not a destination.
-  > 请记住，幸福是一种旅程，而非终点。
+  > And into the forest I go, to lose my mind and find my soul.
+  > 我步入森林，为了迷失心智，找回灵魂。
 
 ```
