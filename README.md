@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-01已更新 
+2026-11-02已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > Always remember that you are absolutely unique. Just like everyone else.
-  > 永远记住你是独一无二的，就像其他人一样。
+  > The only way to have a friend is to be one.
+  > 获得朋友的唯一方法是成为别人的朋友。
 
 * 有道词典
-  > And into the forest I go, to lose my mind and find my soul.
-  > 我步入森林，为了迷失心智，找回灵魂。
+  > The future is a story waiting to be written.
+  > 未来是一个等待被书写的故事。
 
 ```
