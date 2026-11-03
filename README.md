@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-02已更新 
+2026-11-03已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > The only way to have a friend is to be one.
-  > 获得朋友的唯一方法是成为别人的朋友。
+  > The best love is the kind that awakens the soul and makes us reach for more.
+  > 最好的爱，唤醒我们的灵魂，让我们更有追求。
 
 * 有道词典
-  > The future is a story waiting to be written.
-  > 未来是一个等待被书写的故事。
+  > We can take from the past its fires, and not its ashes.
+  > 我们可以从过去取走火焰，而不是灰烬。
 
 ```
