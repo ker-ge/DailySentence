@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-03已更新 
+2026-11-04已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > The best love is the kind that awakens the soul and makes us reach for more.
-  > 最好的爱，唤醒我们的灵魂，让我们更有追求。
+  > Life is the sum of all your choices.
+  > 你做的所有抉择造就了你的人生。
 
 * 有道词典
-  > We can take from the past its fires, and not its ashes.
-  > 我们可以从过去取走火焰，而不是灰烬。
+  > Some people are worth melting for.
+  > 有些人值得为他融化。
 
 ```
