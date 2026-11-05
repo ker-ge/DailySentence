@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-04已更新 
+2026-11-05已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > Life is the sum of all your choices.
-  > 你做的所有抉择造就了你的人生。
+  > Where there is ruin, there is hope for a treasure.
+  > 凡是有废墟的地方，就有可能藏着宝藏。
 
 * 有道词典
-  > Some people are worth melting for.
-  > 有些人值得为他融化。
+  > He who tastes not, knows not.
+  > 未尝其味，不知其真。
 
 ```
