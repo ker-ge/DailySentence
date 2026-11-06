@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-05已更新 
+2026-11-06已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > Where there is ruin, there is hope for a treasure.
-  > 凡是有废墟的地方，就有可能藏着宝藏。
+  > The power of imagination makes us infinite.
+  > 想象力让我们突破极限。
 
 * 有道词典
-  > He who tastes not, knows not.
-  > 未尝其味，不知其真。
+  > Take a look around, none of it can exist, without you.
+  > 环顾四周，如果没有你，这一切都不会存在。
 
 ```
