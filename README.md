@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-06已更新 
+2026-11-07已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > The power of imagination makes us infinite.
-  > 想象力让我们突破极限。
+  > Don't let the noise of others' opinions drown out your own inner voice.
+  > 不要让他人意见的杂音淹没了自己的心声。
 
 * 有道词典
-  > Take a look around, none of it can exist, without you.
-  > 环顾四周，如果没有你，这一切都不会存在。
+  > Some people feel the rain, others just get wet.
+  > 有些人感受雨，另一些人只是被淋湿。
 
 ```
