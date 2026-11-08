@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-07已更新 
+2026-11-08已更新 
 ```
 * 金山词霸
   > undefined
   > undefined
 
 * 扇贝单词
-  > Don't let the noise of others' opinions drown out your own inner voice.
-  > 不要让他人意见的杂音淹没了自己的心声。
+  > Action may not always bring happiness; but there is no happiness without action.
+  > 行动不一定能带来快乐，但不行动一定不能。
 
 * 有道词典
-  > Some people feel the rain, others just get wet.
-  > 有些人感受雨，另一些人只是被淋湿。
+  > A journey is best measured in friends, rather than miles.
+  > 旅程最好用朋友来衡量，而不是英里数。
 
 ```
