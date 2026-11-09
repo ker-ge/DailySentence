@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-08已更新 
+2026-11-09已更新 
 ```
 * 金山词霸
-  > undefined
-  > undefined
+  > Dare to love yourself, like loving the morning sun.
+  > 敢于爱自己，如同爱清晨的太阳。
 
 * 扇贝单词
-  > Action may not always bring happiness; but there is no happiness without action.
-  > 行动不一定能带来快乐，但不行动一定不能。
+  > There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+  > 成功没有诀窍。成功是筹备，苦干以及在失败中汲取教训的结果。
 
 * 有道词典
-  > A journey is best measured in friends, rather than miles.
-  > 旅程最好用朋友来衡量，而不是英里数。
+  > Be a voice, not an echo.
+  > 做声音，而不是回声。
 
 ```
