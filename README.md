@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-09已更新 
+2026-11-10已更新 
 ```
 * 金山词霸
-  > Dare to love yourself, like loving the morning sun.
-  > 敢于爱自己，如同爱清晨的太阳。
+  > Frost paints the sleeping land with patient silver.
+  > 霜耐心地给沉睡的大地刷上银色。
 
 * 扇贝单词
-  > There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
-  > 成功没有诀窍。成功是筹备，苦干以及在失败中汲取教训的结果。
+  > You can't help getting older, but you don't have to get old.
+  > 你无法阻止衰老，但你不一定要变老。
 
 * 有道词典
-  > Be a voice, not an echo.
-  > 做声音，而不是回声。
+  > Birds born in a cage think flying is an illness.
+  > 笼中出生的鸟会认为飞翔是一种病。
 
 ```
