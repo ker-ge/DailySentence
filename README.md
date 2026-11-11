@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-10已更新 
+2026-11-11已更新 
 ```
 * 金山词霸
-  > Frost paints the sleeping land with patient silver.
-  > 霜耐心地给沉睡的大地刷上银色。
+  > The best thing to buy today is a little time for yourself.
+  > 今天最值得买下的，是给自己的一点时间。
 
 * 扇贝单词
-  > You can't help getting older, but you don't have to get old.
-  > 你无法阻止衰老，但你不一定要变老。
+  > I walk slowly, but I never walk backward.
+  > 我走得慢，但从不后退。
 
 * 有道词典
-  > Birds born in a cage think flying is an illness.
-  > 笼中出生的鸟会认为飞翔是一种病。
+  > Where there is a will, there is a way.
+  > 有志者，事竟成。
 
 ```
