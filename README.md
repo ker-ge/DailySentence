@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-11已更新 
+2026-11-12已更新 
 ```
 * 金山词霸
-  > The best thing to buy today is a little time for yourself.
-  > 今天最值得买下的，是给自己的一点时间。
+  > A hot drink in cold hands holds the morning still.
+  > 冷手里捧一杯热饮，清晨就静止了。
 
 * 扇贝单词
-  > I walk slowly, but I never walk backward.
-  > 我走得慢，但从不后退。
+  > There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.
+  > 对于下定决心的人来说，任何机遇、命数或运气都无法阻挠、控制其意志。
 
 * 有道词典
-  > Where there is a will, there is a way.
-  > 有志者，事竟成。
+  > Everything negative, pressure, challenges, is all an opportunity for me to rise.
+  > 所有负面的东西，压力、挑战，对我而言都是崛起的契机。
 
 ```
