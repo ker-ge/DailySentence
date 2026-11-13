@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-12已更新 
+2026-11-13已更新 
 ```
 * 金山词霸
-  > A hot drink in cold hands holds the morning still.
-  > 冷手里捧一杯热饮，清晨就静止了。
+  > Trees sleep deeply and dream of green again.
+  > 树沉睡着，梦见重回绿色。
 
 * 扇贝单词
-  > There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.
-  > 对于下定决心的人来说，任何机遇、命数或运气都无法阻挠、控制其意志。
+  > Vitality shows in not only the ability to persist but the ability to start over.
+  > 顽强的生命力不仅仅体现在坚持的力量，还有重新来过的能力。
 
 * 有道词典
-  > Everything negative, pressure, challenges, is all an opportunity for me to rise.
-  > 所有负面的东西，压力、挑战，对我而言都是崛起的契机。
+  > Keep your eyes on the stars, and your feet on the ground.
+  > 仰望星空，脚踏实地。
 
 ```
