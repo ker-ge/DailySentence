@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-13已更新 
+2026-11-14已更新 
 ```
 * 金山词霸
-  > Trees sleep deeply and dream of green again.
-  > 树沉睡着，梦见重回绿色。
+  > From sadness comes joy, as dead flowers bring blooms.
+  > 悲伤生喜悦，如枯花绽新蕾。
 
 * 扇贝单词
-  > Vitality shows in not only the ability to persist but the ability to start over.
-  > 顽强的生命力不仅仅体现在坚持的力量，还有重新来过的能力。
+  > The difference between stupidity and genius is that genius has its limits.
+  > 愚蠢和天赋的区别在于，天赋是有极限的。
 
 * 有道词典
-  > Keep your eyes on the stars, and your feet on the ground.
-  > 仰望星空，脚踏实地。
+  > The soul would have no rainbow had the eyes no tears.
+  > 若眼睛没有流过泪，灵魂便不会出现彩虹。
 
 ```
