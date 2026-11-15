@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-14已更新 
+2026-11-15已更新 
 ```
 * 金山词霸
-  > From sadness comes joy, as dead flowers bring blooms.
-  > 悲伤生喜悦，如枯花绽新蕾。
+  > The night is long, but so is our list of small joys.
+  > 夜虽长，小欢喜也一样的多。
 
 * 扇贝单词
-  > The difference between stupidity and genius is that genius has its limits.
-  > 愚蠢和天赋的区别在于，天赋是有极限的。
+  > Knowledge is of no value unless you put it into practice.
+  > 只有付诸实践，知识才有价值。
 
 * 有道词典
-  > The soul would have no rainbow had the eyes no tears.
-  > 若眼睛没有流过泪，灵魂便不会出现彩虹。
+  > A sudden burst of anger may ruin a whole life's work.
+  > 须臾之怒，可毁一生之功。
 
 ```
