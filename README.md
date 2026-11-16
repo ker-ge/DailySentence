@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-15已更新 
+2026-11-16已更新 
 ```
 * 金山词霸
-  > The night is long, but so is our list of small joys.
-  > 夜虽长，小欢喜也一样的多。
+  > A short walk can untangle a long worry.
+  > 一次短途散步，能解开一长串烦恼。
 
 * 扇贝单词
-  > Knowledge is of no value unless you put it into practice.
-  > 只有付诸实践，知识才有价值。
+  > How we spend our days is, of course, how we spend our lives.
+  > 我们如何度过每一天，当然也就会如何度过一生。
 
 * 有道词典
-  > A sudden burst of anger may ruin a whole life's work.
-  > 须臾之怒，可毁一生之功。
+  > Try not to become a man of success but rather try to become a man of value.
+  > 不要试图成为一个成功者，要努力成为一个有价值的人。
 
 ```
