@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-16已更新 
+2026-11-17已更新 
 ```
 * 金山词霸
-  > A short walk can untangle a long worry.
-  > 一次短途散步，能解开一长串烦恼。
+  > The north wind sorts the leaves from the strong branches.
+  > 北风把落叶和坚强的枝干分开。
 
 * 扇贝单词
-  > How we spend our days is, of course, how we spend our lives.
-  > 我们如何度过每一天，当然也就会如何度过一生。
+  > The most alluring thing a woman can have is confidence.
+  > 女性的最迷人之处，就是拥有自信。
 
 * 有道词典
-  > Try not to become a man of success but rather try to become a man of value.
-  > 不要试图成为一个成功者，要努力成为一个有价值的人。
+  > We suffer more in imagination than in reality.
+  > 我们想象中的痛苦往往比现实中的痛苦更多。
 
 ```
