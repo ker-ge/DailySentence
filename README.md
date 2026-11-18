@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-17已更新 
+2026-11-18已更新 
 ```
 * 金山词霸
-  > The north wind sorts the leaves from the strong branches.
-  > 北风把落叶和坚强的枝干分开。
+  > Keep a warm pocket and a warmer heart.
+  > 口袋要暖，心要更暖。
 
 * 扇贝单词
-  > The most alluring thing a woman can have is confidence.
-  > 女性的最迷人之处，就是拥有自信。
+  > Difficulties increase the nearer we get to the goal.
+  > 我们越接近目标，就会遇到越多困难。
 
 * 有道词典
-  > We suffer more in imagination than in reality.
-  > 我们想象中的痛苦往往比现实中的痛苦更多。
+  > The earth laughs in flowers.
+  > 大地以花为笑靥。
 
 ```
