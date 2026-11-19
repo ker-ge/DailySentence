@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-18已更新 
+2026-11-19已更新 
 ```
 * 金山词霸
-  > Keep a warm pocket and a warmer heart.
-  > 口袋要暖，心要更暖。
+  > Some doors only open for those who knock again.
+  > 有些门，只肯为再次敲响的人打开。
 
 * 扇贝单词
-  > Difficulties increase the nearer we get to the goal.
-  > 我们越接近目标，就会遇到越多困难。
+  > It has been my observation that most people get ahead during the time that others waste.
+  > 据我观察，大多数人都是在他人浪费光阴时，实现赶超领先的。
 
 * 有道词典
-  > The earth laughs in flowers.
-  > 大地以花为笑靥。
+  > Control your own destiny or someone else will.
+  > 掌控你自己的命运，否则别人就会来掌控。
 
 ```
