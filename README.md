@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-19已更新 
+2026-11-20已更新 
 ```
 * 金山词霸
-  > Some doors only open for those who knock again.
-  > 有些门，只肯为再次敲响的人打开。
+  > Even the longest night ends with a sunrise.
+  > 再长的夜，也会以日出收尾。
 
 * 扇贝单词
-  > It has been my observation that most people get ahead during the time that others waste.
-  > 据我观察，大多数人都是在他人浪费光阴时，实现赶超领先的。
+  > Happiness often sneaks in through a door you didn't know you left open.
+  > 幸福，往往从你不经意间打开的门中不期而至。
 
 * 有道词典
-  > Control your own destiny or someone else will.
-  > 掌控你自己的命运，否则别人就会来掌控。
+  > Hope is a waking dream.
+  > 希望是一场清醒的梦。
 
 ```
