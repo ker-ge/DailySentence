@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-21已更新 
+2026-11-22已更新 
 ```
 * 金山词霸
-  > Gratitude turns what we have into enough.
-  > 感恩让我们拥有的变成足够。
+  > Light snow whispers that the year is folding up.
+  > 小雪轻声说，一年正在合上书页。
 
 * 扇贝单词
-  > Knowledge has to be improved, challenged, and increased constantly, or it vanishes.
-  > 知识需要不断被改进、挑战和积累，否则将不复存在。
+  > He who has a why to live can bear almost any how.
+  > 知生命之意者，可承生命之重。
 
 * 有道词典
-  > Every day is an infinity of possibilities.
-  > 每一天都是无限的可能性。
+  > An honest man is rarely in want of a friend.
+  > 一个诚实的人很少会缺少朋友。
 
 ```
