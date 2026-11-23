@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-22已更新 
+2026-11-23已更新 
 ```
 * 金山词霸
-  > Light snow whispers that the year is folding up.
-  > 小雪轻声说，一年正在合上书页。
+  > A pot of soup warms more than the body.
+  > 一锅热汤，暖的不只是身体。
 
 * 扇贝单词
-  > He who has a why to live can bear almost any how.
-  > 知生命之意者，可承生命之重。
+  > I didn't set out to beat the world; I just set out to do my absolute best.
+  > 我并没有打算打败世界，我只是全力以赴。
 
 * 有道词典
-  > An honest man is rarely in want of a friend.
-  > 一个诚实的人很少会缺少朋友。
+  > A smile cures the wounding of a frown.
+  > 一个微笑能治愈皱眉带来的创伤。
 
 ```
