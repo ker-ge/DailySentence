@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-23已更新 
+2026-11-24已更新 
 ```
 * 金山词霸
-  > A pot of soup warms more than the body.
-  > 一锅热汤，暖的不只是身体。
+  > Your voice deserves the same kindness you give.
+  > 你的声音，也值得你给出的那份善意。
 
 * 扇贝单词
-  > I didn't set out to beat the world; I just set out to do my absolute best.
-  > 我并没有打算打败世界，我只是全力以赴。
+  > Great achievement is usually born of great sacrifice, and is never the result of selfishness.
+  > 伟大的成就大多来自于伟大的牺牲，决不是来自于自私自利。
 
 * 有道词典
-  > A smile cures the wounding of a frown.
-  > 一个微笑能治愈皱眉带来的创伤。
+  > You only live once, but if you do it right, once is enough.
+  > 你只活一次，但如果活得精彩，一次就足够了。
 
 ```
