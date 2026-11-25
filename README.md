@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-24已更新 
+2026-11-25已更新 
 ```
 * 金山词霸
-  > Your voice deserves the same kindness you give.
-  > 你的声音，也值得你给出的那份善意。
+  > It does not do to dwell on dreams and forget to live.
+  > 沉溺于梦想而忘记生活，是不行的。
 
 * 扇贝单词
-  > Great achievement is usually born of great sacrifice, and is never the result of selfishness.
-  > 伟大的成就大多来自于伟大的牺牲，决不是来自于自私自利。
+  > Guard well your thoughts when alone and your words when accompanied.
+  > 独处守住心，群处守住嘴。
 
 * 有道词典
-  > You only live once, but if you do it right, once is enough.
-  > 你只活一次，但如果活得精彩，一次就足够了。
+  > To love is to recognize yourself in another.
+  > 爱就是在他人身上看到自己。
 
 ```
