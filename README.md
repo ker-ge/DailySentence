@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-25已更新 
+2026-11-26已更新 
 ```
 * 金山词霸
-  > It does not do to dwell on dreams and forget to live.
-  > 沉溺于梦想而忘记生活，是不行的。
+  > Grateful hearts never run out of season.
+  > 感恩的心，从不过季。
 
 * 扇贝单词
-  > Guard well your thoughts when alone and your words when accompanied.
-  > 独处守住心，群处守住嘴。
+  > I call architecture frozen music.
+  > 我称建筑为凝结的音乐。
 
 * 有道词典
-  > To love is to recognize yourself in another.
-  > 爱就是在他人身上看到自己。
+  > If you fell down yesterday, stand up today.
+  > 如果你昨天跌倒了，今天就站起来。
 
 ```
