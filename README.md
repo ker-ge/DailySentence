@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-26已更新 
+2026-11-27已更新 
 ```
 * 金山词霸
-  > Grateful hearts never run out of season.
-  > 感恩的心，从不过季。
+  > undefined
+  > undefined
 
 * 扇贝单词
-  > I call architecture frozen music.
-  > 我称建筑为凝结的音乐。
+  > You were born with wings. Why prefer to crawl through life?
+  > 你生而有翼，为何竟愿一生匍匐前行？
 
 * 有道词典
-  > If you fell down yesterday, stand up today.
-  > 如果你昨天跌倒了，今天就站起来。
+  > To forgive is to set a prisoner free and discover that the prisoner was you.
+  > 宽恕就是释放一个囚徒，然后发现那个囚徒就是你自己。
 
 ```
