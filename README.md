@@ -19,18 +19,18 @@
 [扇贝单词每日一句中英文](./data/shanbay/)
 
 ## 更新记录
-2026-11-27已更新 
+2026-11-28已更新 
 ```
 * 金山词霸
-  > undefined
-  > undefined
+  > There is beauty in letting go.
+  > 在放下之中亦有美感。
 
 * 扇贝单词
-  > You were born with wings. Why prefer to crawl through life?
-  > 你生而有翼，为何竟愿一生匍匐前行？
+  > There are no easy answers; there's only living through the questions.
+  > 生活没有容易的答案，只有去克服重重问题。
 
 * 有道词典
-  > To forgive is to set a prisoner free and discover that the prisoner was you.
-  > 宽恕就是释放一个囚徒，然后发现那个囚徒就是你自己。
+  > There is no real ending, it's just the place where you stop the story.
+  > 没有真正的结局，这只是你停止讲述故事的地方。
 
 ```
